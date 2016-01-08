@@ -3,7 +3,7 @@ libs <- c("tm","plyr","data.table","class", "caret","RWeka")
 lapply(libs, require, character.only = TRUE)
 options(stringsAsFactors = FALSE)
 # FORMAT & CAST: functions to clean upon import
-comicsDf <- read.csv("/source/comic-predictions/data/all_issues.csv",
+comicsDf <- read.csv("/Users/petertamisin/r_files/comic-predictions/data/all_issues.csv",
                      colClasses = c('character', 'character', 'numeric', 'character',
                                     'numeric','character','character', 'character',
                                     'character','character','character'), strip.white = TRUE)
@@ -92,7 +92,7 @@ combined.df$EST_RANK_RANGE <- paste((combined.df$RANK_RANGE * 50), (combined.df$
 train.rows <- sample(nrow(combined.df), ceiling(nrow(combined.df)*.9))
 test.rows <- (1:nrow(combined.df)) [- train.rows]
 # Specificy columns to be evaluted (train) and column to predict(test)
-train.cols <- subset(combined.df, select = - c(EST_RANK_RANGE))
+train.cols <- subset(combined.df, select = - c(EST_RANK_RANGE,RANK_RANGE))
 test.cols <- subset(combined.df, select = c(EST_RANK_RANGE))
 
 
