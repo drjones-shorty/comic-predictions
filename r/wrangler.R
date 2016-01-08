@@ -1,3 +1,9 @@
+# Todo: Refactor to change creator logic. No need for ngram.  Names and roles are explicitly specified
+# Todo: Add prices
+# Todo: Rewrite as functions so you can pass in test set
+# Todo: Add predictor for sales
+# Todo: Add functions to show variables with highest abs(correlation)
+
 # init
 libs <- c("tm","plyr","data.table","class", "caret","RWeka")
 lapply(libs, require, character.only = TRUE)
