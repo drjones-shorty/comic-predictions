@@ -9,7 +9,7 @@ libs <- c("tm","plyr","data.table","class", "caret","RWeka")
 lapply(libs, require, character.only = TRUE)
 options(stringsAsFactors = FALSE)
 # FORMAT & CAST: functions to clean upon import
-comicsDf <- read.csv("/Users/petertamisin/r_files/comic-predictions/data/all_issues.csv",
+comicsDf <- read.csv("../data/all_issues.csv",
                      colClasses = c('character', 'character', 'numeric', 'character',
                                     'numeric','character','character', 'character',
                                     'character','character','character'), strip.white = TRUE)
