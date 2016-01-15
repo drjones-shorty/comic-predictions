@@ -25,6 +25,27 @@ comicsDf$ISSUE_RANGE <- cut(comicsDf$ISSUENUMBER, breaks=(0:1000)*10,dig.lab=10)
 comicsDf$UID <- paste(comicsDf$ID,comicsDf$EST_SALES)
 comicsDf$TEXT <- paste(comicsDf$TITLE,comicsDf$REL_EVENTS,comicsDf$CHARACTERS,comicsDf$DESCR)
 
+
+cr = unlist(strsplit(comicsDf$CREATORS, '\\|'))
+cr = sapply(strsplit(cr, ":"), "[", 2)
+cr = paste(unique(cr), collapse = ', ')
+cr = unlist(strsplit(cr, split=", "))
+cr = sapply(cr, sort)
+n <- max(sapply(cr, length))
+l <- lapply(cr, function(X) c(X, rep(NA, n - length(X))))
+df = data.frame(do.call(cbind, l))
+ndf = cbind(comicsDf,df)
+vcr = c(cr)
+str(vcr)
+ndf[,17:ncol(ndf)] <- sapply(ndf[,17:ncol(ndf)],function(x) grepl(x, ndf[8]))
+
+setMatchTrue <-function(x,y){
+  if (x %in% strsplit(y, ',')) {  x=1 } else { x=0 }
+}
+ndf[1,17:ncol(ndf)] <- ifelse(pro)
+nc
+ndf <- mapply(setMatchTrue, ndf[20], ndf[8] )
+
 # FILTER: Remove rows will incomplete data
 textOnly <- subset(comicsDf, !is.null(UID), select = c(UID,TEXT))
 metaOnly <- subset(comicsDf, (!is.null(UID) &
