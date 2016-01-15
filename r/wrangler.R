@@ -25,34 +25,28 @@ comicsDf$ISSUE_RANGE <- cut(comicsDf$ISSUENUMBER, breaks=(0:1000)*10,dig.lab=10)
 comicsDf$UID <- paste(comicsDf$ID,comicsDf$EST_SALES)
 comicsDf$TEXT <- paste(comicsDf$TITLE,comicsDf$REL_EVENTS,comicsDf$CHARACTERS,comicsDf$DESCR)
 
-
+# RESTRUCTURE:  Create columns for each creator and populate as true if they contributed to the issue
 cr = unlist(strsplit(comicsDf$CREATORS, '\\|'))
 cr = sapply(strsplit(cr, ":"), "[", 2)
 cr = paste(unique(cr), collapse = ', ')
 cr = unlist(strsplit(cr, split=", "))
 cr = sapply(cr, sort)
 n <- max(sapply(cr, length))
-l <- lapply(cr, function(X) c(X, rep(NA, n - length(X))))
-df = data.frame(do.call(cbind, l))
-ndf = cbind(comicsDf,df)
-vcr = c(cr)
-str(vcr)
-#ndf[,17:ncol(ndf)] <- sapply(ndf[,17:ncol(ndf)],function(x) grepl(x, ndf[8]))
-ndf[-(1:16)] <- mapply(grepl, pattern=names(ndf)[-(1:16)], x=list(ndf$CREATORS))+0
-
+l.names <- lapply(cr, function(X) c(X, rep(NA, n - length(X))))
+augmented.df = data.frame(do.call(cbind, l.names))
+temp.df = cbind(comicsDf,augmented.df)
+temp.df[-(1:16)] <- mapply(grepl, pattern=names(temp.df)[-(1:16)], x=list(temp.df$CREATORS))+0
+comicsDf <- temp.df
 
 # FILTER: Remove rows will incomplete data
 textOnly <- subset(comicsDf, !is.null(UID), select = c(UID,TEXT))
 metaOnly <- subset(comicsDf, (!is.null(UID) &
                                 !is.null(ISSUE_RANGE) &
                                 !is.null(RANK_RANGE) &
-                                !is.null(SALES_RANGE)), select = c(UID,CREATORS,SALES_RANGE,ISSUE_RANGE,RANK_RANGE))
-colnames(metaOnly) <- c("UID","CREATORS","SALES_RANGE","ISSUE_RANGE","RANK_RANGE")
+                                !is.null(SALES_RANGE)), select = -c(CREATORS,TEXT,CHARACTERS,REL_EVENTS))
 
-# Create one Corpus for text data and another for creators (ngrams are different)
-metaReader <- readTabular(mapping=list(id="UID",content="CREATORS"))
+# Create corpus for text data
 textReader <- readTabular(mapping=list(id="UID",content="TEXT"))
-metaCorpus <- Corpus(DataframeSource(metaOnly), readerControl = list(reader=metaReader))
 textCorpus <- Corpus(DataframeSource(textOnly), readerControl = list(reader=textReader))
 
 # Clean Corpuses
@@ -73,14 +67,11 @@ cleanCorpus <- function(c, stoplist) {
   return(c)
 }
 textCorpus <- cleanCorpus(textCorpus,  c("will", "can", "hes", "shes", "may","get","issue","take", "come", "dont", "going", "make", "thats", "also", "goes", "many", "seen","see","taken","yet"))
-metaCorpus <- cleanCorpus(metaCorpus, c("penciller", "writer", "letterer", "editor", "cover", "artist", "colorist", "penciler"))
 
 # Group Terms
 dtm <- DocumentTermMatrix(textCorpus)
 BigramTokenizer <- function(x) {NGramTokenizer(x, Weka_control(min = 1, max = 2))}
-TrigramTokenizer <- function(x) {NGramTokenizer(x, Weka_control(min = 2, max = 3))}
 dtm.text <- DocumentTermMatrix(textCorpus, control = list(tokenize=BigramTokenizer))
-dtm.meta <- DocumentTermMatrix(metaCorpus, control = list(tokenize=TrigramTokenizer))
 
 # Return pruned DF from DTM
 restructureDtm <- function(d) {
@@ -93,11 +84,10 @@ restructureDtm <- function(d) {
   return(d.df)
 }
 text.df <- restructureDtm(dtm.text)
-meta.df <- restructureDtm(dtm.meta)
 
 # Combine metadata columns and text columns
 combined.df <- merge(text.df,meta.df,by="UID")
-combined.df <- merge(combined.df, subset(metaOnly, select= c(UID,SALES_RANGE,ISSUE_RANGE,RANK_RANGE)),by="UID")
+combined.df <- merge(combined.df, metaOnly,by="UID")
 # Remove uneeded column & flatten factors into boolean columns
 combined.df <- subset(combined.df, select = - c(UID))
 dmy <- dummyVars(" ~ .", data = combined.df)
