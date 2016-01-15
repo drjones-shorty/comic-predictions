@@ -37,14 +37,9 @@ df = data.frame(do.call(cbind, l))
 ndf = cbind(comicsDf,df)
 vcr = c(cr)
 str(vcr)
-ndf[,17:ncol(ndf)] <- sapply(ndf[,17:ncol(ndf)],function(x) grepl(x, ndf[8]))
+#ndf[,17:ncol(ndf)] <- sapply(ndf[,17:ncol(ndf)],function(x) grepl(x, ndf[8]))
+ndf[-(1:16)] <- mapply(grepl, pattern=names(ndf)[-(1:16)], x=list(ndf$CREATORS))+0
 
-setMatchTrue <-function(x,y){
-  if (x %in% strsplit(y, ',')) {  x=1 } else { x=0 }
-}
-ndf[1,17:ncol(ndf)] <- ifelse(pro)
-nc
-ndf <- mapply(setMatchTrue, ndf[20], ndf[8] )
 
 # FILTER: Remove rows will incomplete data
 textOnly <- subset(comicsDf, !is.null(UID), select = c(UID,TEXT))
