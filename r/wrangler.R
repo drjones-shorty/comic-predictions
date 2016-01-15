@@ -43,7 +43,7 @@ textOnly <- subset(comicsDf, !is.null(UID), select = c(UID,TEXT))
 metaOnly <- subset(comicsDf, (!is.null(UID) &
                                 !is.null(ISSUE_RANGE) &
                                 !is.null(RANK_RANGE) &
-                                !is.null(SALES_RANGE)), select = -c(CREATORS,TEXT,CHARACTERS,REL_EVENTS))
+                                !is.null(SALES_RANGE)), select = -c(ID,CREATORS,TEXT,DESCR,TITLE,CHARACTERS,REL_EVENTS, DATE_INFO, PRICE_INFO,NA.))
 
 # Create corpus for text data
 textReader <- readTabular(mapping=list(id="UID",content="TEXT"))
@@ -70,8 +70,9 @@ textCorpus <- cleanCorpus(textCorpus,  c("will", "can", "hes", "shes", "may","ge
 
 # Group Terms
 dtm <- DocumentTermMatrix(textCorpus)
-BigramTokenizer <- function(x) {NGramTokenizer(x, Weka_control(min = 1, max = 2))}
-dtm.text <- DocumentTermMatrix(textCorpus, control = list(tokenize=BigramTokenizer))
+#BigramTokenizer <- function(x) {NGramTokenizer(x, Weka_control(min = 1, max = 2))}
+dtm.text <- DocumentTermMatrix(textCorpus)
+#dtm.text <- DocumentTermMatrix(textCorpus, control = list(tokenize=BigramTokenizer))
 
 # Return pruned DF from DTM
 restructureDtm <- function(d) {
@@ -86,8 +87,8 @@ restructureDtm <- function(d) {
 text.df <- restructureDtm(dtm.text)
 
 # Combine metadata columns and text columns
-combined.df <- merge(text.df,meta.df,by="UID")
-combined.df <- merge(combined.df, metaOnly,by="UID")
+combined.df <- merge(text.df,metaOnly,by="UID")
+#combined.df <- merge(combined.df, metaOnly,by="UID")
 # Remove uneeded column & flatten factors into boolean columns
 combined.df <- subset(combined.df, select = - c(UID))
 dmy <- dummyVars(" ~ .", data = combined.df)
@@ -104,7 +105,7 @@ combined.df$EST_RANK_RANGE <- paste((combined.df$RANK_RANGE * 50), (combined.df$
 train.rows <- sample(nrow(combined.df), ceiling(nrow(combined.df)*.9))
 test.rows <- (1:nrow(combined.df)) [- train.rows]
 # Specificy columns to be evaluted (train) and column to predict(test)
-train.cols <- subset(combined.df, select = - c(EST_RANK_RANGE,RANK_RANGE))
+train.cols <- subset(combined.df, select = -c(EST_RANK_RANGE,RANK_RANGE))
 test.cols <- subset(combined.df, select = c(EST_RANK_RANGE))
 
 
