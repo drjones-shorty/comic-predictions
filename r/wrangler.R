@@ -1,11 +1,9 @@
-# Todo: Refactor to change creator logic. No need for ngram.  Names and roles are explicitly specified
-# Todo: Add prices
 # Todo: Rewrite as functions so you can pass in test set
 # Todo: Add predictor for sales
 # Todo: Add functions to show variables with highest abs(correlation)
 
 # init
-libs <- c("tm","plyr","data.table","class", "caret","RWeka")
+libs <- c("tm","plyr","data.table","class", "caret")
 lapply(libs, require, character.only = TRUE)
 options(stringsAsFactors = FALSE)
 # FORMAT & CAST: functions to clean upon import
@@ -69,10 +67,9 @@ cleanCorpus <- function(c, stoplist) {
 textCorpus <- cleanCorpus(textCorpus,  c("will", "can", "hes", "shes", "may","get","issue","take", "come", "dont", "going", "make", "thats", "also", "goes", "many", "seen","see","taken","yet"))
 
 # Group Terms
-dtm <- DocumentTermMatrix(textCorpus)
-#BigramTokenizer <- function(x) {NGramTokenizer(x, Weka_control(min = 1, max = 2))}
 dtm.text <- DocumentTermMatrix(textCorpus)
 #dtm.text <- DocumentTermMatrix(textCorpus, control = list(tokenize=BigramTokenizer))
+#BigramTokenizer <- function(x) {NGramTokenizer(x, Weka_control(min = 1, max = 2))}
 
 # Return pruned DF from DTM
 restructureDtm <- function(d) {
@@ -100,7 +97,6 @@ combined.df[is.na(combined.df)] <- 0
 #combined.df$EST_RANK_RANGE <- combined.df$RANK_RANGE
 combined.df$EST_RANK_RANGE <- paste((combined.df$RANK_RANGE * 50), (combined.df$RANK_RANGE * 50) + 50, sep = "-")
 
-
 # Separate data for training and test samples
 train.rows <- sample(nrow(combined.df), ceiling(nrow(combined.df)*.9))
 test.rows <- (1:nrow(combined.df)) [- train.rows]
@@ -117,4 +113,7 @@ knn.pred <- knn(train,test, cl)
 
 # View Prediction Results
 conf.m <- table("Predicted Rank"= knn.pred, Actual = test.cols[test.rows,])
-conf.m
+print(conf.m)
+
+# Pct Correct
+print(mean(knn.pred==test.cols[test.rows,]))
