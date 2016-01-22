@@ -17,7 +17,6 @@ comicsDf <- transform(comicsDf, EST_SALES = as.numeric(EST_SALES))
 
 # ENHANCE: Band values into ranges 
 comicsDf$RANK_RANGE <- floor(comicsDf$MONTH_RANK/50) #Not using cut to preserve numeric. don't want to flatten factors later
-comicsDf$SALES_RANGE <- cut(comicsDf$EST_SALES,breaks=(0:100)*10000,dig.lab=10)
 comicsDf$ISSUE_RANGE <- cut(comicsDf$ISSUENUMBER, breaks=(0:1000)*10,dig.lab=10)
 # Add pk and concatenated text field
 comicsDf$UID <- paste(comicsDf$ID,comicsDf$EST_SALES)
@@ -37,11 +36,12 @@ temp.df[-(1:16)] <- mapply(grepl, pattern=names(temp.df)[-(1:16)], x=list(temp.d
 comicsDf <- temp.df
 
 # FILTER: Remove rows will incomplete data
-textOnly <- subset(comicsDf, !is.null(UID), select = c(UID,TEXT))
+textOnly <- subset(comicsDf, !is.null(UID) &
+                     !is.null(ISSUE_RANGE) &
+                     !is.null(RANK_RANGE), select = c(UID,TEXT))
 metaOnly <- subset(comicsDf, (!is.null(UID) &
                                 !is.null(ISSUE_RANGE) &
-                                !is.null(RANK_RANGE) &
-                                !is.null(SALES_RANGE)), select = -c(ID,CREATORS,TEXT,DESCR,TITLE,CHARACTERS,REL_EVENTS, DATE_INFO, PRICE_INFO,NA.))
+                                !is.null(RANK_RANGE)), select = -c(ID,CREATORS,TEXT,DESCR,TITLE,CHARACTERS,EST_SALES,REL_EVENTS, DATE_INFO, PRICE_INFO,NA.))
 
 # Create corpus for text data
 textReader <- readTabular(mapping=list(id="UID",content="TEXT"))
