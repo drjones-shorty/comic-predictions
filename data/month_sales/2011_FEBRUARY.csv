@@ -1,0 +1,608 @@
+PUBLICATION_FORMAT,YEAR,MONTH,SALES_RANK,TITLE,ISSUE,PRICE,PUBLISHER,EST_SALES
+COMIC,2011,FEBRUARY,1,Green Lantern,62,2.99,DC,71517
+COMIC,2011,FEBRUARY,2,Brightest Day,19,2.99,DC,71063
+COMIC,2011,FEBRUARY,3,Brightest Day,20,2.99,DC,69729
+COMIC,2011,FEBRUARY,4,Avengers,10,3.99,Marvel,63924
+COMIC,2011,FEBRUARY,5,Fantastic Four,588,3.99,Marvel,63529
+COMIC,2011,FEBRUARY,6,New Avengers,9,3.99,Marvel,60914
+COMIC,2011,FEBRUARY,7,Batman And Robin,20,2.99,DC,60642
+COMIC,2011,FEBRUARY,8,Batman,707,2.99,DC,58803
+COMIC,2011,FEBRUARY,9,Flash,9,2.99,DC,55980
+COMIC,2011,FEBRUARY,10,Amazing Spider-Man,654.1,2.99,Marvel,55283
+COMIC,2011,FEBRUARY,11,X-Men Legacy,245,2.99,Marvel,53888
+COMIC,2011,FEBRUARY,12,Amazing Spider-Man,654,3.99,Marvel,53882
+COMIC,2011,FEBRUARY,13,Uncanny X-Men,533,3.99,Marvel,53834
+COMIC,2011,FEBRUARY,14,Amazing Spider-Man,655,3.99,Marvel,53366
+COMIC,2011,FEBRUARY,15,Amazing Spider-Man,653,3.99,Marvel,53103
+COMIC,2011,FEBRUARY,16,Green Lantern Corps,57,2.99,DC,52770
+COMIC,2011,FEBRUARY,17,Uncanny X-Force,5,3.99,Marvel,51470
+COMIC,2011,FEBRUARY,18,Secret Avengers,10,3.99,Marvel,49717
+COMIC,2011,FEBRUARY,19,X-Men,8,3.99,Marvel,49522
+COMIC,2011,FEBRUARY,20,Ultimate Avengers Vs New Ultimates,1,3.99,Marvel,49360
+COMIC,2011,FEBRUARY,21,Justice League of America,54,2.99,DC,46269
+COMIC,2011,FEBRUARY,22,Wolverine,6,3.99,Marvel,45932
+COMIC,2011,FEBRUARY,23,Green Lantern Emerald Warriors,7,2.99,DC,44828
+COMIC,2011,FEBRUARY,24,Wolverine,5.1,2.99,Marvel,44332
+COMIC,2011,FEBRUARY,25,Astonishing X-Men,36,3.99,Marvel,44326
+COMIC,2011,FEBRUARY,26,Ultimate Comics Spider-Man,153,3.99,Marvel,43986
+COMIC,2011,FEBRUARY,27,Ultimate Comics Spider-Man,154,3.99,Marvel,43209
+COMIC,2011,FEBRUARY,28,Invincible Iron Man,500.1,2.99,Marvel,42191
+COMIC,2011,FEBRUARY,29,Thor,620,3.99,Marvel,42106
+COMIC,2011,FEBRUARY,30,Captain America,615,3.99,Marvel,41935
+COMIC,2011,FEBRUARY,31,Invincible Iron Man,501,3.99,Marvel,41517
+COMIC,2011,FEBRUARY,32,Superman,708,2.99,DC,40639
+COMIC,2011,FEBRUARY,33,Detective Comics,874,2.99,DC,39106
+COMIC,2011,FEBRUARY,34,Ultimate Comics New Ultimates,5,3.99,Marvel,38663
+COMIC,2011,FEBRUARY,35,New Mutants,22,2.99,Marvel,36737
+COMIC,2011,FEBRUARY,36,DC Universe Online Legends,1,2.99,DC,36517
+COMIC,2011,FEBRUARY,37,Wolverine,1000,4.99,Marvel,34152
+COMIC,2011,FEBRUARY,38,Green Arrow,9,2.99,DC,33922
+COMIC,2011,FEBRUARY,39,Hulk,29,3.99,Marvel,33375
+COMIC,2011,FEBRUARY,40,Wonder Woman,607,2.99,DC,33053
+COMIC,2011,FEBRUARY,41,Hulk,30,3.99,Marvel,32907
+COMIC,2011,FEBRUARY,42,Astonishing X-Men Xenogenesis,5,3.99,Marvel,32093
+COMIC,2011,FEBRUARY,43,Action Comics,898,2.99,DC,31935
+COMIC,2011,FEBRUARY,44,Iron Man 2.0,1,3.99,Marvel,31830
+COMIC,2011,FEBRUARY,45,Walking Dead,81,2.99,Image,30750
+COMIC,2011,FEBRUARY,46,Birds of Prey,9,2.99,DC,30641
+COMIC,2011,FEBRUARY,47,Justice League Generation Lost,19,2.99,DC,30549
+COMIC,2011,FEBRUARY,48,Incredible Hulks,622,2.99,Marvel,30404
+COMIC,2011,FEBRUARY,49,Red Robin,20,2.99,DC,30149
+COMIC,2011,FEBRUARY,50,Incredible Hulks,623,2.99,Marvel,30140
+COMIC,2011,FEBRUARY,51,Justice League Generation Lost,20,2.99,DC,30040
+COMIC,2011,FEBRUARY,52,Superman Batman,81,2.99,DC,29567
+COMIC,2011,FEBRUARY,53,Justice Society of America,48,2.99,DC,29139
+COMIC,2011,FEBRUARY,54,Daredevil Reborn,2,3.99,Marvel,29108
+COMIC,2011,FEBRUARY,55,Batman Odyssey,6,3.99,DC,29093
+COMIC,2011,FEBRUARY,56,Batman Beyond,2,2.99,DC,28956
+COMIC,2011,FEBRUARY,57,DC Universe Online Legends,2,2.99,DC,28953
+COMIC,2011,FEBRUARY,58,Daken Dark Wolverine,5,2.99,Marvel,28833
+COMIC,2011,FEBRUARY,59,Deadpool,33,2.99,Marvel,28649
+COMIC,2011,FEBRUARY,60,Onslaught Unleashed,1,3.99,Marvel,28434
+COMIC,2011,FEBRUARY,61,Carnage,3,3.99,Marvel,28334
+COMIC,2011,FEBRUARY,62,Wolverine Best There Is,3,3.99,Marvel,27790
+COMIC,2011,FEBRUARY,63,Power Man And Iron Fist,1,2.99,Marvel,27579
+COMIC,2011,FEBRUARY,64,Superboy,4,2.99,DC,27448
+COMIC,2011,FEBRUARY,65,Ultimate Comics Captain America,2,3.99,Marvel,27399
+COMIC,2011,FEBRUARY,66,X-23,6,2.99,Marvel,27156
+COMIC,2011,FEBRUARY,67,Ultimate Comics Thor,4,3.99,Marvel,26776
+COMIC,2011,FEBRUARY,68,Shield,6,2.99,Marvel,26190
+COMIC,2011,FEBRUARY,69,Teen Titans,92,2.99,DC,26170
+COMIC,2011,FEBRUARY,70,Thunderbolts,153,2.99,Marvel,26098
+COMIC,2011,FEBRUARY,71,X-Factor,215,2.99,Marvel,25298
+COMIC,2011,FEBRUARY,72,Black Panther Man Without Fear,515,2.99,Marvel,24556
+COMIC,2011,FEBRUARY,73,Silver Surfer,1,2.99,Marvel,24409
+COMIC,2011,FEBRUARY,74,Batgirl,18,2.99,DC,24390
+COMIC,2011,FEBRUARY,75,Legion of Super Heroes,10,2.99,DC,23738
+COMIC,2011,FEBRUARY,76,Avengers Academy,9,2.99,Marvel,23709
+COMIC,2011,FEBRUARY,77,Fantastic Four,587,3.99,Marvel,23398
+COMIC,2011,FEBRUARY,78,Adventure Comics,523,2.99,DC,23127
+COMIC,2011,FEBRUARY,79,Deadpool And Cable,26,3.99,Marvel,22956
+COMIC,2011,FEBRUARY,80,Secret Warriors,24,2.99,Marvel,22704
+COMIC,2011,FEBRUARY,81,Heroes For Hire,3,2.99,Marvel,22401
+COMIC,2011,FEBRUARY,82,Legion of Super Heroes Annual,1,4.99,DC,22201
+COMIC,2011,FEBRUARY,83,Generation Hope,4,2.99,Marvel,22170
+COMIC,2011,FEBRUARY,84,Supergirl,61,2.99,DC,22048
+COMIC,2011,FEBRUARY,85,Gotham City Sirens,19,2.99,DC,21631
+COMIC,2011,FEBRUARY,86,DC Universe Legacies,9,3.99,DC,21419
+COMIC,2011,FEBRUARY,87,Time Masters Vanishing Point,6,3.99,DC,21097
+COMIC,2011,FEBRUARY,88,Ultimate Comics Doom,3,3.99,Marvel,21039
+COMIC,2011,FEBRUARY,89,Titans,32,2.99,DC,20949
+COMIC,2011,FEBRUARY,90,Gotham City Sirens,20,2.99,DC,20822
+COMIC,2011,FEBRUARY,91,True Blood Tainted Love,1,3.99,IDW,19824
+COMIC,2011,FEBRUARY,92,Secret Six,30,2.99,DC,19763
+COMIC,2011,FEBRUARY,93,Punishermax,10,3.99,Marvel,19236
+COMIC,2011,FEBRUARY,94,Fables,102,2.99,DC,19215
+COMIC,2011,FEBRUARY,95,Boys,51,3.99,Dynamic Forces,18728
+COMIC,2011,FEBRUARY,96,Spawn,202,2.99,Image,18335
+COMIC,2011,FEBRUARY,97,Deadpoolmax,5,3.99,Marvel,18221
+COMIC,2011,FEBRUARY,98,Superman 80 Page Giant 2011,1,5.99,DC,18069
+COMIC,2011,FEBRUARY,99,Wolverine & Jubilee,2,2.99,Marvel,17917
+COMIC,2011,FEBRUARY,100,"Dark Tower Gunslinger LittleSisters Eluria",3,3.99,Marvel,17748
+COMIC,2011,FEBRUARY,101,Star Wars Legacy War,3,3.5,Dark Horse,17697
+COMIC,2011,FEBRUARY,102,Venom Deadpool,1,2.99,Marvel,17609
+COMIC,2011,FEBRUARY,103,Thor For Asgard,6,3.99,Marvel,17434
+COMIC,2011,FEBRUARY,104,Garth Ennis Jennifer Blood,1,3.99,Dynamic Forces,17413
+COMIC,2011,FEBRUARY,105,JSA All Stars,15,2.99,DC,17409
+COMIC,2011,FEBRUARY,106,Hellboy Sleeping & Dead,2,3.5,Dark Horse,17160
+COMIC,2011,FEBRUARY,107,"Star Wars Darth Vader &Lost Command",2,3.5,Dark Horse,17115
+COMIC,2011,FEBRUARY,108,Power Girl,21,2.99,DC,16940
+COMIC,2011,FEBRUARY,109,American Vampire,12,2.99,DC,16522
+COMIC,2011,FEBRUARY,110,Vampirella,3,3.99,Dynamic Forces,16366
+COMIC,2011,FEBRUARY,111,Stand No Mans Land,1,3.99,Marvel,16094
+COMIC,2011,FEBRUARY,112,Deadpool Team-Up,885,2.99,Marvel,15980
+COMIC,2011,FEBRUARY,113,Booster Gold,41,2.99,DC,15864
+COMIC,2011,FEBRUARY,114,Incognito Bad Influences,3,3.5,Marvel,15758
+COMIC,2011,FEBRUARY,115,Spawn,203,2.99,Image,15572
+COMIC,2011,FEBRUARY,116,Deadpool Corps,11,2.99,Marvel,15538
+COMIC,2011,FEBRUARY,117,Deadpool Team-Up,884,2.99,Marvel,15526
+COMIC,2011,FEBRUARY,118,Invincible,77,2.99,Image,15515
+COMIC,2011,FEBRUARY,119,Haunt,13,1.99,Image,15413
+COMIC,2011,FEBRUARY,120,Spider-Girl,3,2.99,Marvel,15302
+COMIC,2011,FEBRUARY,121,Osborn,3,3.99,Marvel,15170
+COMIC,2011,FEBRUARY,122,Cinderella Fables Are Forever,1,2.99,DC,15026
+COMIC,2011,FEBRUARY,123,Invaders Now,5,3.99,Marvel,14897
+COMIC,2011,FEBRUARY,124,Punisher In Blood,4,3.99,Marvel,14861
+COMIC,2011,FEBRUARY,125,Spider-Girl,4,2.99,Marvel,14804
+COMIC,2011,FEBRUARY,126,Warlord Of Mars,4,3.99,Dynamic Forces,14780
+COMIC,2011,FEBRUARY,127,Hawkeye: Blind Spot,1,2.99,Marvel,14235
+COMIC,2011,FEBRUARY,128,Namor First Mutant,7,2.99,Marvel,14001
+COMIC,2011,FEBRUARY,129,X-Men To Serve And Protect,4,3.99,Marvel,13998
+COMIC,2011,FEBRUARY,130,King Conan Scarlet Citadel,1,3.5,Dark Horse,13935
+COMIC,2011,FEBRUARY,131,Marvel Girl,1,2.99,Marvel,13918
+COMIC,2011,FEBRUARY,132,Iron Man Thor,4,3.99,Marvel,13313
+COMIC,2011,FEBRUARY,133,Angel,42,3.99,IDW,13136
+COMIC,2011,FEBRUARY,134,Widow Maker,4,3.99,Marvel,13102
+COMIC,2011,FEBRUARY,135,Loki,3,3.99,Marvel,13039
+COMIC,2011,FEBRUARY,136,Transformers Infestation,1,3.99,IDW,12961
+COMIC,2011,FEBRUARY,137,Outsiders,36,2.99,DC,12848
+COMIC,2011,FEBRUARY,138,Star Wars Knight Errant,5,2.99,Dark Horse,12803
+COMIC,2011,FEBRUARY,139,Batman Confidential,53,2.99,DC,12779
+COMIC,2011,FEBRUARY,140,Green Hornet,13,3.99,Dynamic Forces,12503
+COMIC,2011,FEBRUARY,141,She-Hulks,4,2.99,Marvel,12226
+COMIC,2011,FEBRUARY,142,Power Man And Iron Fist,2,2.99,Marvel,12181
+COMIC,2011,FEBRUARY,143,Star Trek Infestation,1,3.99,IDW,12090
+COMIC,2011,FEBRUARY,144,Transformers Infestation,2,3.99,IDW,11969
+COMIC,2011,FEBRUARY,145,Spongebob Comics,1,2.99,Bongo,11814
+COMIC,2011,FEBRUARY,146,Captain America Man Out Of Time,4,3.99,Marvel,11726
+COMIC,2011,FEBRUARY,147,Iron Man Legacy,11,2.99,Marvel,11673
+COMIC,2011,FEBRUARY,148,Weird Worlds,2,3.99,DC,11587
+COMIC,2011,FEBRUARY,149,Bprd Hell On Earth Gods,2,3.5,Dark Horse,11585
+COMIC,2011,FEBRUARY,150,"Witchfinder Lost & GoneForever",1,2.99,Dark Horse,11404
+COMIC,2011,FEBRUARY,151,Unwritten,22,2.99,DC,11371
+COMIC,2011,FEBRUARY,152,Archie,617,2.99,Archie,11358
+COMIC,2011,FEBRUARY,153,Doctor Strange From Marvel Vault,1,2.99,Marvel,11248
+COMIC,2011,FEBRUARY,154,Izombie,10,2.99,DC,11182
+COMIC,2011,FEBRUARY,155,Morning Glories,7,2.99,Image,11037
+COMIC,2011,FEBRUARY,156,Lady Death,2,3.99,Avatar,11033
+COMIC,2011,FEBRUARY,157,Captain America Hail Hydra,2,2.99,Marvel,11029
+COMIC,2011,FEBRUARY,158,Star Trek Infestation,2,3.99,IDW,10906
+COMIC,2011,FEBRUARY,159,Young Justice,1,2.99,DC,10777
+COMIC,2011,FEBRUARY,160,Doom Patrol,19,2.99,DC,10681
+COMIC,2011,FEBRUARY,161,Thunderstrike,3,3.99,Marvel,10638
+COMIC,2011,FEBRUARY,162,Hack Slash Ongoing,1,3.5,Image,10553
+COMIC,2011,FEBRUARY,163,Rebels,25,2.99,DC,10351
+COMIC,2011,FEBRUARY,164,G.I. Joe,26,3.99,IDW,10323
+COMIC,2011,FEBRUARY,165,Transformers Ongoing,16,3.99,IDW,10265
+COMIC,2011,FEBRUARY,166,G.I. Joe A Real American Hero,163,3.99,IDW,10262
+COMIC,2011,FEBRUARY,167,Jonah Hex,64,2.99,DC,10255
+COMIC,2011,FEBRUARY,168,Knight & Squire,5,2.99,DC,10221
+COMIC,2011,FEBRUARY,169,Crossed Family Values,7,3.99,Avatar,10217
+COMIC,2011,FEBRUARY,170,Crossed Psychopath,1,3.99,Avatar,10182
+COMIC,2011,FEBRUARY,171,Thunder Agents,4,2.99,DC,10124
+COMIC,2011,FEBRUARY,172,G.I. Joe,27,3.99,IDW,10102
+COMIC,2011,FEBRUARY,173,Irredeemable,22,3.99,Boom,10025
+COMIC,2011,FEBRUARY,174,Witchblade,142,2.99,Image,9803
+COMIC,2011,FEBRUARY,175,Spawn Architects Of Fear,,6.99,Image,9763
+COMIC,2011,FEBRUARY,176,Dungeons And Dragons,4,3.99,IDW,9761
+COMIC,2011,FEBRUARY,177,Hellblazer,276,2.99,DC,9466
+COMIC,2011,FEBRUARY,178,JLA The 99,5,2.99,DC,9391
+COMIC,2011,FEBRUARY,179,Ozma Of Oz,4,3.99,Marvel,9159
+COMIC,2011,FEBRUARY,180,Freedom Fighters,6,2.99,DC,9050
+COMIC,2011,FEBRUARY,181,Grimm Fairy Tales,55,2.99,Zenescope,8897
+COMIC,2011,FEBRUARY,182,Magnus Robot Fighter,3,3.5,Dark Horse,8890
+COMIC,2011,FEBRUARY,183,Warriors Three,3,3.99,Marvel,8594
+COMIC,2011,FEBRUARY,184,Fathom Blue Descent,2,2.99,Aspen,8588
+COMIC,2011,FEBRUARY,185,John Byrne Next Men,3,3.99,IDW,8568
+COMIC,2011,FEBRUARY,186,Last Phantom,4,3.99,Dynamic Forces,8543
+COMIC,2011,FEBRUARY,187,Green Hornet Year One,8,3.99,Dynamic Forces,8503
+COMIC,2011,FEBRUARY,188,Sweet Tooth,18,2.99,DC,8466
+COMIC,2011,FEBRUARY,189,Halo Fall Of Reach Boot Camp,4,3.99,Marvel,8437
+COMIC,2011,FEBRUARY,190,Incorruptible,15,3.99,Boom,8252
+COMIC,2011,FEBRUARY,191,Terry Moores Echo,28,3.5,Abstract,7995
+COMIC,2011,FEBRUARY,192,Spike,5,3.99,IDW,7992
+COMIC,2011,FEBRUARY,193,Doc Savage,11,2.99,DC,7972
+COMIC,2011,FEBRUARY,194,Metalocalypse Dethklok,3,3.99,Dark Horse,7952
+COMIC,2011,FEBRUARY,195,Mass Effect Evolution,2,3.5,Dark Horse,7825
+COMIC,2011,FEBRUARY,196,Warriors Three,4,3.99,Marvel,7807
+COMIC,2011,FEBRUARY,197,Doctor Solar Man Of Atom,5,3.5,Dark Horse,7778
+COMIC,2011,FEBRUARY,198,Iron Man Rapture,4,3.99,Marvel,7734
+COMIC,2011,FEBRUARY,199,Queen Sonja,14,3.99,Dynamic Forces,7636
+COMIC,2011,FEBRUARY,200,Sonic The Hedgehog,221,2.99,Archie,7592
+COMIC,2011,FEBRUARY,201,Azrael,17,2.99,DC,7558
+COMIC,2011,FEBRUARY,202,Kevin Smith Kato,8,3.99,Dynamic Forces,7473
+COMIC,2011,FEBRUARY,203,G.I. Joe Cobra II,13,3.99,IDW,7436
+COMIC,2011,FEBRUARY,204,Tiny Titans,37,2.99,DC,7426
+COMIC,2011,FEBRUARY,205,Spirit,11,2.99,DC,7417
+COMIC,2011,FEBRUARY,206,Anita Blake Circus Of Damned Ingenue,2,3.99,Marvel,7352
+COMIC,2011,FEBRUARY,207,Captain America Korvac Saga,3,2.99,Marvel,7336
+COMIC,2011,FEBRUARY,208,Walking Dead Weekly,5,2.99,Image,7105
+COMIC,2011,FEBRUARY,209,House Of Mystery,34,2.99,DC,7092
+COMIC,2011,FEBRUARY,210,Charmed,6,3.5,Zenescope,7014
+COMIC,2011,FEBRUARY,211,Northlanders,37,2.99,DC,7006
+COMIC,2011,FEBRUARY,212,"Transformers 3 Movie PrequelFoundation",1,3.99,IDW,6985
+COMIC,2011,FEBRUARY,213,GFT Presents Neverland,7,2.99,Zenescope,6970
+COMIC,2011,FEBRUARY,214,Transformers Rising Storm,1,3.99,IDW,6911
+COMIC,2011,FEBRUARY,215,Formic Wars Burning Earth,1,3.99,Marvel,6901
+COMIC,2011,FEBRUARY,216,Simpsons Comics,175,2.99,Bongo,6896
+COMIC,2011,FEBRUARY,217,Charismagic,0 Cover A,1.99,Aspen,6879
+COMIC,2011,FEBRUARY,218,Walking Dead Weekly,6,2.99,Image,6728
+COMIC,2011,FEBRUARY,219,Sherlock Holmes Year One,1,3.99,Dynamic Forces,6726
+COMIC,2011,FEBRUARY,220,Stan Lee Soldier Zero,5,3.99,Boom,6612
+COMIC,2011,FEBRUARY,221,Casanova Gula,2,3.99,Marvel,6579
+COMIC,2011,FEBRUARY,222,"All New Batman The Brave And TheBold",4,2.99,DC,6561
+COMIC,2011,FEBRUARY,223,Magdalena,5,3.99,Image,6538
+COMIC,2011,FEBRUARY,224,Walking Dead Weekly,7,2.99,Image,6516
+COMIC,2011,FEBRUARY,225,Black Terror,13,3.99,Dynamic Forces,6468
+COMIC,2011,FEBRUARY,226,Sonic Universe,25,2.99,Archie,6464
+COMIC,2011,FEBRUARY,227,Stan Lee Traveler,4,3.99,Boom,6419
+COMIC,2011,FEBRUARY,228,Walking Dead Weekly,8,2.99,Image,6393
+COMIC,2011,FEBRUARY,229,New York Five,2,2.99,DC,6237
+COMIC,2011,FEBRUARY,230,Scalped,46,2.99,DC,6179
+COMIC,2011,FEBRUARY,231,Dungeons & Dragons Dark Sun,2,3.99,IDW,6137
+COMIC,2011,FEBRUARY,232,Stan Lee Starborn,3,3.99,Boom,6085
+COMIC,2011,FEBRUARY,233,Kull The Hate Witch,4,3.5,Dark Horse,6018
+COMIC,2011,FEBRUARY,234,Turf,4,2.99,Image,5985
+COMIC,2011,FEBRUARY,235,Black Terror,14,3.99,Dynamic Forces,5891
+COMIC,2011,FEBRUARY,236,Darkwing Duck,9,3.99,Boom,5813
+COMIC,2011,FEBRUARY,237,DMZ,62,2.99,DC,5781
+COMIC,2011,FEBRUARY,238,Night of the Living Dead,3,3.99,Avatar,5741
+COMIC,2011,FEBRUARY,239,Kevin Smith Kato Annual,1,4.99,Dynamic Forces,5733
+COMIC,2011,FEBRUARY,240,Bart Simpson Comics,58,2.99,Bongo,5478
+COMIC,2011,FEBRUARY,241,Assassins Creed The Fall,3,3.99,DC,5383
+COMIC,2011,FEBRUARY,242,Daomu,1,2.99,Image,5282
+COMIC,2011,FEBRUARY,243,Age Of X Alpha,1,3.99,Marvel,5115
+COMIC,2011,FEBRUARY,244,Avengers Earths Mightiest Heroes,4,3.99,Marvel,5027
+COMIC,2011,FEBRUARY,245,Green Hornet Strikes,6,3.99,Dynamic Forces,5025
+COMIC,2011,FEBRUARY,246,Spider-Man,11,2.99,Marvel,4923
+COMIC,2011,FEBRUARY,247,Mighty Samson,2,3.5,Dark Horse,4914
+COMIC,2011,FEBRUARY,248,Super Hero Squad Spectacular,1,3.99,Marvel,4879
+COMIC,2011,FEBRUARY,249,Jericho Season 3,4,3.99,IDW,4863
+COMIC,2011,FEBRUARY,250,"Victorian Undead II Holmes VsDracula",4,2.99,DC,4796
+COMIC,2011,FEBRUARY,251,Savage Dragon,169,3.5,Image,4786
+COMIC,2011,FEBRUARY,252,Do Androids Dream Of Electric Sheep,19,3.99,Boom,4526
+COMIC,2011,FEBRUARY,253,Green Hornet Blood Ties,4,3.99,Dynamic Forces,4507
+COMIC,2011,FEBRUARY,254,"Robert Jordan Wheel Of Time Eye ofthe World",8,3.99,Dynamic Forces,4499
+COMIC,2011,FEBRUARY,255,27 (Twenty Seven),3,3.99,Image,4476
+COMIC,2011,FEBRUARY,256,Scooby Doo Where Are You,6,2.99,DC,4456
+COMIC,2011,FEBRUARY,257,"DC Comics Presents Green LanternFear Itself",1,7.99,DC,4437
+COMIC,2011,FEBRUARY,258,Monster Hunters Survival Guide,2,2.99,Zenescope,4369
+COMIC,2011,FEBRUARY,259,Uncle Scrooge,400,3.99,Boom,4333
+COMIC,2011,FEBRUARY,260,Let Me In Crossroads,3,3.99,Dark Horse,4267
+COMIC,2011,FEBRUARY,261,Orson Scott Cards Speaker For Dead,2,3.99,Marvel,4262
+COMIC,2011,FEBRUARY,262,Transformers Ongoing,1 100 Penny Press,1.0,IDW,4247
+COMIC,2011,FEBRUARY,263,Deus Ex,1,2.99,DC,4238
+COMIC,2011,FEBRUARY,264,Shonen Jump March 2011,,4.99,Viz,4148
+COMIC,2011,FEBRUARY,265,Farscape,16,3.99,Boom,4003
+COMIC,2011,FEBRUARY,266,Chip N Dale Rescue Rangers,3,3.99,Boom,3834
+COMIC,2011,FEBRUARY,267,Buck Rogers Annual,1,4.99,Dynamic Forces,3799
+COMIC,2011,FEBRUARY,268,Atomic Robo Deadly Art Of Science,3,3.5,Red 5,3791
+COMIC,2011,FEBRUARY,269,Mice Templar Vol. 3,2,2.99,Image,3781
+COMIC,2011,FEBRUARY,270,Skullkickers,6,2.99,Image,3731
+COMIC,2011,FEBRUARY,271,Detective Comics Classics,,5.99,DC,3702
+COMIC,2011,FEBRUARY,272,"Amory Wars Keeping Secrets OfSilent Earth 3",8,3.99,Boom,3702
+COMIC,2011,FEBRUARY,273,Atomic Robo Deadly Art Of Science,4,3.5,Red 5,3653
+COMIC,2011,FEBRUARY,274,Fallen Angel Return Of The Son,2,3.99,IDW,3616
+COMIC,2011,FEBRUARY,275,Doc Macabre,3,3.99,IDW,3543
+COMIC,2011,FEBRUARY,276,Scourge,3,2.99,Aspen,3481
+COMIC,2011,FEBRUARY,277,Who Is Jake Ellis?,2,2.99,Image,3456
+COMIC,2011,FEBRUARY,278,Knights Of The Dinner Table,171,4.99,Kenzer,3436
+COMIC,2011,FEBRUARY,279,Jurassic Park Devils In The Desert,2,3.99,IDW,3372
+COMIC,2011,FEBRUARY,280,Lil Depressed Boy,1,2.99,Image,3339
+COMIC,2011,FEBRUARY,281,DC Comics Presents Batman Conspiracy,1,7.99,DC,3308
+COMIC,2011,FEBRUARY,282,Sixth Gun,9,3.99,Oni,3279
+COMIC,2011,FEBRUARY,283,Doctor Who Classics Series 4,1,3.99,IDW,3273
+COMIC,2011,FEBRUARY,284,Donald Duck,363,3.99,Boom,3265
+COMIC,2011,FEBRUARY,285,Carnage,1,3.99,Marvel,3240
+COMIC,2011,FEBRUARY,286,Life With Archie Married Life,7,3.99,Archie,3166
+COMIC,2011,FEBRUARY,287,28 Days Later,20,3.99,Boom,3163
+COMIC,2011,FEBRUARY,288,Hotwire Deep Cut,3,3.5,Radical,3157
+COMIC,2011,FEBRUARY,289,Super Heroes,11,2.99,Marvel,3134
+COMIC,2011,FEBRUARY,290,Bomb Queen VI,4,3.5,Image,3132
+COMIC,2011,FEBRUARY,291,Raise The Dead II,3,3.99,Dynamic Forces,3094
+COMIC,2011,FEBRUARY,292,Silent Hill Past Life,4,3.99,IDW,3081
+COMIC,2011,FEBRUARY,293,Captain Wonder 3D One-Shot,,4.99,Image,3031
+COMIC,2011,FEBRUARY,294,"Flash Gordon Invasion of the RedSword",1,3.99,Ardden,3030
+COMIC,2011,FEBRUARY,295,DC Comics Presents Wonder Woman,1,7.99,DC,3023
+COMIC,2011,FEBRUARY,296,Marineman,3,3.99,Image,2982
+COMIC,2011,FEBRUARY,297,Last Zombie,4,3.99,Antarctic,2934
+COMIC,2011,FEBRUARY,298,Memoir,2,3.5,Image,2916
+COMIC,2011,FEBRUARY,299,Ratchet And Clank,6,2.99,DC,2874
+COMIC,2011,FEBRUARY,300,Kill Shakespeare,1 100 Penny Press,1.0,IDW,2860
+COMIC,2011,FEBRUARY,304,Tank Girl Bad Wind Rising,2,3.99,Titan,2754
+COMIC,2011,FEBRUARY,307,Driver For The Dead,3,4.99,Radical,2662
+COMIC,2011,FEBRUARY,317,Archie & Friends,152,2.99,Archie,2334
+COMIC,2011,FEBRUARY,322,Gold Digger,125,3.99,Antarctic,2085
+COMIC,2011,FEBRUARY,323,Betty,190,2.99,Archie,2082
+COMIC,2011,FEBRUARY,332,Cavewoman Hunt,2,3.75,Basement,1901
+COMIC,2011,FEBRUARY,336,Knights Of The Dinner Table,170,4.99,Kenzer,1863
+TPB,2011,FEBRUARY,1,"Batman The Return of Bruce WayneDeluxe Ed HC",,29.99,DC,5310
+TPB,2011,FEBRUARY,2,"Morning Glories Vol. 1 For A BetterFuture",,9.99,Image,5063
+TPB,2011,FEBRUARY,3,Naruto Vol. 50,,9.99,Viz,4538
+TPB,2011,FEBRUARY,4,DMZ Vol. 9 MIA,,14.99,DC,4133
+TPB,2011,FEBRUARY,5,Nemesis Prem HC,,19.99,Marvel,4009
+TPB,2011,FEBRUARY,6,Daytripper,,19.99,DC,3830
+TPB,2011,FEBRUARY,7,Scalped Vol. 7 Rez Blues,,17.99,DC,3628
+TPB,2011,FEBRUARY,8,Savage Sword of Conan Vol. 9,,19.99,Dark Horse,2953
+TPB,2011,FEBRUARY,9,"Star Wars Old Republic Vol. 1 Bloodof Empire",,15.99,Dark Horse,2767
+TPB,2011,FEBRUARY,10,Walking Dead Vol. 1 Days Gone Bye,,9.99,Image,2706
+TPB,2011,FEBRUARY,11,Haunt Vol. 2,,16.99,Image,2622
+TPB,2011,FEBRUARY,12,Shadowland Prem HC,,24.99,Marvel,2549
+TPB,2011,FEBRUARY,13,"Blade of The Immortal Vol. 23Scarlet Swords",,19.99,Dark Horse,2539
+TPB,2011,FEBRUARY,14,"Flash Dastardly Death of The RoguesHC",,19.99,DC,2427
+TPB,2011,FEBRUARY,15,"True Blood HC Vol. 1 All TogetherNow",,24.99,IDW,2284
+TPB,2011,FEBRUARY,16,Freakangels Vol. 5,,19.99,Avatar,2262
+TPB,2011,FEBRUARY,17,Superman War of The Supermen HC,,19.99,DC,2169
+TPB,2011,FEBRUARY,18,Hellblazer Pandemonium,,17.99,DC,2156
+TPB,2011,FEBRUARY,19,Astonishing X-Men Vol. 6 Exogenetic,,14.99,Marvel,2109
+TPB,2011,FEBRUARY,20,"Invincible Iron Man Vol. 5 StarkResilient Book 1",,15.99,Marvel,2004
+TPB,2011,FEBRUARY,21,Stand Hardcases Prem HC,,24.99,Marvel,1953
+TPB,2011,FEBRUARY,22,"Scenes From An Impending MarriageHC",,9.95,Drawn & Quarterly,1925
+TPB,2011,FEBRUARY,23,Superman Batman Torment,,14.99,DC,1875
+TPB,2011,FEBRUARY,24,"Deadpool Merc With A Mouth Vol. 1Head Trip",,34.99,Marvel,1786
+TPB,2011,FEBRUARY,25,Air Vol. 4 A History of The Future,,14.99,DC,1778
+TPB,2011,FEBRUARY,26,Oh My Goddess Rtl Vol. 37,,10.99,Dark Horse,1761
+TPB,2011,FEBRUARY,27,X-Men Curse of Mutants Prem HC,,24.99,Marvel,1707
+TPB,2011,FEBRUARY,28,Noche Roja HC,,19.99,DC,1670
+TPB,2011,FEBRUARY,29,Wolverine Reckoning,,19.99,Marvel,1659
+TPB,2011,FEBRUARY,30,"Showcase Presents Justice League ofAmerica Vol. 5",,19.99,DC,1594
+TPB,2011,FEBRUARY,31,Justice League The Rise And Fall HC,,24.99,DC,1545
+TPB,2011,FEBRUARY,32,Suicide Squad Vol. 1 Trial By Fire,,19.99,DC,1531
+TPB,2011,FEBRUARY,33,Walking Dead Vol. 13 Too Far Gone,,14.99,Image,1494
+TPB,2011,FEBRUARY,34,Teen Titans Hunt For Raven,,17.99,DC,1481
+TPB,2011,FEBRUARY,35,Spider-Man Big Time Prem HC,,19.99,Marvel,1476
+TPB,2011,FEBRUARY,36,Spider-Man Gauntlet Vol. 5 Lizard,,14.99,Marvel,1407
+TPB,2011,FEBRUARY,37,Finder Vol. 1 Voice,,19.99,Dark Horse,1397
+TPB,2011,FEBRUARY,38,Sonic The Hedgehog Select Vol. 3,,11.95,Archie,1383
+TPB,2011,FEBRUARY,39,"Invincible Iron Man Prem HC Vol. 6Stark Resilient Book 2",,19.99,Marvel,1351
+TPB,2011,FEBRUARY,40,Grimm Fairy Tales Different Seasons,,17.99,Zenescope,1326
+TPB,2011,FEBRUARY,41,One Piece Vol. 56,,9.99,Viz,1321
+TPB,2011,FEBRUARY,42,Superman Mon El Vol. 1,,17.99,DC,1313
+TPB,2011,FEBRUARY,43,"Marvel Masterworks Golden AgeMystic Comics HC Vol. 1",,59.99,Marvel,1301
+TPB,2011,FEBRUARY,44,"Marvel Masterworks Sub-Mariner HCVol. 4",,54.99,Marvel,1275
+TPB,2011,FEBRUARY,45,"Chronicles of Kull Vol. 4 Blood ofKings Other Stories",,18.99,Dark Horse,1265
+TPB,2011,FEBRUARY,46,Shadowland Daredevil Prem HC,,19.99,Marvel,1265
+TPB,2011,FEBRUARY,47,Vampirella Archives HC Vol. 2,,49.99,Dynamic Forces,1250
+TPB,2011,FEBRUARY,48,Thor Worldengine Prem HC,,19.99,Marvel,1232
+TPB,2011,FEBRUARY,49,Darkwing Duck Classics Vol. 1,,12.99,Boom,1206
+TPB,2011,FEBRUARY,50,"Marvel Masterworks Atlas EraBattlefield HC Vol. 1",,64.99,Marvel,1189
+TPB,2011,FEBRUARY,51,"Namor First Mutant Vol. 1 Curse ofMutants",,14.99,Marvel,1187
+TPB,2011,FEBRUARY,52,Black Butler Vol. 4,,11.99,Hachette,1171
+TPB,2011,FEBRUARY,53,Blackest Night HC,,29.99,DC,1157
+TPB,2011,FEBRUARY,54,Bakuman Vol. 3,,9.99,Viz,1157
+TPB,2011,FEBRUARY,55,Fringe Tales From The Fringe,,14.99,DC,1152
+TPB,2011,FEBRUARY,56,Spider-Woman Agent of Sword,,19.99,Marvel,1151
+TPB,2011,FEBRUARY,57,Charmed Vol. 1,,12.99,Zenescope,1116
+TPB,2011,FEBRUARY,58,Captain America Lives Omnibus HC,,75.0,Marvel,1112
+TPB,2011,FEBRUARY,59,Pandora Eyes HC,,19.95,Humanoids,1108
+TPB,2011,FEBRUARY,60,"G.I. Joe A Real American Hero Vol.1",,19.99,IDW,1106
+TPB,2011,FEBRUARY,61,Soul Eater Vol. 5,,11.99,Hachette,1101
+TPB,2011,FEBRUARY,62,Human Target Second Chances,,19.99,DC,1095
+TPB,2011,FEBRUARY,63,Bayou Vol. 2,,14.99,DC,1094
+TPB,2011,FEBRUARY,64,Fables Vol. 14 Witches,,17.99,DC,1092
+TPB,2011,FEBRUARY,65,"Marvel Masterworks Fantastic FourVol. 5",,24.99,Marvel,1088
+TPB,2011,FEBRUARY,66,Chew Vol. 1,,9.99,Image,1086
+TPB,2011,FEBRUARY,67,Angelus Vol. 1,,14.99,Image,1081
+TPB,2011,FEBRUARY,68,Walking Dead Vol. 2 Miles Behind Us,,14.99,Image,1077
+TPB,2011,FEBRUARY,69,D Gray Man Vol. 20,,9.99,Viz,1064
+TPB,2011,FEBRUARY,70,High School of Dead Vol. 1,,13.99,Hachette,1041
+TPB,2011,FEBRUARY,71,"X-Force Prem HC Force To BeReckoned With",,29.99,Marvel,1023
+TPB,2011,FEBRUARY,72,Gears of War HC Book 2,,24.99,DC,1018
+TPB,2011,FEBRUARY,73,"Jim Butcher Dresden Files StormFront HC",,24.99,Dynamic Forces,999
+TPB,2011,FEBRUARY,74,Thor Quest For Odin Prem HC,,29.99,Marvel,998
+TPB,2011,FEBRUARY,75,Creepy Archives HC Vol. 9,,49.99,Dark Horse,994
+TPB,2011,FEBRUARY,76,"Avengers & InfinityGauntlet",,14.99,Marvel,993
+TPB,2011,FEBRUARY,77,"Little Lulu Vol. 26 Feud &Other Stories",,14.99,Dark Horse,979
+TPB,2011,FEBRUARY,78,"Scott Pilgrim Vol. 1 PreciousLittle Life",,11.99,Oni,973
+TPB,2011,FEBRUARY,79,Rebels Vol. 4 Sons of Brainiac,,14.99,DC,968
+TPB,2011,FEBRUARY,80,Serenity Shepherds Tale HC,,14.99,Dark Horse,964
+TPB,2011,FEBRUARY,81,Thor Death of Odin New Ed,,26.99,Marvel,961
+TPB,2011,FEBRUARY,82,Thor Godstorm HC,,19.99,Marvel,951
+TPB,2011,FEBRUARY,83,Seven Soldiers of Victory HC Vol. 2,,39.99,DC,942
+TPB,2011,FEBRUARY,84,G.I. Joe Special Missions Vol. 3,,19.99,IDW,940
+TPB,2011,FEBRUARY,85,"Walking Dead Vol. 12 Life AmongThem",,14.99,Image,938
+TPB,2011,FEBRUARY,86,New Mutants Forever,,19.99,Marvel,930
+TPB,2011,FEBRUARY,87,Captain America Patriot,,16.99,Marvel,921
+TPB,2011,FEBRUARY,88,"X-Men Curse of Mutants Prem HCMutants Vs. Vampires",,24.99,Marvel,919
+TPB,2011,FEBRUARY,89,"Kevin Smith Green Hornet Vol. 2Wearing Green",,19.99,Dynamic Forces,911
+TPB,2011,FEBRUARY,90,Daken Dark Wolverine Prem HC Empire,,24.99,Marvel,900
+TPB,2011,FEBRUARY,91,Namor Visionaries John Byrne Vol. 1,,24.99,Marvel,900
+TPB,2011,FEBRUARY,92,Walking Dead Vol. 9 Here We Remain,,14.99,Image,899
+TPB,2011,FEBRUARY,93,Biomega Vol. 5,,12.99,Viz,899
+TPB,2011,FEBRUARY,94,Iron Man Noir,,14.99,Marvel,893
+TPB,2011,FEBRUARY,95,X-Men Legacy Prem HC Collision,,19.99,Marvel,877
+TPB,2011,FEBRUARY,96,Walking Dead Vol. 5 Best Defense,,14.99,Image,862
+TPB,2011,FEBRUARY,97,"Pokemon Arceus And The Jewel ofLife",,7.99,Viz,861
+TPB,2011,FEBRUARY,98,Superman Earth One HC,,19.99,DC,860
+TPB,2011,FEBRUARY,99,Shadowland Thunderbolts Prem HC,,19.99,Marvel,855
+TPB,2011,FEBRUARY,100,"Code Geass Lelouch of The RebellionVol. 8",,10.99,Bandai,852
+TPB,2011,FEBRUARY,101,"Captain America By Jack KirbyOmnibus HC",,74.99,Marvel,849
+TPB,2011,FEBRUARY,102,Super Friends Mystery In Space,,12.99,DC,849
+TPB,2011,FEBRUARY,103,Chew Vol. 3 Just Desserts,,12.99,Image,846
+TPB,2011,FEBRUARY,104,Green Lantern Rebirth New Edition,,14.99,DC,845
+TPB,2011,FEBRUARY,105,Pokemon Adventures Vol. 11,,7.99,Viz,836
+TPB,2011,FEBRUARY,106,From Hell,,35.0,Top Shelf,833
+TPB,2011,FEBRUARY,107,Ghost Talkers Daydream Vol. 5,,10.99,Dark Horse,824
+TPB,2011,FEBRUARY,108,Young Allies,,24.99,Marvel,821
+TPB,2011,FEBRUARY,109,Batman Dark Knight Returns,,14.99,DC,817
+TPB,2011,FEBRUARY,110,Walking Dead Vol. 10 What We Become,,14.99,Image,809
+TPB,2011,FEBRUARY,111,"Walking Dead Vol. 11 Fear TheHunters",,14.99,Image,808
+TPB,2011,FEBRUARY,112,Walking Dead Compendium Vol. 1,,59.99,Image,802
+TPB,2011,FEBRUARY,113,Walking Dead Vol. 6 Sorrowful Life,,14.99,Image,799
+TPB,2011,FEBRUARY,114,"Complete Chester Goulds Dick TracyHC Vol. 11",,39.99,IDW,788
+TPB,2011,FEBRUARY,115,Shadowland Street Heroes Prem HC,,24.99,Marvel,787
+TPB,2011,FEBRUARY,116,Vampire Tales Vol. 2,,19.99,Marvel,773
+TPB,2011,FEBRUARY,117,Chew Vol. 2 International Flavor,,12.99,Image,771
+TPB,2011,FEBRUARY,118,John Carter Of Mars Warlord Of Mars,,29.99,Dark Horse,756
+TPB,2011,FEBRUARY,119,"Fall Out Toy Works Vol. 1 TiffanyBlues",,16.99,Image,754
+TPB,2011,FEBRUARY,120,Hikaru No Go Vol. 22,,9.99,Viz,751
+TPB,2011,FEBRUARY,121,Fables Vol. 1 Legends In Exile,,12.99,DC,747
+TPB,2011,FEBRUARY,122,"Captain America Scourge OfUnderworld",,34.99,Marvel,744
+TPB,2011,FEBRUARY,123,Term Life,,16.99,Image,739
+TPB,2011,FEBRUARY,124,Walking Dead Vol. 7 The Calm Before,,14.99,Image,726
+TPB,2011,FEBRUARY,125,X-Factor Happenings In Vegas Prem HC,,19.99,Marvel,723
+TPB,2011,FEBRUARY,126,28 Days Later Vol. 3 Hotzone,,12.99,Boom,723
+TPB,2011,FEBRUARY,127,Civil War X-Men HC,,39.99,Marvel,719
+TPB,2011,FEBRUARY,128,Batman Hush Complete,,24.99,DC,714
+TPB,2011,FEBRUARY,129,"Umbrella Academy Vol. 1 ApocalypseSuite",,17.99,Dark Horse,713
+TPB,2011,FEBRUARY,130,Serenity Better Days,,9.99,Dark Horse,712
+TPB,2011,FEBRUARY,131,"Naoki Urasawa 20th Century BoysVol. 13",,12.99,Viz,703
+TPB,2011,FEBRUARY,132,Acts Of Vengeance Omnibus HC,,99.99,Marvel,702
+TPB,2011,FEBRUARY,133,Scott Pilgrim Vol. 2 Vs The World,,11.99,Oni,702
+TPB,2011,FEBRUARY,134,Tezuka Black Jack Vol. 13,,16.95,Random House,692
+TPB,2011,FEBRUARY,135,Walking Dead Vol. 8 Made To Suffer,,14.99,Image,688
+TPB,2011,FEBRUARY,136,X-Men First Class Vol. 1,,14.99,Marvel,679
+TPB,2011,FEBRUARY,137,"Green Lantern Sinestro Corps WarVol. 1",,14.99,DC,673
+TPB,2011,FEBRUARY,138,"Incredibles Vol. 5 Truth &Consequences",,9.99,Boom,672
+TPB,2011,FEBRUARY,139,Y The Last Man Vol. 1 Unmanned,,12.99,DC,670
+TPB,2011,FEBRUARY,140,Essential Thor Vol. 1 New Ed,,19.99,Marvel,658
+TPB,2011,FEBRUARY,141,"Captain America Sentinel Of LibertyHC",,34.99,Marvel,657
+TPB,2011,FEBRUARY,142,"Green Lantern Sinestro Corps WarVol. 2",,14.99,DC,655
+TPB,2011,FEBRUARY,143,"Knights of the Dinner Table BundleOf Trouble Vol. 31",,12.99,Kenzer,653
+TPB,2011,FEBRUARY,144,Atlantis Attacks Omnibus HC,,75.0,Marvel,645
+TPB,2011,FEBRUARY,145,Wolverine Old Man Logan,,29.99,Marvel,645
+TPB,2011,FEBRUARY,146,Brightest Day HC Vol. 1,,29.99,DC,629
+TPB,2011,FEBRUARY,147,Muppet Show Vol. 5 Muppet Mash,,9.99,Boom,629
+TPB,2011,FEBRUARY,148,Black Bird Vol. 7,,9.99,Viz,627
+TPB,2011,FEBRUARY,149,Nura Rise of the Yokai Clan Vol. 1,,9.99,Viz,624
+TPB,2011,FEBRUARY,150,"Higurashi When They Cry Vol. 11 EyeOpening Arc Pt 1",,11.99,Hachette,620
+TPB,2011,FEBRUARY,151,"Anita Blake Prem HC Circus OfDamned Charmer Book 1",,19.99,Marvel,619
+TPB,2011,FEBRUARY,152,Muppet Sherlock Holmes,,9.99,Boom,619
+TPB,2011,FEBRUARY,153,"Phineas & Ferb Early ComicReader #4 Its About Time",,4.99,HarperCollins,605
+TPB,2011,FEBRUARY,154,"Walking Dead Vol. 3 Safety BehindBars",,14.99,Image,593
+TPB,2011,FEBRUARY,155,G.I. Joe Future Noir Vol. 1,,12.99,IDW,590
+TPB,2011,FEBRUARY,156,Green Lantern No Fear,,12.99,DC,588
+TPB,2011,FEBRUARY,157,Batman Year One Deluxe SC,,14.99,DC,575
+TPB,2011,FEBRUARY,158,"Archie New Look Series Vol. 5Goodbye Forever",,10.95,Archie,573
+TPB,2011,FEBRUARY,159,Secret History Omnibus HC Vol. 2,,34.95,Archaia,563
+TPB,2011,FEBRUARY,160,Spider-Man Animal Magnetism,,14.99,Marvel,559
+TPB,2011,FEBRUARY,161,Fables Vol. 2 Animal Farm,,12.99,DC,553
+TPB,2011,FEBRUARY,162,Fate Stay Night Vol. 10,,10.99,Tokyopop,553
+TPB,2011,FEBRUARY,163,Batman The Long Halloween,,19.99,DC,550
+TPB,2011,FEBRUARY,164,Incredible Hulks Dark Son Prem HC,,24.99,Marvel,549
+TPB,2011,FEBRUARY,165,Ivy HC,,19.99,Oni,545
+TPB,2011,FEBRUARY,166,"Jesus Hates Zombies Lincoln HatesWerewolves Coll Ed",,10.95,215 Ink,544
+TPB,2011,FEBRUARY,167,"Green Lantern Rage Of The RedLanterns",,14.99,DC,538
+TPB,2011,FEBRUARY,168,"Preacher Vol. 1 Gone To Texas NewEdition",,17.99,DC,537
+TPB,2011,FEBRUARY,169,"Patricia Briggs Mercy Thompson MoonCalled Vol. 1",,16.99,Dynamic Forces,534
+TPB,2011,FEBRUARY,170,American Vampire HC Vol. 1,,24.99,DC,532
+TPB,2011,FEBRUARY,171,Thor And Loki HC Blood Brothers,,24.99,Marvel,529
+TPB,2011,FEBRUARY,172,"Sandman Vol. 1 Preludes &Nocturnes",,19.99,DC,529
+TPB,2011,FEBRUARY,173,Final Crisis,,19.99,DC,520
+TPB,2011,FEBRUARY,174,Cursed Pirate Girl,,20.0,Olympian,519
+TPB,2011,FEBRUARY,175,"Batman The Killing Joke Special EdHC",,17.99,DC,519
+TPB,2011,FEBRUARY,176,"Scott Pilgrim Vol. 3 InfiniteSadness",,11.99,Oni,519
+TPB,2011,FEBRUARY,177,Gunslinger Girl Omnibus Vol. 1,,15.99,St. Martins,518
+TPB,2011,FEBRUARY,178,Pandora Hearts Vol. 4,,11.99,Hachette,515
+TPB,2011,FEBRUARY,179,V For Vendetta,,19.99,DC,514
+TPB,2011,FEBRUARY,180,Eerie Archives HC Vol. 6,,49.99,Dark Horse,510
+TPB,2011,FEBRUARY,181,"X-Men Forever 2 Vol. 2 Scream ALittle Scream",,16.99,Marvel,508
+TPB,2011,FEBRUARY,182,"Green Lantern Revenge Of The GreenLanterns",,14.99,DC,507
+TPB,2011,FEBRUARY,183,Green Lantern Agent Orange,,14.99,DC,505
+TPB,2011,FEBRUARY,184,All Star Superman Vol. 1,,12.99,DC,502
+TPB,2011,FEBRUARY,185,Zita The Space Girl,,10.99,St. Martins,501
+TPB,2011,FEBRUARY,186,Watchmen,,19.99,DC,500
+TPB,2011,FEBRUARY,187,"Incredible Hulks Dark Son EnigmaForce",,19.99,Marvel,498
+TPB,2011,FEBRUARY,188,Incognito,,18.99,Marvel,495
+TPB,2011,FEBRUARY,189,Civil War,,24.99,Marvel,492
+TPB,2011,FEBRUARY,190,Spawn Origins HC Vol. 3,,29.99,Image,489
+TPB,2011,FEBRUARY,191,Blackest Night Green Lantern HC,,24.99,DC,488
+TPB,2011,FEBRUARY,192,Arkham Asylum Anniversary Ed SC,,17.99,DC,488
+TPB,2011,FEBRUARY,193,Vampires World Of Shadows Illus HC,,18.95,Heavy Metal,487
+TPB,2011,FEBRUARY,194,Maus Survivors Tale Complete HC,,35.0,Raw,484
+TPB,2011,FEBRUARY,195,Otomen Vol. 9,,9.99,Viz,482
+TPB,2011,FEBRUARY,196,Farscape Vol. 3 Gone & Back,,12.99,Boom,481
+TPB,2011,FEBRUARY,197,Ghost Projekt HC Vol. 1,,19.99,Oni,472
+TPB,2011,FEBRUARY,198,"Buffy the Vampire Slayer Season 8Vol. 7 Twilight",,16.99,Dark Horse,471
+TPB,2011,FEBRUARY,199,Amnesia Labyrinth Vol. 1,,10.99,St. Martins,471
+TPB,2011,FEBRUARY,200,All Star Superman Vol. 2,,12.99,DC,471
+TPB,2011,FEBRUARY,201,Walking Dead HC Vol. 1,,34.99,Image,469
+TPB,2011,FEBRUARY,202,Blacksad HC Vol. 1,,29.99,Dark Horse,465
+TPB,2011,FEBRUARY,203,Y The Last Man Vol. 2 Cycles,,12.99,DC,460
+TPB,2011,FEBRUARY,204,"Mickey Mouse & Friends 300Mickeys",,9.99,Boom,459
+TPB,2011,FEBRUARY,205,Kingdom Come New Edition,,17.99,DC,457
+TPB,2011,FEBRUARY,206,Kimi Ni Todoke Vol. 7 From Me To You,,9.99,Viz,456
+TPB,2011,FEBRUARY,207,Vietnamerica Gn,,30.0,Random House,454
+TPB,2011,FEBRUARY,208,Outlaw Territory Vol. 2,,19.99,Image,454
+TPB,2011,FEBRUARY,209,"1001 Arabian Nights Adv Of SinbadVol. 2",,15.99,Zenescope,446
+TPB,2011,FEBRUARY,210,"George R.R. Martin Wild Cards HardCall HC",,24.99,Dynamic Forces,441
+TPB,2011,FEBRUARY,211,Boys Vol. 7 The Innocents,,19.99,Dynamic Forces,437
+TPB,2011,FEBRUARY,212,Pet Shop Of Horrors Tokyo Vol. 8,,10.99,Tokyopop,436
+TPB,2011,FEBRUARY,213,"Tarzan The Jesse Marsh Years HCVol. 8",,49.99,Dark Horse,435
+TPB,2011,FEBRUARY,214,Captain America Reborn Prem HC,,24.99,Marvel,435
+TPB,2011,FEBRUARY,215,Mid-Life,,19.95,Drawn & Quarterly,434
+TPB,2011,FEBRUARY,216,Farscape Scorpius Vol. 2,,12.99,Boom,433
+TPB,2011,FEBRUARY,217,Green Lantern Wanted Hal Jordan,,14.99,DC,431
+TPB,2011,FEBRUARY,218,Nemesis Prem HC,,19.99,Titan,430
+TPB,2011,FEBRUARY,219,Tegami Bachi Vol. 4,,9.99,Viz,429
+TPB,2011,FEBRUARY,220,Walking Dead Vol. 4 Hearts Desire,,14.99,Image,419
+TPB,2011,FEBRUARY,221,"Transmetropolitan Vol. 1 Back OnThe Street",,14.99,DC,413
+TPB,2011,FEBRUARY,222,"Batman And Robin Deluxe HC Vol. 2Batman Vs Robin",,24.99,DC,405
+TPB,2011,FEBRUARY,223,Hetalia Axis Powers Vol. 1,,10.99,Tokyopop,405
+TPB,2011,FEBRUARY,224,Sixth Gun Vol. 1,,19.99,Oni,404
+TPB,2011,FEBRUARY,225,Green Lantern Secret Origin,,14.99,DC,403
+TPB,2011,FEBRUARY,226,Star Wars Force Unleashed Vol. 1,,15.95,Dark Horse,402
+TPB,2011,FEBRUARY,227,"Scott Pilgrim Vol. 4 Gets ItTogether",,11.99,Oni,402
+TPB,2011,FEBRUARY,228,X-Men Messiah Complex,,29.99,Marvel,401
+TPB,2011,FEBRUARY,229,Telara Chronicles,,17.99,DC,401
+TPB,2011,FEBRUARY,230,Batman R.I.P.,,14.99,DC,401
+TPB,2011,FEBRUARY,231,Scott Pilgrim Vol. 6 Finest Hour,,11.99,Oni,400
+TPB,2011,FEBRUARY,232,Thor By J Michael Straczynski Vol. 2,,19.99,Marvel,397
+TPB,2011,FEBRUARY,233,Fables Vol. 3 Storybook Love,,14.99,DC,397
+TPB,2011,FEBRUARY,234,Joss Whedons Fray Future Slayer,,19.99,Dark Horse,392
+TPB,2011,FEBRUARY,235,Plane Story,,19.99,IDW,391
+TPB,2011,FEBRUARY,236,Scott Pilgrim Vol. 5 Vs The Universe,,11.99,Oni,391
+TPB,2011,FEBRUARY,237,"100 Bullets Vol. 1 First Shot LastCall",,9.99,DC,389
+TPB,2011,FEBRUARY,238,"Occult Files Doctor SpektorArchives HC Vol. 2",,49.99,Dark Horse,384
+TPB,2011,FEBRUARY,239,Batman Knightfall Part 1 Broken Bat,,17.99,DC,383
+TPB,2011,FEBRUARY,240,Hellboy Vol. 1 Seed Of Destruction,,17.95,Dark Horse,380
+TPB,2011,FEBRUARY,241,"Locke & Key Vol. 1 WelcomeTo Lovecraft",,19.99,IDW,378
+TPB,2011,FEBRUARY,242,Joker HC,,19.99,DC,374
+TPB,2011,FEBRUARY,243,"Buffy the Vampire Slayer Season 8Vol. 6 Retreat",,15.99,Dark Horse,374
+TPB,2011,FEBRUARY,244,Marvel Zombies Spider-Man Cover,,15.99,Marvel,373
+TPB,2011,FEBRUARY,245,"Planetary Book 4 SpacetimeArchaeology",,17.99,DC,368
+TPB,2011,FEBRUARY,246,"Buffy the Vampire Slayer Season 8Vol. 2 No Future For You",,15.99,Dark Horse,365
+TPB,2011,FEBRUARY,247,Dmz Vol. 1 On The Ground,,9.99,DC,365
+TPB,2011,FEBRUARY,248,Boys Vol. 1 Name Of The Game,,16.99,Dynamic Forces,362
+TPB,2011,FEBRUARY,249,"Unwritten 1 Tommy Taylor And BogusIdentity",,12.99,DC,360
+TPB,2011,FEBRUARY,250,Sandman Vol. 2 The Dolls House,,19.99,DC,356
+TPB,2011,FEBRUARY,251,"Preacher Vol. 2 Until The End OfThe World",,14.99,DC,356
+TPB,2011,FEBRUARY,252,Essential Thor Vol. 3 New Ed,,19.99,Marvel,354
+TPB,2011,FEBRUARY,253,Haunt Vol. 1,,9.99,Image,353
+TPB,2011,FEBRUARY,254,"Fables Vol. 4 March Of The WoodenSoldiers",,17.99,DC,351
+TPB,2011,FEBRUARY,255,Last Unicorn HC,,24.99,IDW,350
+TPB,2011,FEBRUARY,256,Captain America Prem HC Two Americas,,19.99,Marvel,349
+TPB,2011,FEBRUARY,257,Sweet Tooth Vol. 1 Out Of The Woods,,12.99,DC,347
+TPB,2011,FEBRUARY,258,Gin Tama Vol. 21,,9.99,Viz,347
+TPB,2011,FEBRUARY,259,Nemi HC Vol. 4,,14.95,Titan,345
+TPB,2011,FEBRUARY,260,Y The Last Man Vol. 3 One Small Step,,12.99,DC,343
+TPB,2011,FEBRUARY,261,Superman Red Son,,17.99,DC,334
+TPB,2011,FEBRUARY,262,"Buffy the Vampire Slayer Season 8Vol. 1 Long Way Home",,15.99,Dark Horse,334
+TPB,2011,FEBRUARY,263,"Geronimo Stilton HC Vol. 7Dinosaurs In Action",,9.99,NBM,334
+TPB,2011,FEBRUARY,264,"Skelanimals HC Vol. 1 Its AWonderful Afterlife",,9.99,Tokyopop,334
+TPB,2011,FEBRUARY,265,Grand Guignol Orchestra Vol. 2,,9.99,Viz,334
+TPB,2011,FEBRUARY,266,Genkaku Picasso Vol. 2,,9.99,Viz,333
+TPB,2011,FEBRUARY,267,Sumomomo Momomo Vol. 7,,11.99,Hachette,330
+TPB,2011,FEBRUARY,268,Samurai Harem Asu No Yoichi Vol. 7,,12.99,Tokyopop,329
+TPB,2011,FEBRUARY,269,Steve Rogers Prem HC Super-Soldier,,19.99,Marvel,327
+TPB,2011,FEBRUARY,270,"Batman And Robin Deluxe HC Vol. 1Batman Reborn",,24.99,DC,326
+TPB,2011,FEBRUARY,271,Aftermath Gn,,19.95,Humanoids,326
+TPB,2011,FEBRUARY,272,Venom Vs Carnage,,9.99,Marvel,326
+TPB,2011,FEBRUARY,273,Freakangels HC Vol. 5,,27.99,Avatar,325
+TPB,2011,FEBRUARY,274,Thor By J Michael Straczynski Vol. 1,,14.99,Marvel,325
+TPB,2011,FEBRUARY,275,"Fables Vol. 13 The Great FablesCrossover",,17.99,DC,324
+TPB,2011,FEBRUARY,276,Batman Vs The Undead,,14.99,DC,324
+TPB,2011,FEBRUARY,277,Gakuen Alice Vol. 15,,10.99,Tokyopop,324
+TPB,2011,FEBRUARY,278,Hack Slash My First Maniac Vol. 1,,9.99,Image,324
+TPB,2011,FEBRUARY,279,Aion Vol. 2,,10.99,Tokyopop,323
+TPB,2011,FEBRUARY,280,Casanova Luxuria Vol. 1,,14.99,Marvel,320
+TPB,2011,FEBRUARY,281,"Green Lantern Tales Of The SinestroCorps",,14.99,DC,318
+TPB,2011,FEBRUARY,282,Y The Last Man Vol. 4 Safeword,,12.99,DC,316
+TPB,2011,FEBRUARY,283,Batman Dark Victory,,19.99,DC,315
+TPB,2011,FEBRUARY,284,"Blackest Night Green Lantern CorpsHC",,24.99,DC,313
+TPB,2011,FEBRUARY,285,Irredeemable Vol. 1,,9.99,Boom,312
+TPB,2011,FEBRUARY,286,Sandman Vol. 3 Dream Country,,19.99,DC,310
+TPB,2011,FEBRUARY,287,"Leonard Starrs Mary Perkins OnStage Vol. 8",,24.95,Classic,309
+TPB,2011,FEBRUARY,288,"Psychiatric Tales 11 Stories MentalIllness HC",,15.0,St. Martins,308
+TPB,2011,FEBRUARY,289,"Buffy the Vampire Slayer Season 8Vol. 4 Time Of Your Life",,15.99,Dark Horse,308
+TPB,2011,FEBRUARY,290,Fables Vol. 6 Homelands,,14.99,DC,305
+TPB,2011,FEBRUARY,291,Sweet Tooth Vol. 2 In Captivity,,12.99,DC,304
+TPB,2011,FEBRUARY,292,Marvelman Classic Prem HC Vol. 2,,34.99,Marvel,303
+TPB,2011,FEBRUARY,293,"Captain America Road To Reborn PremHC",,24.99,Marvel,303
+TPB,2011,FEBRUARY,294,Charles Burns X Ed Out Gn,,19.95,Random House,302
+TPB,2011,FEBRUARY,295,Jormungand Vol. 6,,12.99,Viz,300
+TPB,2011,FEBRUARY,296,Danger Girl The Ultimate Coll,,19.99,DC,299
+TPB,2011,FEBRUARY,297,Goon Vol. 0 Rough Stuff Revised Ed,,13.99,Dark Horse,298
+TPB,2011,FEBRUARY,298,Omamori Himari Vol. 2,,11.99,Hachette,297
+TPB,2011,FEBRUARY,299,"Captain America By Ed BrubakerOmnibus HC Vol. 1",,74.99,Marvel,296
+TPB,2011,FEBRUARY,300,"Northlanders Vol. 1 Sven TheReturned",,14.99,DC,295

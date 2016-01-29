@@ -1,4 +1,4 @@
-import urllib2, json, time, hashlib, csv, traceback
+import urllib2, json, time, hashlib, csv, traceback
 
 debug_lvl = 3
 
@@ -23,7 +23,7 @@ def getSeriesByLetter(letter,activeYear, order=''):
     debug(2, letter + " total:" + str(seriesDataContainer["count"]) + "/" + str(seriesDataContainer["total"]))
     debug(3, "limit:" + str(seriesDataContainer["limit"]))
     results =  seriesDataContainer["results"]
-    return results
+    return results
 
 def writeSeriesToCsvByLetter(file_path,series):
     with open(file_path, "a") as file:

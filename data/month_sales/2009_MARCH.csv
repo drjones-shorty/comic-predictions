@@ -1,0 +1,594 @@
+PUBLICATION_FORMAT,YEAR,MONTH,SALES_RANK,TITLE,ISSUE,PRICE,PUBLISHER,EST_SALESCOMIC,2009,MARCH,1,Dark Avengers,3,3.99,Marvel,96532
+COMIC,2009,MARCH,2,New Avengers,51,3.99,Marvel,95326
+COMIC,2009,MARCH,3,Batman Battle For The Cowl,1,3.99,DC,91605
+COMIC,2009,MARCH,4,Wolverine,71,2.99,Marvel,86033
+COMIC,2009,MARCH,5,Ultimatum,3,3.99,Marvel,79427
+COMIC,2009,MARCH,6,Uncanny X-Men,507,2.99,Marvel,77945
+COMIC,2009,MARCH,7,Mighty Avengers,23,2.99,Marvel,71322
+COMIC,2009,MARCH,8,Justice League of America,31,2.99,DC,68749
+COMIC,2009,MARCH,9,Ultimate Wolverine Vs Hulk,3,2.99,Marvel,68380
+COMIC,2009,MARCH,10,Buffy The Vampire Slayer,23,2.99,Dark Horse,64099
+COMIC,2009,MARCH,11,Captain America,48,2.99,Marvel,62099
+COMIC,2009,MARCH,12,Amazing Spider-Man,588,3.99,Marvel,61325
+COMIC,2009,MARCH,13,Amazing Spider-Man,589,2.99,Marvel,58823
+COMIC,2009,MARCH,14,War of Kings,1,3.99,Marvel,58700
+COMIC,2009,MARCH,15,X-Men Legacy,222,2.99,Marvel,55598
+COMIC,2009,MARCH,16,Green Lantern Corps,34,2.99,DC,54154
+COMIC,2009,MARCH,17,Batman Cacophony,3,3.99,DC,52806
+COMIC,2009,MARCH,18,X-Force Cable Messiah War Prologue,,3.99,Marvel,52769
+COMIC,2009,MARCH,19,Invincible Iron Man,11,2.99,Marvel,52157
+COMIC,2009,MARCH,20,X-Force,13,2.99,Marvel,51789
+COMIC,2009,MARCH,21,Ultimate X-Men,100,3.99,Marvel,51366
+COMIC,2009,MARCH,22,Superman World of New Krypton,1,2.99,DC,50043
+COMIC,2009,MARCH,23,Fantastic Four,565,2.99,Marvel,48371
+COMIC,2009,MARCH,24,Secret Warriors,2,2.99,Marvel,48079
+COMIC,2009,MARCH,25,Dark Reign Fantastic Four,1,2.99,Marvel,48054
+COMIC,2009,MARCH,26,Deadpool,8,2.99,Marvel,47967
+COMIC,2009,MARCH,27,Stand American Nightmares,1,3.99,Marvel,47466
+COMIC,2009,MARCH,28,Action Comics,875,2.99,DC,47072
+COMIC,2009,MARCH,29,New Avengers Reunion,1,3.99,Marvel,46840
+COMIC,2009,MARCH,30,Thunderbolts,130,2.99,Marvel,45803
+COMIC,2009,MARCH,31,Wolverine Origins,34,2.99,Marvel,45572
+COMIC,2009,MARCH,32,Superman,686,2.99,DC,44969
+COMIC,2009,MARCH,33,Superman Batman,56,2.99,DC,42458
+COMIC,2009,MARCH,34,Daredevil,116,2.99,Marvel,41255
+COMIC,2009,MARCH,35,Daredevil,117,2.99,Marvel,41040
+COMIC,2009,MARCH,36,Azrael Deaths Dark Knight,1,2.99,DC,39979
+COMIC,2009,MARCH,37,"Batman Battle For The CowlCommissioner Gordon",1,2.99,DC,39822
+COMIC,2009,MARCH,38,Gotham Gazette Batman Dead,1,2.99,DC,39332
+COMIC,2009,MARCH,39,Punisher,3,2.99,Marvel,37564
+COMIC,2009,MARCH,40,X-Infernus,4,3.99,Marvel,36426
+COMIC,2009,MARCH,41,Dark Reign Elektra,1,3.99,Marvel,36380
+COMIC,2009,MARCH,42,Titans,11,2.99,DC,35235
+COMIC,2009,MARCH,43,Deadpool Games of Death,,3.99,Marvel,34846
+COMIC,2009,MARCH,44,Trinity,40,2.99,DC,34608
+COMIC,2009,MARCH,45,Trinity,41,2.99,DC,34432
+COMIC,2009,MARCH,46,Trinity,42,2.99,DC,34114
+COMIC,2009,MARCH,47,Oracle,1,2.99,DC,34076
+COMIC,2009,MARCH,48,Trinity,43,2.99,DC,33836
+COMIC,2009,MARCH,49,Black Panther 2,2,2.99,Marvel,33750
+COMIC,2009,MARCH,50,Supergirl,39,2.99,DC,33708
+COMIC,2009,MARCH,51,Wonder Woman,30,2.99,DC,33360
+COMIC,2009,MARCH,52,War Machine,4,2.99,Marvel,32688
+COMIC,2009,MARCH,53,Cable,12,2.99,Marvel,32402
+COMIC,2009,MARCH,54,Incredible Hercules,127,2.99,Marvel,31885
+COMIC,2009,MARCH,55,X-Factor,41,2.99,Marvel,31883
+COMIC,2009,MARCH,56,Angel,19,3.99,IDW,31762
+COMIC,2009,MARCH,57,Outsiders,16,2.99,DC,27973
+COMIC,2009,MARCH,58,Guardians of Galaxy,11,2.99,Marvel,27411
+COMIC,2009,MARCH,59,Skaar Son of Hulk,9,2.99,Marvel,27133
+COMIC,2009,MARCH,60,Agents of Atlas,2,2.99,Marvel,26779
+COMIC,2009,MARCH,61,Guardians of Galaxy,12,2.99,Marvel,26760
+COMIC,2009,MARCH,62,Nova,23,2.99,Marvel,26409
+COMIC,2009,MARCH,63,Boys,28,2.99,Dynamic,26324
+COMIC,2009,MARCH,64,X-Men Noir,4,3.99,Marvel,25857
+COMIC,2009,MARCH,65,X-Men Kingbreaker,4,3.99,Marvel,25666
+COMIC,2009,MARCH,66,Star Wars Legacy,34,2.99,Dark Horse,25300
+COMIC,2009,MARCH,67,Ms Marvel,37,2.99,Marvel,25049
+COMIC,2009,MARCH,68,Young X-Men,12,2.99,Marvel,25019
+COMIC,2009,MARCH,69,Spider-Man Noir,4,3.99,Marvel,24716
+COMIC,2009,MARCH,70,Hulk Broken Worlds,1,3.99,Marvel,24376
+COMIC,2009,MARCH,71,Secret Six,7,2.99,DC,24361
+COMIC,2009,MARCH,73,Booster Gold,18,2.99,DC,23733
+COMIC,2009,MARCH,74,War of Kings Darkhawk,2,3.99,Marvel,23700
+COMIC,2009,MARCH,75,Walking Dead,59,2.99,Image,23254
+COMIC,2009,MARCH,76,Solomon Grundy,1,2.99,DC,23172
+COMIC,2009,MARCH,77,Avengers Initiative Featuring Reptil,1,3.99,Marvel,23100
+COMIC,2009,MARCH,78,G.I. Joe,3,3.99,IDW,22899
+COMIC,2009,MARCH,79,Strange Adventures,1,3.99,DC,22817
+COMIC,2009,MARCH,80,Amazing Spider-Man Extra,3,3.99,Marvel,22768
+COMIC,2009,MARCH,81,Green Arrow Black Canary,18,2.99,DC,22696
+COMIC,2009,MARCH,82,Immortal Iron Fist,23,2.99,Marvel,22688
+COMIC,2009,MARCH,83,Fables,82,2.99,DC,22442
+COMIC,2009,MARCH,84,Immortal Iron Fist,24,2.99,Marvel,22323
+COMIC,2009,MARCH,85,Punisher Frank Castle Max,68,3.99,Marvel,22252
+COMIC,2009,MARCH,86,X-Men Spider-Man,4,3.99,Marvel,22033
+COMIC,2009,MARCH,87,Hellboy Wild Hunt,4,2.99,Dark Horse,21740
+COMIC,2009,MARCH,88,Spawn,190,2.95,Image,21545
+COMIC,2009,MARCH,89,Terror Titans,6,2.99,DC,21501
+COMIC,2009,MARCH,90,Ghost Rider,33,2.99,Marvel,21344
+COMIC,2009,MARCH,91,Saga of The Swamp Thing,21 Special Ed,1.0,DC,21049
+COMIC,2009,MARCH,92,Moon Knight,28,2.99,Marvel,20883
+COMIC,2009,MARCH,93,Umbrella Academy Dallas,5,2.99,Dark Horse,20878
+COMIC,2009,MARCH,94,Conan The Cimmerian,9,2.99,Dark Horse,20552
+COMIC,2009,MARCH,95,Planetary,1 Special Ed.,1.0,DC,20204
+COMIC,2009,MARCH,96,Amazing Spider-Man,583 Obama 5th Ptg,3.99,Marvel,20070
+COMIC,2009,MARCH,97,X-Men Sword of Braddocks,,3.99,Marvel,20065
+COMIC,2009,MARCH,98,Batman Confidential,27,2.99,DC,19931
+COMIC,2009,MARCH,99,G.I. Joe Cobra,1,3.99,IDW,19430
+COMIC,2009,MARCH,100,Angel Blood And Trenches,1,3.99,IDW,19240
+COMIC,2009,MARCH,101,Runaways 3,8,2.99,Marvel,18997
+COMIC,2009,MARCH,102,X-Men Times And Life of Lucas Bishop,2,3.99,Marvel,18650
+COMIC,2009,MARCH,103,Transmetropolitan,1 Special Ed.,1.0,DC,18601
+COMIC,2009,MARCH,104,G.I. Joe Origins,2,3.99,IDW,18358
+COMIC,2009,MARCH,105,"Star Wars Knights of the OldRepublic",39,2.99,Dark Horse,18166
+COMIC,2009,MARCH,106,Black Terror,3,3.5,Dynamic,17925
+COMIC,2009,MARCH,107,Astonishing Tales,2,3.99,Marvel,17755
+COMIC,2009,MARCH,108,Captain Britain And Mi 13,11,2.99,Marvel,17754
+COMIC,2009,MARCH,109,G.I. Joe Movie Prequel,1 Duke,3.99,IDW,17539
+COMIC,2009,MARCH,110,Witchblade,125,3.99,Image,17203
+COMIC,2009,MARCH,111,Wonderful Wizard of Oz,4,3.99,Marvel,16157
+COMIC,2009,MARCH,112,Rebels,2,2.99,DC,16120
+COMIC,2009,MARCH,113,Squadron Supreme 2,9,2.99,Marvel,16078
+COMIC,2009,MARCH,114,Eternals,9,2.99,Marvel,16000
+COMIC,2009,MARCH,115,Batman Gotham After Midnight,11,2.99,DC,15791
+COMIC,2009,MARCH,116,Invincible,60,3.99,Image,15775
+COMIC,2009,MARCH,117,Resident Evil,1,3.99,DC,15757
+COMIC,2009,MARCH,118,Bprd Black Goddess,3,2.99,Dark Horse,15043
+COMIC,2009,MARCH,119,Ex Machina Special,4,3.99,DC,14256
+COMIC,2009,MARCH,120,Amazing Spider-Girl,30,3.99,Marvel,14247
+COMIC,2009,MARCH,121,World of Warcraft,17,2.99,DC,13612
+COMIC,2009,MARCH,122,Jack of Fables,32,2.99,DC,13593
+COMIC,2009,MARCH,123,Death Defying Devil,4,3.5,Dynamic,13544
+COMIC,2009,MARCH,124,Sub-Mariner Depths,5,3.99,Marvel,13290
+COMIC,2009,MARCH,125,House of Mystery,11,2.99,DC,12783
+COMIC,2009,MARCH,126,Red Sonja,42,2.99,Dynamic,12506
+COMIC,2009,MARCH,127,Star Trek Countdown,3,3.99,IDW,12486
+COMIC,2009,MARCH,128,Wolverine First Class,13,2.99,Marvel,12428
+COMIC,2009,MARCH,129,Enders Game Battle School,4,3.99,Marvel,12080
+COMIC,2009,MARCH,130,Transformers All Hail Megatron,8,3.99,IDW,11729
+COMIC,2009,MARCH,131,Crossed,4,3.99,Avatar,11708
+COMIC,2009,MARCH,132,Jonah Hex,41,2.99,DC,11562
+COMIC,2009,MARCH,133,X-Men First Class Finals,2,3.99,Marvel,11531
+COMIC,2009,MARCH,134,Soulfire,8 Turner Cvr,2.99,Aspen,11520
+COMIC,2009,MARCH,135,Transformers All Hail Megatron,9,3.99,IDW,11477
+COMIC,2009,MARCH,136,Gears of War,5,3.99,DC,11392
+COMIC,2009,MARCH,137,"Indiana Jones & Tomb of TheGods",4,2.99,Dark Horse,11351
+COMIC,2009,MARCH,138,Goon,32,3.99,Dark Horse,11316
+COMIC,2009,MARCH,139,Darkness,76 Irving Cvr A,2.99,Image,11255
+COMIC,2009,MARCH,140,Incredibles Family Matters,1,2.99,Boom,11250
+COMIC,2009,MARCH,141,Hellblazer,253,2.99,DC,11130
+COMIC,2009,MARCH,142,Vigilante,4,2.99,DC,11123
+COMIC,2009,MARCH,143,Top 10 Season Two,4,2.99,DC,10898
+COMIC,2009,MARCH,145,Top 10 Special,1,2.99,DC,10712
+COMIC,2009,MARCH,146,Mighty,2,2.99,DC,10622
+COMIC,2009,MARCH,147,Fathom,6 Takeda Cvr,2.99,Aspen,10299
+COMIC,2009,MARCH,148,Air,7,1.0,DC,10288
+COMIC,2009,MARCH,149,Kull,5,2.99,Dark Horse,10191
+COMIC,2009,MARCH,150,"Transformers Revenge Fallen MoviePrq Defiance",2,3.99,IDW,10076
+COMIC,2009,MARCH,151,"Transformers Revenge Fallen MoviePrq Defiance",3,3.99,IDW,9990
+COMIC,2009,MARCH,152,Authority,8,2.99,DC,9989
+COMIC,2009,MARCH,153,Madame Xanadu,9,2.99,DC,9797
+COMIC,2009,MARCH,154,Adam Legend of Blue Marvel,5,3.99,Marvel,9456
+COMIC,2009,MARCH,155,Northlanders,15,2.99,DC,9442
+COMIC,2009,MARCH,156,Locke & Key Head Games,3,3.99,IDW,9353
+COMIC,2009,MARCH,157,Star Trek Missions End,1,3.99,IDW,9351
+COMIC,2009,MARCH,158,Haunted Tank,4,2.99,DC,9326
+COMIC,2009,MARCH,159,"Transformers Revenge Fallen MoviePrq Alliance",4,3.99,IDW,9309
+COMIC,2009,MARCH,160,Grimm Fairy Tales,36,2.99,Zenescope,9197
+COMIC,2009,MARCH,161,Frank Frazettas Freedom,,3.99,Image,9184
+COMIC,2009,MARCH,162,Star Trek Crew,1,3.99,IDW,9167
+COMIC,2009,MARCH,163,Black Lightning Year One,5,2.99,DC,9030
+COMIC,2009,MARCH,164,Farscape,3 Cvr A,3.99,Boom,9008
+COMIC,2009,MARCH,165,X-Files,5,3.5,DC,8998
+COMIC,2009,MARCH,166,No Hero,4,3.99,Avatar,8955
+COMIC,2009,MARCH,167,Black Lightning Year One,6,2.99,DC,8818
+COMIC,2009,MARCH,168,Wildcats,9,2.99,DC,8757
+COMIC,2009,MARCH,169,Tiny Titans,14,2.5,DC,8735
+COMIC,2009,MARCH,170,Dark Avengers,2 2nd Ptg,3.99,Marvel,8723
+COMIC,2009,MARCH,171,End League,7,2.99,Dark Horse,8692
+COMIC,2009,MARCH,172,Tarot Witch of The Black Rose,55,2.95,Broadsword,8567
+COMIC,2009,MARCH,173,Obama The Comic Book Inaugural Ed,,3.99,Antarctic,8457
+COMIC,2009,MARCH,174,Batman The Brave And The Bold,3,2.5,DC,8183
+COMIC,2009,MARCH,175,Unknown Soldier,6,2.99,DC,8176
+COMIC,2009,MARCH,176,Dmz,40,2.99,DC,8166
+COMIC,2009,MARCH,177,Street Fighter II Turbo,5 Cruz Cvr A,3.95,Udon,8112
+COMIC,2009,MARCH,178,"Dead of Night Featuring Werewolf ByNight",3,3.99,Marvel,8056
+COMIC,2009,MARCH,179,Back To Brooklyn,4,2.99,Image,7988
+COMIC,2009,MARCH,180,Age of Sentry,6,2.99,Marvel,7962
+COMIC,2009,MARCH,181,"Jim Butchers Dresden Files StormFront",3,3.99,Dabel,7949
+COMIC,2009,MARCH,182,Super-Zombies,1,3.5,Dynamic,7927
+COMIC,2009,MARCH,183,Terry Moores Echo,10,3.5,Abstract,7927
+COMIC,2009,MARCH,184,Zorro,11,3.5,Dynamic,7821
+COMIC,2009,MARCH,185,Simon Dark,18,2.99,DC,7707
+COMIC,2009,MARCH,186,Simpsons Comics,152,2.99,Bongo,7668
+COMIC,2009,MARCH,187,Dead Irons,2,3.99,Dynamic,7614
+COMIC,2009,MARCH,188,Gen 13,28,2.99,DC,7592
+COMIC,2009,MARCH,189,Street Fighter Legends Chun Li,2,3.95,Udon,7499
+COMIC,2009,MARCH,190,Army of Darkness,17,3.5,Dynamic,7465
+COMIC,2009,MARCH,191,Fringe,3,2.99,DC,7425
+COMIC,2009,MARCH,192,Presidential Material Obama Curr Ptg,,3.99,IDW,7372
+COMIC,2009,MARCH,193,Star Trek Alien Spotlight Tribbles,,3.99,IDW,7369
+COMIC,2009,MARCH,194,Star Trek Last Generation,5,3.99,IDW,7301
+COMIC,2009,MARCH,195,Muppet Show,1,2.99,Boom,7271
+COMIC,2009,MARCH,196,Sonic The Hedgehog,198,2.5,Archie,7236
+COMIC,2009,MARCH,197,Executive Assistant Iris,0,2.5,Aspen,7021
+COMIC,2009,MARCH,198,Soulfire Shadow Magic,4,2.99,Aspen,6985
+COMIC,2009,MARCH,199,Marvel Apes Speedball Special,,3.99,Marvel,6914
+COMIC,2009,MARCH,200,Garth Ennis Battlefields Dear Billy,3,3.5,Dynamic,6869
+COMIC,2009,MARCH,201,Scalped,26,2.99,DC,6865
+COMIC,2009,MARCH,202,Wolverine Saga (Bundle of 25) (Net),,10.0,Marvel,6836
+COMIC,2009,MARCH,203,Marvel Spotlight Wolverine,,3.99,Marvel,6669
+COMIC,2009,MARCH,204,Madman Atomic Comics,14,3.5,Image,6614
+COMIC,2009,MARCH,205,War That Time Forgot,11,2.99,DC,6597
+COMIC,2009,MARCH,206,Futurama Comics,42,2.99,Bongo,6483
+COMIC,2009,MARCH,207,I Am Legion,2,3.5,Devil's Due,6442
+COMIC,2009,MARCH,208,Sonic Universe,2,2.5,Archie,6396
+COMIC,2009,MARCH,209,Official Index To Marvel Universe,3,3.99,Marvel,6330
+COMIC,2009,MARCH,210,Black Panther 2,1 2nd Ptg,3.99,Marvel,6291
+COMIC,2009,MARCH,211,Man With No Name,8,3.5,Dynamic,6236
+COMIC,2009,MARCH,212,"Supergirl Cosmic Adventures In The8th Grade",4,2.5,DC,6199
+COMIC,2009,MARCH,213,Terminator Salvation Movie Preq,3,3.99,IDW,5951
+COMIC,2009,MARCH,214,Flash Gordon,4,3.99,Ardden,5919
+COMIC,2009,MARCH,215,30 Days of Night 30 Days Til Death,4,3.99,IDW,5901
+COMIC,2009,MARCH,216,Groom Lake,1,3.99,IDW,5826
+COMIC,2009,MARCH,217,Hotwire,2,2.99,Radical,5809
+COMIC,2009,MARCH,218,Battlestar Galactica Cylon War,3,3.99,Dynamic,5795
+COMIC,2009,MARCH,219,Young Liars,13,2.99,DC,5734
+COMIC,2009,MARCH,220,Amazon,1,3.5,Dark Horse,5588
+COMIC,2009,MARCH,221,Green Lantern Corps,33 2nd Ptg,2.99,DC,5563
+COMIC,2009,MARCH,222,Stormwatch Phd,20,2.99,DC,5554
+COMIC,2009,MARCH,223,Hack Slash Series,21 Titus Cvr A,3.5,Devil's Due,5552
+COMIC,2009,MARCH,225,Super Friends,13,2.5,DC,5386
+COMIC,2009,MARCH,226,Scourge of Gods,3,5.99,Marvel,5159
+COMIC,2009,MARCH,227,Usagi Yojimbo,119,3.5,Dark Horse,5141
+COMIC,2009,MARCH,228,Batman,686,3.99,DC,5132
+COMIC,2009,MARCH,229,Secret Warriors,1 2nd Ptg,3.99,Marvel,5059
+COMIC,2009,MARCH,230,Aspen Seasons Winter 2009,,2.99,Aspen,5011
+COMIC,2009,MARCH,231,Phantom Ghost Who Walks,1 Sy Barry Cvr,3.99,Moonstone,4973
+COMIC,2009,MARCH,232,Ultimatum,2,3.99,Marvel,4860
+COMIC,2009,MARCH,233,Life And Times of Savior 28,1,3.99,IDW,4825
+COMIC,2009,MARCH,234,Invincible Iron Man,10 2nd Ptg Larroca Var,2.99,Marvel,4731
+COMIC,2009,MARCH,235,Marvel Adventures Spider-Man,49,2.99,Marvel,4639
+COMIC,2009,MARCH,236,Doctor Who Classics Series 2,4,3.99,IDW,4614
+COMIC,2009,MARCH,237,Bang Tango,2,2.99,DC,4538
+COMIC,2009,MARCH,238,Bomb Queen V,6,3.5,Image,4472
+COMIC,2009,MARCH,239,Rawbone,1,3.99,Avatar,4469
+COMIC,2009,MARCH,240,Punisher,2 2nd Ptg Opena Var,2.99,Marvel,4401
+COMIC,2009,MARCH,241,City of Dust,5,2.99,Radical,4392
+COMIC,2009,MARCH,242,Marvel Adventures Avengers,34,2.99,Marvel,4378
+COMIC,2009,MARCH,243,Special Forces,4,2.99,Image,4265
+COMIC,2009,MARCH,244,New Avengers,49 2nd Ptg Tan Var,3.99,Marvel,4250
+COMIC,2009,MARCH,245,"Final Crisis Rage of The RedLanterns",1 3rd Ptg,3.99,DC,4234
+COMIC,2009,MARCH,246,Agents of Atlas,1 2nd Ptg,3.99,Marvel,4187
+COMIC,2009,MARCH,247,Impaler,2,2.99,Image,4171
+COMIC,2009,MARCH,248,Killer of Demons,1,3.99,Image,4004
+COMIC,2009,MARCH,250,Lillim,1,2.99,Image,3939
+COMIC,2009,MARCH,251,Scooby Doo,142,2.5,DC,3862
+COMIC,2009,MARCH,252,Green Lantern,38,2.99,DC,3806
+COMIC,2009,MARCH,253,Stingers,1,2.99,Zenescope,3776
+COMIC,2009,MARCH,254,Chucky Vol. 2,1,3.5,Devil's Due,3724
+COMIC,2009,MARCH,255,Marvel Adventures Super Heroes,9,2.99,Marvel,3715
+COMIC,2009,MARCH,256,Shrapnel,3,2.99,Radical,3708
+COMIC,2009,MARCH,257,Greatest American Hero,2,3.95,Astonish,3679
+COMIC,2009,MARCH,258,Secret Invasion Chronicles,1,5.99,Marvel,3675
+COMIC,2009,MARCH,259,Elephantmen,17,3.5,Image,3639
+COMIC,2009,MARCH,260,Sir Apropos of Nothing,5,3.99,IDW,3616
+COMIC,2009,MARCH,261,Hillary Clinton One Shot,,3.99,Bluewater,3610
+COMIC,2009,MARCH,262,Female Force Sarah Palin,,3.99,Bluewater,3574
+COMIC,2009,MARCH,264,Bad Dog,2,3.5,Image,3349
+COMIC,2009,MARCH,265,Mysterius The Unfathomable,3,2.99,DC,3342
+COMIC,2009,MARCH,266,Ghost Whisperer The Muse,4,3.99,IDW,3328
+COMIC,2009,MARCH,267,Resistance,4,3.99,DC,3318
+COMIC,2009,MARCH,268,Eureka,3,3.99,Boom,3301
+COMIC,2009,MARCH,269,Sherlock Holmes & Kolchak,1,3.99,Moonstone,3239
+COMIC,2009,MARCH,270,Shonen Jump Apr 09,,4.99,Viz,3165
+COMIC,2009,MARCH,271,Marvel Adventures Fantastic Four,46,2.99,Marvel,3134
+COMIC,2009,MARCH,272,Mercy Sparx,3,3.5,Devil's Due,3088
+COMIC,2009,MARCH,273,Marvel Illustrated Odyssey,7,3.99,Marvel,3077
+COMIC,2009,MARCH,274,"Transformers Best of the Uk City ofFear",2,3.99,IDW,3049
+COMIC,2009,MARCH,275,Watchmensch,,3.99,Brain Scan,2947
+COMIC,2009,MARCH,276,Jersey Gods,2,3.5,Image,2912
+COMIC,2009,MARCH,277,Savage Dragon,145 Cvr A,3.5,Image,2882
+COMIC,2009,MARCH,278,Dark Avengers,1 2nd Ptg,3.99,Marvel,2852
+COMIC,2009,MARCH,279,Mouse Guard Winter 1152,5,3.5,Archaia,2849
+COMIC,2009,MARCH,280,Warhammer 40k Defenders of Ultramar,4,3.99,Boom,2815
+COMIC,2009,MARCH,281,"Patricia Briggs Mercy ThompsonHomecoming",2,3.99,Dabel,2779
+COMIC,2009,MARCH,282,War Machine,2 2nd Ptg,2.99,Marvel,2738
+COMIC,2009,MARCH,283,Mirrors Edge,5,3.99,DC,2685
+COMIC,2009,MARCH,284,Zombies That Ate The World,2,3.5,Devil's Due,2685
+COMIC,2009,MARCH,285,Proof,18,3.5,Image,2587
+COMIC,2009,MARCH,286,Fall of Cthulhu Apocalypse,4,3.99,Boom,2513
+COMIC,2009,MARCH,287,Archie,595,2.5,Archie,2484
+COMIC,2009,MARCH,288,Soul Kiss,2,3.5,Image,2474
+COMIC,2009,MARCH,289,Looney Tunes,172,2.5,DC,2387
+COMIC,2009,MARCH,290,Zombie Tales,12,3.99,Boom,2189
+COMIC,2009,MARCH,291,Age of Bronze,28,3.5,Image,2176
+COMIC,2009,MARCH,292,Kolchak Tales Annual,1,6.5,Moonstone,2163
+COMIC,2009,MARCH,293,Tales of TMNT,56,3.25,Mirage,2163
+COMIC,2009,MARCH,294,Marvel Your Universe,2,5.99,Marvel,2150
+COMIC,2009,MARCH,295,Wolverine Poster Book,,5.99,Marvel,2089
+COMIC,2009,MARCH,296,Dead,3,3.95,Berserker,2081
+COMIC,2009,MARCH,297,Watchmen,1 New Ptg,1.5,DC,2068
+COMIC,2009,MARCH,298,Super Human Resources,1,3.5,Ape,2052
+COMIC,2009,MARCH,299,Caped,1,3.99,Boom,1983
+COMIC,2009,MARCH,300,Final Crisis,7,3.99,DC,1962
+TPB,2009,MARCH,1,Watchmen,,19.99,DC,32127
+TPB,2009,MARCH,2,"Stand Captain Trips Prem HC BermejoEd",,24.99,Marvel,14458
+TPB,2009,MARCH,3,Jack of Fables Vol. 5 Turning Pages,,14.99,DC,4975
+TPB,2009,MARCH,4,"Alan Moore Light of Thy CountenanceGn",,7.99,Avatar,4301
+TPB,2009,MARCH,5,Fruits Basket Vol. 22,,10.99,Tokyopop,3960
+TPB,2009,MARCH,6,"Invincible Iron Man Vol. 1 FiveNightmares",,19.99,Marvel,3907
+TPB,2009,MARCH,7,Naruto Vol. 40,,7.95,Viz,3855
+TPB,2009,MARCH,8,Naruto Vol. 38,,7.95,Viz,3851
+TPB,2009,MARCH,9,Naruto Vol. 41,,7.95,Viz,3835
+TPB,2009,MARCH,10,American Jesus Vol. 1 Chosen,,9.99,Image,3814
+TPB,2009,MARCH,11,"Powers Vol. 12 Coolest DeadSuperheroes",,24.99,Marvel,3737
+TPB,2009,MARCH,12,Naruto Vol. 39,,7.95,Viz,3665
+TPB,2009,MARCH,13,Bleach Vol. 26,,7.95,Viz,3608
+TPB,2009,MARCH,14,Wolverine Origin,,16.99,Marvel,3544
+TPB,2009,MARCH,15,"Mighty Avengers Vol. 3 SecretInvasion Book 1",,14.99,Marvel,3457
+TPB,2009,MARCH,16,Daredevil Lady Bullseye,,16.99,Marvel,3449
+TPB,2009,MARCH,17,Superman Brainiac HC,,19.99,DC,3427
+TPB,2009,MARCH,18,Secret Invasion X-Men,,14.99,Marvel,3279
+TPB,2009,MARCH,19,"Air Vol. 1 Letters From LostCountries",,9.99,DC,3195
+TPB,2009,MARCH,20,Berserk Vol. 28,,13.95,Dark Horse,3194
+TPB,2009,MARCH,21,"Transmetropolitan Vol. 1 Back OnThe Street",,14.99,DC,3164
+TPB,2009,MARCH,22,"Scott Pilgrim Vol. 5 Sp Vs TheUniverse",,11.95,Oni,3069
+TPB,2009,MARCH,23,Secret Invasion Inhumans,,14.99,Marvel,3001
+TPB,2009,MARCH,24,"Deadpool Prem HC Vol. 1 SecretInvasion",,19.99,Marvel,2985
+TPB,2009,MARCH,25,Secret Invasion Amazing Spider-Man,,14.99,Marvel,2972
+TPB,2009,MARCH,26,Savage Sword of Conan Vol. 5,,19.95,Dark Horse,2948
+TPB,2009,MARCH,27,"New Avengers Vol. 8 Secret InvasionBook 1",,14.99,Marvel,2899
+TPB,2009,MARCH,28,Secret Invasion Thor,,14.99,Marvel,2894
+TPB,2009,MARCH,29,Fantastic Four Worlds Greatest,,19.99,Marvel,2754
+TPB,2009,MARCH,30,Superman Batman Enemies Among Us,,12.99,DC,2727
+TPB,2009,MARCH,31,Naruto Vol. 36,,7.95,Viz,2704
+TPB,2009,MARCH,32,"Wolverine By Claremont &Miller",,16.99,Marvel,2685
+TPB,2009,MARCH,33,Wolverine Weapon X,,16.99,Marvel,2649
+TPB,2009,MARCH,34,Joker HC,,19.99,DC,2613
+TPB,2009,MARCH,35,Angel After The Fall HC Vol. 3,,24.99,IDW,2599
+TPB,2009,MARCH,36,"Showcase Presents Justice League ofAmerica Vol. 4",,16.99,DC,2542
+TPB,2009,MARCH,37,Walking Dead Vol. 9 Here We Remain,,14.99,Image,2504
+TPB,2009,MARCH,38,Batman Chronicles Vol. 7,,14.99,DC,2500
+TPB,2009,MARCH,39,Batman Haunted Gotham,,19.99,DC,2469
+TPB,2009,MARCH,40,Perry Bible Fellowship Almanack HC,,24.95,Dark Horse,2469
+TPB,2009,MARCH,41,Walking Dead Vol. 1 Days Gone Bye,,9.99,Image,2346
+TPB,2009,MARCH,42,Guardians of Galaxy Vol. 1 Legacy,,16.99,Marvel,2258
+TPB,2009,MARCH,43,Shazam Monster Society of Evil,,19.99,DC,2166
+TPB,2009,MARCH,44,Secret Invasion Who Do You Trust,,19.99,Marvel,2094
+TPB,2009,MARCH,45,Runaways Prem HC Dead Wrong,,19.99,Marvel,2064
+TPB,2009,MARCH,46,Ms Marvel Vol. 5 Secret Invasion,,14.99,Marvel,2012
+TPB,2009,MARCH,47,Losers By Jack Kirby HC,,39.99,DC,1988
+TPB,2009,MARCH,48,Showcase Presents Ambush Bug Vol. 1,,16.99,DC,1958
+TPB,2009,MARCH,49,Anna Mercury Vol. 1 The Cutter,,19.99,Avatar,1945
+TPB,2009,MARCH,50,Naruto Vol. 37,,7.95,Viz,1932
+TPB,2009,MARCH,51,"Courtney Crumrin Vol. 4 MonstrousHoliday",,11.95,Oni,1928
+TPB,2009,MARCH,52,"Official Handbook Marvel Univ A ToZ Prem HC Vol. 7",,24.99,Marvel,1902
+TPB,2009,MARCH,53,Batman Rip Deluxe Edition HC,,24.99,DC,1896
+TPB,2009,MARCH,54,Sonic The Hedgehog Archives Vol. 10,,7.95,Archie,1869
+TPB,2009,MARCH,55,Warcraft Legends Vol. 3,,10.99,Tokyopop,1850
+TPB,2009,MARCH,56,Secret Invasion New Warriors,,24.99,Marvel,1779
+TPB,2009,MARCH,57,Marvel Masterworks X-Men Vol. 1,,24.99,Marvel,1762
+TPB,2009,MARCH,58,Punisher War Journal Vol. 4,,16.99,Marvel,1717
+TPB,2009,MARCH,59,"Sandman Mystery Theatre Vol. 7 Mist& Phantom",,19.99,DC,1716
+TPB,2009,MARCH,60,"Batman The Killing Joke Special EdHC",,17.99,DC,1713
+TPB,2009,MARCH,61,Naruto Vol. 35,,7.95,Viz,1696
+TPB,2009,MARCH,62,"Essential Power Man And Iron FistVol. 2",,19.99,Marvel,1671
+TPB,2009,MARCH,63,Secret Invasion,,29.99,Marvel,1662
+TPB,2009,MARCH,64,"Justice League International HCVol. 4",,24.99,DC,1647
+TPB,2009,MARCH,65,Justice League International Vol. 1,,17.99,DC,1593
+TPB,2009,MARCH,66,All Star Superman HC Vol. 2,,19.99,DC,1566
+TPB,2009,MARCH,67,Tsubasa Vol. 1: Those With Wings,,14.99,Tokyopop,1546
+TPB,2009,MARCH,68,Catwoman The Long Road Home,,17.99,DC,1545
+TPB,2009,MARCH,69,"Immortal Iron Fist Prem HC Vol. 4Mortal Iron Fist",,19.99,Marvel,1543
+TPB,2009,MARCH,70,V For Vendetta,,19.99,DC,1539
+TPB,2009,MARCH,71,Squadron Supreme Pre War Years,,16.99,Marvel,1523
+TPB,2009,MARCH,72,"Sonic The Hedgehog Archives Vol. 0Beginning",,7.95,Archie,1483
+TPB,2009,MARCH,73,Batman Dark Knight Returns,,14.99,DC,1482
+TPB,2009,MARCH,74,She-Hulk Vol. 7 Here Today,,14.99,Marvel,1473
+TPB,2009,MARCH,75,"Ben Ten Alien Force Vol. 1 Ben 10Returns",,7.99,Random House,1445
+TPB,2009,MARCH,76,Classic Gi Joe Vol. 2,,19.99,IDW,1444
+TPB,2009,MARCH,77,"Squadron Supreme Vol. 1 Power ToThe People",,16.99,Marvel,1433
+TPB,2009,MARCH,78,X-Men First Class Wonder Years,,19.99,Marvel,1370
+TPB,2009,MARCH,79,Simpsons Comics Vol. 17 Hit The Road,,15.95,Bongo,1364
+TPB,2009,MARCH,80,Claymore Vol. 14,,7.99,Viz,1361
+TPB,2009,MARCH,81,Oh My Goddess Rtl Vol. 11,,10.95,Dark Horse,1352
+TPB,2009,MARCH,82,"Wonder Woman The Ends of The EarthHC",,24.99,DC,1352
+TPB,2009,MARCH,83,X-Men Legacy Sins of The Father,,14.99,Marvel,1350
+TPB,2009,MARCH,84,Fables Vol. 11 War And Pieces,,17.99,DC,1346
+TPB,2009,MARCH,85,Starman Omnibus HC Vol. 2,,49.99,DC,1337
+TPB,2009,MARCH,86,"Buffy the Vampire Slayer Season 8Vol. 3 Wolves At The Gate",,15.95,Dark Horse,1334
+TPB,2009,MARCH,87,"Franklin Richards Not So SecretInvasion Digest",,9.99,Marvel,1332
+TPB,2009,MARCH,88,"Hulk Skaar Son of Hulk Prem HC Vol.1",,29.99,Marvel,1305
+TPB,2009,MARCH,89,Batman Hush Vol. 2,,12.99,DC,1300
+TPB,2009,MARCH,90,Y The Last Man Vol. 1 Unmanned,,12.99,DC,1295
+TPB,2009,MARCH,91,"Spider-Man Prem HC Crime AndPunisher",,19.99,Marvel,1278
+TPB,2009,MARCH,92,"Complete Peanuts HC 1971-1972 Vol.11",,28.99,Fantagraphics,1269
+TPB,2009,MARCH,93,Fables Vol. 1 Legends In Exile,,9.99,DC,1262
+TPB,2009,MARCH,94,Flash Archives HC Vol. 5,,49.99,DC,1234
+TPB,2009,MARCH,95,Super Friends For Justice,,12.99,DC,1174
+TPB,2009,MARCH,96,"Sandman Vol. 1 Preludes &Nocturnes",,19.99,DC,1173
+TPB,2009,MARCH,97,New Mutants Classic Vol. 4,,24.99,Marvel,1171
+TPB,2009,MARCH,98,Nana Vol. 15,,8.99,Viz,1159
+TPB,2009,MARCH,99,"Walking Dead Vol. 3 Safety BehindBars",,14.99,Image,1153
+TPB,2009,MARCH,100,Watchmen HC,,39.99,DC,1153
+TPB,2009,MARCH,101,Teen Titans Spotlight Cyborg,,19.99,DC,1144
+TPB,2009,MARCH,102,"American Flagg Definitive Coll Vol.2",,19.99,Image,1139
+TPB,2009,MARCH,103,Walking Dead Vol. 5 Best Defense,,12.99,Image,1133
+TPB,2009,MARCH,104,"Brave And The Bold HC Vol. 3 DemonsAnd Dragons",,24.99,DC,1125
+TPB,2009,MARCH,105,Hack Slash Vol. 5,,18.99,Devil's Due,1122
+TPB,2009,MARCH,106,"Golden Age Sheena Queen of theJungle 2",,18.99,Devil's Due,1109
+TPB,2009,MARCH,107,"Captain America Vol. 3 Death ofCaptain America",,14.99,Marvel,1106
+TPB,2009,MARCH,108,Black Cat Vol. 19,,7.99,Viz,1080
+TPB,2009,MARCH,109,War That Time Forgot Vol. 1,,17.99,DC,1074
+TPB,2009,MARCH,110,Soleil Samurai HC Vol. 1 Legend,,24.99,Marvel,1057
+TPB,2009,MARCH,111,Complete Just A Pilgrim HC,,29.99,Dynamic,1052
+TPB,2009,MARCH,112,"Turok Son of Stone Archives HC Vol.1",,49.95,Dark Horse,1047
+TPB,2009,MARCH,113,Checkmate Chimera,,17.99,DC,1045
+TPB,2009,MARCH,114,"Y The Last Man Vol. 10 Whys AndWherefores",,14.99,DC,1043
+TPB,2009,MARCH,115,Gentlemens Alliance Vol. 9,,8.99,Viz,994
+TPB,2009,MARCH,116,Avengers Prem HC Hawkeye,,24.99,Marvel,990
+TPB,2009,MARCH,117,"DC Library Losh Life And Death ofFerro Lad HC",,39.99,DC,990
+TPB,2009,MARCH,118,Kabuki HC Alchemy,,29.99,Marvel,990
+TPB,2009,MARCH,119,"Code Geass Lelouch of The RebellionVol. 3",,10.99,Bandai,987
+TPB,2009,MARCH,120,"Marvel Masterworks Fantastic FourVol. 1",,24.99,Marvel,985
+TPB,2009,MARCH,121,Madman Atomic Comics Vol. 2,,19.99,Image,979
+TPB,2009,MARCH,122,Y The Last Man Vol. 2 Cycles,,12.99,DC,967
+TPB,2009,MARCH,123,"Secret History of The AuthorityHawksmoor",,19.99,DC,966
+TPB,2009,MARCH,124,Samurai Deeper Kyo Vol. 33,,10.99,Tokyopop,949
+TPB,2009,MARCH,125,"Buffy the Vampire Slayer Season 8Vol. 1 Long Way Home",,15.95,Dark Horse,946
+TPB,2009,MARCH,126,"Preacher Vol. 1 Gone To Texas NewEdition",,14.99,DC,941
+TPB,2009,MARCH,127,"Avengers Disassembled HC Iron ManThor Capt America",,49.99,Marvel,938
+TPB,2009,MARCH,128,Y The Last Man Vol. 3 One Small Step,,12.99,DC,930
+TPB,2009,MARCH,129,"Spider-Man Loves Mary Jane Prem HCVol. 1 Jinx",,19.99,Marvel,923
+TPB,2009,MARCH,130,Batman The Long Halloween,,19.99,DC,921
+TPB,2009,MARCH,131,A Drifting Life,,29.95,Drawn & Quarterly,913
+TPB,2009,MARCH,132,Fables Vol. 2 Animal Farm,,12.99,DC,904
+TPB,2009,MARCH,133,Shaman King Vol. 21,,7.95,Viz,897
+TPB,2009,MARCH,134,Loeg Vol. One,,14.99,DC,888
+TPB,2009,MARCH,135,"Appleseed Vol. 4 Promethean Balance3rd Ed",,14.95,Dark Horse,880
+TPB,2009,MARCH,136,Naruto Vol. 1,,7.95,Viz,872
+TPB,2009,MARCH,137,Watchmen The Absolute Edition HC,,75.0,DC,857
+TPB,2009,MARCH,138,Walking Dead Vol. 8 Made To Suffer,,14.99,Image,854
+TPB,2009,MARCH,139,Ms Marvel Prem HC Vol. 6 Ascension,,19.99,Marvel,830
+TPB,2009,MARCH,140,"100 Bullets Vol. 1 First Shot LastCall",,9.99,DC,828
+TPB,2009,MARCH,141,Umbrella Academy Apocalypse Suite,,17.95,Dark Horse,828
+TPB,2009,MARCH,142,Civil War,,24.99,Marvel,824
+TPB,2009,MARCH,143,"Buffy the Vampire Slayer Season 8Vol. 2 No Future For You",,15.95,Dark Horse,822
+TPB,2009,MARCH,144,Pluto Urasawa X Tezuka Vol. 2,,12.99,Viz,809
+TPB,2009,MARCH,145,Marvel Adventures Ff Doomed Digest,,9.99,Marvel,807
+TPB,2009,MARCH,146,Y The Last Man Vol. 4 Safeword,,12.99,DC,803
+TPB,2009,MARCH,147,"Scott Pilgrim Vol. 1 Sp PreciousLittle Life",,11.95,Oni,802
+TPB,2009,MARCH,148,All Star Superman Vol. 1,,12.99,DC,788
+TPB,2009,MARCH,149,Transformers Beast Wars Omnibus,,24.99,IDW,786
+TPB,2009,MARCH,150,Criminal Vol. 4 Bad Night,,14.99,Marvel,781
+TPB,2009,MARCH,151,"1001 Arabian Nights Adventures ofSinbad Vol. 1",,15.99,Zenescope,780
+TPB,2009,MARCH,152,"Scott Pilgrim Vol. 4 Sp Gets ItTogether",,11.95,Oni,771
+TPB,2009,MARCH,153,Y The Last Man Vol. 6 Girl On Girl,,12.99,DC,768
+TPB,2009,MARCH,154,"Uncanny X-Men New Age Vol. 1 End ofHistory",,12.99,Marvel,766
+TPB,2009,MARCH,155,Arkham Asylum Anniversary Ed SC,,17.99,DC,761
+TPB,2009,MARCH,156,"Ultimate Spider-Man Prem HC Power& Responsibility",,24.99,Marvel,756
+TPB,2009,MARCH,157,New Brighton Archeological Society,,17.99,Image,752
+TPB,2009,MARCH,158,Tor A Prehistoric Odyssey HC,,24.99,DC,745
+TPB,2009,MARCH,159,Serenity Better Days,,9.95,Dark Horse,741
+TPB,2009,MARCH,160,Green Lantern Rebirth,,14.99,DC,737
+TPB,2009,MARCH,161,Eerie Archives HC Vol. 1,,49.95,Dark Horse,735
+TPB,2009,MARCH,162,Wonderland HC,,19.99,Disney,735
+TPB,2009,MARCH,163,Saga of The Swamp Thing HC Book 1,,24.99,DC,729
+TPB,2009,MARCH,164,Kurohime Vol. 10,,7.99,Viz,723
+TPB,2009,MARCH,165,Phoenix Wright Ace Attorney Vol. 2,,14.99,Random House,718
+TPB,2009,MARCH,166,"Tarzan The Jesse Marsh Years HCVol. 1",,49.95,Dark Horse,713
+TPB,2009,MARCH,167,"Preacher Vol. 2 Until The End ofThe World New Edition",,14.99,DC,711
+TPB,2009,MARCH,168,Y The Last Man Vol. 5 Ring of Truth,,14.99,DC,710
+TPB,2009,MARCH,169,"Scott Pilgrim Vol. 3 InfiniteSadness",,11.95,Oni,708
+TPB,2009,MARCH,170,Classic Gi Joe Vol. 1,,19.99,IDW,705
+TPB,2009,MARCH,171,Walking Dead Vol. 7 The Calm Before,,12.99,Image,699
+TPB,2009,MARCH,172,Y The Last Man Vol. 9 Motherland,,14.99,DC,693
+TPB,2009,MARCH,173,Warhammer Crown of Destruction,,16.99,Boom,692
+TPB,2009,MARCH,174,Wormwood Gentleman Corpse HC Vol. 1,,24.99,IDW,692
+TPB,2009,MARCH,175,Hunter X Hunter Vol. 25,,7.99,Viz,691
+TPB,2009,MARCH,176,Walking Dead Vol. 6 Sorrowful Life,,12.99,Image,691
+TPB,2009,MARCH,177,Skip Beat Vol. 17,,8.99,Viz,687
+TPB,2009,MARCH,178,Sayonara Zetsubo Sensei Vol. 1,,10.99,Random House,686
+TPB,2009,MARCH,179,Batman Year One Deluxe SC,,14.99,DC,685
+TPB,2009,MARCH,180,Kingdom Come New Edition,,17.99,DC,679
+TPB,2009,MARCH,181,Blankets,,29.95,Top Shelf,671
+TPB,2009,MARCH,182,Suzuka Vol. 11,,13.99,Random House,670
+TPB,2009,MARCH,183,Fallen Angel Omnibus Vol. 1,,24.99,IDW,667
+TPB,2009,MARCH,184,Red Star Sword of Lies Vol. 1,,34.99,Archie,660
+TPB,2009,MARCH,185,Sa Vol. 9,,8.99,Viz,654
+TPB,2009,MARCH,186,"Marvel Masterworks Mighty Thor HCVol. 8",,54.99,Marvel,653
+TPB,2009,MARCH,187,Fables Vol. 3 Storybook Love,,14.99,DC,652
+TPB,2009,MARCH,188,"Bakugan Battle Brawlers Vol. 2Masquerade Ball",,7.99,Random House,651
+TPB,2009,MARCH,189,"Green Lantern HC Vol. 2 TheSinestro Corps War",,24.99,DC,649
+TPB,2009,MARCH,190,Tezukas Black Jack Vol. 4,,16.95,Random House,649
+TPB,2009,MARCH,191,"Marvel Illustrated Picture ofDorian Gray",,14.99,Marvel,647
+TPB,2009,MARCH,192,Walking Dead Vol. 2 Miles Behind Us,,12.99,Image,641
+TPB,2009,MARCH,193,Y The Last Man Vol. 8 Kimono Dragons,,14.99,DC,635
+TPB,2009,MARCH,194,Sandman Vol. 2 The Dolls House,,19.99,DC,634
+TPB,2009,MARCH,195,"League of Extraordinary GentlemenVol. 2",,14.99,DC,632
+TPB,2009,MARCH,196,Y The Last Man Vol. 7 Paper Dolls,,14.99,DC,625
+TPB,2009,MARCH,197,Enchanter Vol. 10,,12.95,Digital Manga,624
+TPB,2009,MARCH,198,Peace Maker Kurogane Vol. 1,,10.99,Tokyopop,622
+TPB,2009,MARCH,199,Fables Vol. 10 The Good Prince,,17.99,DC,620
+TPB,2009,MARCH,200,Wild Ones Vol. 6,,8.99,Viz,620
+TPB,2009,MARCH,201,Atomic Robo Vol. 2,,19.95,Red 5,615
+TPB,2009,MARCH,202,Hulk Vol. 1 Red Hulk,,19.99,Marvel,615
+TPB,2009,MARCH,203,Batman Hush Vol. 1,,12.99,DC,614
+TPB,2009,MARCH,204,Boys Vol. 3 Good For The Soul,,19.99,Dynamic,613
+TPB,2009,MARCH,205,Walking Dead Vol. 4 Hearts Desire,,12.99,Image,613
+TPB,2009,MARCH,206,High School Debut Vol. 8,,8.99,Viz,607
+TPB,2009,MARCH,207,Tezukas Black Jack Px HC Vol. 3,,24.95,Random House,605
+TPB,2009,MARCH,208,"Ted Mckeever Library HC Vol. 3Metropol",,39.99,Image,603
+TPB,2009,MARCH,209,DMZ Vol. 6 Blood In The Game,,12.99,DC,600
+TPB,2009,MARCH,210,Superman Red Son,,17.99,DC,598
+TPB,2009,MARCH,211,Hikaru No Go Vol. 14,,7.95,Viz,597
+TPB,2009,MARCH,212,Necronomicon,,15.99,Boom,594
+TPB,2009,MARCH,213,Dragonball Vizbig Ed Vol. 3,,17.99,Viz,593
+TPB,2009,MARCH,214,Danger Unlimited,,19.99,IDW,592
+TPB,2009,MARCH,215,Boys Vol. 1 Name of The Game,,16.99,Dynamic,591
+TPB,2009,MARCH,216,Strongman Gn,,9.95,Slave Labor,590
+TPB,2009,MARCH,217,Star Wars Legacy Vol. 5,,15.95,Dark Horse,588
+TPB,2009,MARCH,218,Justice Vol. 2,,14.99,DC,581
+TPB,2009,MARCH,219,Street Fighter Tribute,,39.99,Udon,577
+TPB,2009,MARCH,220,Humbug HC,,60.0,Fantagraphics,574
+TPB,2009,MARCH,221,Mask Omnibus Vol. 2,,24.95,Dark Horse,571
+TPB,2009,MARCH,222,Captive Hearts Vol. 3,,8.99,Viz,569
+TPB,2009,MARCH,223,Scott Pilgrim Vol. 2 Vs The World,,11.95,Oni,568
+TPB,2009,MARCH,224,Star Trek Archives Vol. 4 DS9,,19.99,IDW,566
+TPB,2009,MARCH,225,"Preacher Vol. 4 Ancient History NewEdition",,14.99,DC,565
+TPB,2009,MARCH,226,Lunar Legend Tsukihime Vol. 6,,9.95,Dr. Master,563
+TPB,2009,MARCH,227,Platinum Grit Vol. 1,,14.99,Image,561
+TPB,2009,MARCH,228,"Fables Vol. 4 March of The WoodenSoldiers",,17.99,DC,560
+TPB,2009,MARCH,229,Walking Dead HC Vol. 4,,29.99,Image,556
+TPB,2009,MARCH,230,Mini Marvels Secret Invasion Digest,,9.99,Marvel,555
+TPB,2009,MARCH,231,"Preacher Vol. 3 Proud Americans NewEdition",,14.99,DC,554
+TPB,2009,MARCH,232,"Darkness Accursed Vol. 1 DirectMarket Ed",,4.99,Image,553
+TPB,2009,MARCH,233,Sandman Vol. 3 Dream Country,,14.99,DC,551
+TPB,2009,MARCH,234,Angel After The Fall HC Vol. 1,,24.99,IDW,550
+TPB,2009,MARCH,235,Mome Vol. 14,,14.99,Fantagraphics,535
+TPB,2009,MARCH,236,Lenore Vol. 2 Wedgies,,13.95,Slave Labor,531
+TPB,2009,MARCH,237,"Wizard X-Men Masterpiece EditionDlx HC",,29.99,Wizard,530
+TPB,2009,MARCH,238,Desperadoes Omnibus,,24.99,IDW,525
+TPB,2009,MARCH,239,Goon Vol. 1 Nothin But Misery,,15.95,Dark Horse,519
+TPB,2009,MARCH,240,Love Com Vol. 11,,8.99,Viz,516
+TPB,2009,MARCH,241,"Tiny Titans Vol. 1 Welcome To TheTreehouse",,12.99,DC,516
+TPB,2009,MARCH,242,Emma Vol. 8,,9.99,DC,515
+TPB,2009,MARCH,243,Boys Vol. 2 Get Some,,19.99,Dynamic,512
+TPB,2009,MARCH,244,Deadpool Classic Vol. 1,,29.99,Marvel,512
+TPB,2009,MARCH,245,Galaxy Quest Global Warning,,19.99,IDW,509
+TPB,2009,MARCH,246,Love Attack Vol. 6,,10.99,Tokyopop,509
+TPB,2009,MARCH,247,DMZ Vol. 1 On The Ground,,9.99,DC,506
+TPB,2009,MARCH,248,Adventures of Blanche HC,,15.95,Dark Horse,504
+TPB,2009,MARCH,249,NG Life Vol. 1,,10.99,Tokyopop,504
+TPB,2009,MARCH,250,Prince of Tennis Vol. 30,,7.95,Viz,504
+TPB,2009,MARCH,251,Gin Tama Vol. 11,,7.99,Viz,494
+TPB,2009,MARCH,252,Hack Slash Omnibus Vol. 1,,34.99,Devil's Due,494
+TPB,2009,MARCH,253,From Hell,,35.0,Top Shelf,491
+TPB,2009,MARCH,254,"Green Lantern HC Vol. 1 TheSinestro Corps War",,24.99,DC,491
+TPB,2009,MARCH,255,Hulk Wwh,,24.99,Marvel,490
+TPB,2009,MARCH,256,Mighty Avengers HC Cho Cvr,,34.99,Marvel,490
+TPB,2009,MARCH,257,Fables Vol. 8 Wolves,,17.99,DC,489
+TPB,2009,MARCH,258,Mamotte Shugogetten Vol. 4,,14.99,Tokyopop,488
+TPB,2009,MARCH,259,Yu Gi Oh Gx Vol. 2,,7.99,Viz,486
+TPB,2009,MARCH,260,Shinobi Life Vol. 2,,10.99,Tokyopop,485
+TPB,2009,MARCH,261,"Transformers Best of the UK TimeWars",,19.99,IDW,485
+TPB,2009,MARCH,262,Ero Sister,,19.95,Icarus,478
+TPB,2009,MARCH,263,Invincible Vol. 3 Perfect Strangers,,12.99,Image,478
+TPB,2009,MARCH,264,"Incredible Hercules Prem HC Love& War",,19.99,Marvel,470
+TPB,2009,MARCH,265,Wolverton Bible HC,,24.99,Fantagraphics,468
+TPB,2009,MARCH,266,Fables Vol. 6 Homelands,,14.99,DC,466
+TPB,2009,MARCH,267,Fables Vol. 5 The Mean Seasons,,14.99,DC,463
+TPB,2009,MARCH,268,"Ex Machina Vol. 1 The First HundredDays",,9.99,DC,462
+TPB,2009,MARCH,269,"Ultimate Spider-Man Vol. 21 War ofThe Symbiotes",,15.99,Marvel,462
+TPB,2009,MARCH,270,"Captain America Vol. 2 Death ofCaptain America",,14.99,Marvel,460
+TPB,2009,MARCH,271,Rurouni Kenshin Vizbig Ed Vol. 5,,17.99,Viz,455
+TPB,2009,MARCH,272,Sandman Vol. 4 Season of Mists,,19.99,DC,454
+TPB,2009,MARCH,273,"Swamp Thing Vol. 1 Saga of TheSwamp Thing",,19.99,DC,454
+TPB,2009,MARCH,274,"Wizard Spider-Man MasterpieceEdition Dlx HC",,29.99,Wizard,454
+TPB,2009,MARCH,275,"Johnny Homicidal Maniac DirectorsCut",,19.95,Slave Labor,450
+TPB,2009,MARCH,276,Star Trek Ultimate Edition,,19.99,Tokyopop,448
+TPB,2009,MARCH,277,Preacher Vol. 8 All Hells A Coming,,17.99,DC,446
+TPB,2009,MARCH,278,Luuna Vol. 1,,12.99,Tokyopop,445
+TPB,2009,MARCH,279,"Star Wars Clone Wars AdventuresVol. 1",,6.95,Dark Horse,443
+TPB,2009,MARCH,280,"Preacher Vol. 5 Dixie Fried NewEdition",,14.99,DC,442
+TPB,2009,MARCH,281,"Preacher Vol. 6 War In The Sun NewEdition",,17.99,DC,442
+TPB,2009,MARCH,282,Live For Love,,12.95,Digital Manga,440
+TPB,2009,MARCH,283,Jungle Book HC,,14.99,IDW,439
+TPB,2009,MARCH,284,Wolverine Origins Vol. 5 Deadpool,,19.99,Marvel,439
+TPB,2009,MARCH,285,Monkey High Vol. 5,,8.99,Viz,437
+TPB,2009,MARCH,286,"Planetary Vol. 1 All Over The WorldAnd Other Stories",,14.99,DC,437
+TPB,2009,MARCH,287,Squee,,15.95,Slave Labor,437
+TPB,2009,MARCH,288,Thor By J Michael Straczynski Vol. 1,,14.99,Marvel,435
+TPB,2009,MARCH,289,Mixed Vegetables Vol. 3,,8.99,Viz,432
+TPB,2009,MARCH,290,"Fables Vol. 7 Arabian Nights AndDays",,14.99,DC,431
+TPB,2009,MARCH,291,Fables Vol. 9 Sons of Empire,,17.99,DC,431
+TPB,2009,MARCH,292,Love Knot,,12.95,Digital Manga,431
+TPB,2009,MARCH,293,Justice Vol. 3,,14.99,DC,430
+TPB,2009,MARCH,294,"DC Universe The Stories of AlanMoore",,19.99,DC,427
+TPB,2009,MARCH,295,"Northlanders Vol. 1 Sven TheReturned",,9.99,DC,427
+TPB,2009,MARCH,296,Way to Heaven,,12.95,Digital Manga,427
+TPB,2009,MARCH,297,Honey & Clover Vol. 5,,8.99,Viz,426
+TPB,2009,MARCH,298,"Judge Dredd Complete Case FilesVol. 12",,33.5,Rebellion,424
+TPB,2009,MARCH,300,Clan of The Nakagamis Vol. 2,,12.95,Digital Manga,421

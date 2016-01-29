@@ -1,0 +1,647 @@
+PUBLICATION_FORMAT,YEAR,MONTH,SALES_RANK,TITLE,ISSUE,PRICE,PUBLISHER,EST_SALES
+COMIC,2015,NOVEMBER,1,Dark Knight III Master Race,1,5.99,DC,440234
+COMIC,2015,NOVEMBER,2,Star Wars Vader Down,1,4.99,Marvel,384969
+COMIC,2015,NOVEMBER,3,Deadpool,1,4.99,Marvel,180565
+COMIC,2015,NOVEMBER,4,Secret Wars,7,3.99,Marvel,177019
+COMIC,2015,NOVEMBER,5,Extraordinary X-Men,1,4.99,Marvel,133716
+COMIC,2015,NOVEMBER,6,All New All Different Avengers,1,4.99,Marvel,128570
+COMIC,2015,NOVEMBER,7,Star Wars,11,3.99,Marvel,126780
+COMIC,2015,NOVEMBER,8,Uncanny X-Men,600,5.99,Marvel,126447
+COMIC,2015,NOVEMBER,9,Star Wars,12,3.99,Marvel,123133
+COMIC,2015,NOVEMBER,10,All New Wolverine,1,4.99,Marvel,119786
+COMIC,2015,NOVEMBER,11,Darth Vader,13,3.99,Marvel,113448
+COMIC,2015,NOVEMBER,12,Mighty Thor,1,4.99,Marvel,112053
+COMIC,2015,NOVEMBER,13,Batman,46,3.99,DC,106989
+COMIC,2015,NOVEMBER,14,Amazing Spider-Man,3,3.99,Marvel,93848
+COMIC,2015,NOVEMBER,15,Deadpool,2,3.99,Marvel,92008
+COMIC,2015,NOVEMBER,16,Darth Vader,12,3.99,Marvel,90077
+COMIC,2015,NOVEMBER,17,Batman Europa,1,4.99,DC,80721
+COMIC,2015,NOVEMBER,18,Ms. Marvel,1,4.99,Marvel,79222
+COMIC,2015,NOVEMBER,19,Carnage,1,3.99,Marvel,69773
+COMIC,2015,NOVEMBER,20,All New Hawkeye,1,3.99,Marvel,68933
+COMIC,2015,NOVEMBER,21,Walking Dead,148,2.99,Image,65526
+COMIC,2015,NOVEMBER,22,Doctor Strange,2,3.99,Marvel,65091
+COMIC,2015,NOVEMBER,23,Chewbacca,3,3.99,Marvel,64672
+COMIC,2015,NOVEMBER,24,Extraordinary X-Men,2,3.99,Marvel,64595
+COMIC,2015,NOVEMBER,25,Spider-Gwen,2,3.99,Marvel,62209
+COMIC,2015,NOVEMBER,26,Web Warriors,1,4.99,Marvel,62096
+COMIC,2015,NOVEMBER,27,Ultimates,1,3.99,Marvel,61406
+COMIC,2015,NOVEMBER,28,Howard The Duck,1,4.99,Marvel,61346
+COMIC,2015,NOVEMBER,29,Venom Space Knight,1,3.99,Marvel,59151
+COMIC,2015,NOVEMBER,30,Invincible Iron Man,3,3.99,Marvel,59069
+COMIC,2015,NOVEMBER,31,Harley Quinn,22,3.99,DC,58344
+COMIC,2015,NOVEMBER,32,Chewbacca,4,3.99,Marvel,58051
+COMIC,2015,NOVEMBER,33,Silk,1,3.99,Marvel,57140
+COMIC,2015,NOVEMBER,34,All New Wolverine,2,3.99,Marvel,55634
+COMIC,2015,NOVEMBER,35,Uncanny Avengers,2,3.99,Marvel,55008
+COMIC,2015,NOVEMBER,36,Saga,31,2.99,Image,53980
+COMIC,2015,NOVEMBER,37,Spider-Woman,1,3.99,Marvel,53885
+COMIC,2015,NOVEMBER,38,Justice League of America,5,3.99,DC,52604
+COMIC,2015,NOVEMBER,39,Guardians of Galaxy,2,3.99,Marvel,51690
+COMIC,2015,NOVEMBER,40,Drax,1,3.99,Marvel,49601
+COMIC,2015,NOVEMBER,41,Thors,4,3.99,Marvel,48113
+COMIC,2015,NOVEMBER,42,Avengers Vs Infinity,1,5.99,Marvel,47490
+COMIC,2015,NOVEMBER,43,Detective Comics,46,3.99,DC,47256
+COMIC,2015,NOVEMBER,44,Star-Lord,1,3.99,Marvel,47104
+COMIC,2015,NOVEMBER,45,Batman and Robin Eternal,5,2.99,DC,46545
+COMIC,2015,NOVEMBER,46,Paper Girls,2,2.99,Image,46274
+COMIC,2015,NOVEMBER,47,Nova,1,3.99,Marvel,45536
+COMIC,2015,NOVEMBER,48,Batman and Robin Eternal,6,2.99,DC,45081
+COMIC,2015,NOVEMBER,49,Hercules,1,3.99,Marvel,44512
+COMIC,2015,NOVEMBER,50,Illuminati,1,3.99,Marvel,44163
+COMIC,2015,NOVEMBER,51,Batman and Robin Eternal,7,2.99,DC,43825
+COMIC,2015,NOVEMBER,52,Kanan,8,3.99,Marvel,42824
+COMIC,2015,NOVEMBER,53,Batman and Robin Eternal,8,2.99,DC,42763
+COMIC,2015,NOVEMBER,54,Vision,1,3.99,Marvel,42119
+COMIC,2015,NOVEMBER,55,Superman,46,3.99,DC,41657
+COMIC,2015,NOVEMBER,56,New Avengers,3,3.99,Marvel,41630
+COMIC,2015,NOVEMBER,57,Carnage,2,3.99,Marvel,41576
+COMIC,2015,NOVEMBER,58,Superman American Alien,1,3.99,DC,41441
+COMIC,2015,NOVEMBER,59,Uncanny Inhumans,2,3.99,Marvel,41321
+COMIC,2015,NOVEMBER,60,Infinity Gauntlet,5,3.99,Marvel,40464
+COMIC,2015,NOVEMBER,61,Black Knight,1,3.99,Marvel,39381
+COMIC,2015,NOVEMBER,62,Green Lantern,46,3.99,DC,38976
+COMIC,2015,NOVEMBER,63,Moon Girl and Devil Dinosaur,1,3.99,Marvel,38133
+COMIC,2015,NOVEMBER,64,Batman Superman,26,3.99,DC,38056
+COMIC,2015,NOVEMBER,65,We Stand On Guard,5,2.99,Image,37227
+COMIC,2015,NOVEMBER,66,Uncanny Avengers Annual,1,4.99,Marvel,36481
+COMIC,2015,NOVEMBER,67,Flash,46,3.99,DC,36153
+COMIC,2015,NOVEMBER,68,Robin Son of Batman,6,3.99,DC,35633
+COMIC,2015,NOVEMBER,69,James Bond,1,3.99,Dynamite,35632
+COMIC,2015,NOVEMBER,70,Action Comics,46,3.99,DC,35569
+COMIC,2015,NOVEMBER,71,Huck,1,3.5,Image,35299
+COMIC,2015,NOVEMBER,72,Spider-Man 2099,3,3.99,Marvel,34969
+COMIC,2015,NOVEMBER,73,Contest of Champions,2,3.99,Marvel,34942
+COMIC,2015,NOVEMBER,74,Justice League Darkseid War Flash,1,3.99,DC,34313
+COMIC,2015,NOVEMBER,75,Harley Quinn & Power Girl,5,3.99,DC,34127
+COMIC,2015,NOVEMBER,76,Fight Club 2,7,3.99,Dark Horse,34105
+COMIC,2015,NOVEMBER,77,Wonder Woman,46,3.99,DC,34042
+COMIC,2015,NOVEMBER,78,Captain America Sam Wilson,3,3.99,Marvel,33984
+COMIC,2015,NOVEMBER,79,Goddamned,1,3.99,Image,33809
+COMIC,2015,NOVEMBER,80,Justice League Darkseid War Superman,1,3.99,DC,33584
+COMIC,2015,NOVEMBER,81,Justice League Darkseid War Green Lantern,1,3.99,DC,33104
+COMIC,2015,NOVEMBER,82,New Suicide Squad,14,2.99,DC,32925
+COMIC,2015,NOVEMBER,83,Captain America White,4,3.99,Marvel,32858
+COMIC,2015,NOVEMBER,84,Wrath of the Eternal Warrior,1*,3.99,Valiant,32528
+COMIC,2015,NOVEMBER,85,Deathstroke,12,2.99,DC,31939
+COMIC,2015,NOVEMBER,86,Grayson,14,3.99,DC,31831
+COMIC,2015,NOVEMBER,87,I Hate Fairyland,2,3.5,Image,31626
+COMIC,2015,NOVEMBER,88,Astonishing Ant-Man,2,3.99,Marvel,31358
+COMIC,2015,NOVEMBER,89,Superman Wonder Woman,23,3.99,DC,31315
+COMIC,2015,NOVEMBER,90,Justice League Darkseid War Shazam,1,3.99,DC,31087
+COMIC,2015,NOVEMBER,91,Spider-Gwen,0,4.99,Marvel,30062
+COMIC,2015,NOVEMBER,92,Monstress,1*,4.99,Image,30041
+COMIC,2015,NOVEMBER,93,Starfire,6,2.99,DC,27941
+COMIC,2015,NOVEMBER,94,Batman Beyond,6,2.99,DC,27778
+COMIC,2015,NOVEMBER,95,Dc Comics Bombshells,4,3.99,DC,27239
+COMIC,2015,NOVEMBER,96,Teen Titans,13,2.99,DC,26511
+COMIC,2015,NOVEMBER,97,Aquaman,46,3.99,DC,25962
+COMIC,2015,NOVEMBER,98,Archie,4,3.99,Archie,25824
+COMIC,2015,NOVEMBER,99,Back To The Future,2*,3.99,IDW,25751
+COMIC,2015,NOVEMBER,100,Klaus,1,3.99,Boom,25674
+COMIC,2015,NOVEMBER,101,Dc Comics Bombshells,5,3.99,DC,25335
+COMIC,2015,NOVEMBER,102,Tokyo Ghost,3,3.99,Image,25198
+COMIC,2015,NOVEMBER,103,Green Arrow,46,2.99,DC,24393
+COMIC,2015,NOVEMBER,104,Outcast By Kirkman & Azaceta,13,2.99,Image,24051
+COMIC,2015,NOVEMBER,105,Groot,6,3.99,Marvel,23714
+COMIC,2015,NOVEMBER,106,Descender,7,2.99,Image,23684
+COMIC,2015,NOVEMBER,107,Angela Queen of Hel,2,3.99,Marvel,23264
+COMIC,2015,NOVEMBER,108,Unbeatable Squirrel Girl,2,3.99,Marvel,23064
+COMIC,2015,NOVEMBER,109,Superman Lois and Clark,2,3.99,DC,22898
+COMIC,2015,NOVEMBER,110,Titans Hunt,2,3.99,DC,22466
+COMIC,2015,NOVEMBER,111,Sinestro,17,2.99,DC,22331
+COMIC,2015,NOVEMBER,112,Earth 2 Society,6,2.99,DC,21948
+COMIC,2015,NOVEMBER,113,Star Trek Green Lantern,5*,3.99,IDW,21801
+COMIC,2015,NOVEMBER,114,Catwoman,46,2.99,DC,21661
+COMIC,2015,NOVEMBER,115,Squadron Sinister,4,3.99,Marvel,21491
+COMIC,2015,NOVEMBER,116,Secret Wars Too,1,4.99,Marvel,21347
+COMIC,2015,NOVEMBER,117,Silver Surfer,15,3.99,Marvel,21343
+COMIC,2015,NOVEMBER,118,Green Lantern The Lost Army,6,2.99,DC,20972
+COMIC,2015,NOVEMBER,119,Howling Commandos of Shield,2,3.99,Marvel,20498
+COMIC,2015,NOVEMBER,120,Tmnt Ongoing,52,3.99,IDW,20384
+COMIC,2015,NOVEMBER,121,Red Hood Arsenal,6,2.99,DC,19857
+COMIC,2015,NOVEMBER,122,Wicked & Divine,16,3.5,Image,19360
+COMIC,2015,NOVEMBER,123,Constantine The Hellblazer,6,2.99,DC,19328
+COMIC,2015,NOVEMBER,124,We Are Robin,6,3.99,DC,19210
+COMIC,2015,NOVEMBER,125,Batman Arkham Knight Genesis,4,2.99,DC,18843
+COMIC,2015,NOVEMBER,126,Jupiters Circle Vol. 2,1,3.5,Image,18175
+COMIC,2015,NOVEMBER,127,Justice League United,15,3.99,DC,17721
+COMIC,2015,NOVEMBER,128,Black Magick,2,3.99,Image,17686
+COMIC,2015,NOVEMBER,129,Hail Hydra,4,3.99,Marvel,17600
+COMIC,2015,NOVEMBER,130,Batman Arkham Knight Robin Special,1,2.99,DC,17481
+COMIC,2015,NOVEMBER,131,Shield,12,3.99,Marvel,17470
+COMIC,2015,NOVEMBER,132,Batman Arkham Knight,10,3.99,DC,17091
+COMIC,2015,NOVEMBER,133,Martian Manhunter,6,2.99,DC,17038
+COMIC,2015,NOVEMBER,134,Miracleman By Gaiman and Buckingham,4,4.99,Marvel,16825
+COMIC,2015,NOVEMBER,135,Fade Out,11,3.5,Image,16785
+COMIC,2015,NOVEMBER,136,Southern Bastards,12,3.5,Image,16681
+COMIC,2015,NOVEMBER,137,My Little Pony Friendship Is Magic,36,3.99,IDW,16303
+COMIC,2015,NOVEMBER,138,Jughead,2,3.99,Archie,15973
+COMIC,2015,NOVEMBER,139,Pretty Deadly,6,3.5,Image,15494
+COMIC,2015,NOVEMBER,140,Secret Six,8,2.99,DC,15375
+COMIC,2015,NOVEMBER,141,Spawn,258,2.99,Image,15163
+COMIC,2015,NOVEMBER,142,Citizen Jack,1*,3.99,Image,15095
+COMIC,2015,NOVEMBER,143,Black Science,17,3.5,Image,15094
+COMIC,2015,NOVEMBER,144,Justice League 3001,6,2.99,DC,14659
+COMIC,2015,NOVEMBER,145,Rick & Morty,8,3.99,Oni,14603
+COMIC,2015,NOVEMBER,146,Lazarus,20,3.5,Image,14218
+COMIC,2015,NOVEMBER,147,Velvet,12,3.5,Image,14206
+COMIC,2015,NOVEMBER,148,Ringside,1,3.99,Image,14205
+COMIC,2015,NOVEMBER,149,Doctor Who 8th,1,3.99,Titan,14095
+COMIC,2015,NOVEMBER,150,Buffy the Vampire Slayer Season 10,21,3.99,Dark Horse,13869
+COMIC,2015,NOVEMBER,151,Batman 66,29,2.99,DC,13860
+COMIC,2015,NOVEMBER,152,My Little Pony Friends Forever,22,3.99,IDW,13836
+COMIC,2015,NOVEMBER,153,Providence,6,4.99,Avatar,13297
+COMIC,2015,NOVEMBER,154,Call of Duty Black Ops III,1*,3.99,Dark Horse,13104
+COMIC,2015,NOVEMBER,155,Doctor Fate,6,2.99,DC,13090
+COMIC,2015,NOVEMBER,156,Rat Queens,13,3.99,Image,13075
+COMIC,2015,NOVEMBER,158,Invincible,125,2.99,Image,12561
+COMIC,2015,NOVEMBER,159,Autumnlands Tooth & Claw,7,2.99,Image,12227
+COMIC,2015,NOVEMBER,160,Bizarro,6,2.99,DC,12202
+COMIC,2015,NOVEMBER,161,Midnighter,6,2.99,DC,12186
+COMIC,2015,NOVEMBER,162,Beauty,4*,3.5,Image,12154
+COMIC,2015,NOVEMBER,163,Twilight Children,2,4.99,DC,12063
+COMIC,2015,NOVEMBER,164,Godzilla In Hell,5,3.99,IDW,12023
+COMIC,2015,NOVEMBER,165,Red Thorn,1,3.99,DC,11335
+COMIC,2015,NOVEMBER,166,Telos,2,2.99,DC,11202
+COMIC,2015,NOVEMBER,167,Figment 2,3,3.99,Marvel,11103
+COMIC,2015,NOVEMBER,168,Jacked,1,3.99,DC,11056
+COMIC,2015,NOVEMBER,169,Jem & The Holograms,9*,3.99,IDW,11022
+COMIC,2015,NOVEMBER,170,Birthright,11,2.99,Image,10989
+COMIC,2015,NOVEMBER,171,Bat Mite,6,2.99,DC,10961
+COMIC,2015,NOVEMBER,172,Limbo,1,2.99,Image,10869
+COMIC,2015,NOVEMBER,173,Astro City,29,3.99,DC,10748
+COMIC,2015,NOVEMBER,174,Unfollow,1,3.99,DC,10740
+COMIC,2015,NOVEMBER,175,He Man The Eternity War,12,2.99,DC,10382
+COMIC,2015,NOVEMBER,176,Lobo,12,2.99,DC,10382
+COMIC,2015,NOVEMBER,177,Doctor Who 11th Year Two,2,3.99,Titan,10289
+COMIC,2015,NOVEMBER,178,Transformers More Than Meets Eye,46,3.99,IDW,10085
+COMIC,2015,NOVEMBER,179,American Vampire Second Cycle,11,4.99,DC,10045
+COMIC,2015,NOVEMBER,180,Mortal Kombat X,12,3.99,DC,9992
+COMIC,2015,NOVEMBER,181,Bobs Burgers Ongoing,5,3.99,Dynamite,9758
+COMIC,2015,NOVEMBER,182,Omega Men,6,2.99,DC,9709
+COMIC,2015,NOVEMBER,183,Sensation Comics Featuring Wonder Woman,16,3.99,DC,9706
+COMIC,2015,NOVEMBER,184,Grumpy Cat,2,3.99,Dynamite,9641
+COMIC,2015,NOVEMBER,185,Slash & Burn,1,3.99,DC,9623
+COMIC,2015,NOVEMBER,186,Red Sonja Conan,4,3.99,Dynamite,9380
+COMIC,2015,NOVEMBER,187,Clean Room,2,3.99,DC,9351
+COMIC,2015,NOVEMBER,188,Nailbiter,17,2.99,Image,9333
+COMIC,2015,NOVEMBER,189,Angel and Faith Season 10,20,3.99,Dark Horse,9231
+COMIC,2015,NOVEMBER,190,Orphan Black Helsinki,1,3.99,IDW,9211
+COMIC,2015,NOVEMBER,191,Hangman,1*,3.99,Archie,9073
+COMIC,2015,NOVEMBER,192,Chew,52,3.5,Image,9056
+COMIC,2015,NOVEMBER,193,Bloodshot Reborn,8,3.99,Valiant,8990
+COMIC,2015,NOVEMBER,194,Airboy,4,2.99,Image,8980
+COMIC,2015,NOVEMBER,195,Transformers More Than Meets Eye,47,3.99,IDW,8969
+COMIC,2015,NOVEMBER,196,Batman Endgame Directors Cut,1,5.99,DC,8884
+COMIC,2015,NOVEMBER,197,G.I. Joe A Real American Hero,219,3.99,IDW,8771
+COMIC,2015,NOVEMBER,198,Transformers,47,3.99,IDW,8718
+COMIC,2015,NOVEMBER,199,Joe Golem Occult Detective,1,3.5,Dark Horse,8684
+COMIC,2015,NOVEMBER,200,Ninjak,9,3.99,Valiant,8538
+COMIC,2015,NOVEMBER,201,Adventure Time,46,3.99,Boom,8537
+COMIC,2015,NOVEMBER,202,Star Trek Ongoing,51,3.99,IDW,8529
+COMIC,2015,NOVEMBER,203,G.I. Joe A Real American Hero,220,3.99,IDW,8237
+COMIC,2015,NOVEMBER,204,Wayward,11,3.5,Image,8204
+COMIC,2015,NOVEMBER,205,Dark Tower Drawing of Three Lady of Shadows,3,3.99,Marvel,8118
+COMIC,2015,NOVEMBER,206,Rebels,8,3.99,Dark Horse,8097
+COMIC,2015,NOVEMBER,207,Assassins Creed,2,3.99,Titan,8014
+COMIC,2015,NOVEMBER,208,Lumberjanes,20,3.99,Boom,8012
+COMIC,2015,NOVEMBER,209,Harrow County,7,3.99,Dark Horse,8011
+COMIC,2015,NOVEMBER,210,Scooby Doo Team Up,13,2.99,DC,8008
+COMIC,2015,NOVEMBER,211,Art Ops,2,3.99,DC,7982
+COMIC,2015,NOVEMBER,212,Survivors Club,2,3.99,DC,7846
+COMIC,2015,NOVEMBER,213,Transformers Sins of Wreckers,1*,3.99,IDW,7846
+COMIC,2015,NOVEMBER,214,Aliens Vampirella,3,3.99,Dynamite,7813
+COMIC,2015,NOVEMBER,215,Uncle Scrooge,8*,3.99,IDW,7667
+COMIC,2015,NOVEMBER,216,Phonogram The Immaterial Girl,4,3.99,Image,7660
+COMIC,2015,NOVEMBER,217,X-Files Season 11,4*,3.99,IDW,7623
+COMIC,2015,NOVEMBER,218,Pacific Rim Tales From The Drift,1,3.99,Legendary,7623
+COMIC,2015,NOVEMBER,219,Sonic The Hedgehog,278,3.99,Archie,7607
+COMIC,2015,NOVEMBER,220,Witchblade,185,5.99,Image,7562
+COMIC,2015,NOVEMBER,221,Donald Duck,7*,3.99,IDW,7451
+COMIC,2015,NOVEMBER,222,Marvel Universe Guardians of Galaxy,2,2.99,Marvel,7364
+COMIC,2015,NOVEMBER,223,Saints,2*,2.99,Image,7282
+COMIC,2015,NOVEMBER,224,Faster Than Light,3*,2.99,Image,7265
+COMIC,2015,NOVEMBER,225,Mickey Mouse,6*,3.99,IDW,7239
+COMIC,2015,NOVEMBER,226,Conan The Avenger,20,3.5,Dark Horse,7233
+COMIC,2015,NOVEMBER,227,Marvel Universe Ult Spider-Man Spider-Verse,1,3.99,Marvel,7144
+COMIC,2015,NOVEMBER,228,Doomed,6,2.99,DC,7113
+COMIC,2015,NOVEMBER,229,Danger Girl Renegade,3*,3.99,IDW,7041
+COMIC,2015,NOVEMBER,230,Axcend,2*,3.5,Image,7023
+COMIC,2015,NOVEMBER,231,Ghostbusters Annual 2015,,7.99,IDW,6851
+COMIC,2015,NOVEMBER,232,BPRD Hell On Earth,137,3.5,Dark Horse,6816
+COMIC,2015,NOVEMBER,233,Savior,8,2.99,Image,6807
+COMIC,2015,NOVEMBER,234,Fables The Wolf Among Us,11,3.99,DC,6788
+COMIC,2015,NOVEMBER,235,Switch,2,3.99,Image,6788
+COMIC,2015,NOVEMBER,236,Rumble,9,3.5,Image,6774
+COMIC,2015,NOVEMBER,237,Over The Garden Wall,4,3.99,Boom,6684
+COMIC,2015,NOVEMBER,238,X-O Manowar,42,3.99,Valiant,6604
+COMIC,2015,NOVEMBER,239,Codename Baboushka: Conclave of Death,2,3.99,Image,6538
+COMIC,2015,NOVEMBER,240,Mythic,5,3.99,Image,6538
+COMIC,2015,NOVEMBER,241,Rachel Rising,37,3.99,Abstract,6366
+COMIC,2015,NOVEMBER,242,Pathfinder Hollow Mountain,1,4.99,Dynamite,6323
+COMIC,2015,NOVEMBER,243,Spongebob Comics,50,2.99,United Plankton,6295
+COMIC,2015,NOVEMBER,244,Walt Disney Comics & Stories,725*,3.99,IDW,6264
+COMIC,2015,NOVEMBER,245,Johnny Red,1,3.99,Titan,6198
+COMIC,2015,NOVEMBER,246,Lara Croft Frozen Omen,2*,3.99,Dark Horse,6188
+COMIC,2015,NOVEMBER,247,Futurama Comics,77,2.99,Bongo,6122
+COMIC,2015,NOVEMBER,248,Crossed Plus 100,11,3.99,Avatar,6093
+COMIC,2015,NOVEMBER,249,Elfquest Final Quest,12,3.5,Dark Horse,6081
+COMIC,2015,NOVEMBER,250,Peanuts Snoopy Special,1,4.99,Boom,6073
+COMIC,2015,NOVEMBER,251,Tmnt Amazing Adventures,4,3.99,IDW,6009
+COMIC,2015,NOVEMBER,252,Big Trouble In Little China,18,3.99,Boom,5933
+COMIC,2015,NOVEMBER,253,Adventure Time Fionna & Cake Card Wars,5,3.99,Boom,5908
+COMIC,2015,NOVEMBER,254,Invisible Republic,7,2.99,Image,5897
+COMIC,2015,NOVEMBER,255,Max Ride,1,3.99,Marvel,5877
+COMIC,2015,NOVEMBER,256,Groo Friends and Foes,11,3.99,Dark Horse,5869
+COMIC,2015,NOVEMBER,257,Abe Sapien,28,3.5,Dark Horse,5844
+COMIC,2015,NOVEMBER,258,John Carter Warlord,13,3.99,Dynamite,5813
+COMIC,2015,NOVEMBER,259,Rasputin,10,3.5,Image,5802
+COMIC,2015,NOVEMBER,260,Last Sons of America,1,3.99,Boom,5593
+COMIC,2015,NOVEMBER,261,Grant Morrisons 18 Days,5,2.99,Graphitti,5579
+COMIC,2015,NOVEMBER,262,Kaptara,5,3.5,Image,5467
+COMIC,2015,NOVEMBER,263,Bart Simpson Comics,99,2.99,Bongo,5360
+COMIC,2015,NOVEMBER,264,Evil Dead 2,3,3.99,Space Goat,5334
+COMIC,2015,NOVEMBER,265,Tarot Witch of the Black Rose,95,2.95,Broadsword,5307
+COMIC,2015,NOVEMBER,266,Postal FBI Dossier,1,3.99,Image,5256
+COMIC,2015,NOVEMBER,267,Imperium,10,3.99,Valiant,5245
+COMIC,2015,NOVEMBER,268,Will Eisner Spirit,5,3.99,Dynamite,5243
+COMIC,2015,NOVEMBER,269,Scooby Doo Where Are You,63,2.99,DC,5215
+COMIC,2015,NOVEMBER,270,Ivar Timewalker,11,3.99,Valiant,5200
+COMIC,2015,NOVEMBER,271,War Stories,14,3.99,Avatar,5108
+COMIC,2015,NOVEMBER,272,8House,5,2.99,Image,4987
+COMIC,2015,NOVEMBER,273,Fistful of Blood,2,4.99,IDW,4978
+COMIC,2015,NOVEMBER,274,Drifter,9,3.5,Image,4950
+COMIC,2015,NOVEMBER,275,Unity,24,3.99,Valiant,4944
+COMIC,2015,NOVEMBER,276,Postal,8,3.99,Image,4882
+COMIC,2015,NOVEMBER,277,Simpsons Winter Wingding,10,4.99,Bongo,4865
+COMIC,2015,NOVEMBER,278,Shadow Vol. 2,4,3.99,Dynamite,4835
+COMIC,2015,NOVEMBER,279,Star Wars,1,4.99,Marvel,4773
+COMIC,2015,NOVEMBER,280,Zodiac Starforce,3,3.99,Dark Horse,4765
+COMIC,2015,NOVEMBER,281,Star Trek New Visions Hollow Man,,7.99,IDW,4749
+COMIC,2015,NOVEMBER,282,Train Called Love,2,3.99,Dynamite,4724
+COMIC,2015,NOVEMBER,283,Barb Wire,5,3.99,Dark Horse,4698
+COMIC,2015,NOVEMBER,284,Itty Bitty Hellboy Search For The Were-Jaguar,1,2.99,Dark Horse,4676
+COMIC,2015,NOVEMBER,285,Heroes Vengeance,2,3.99,Titan,4670
+COMIC,2015,NOVEMBER,286,Sex,25,2.99,Image,4660
+COMIC,2015,NOVEMBER,287,Stray Bullets Sunshine & Roses,9,3.5,Image,4583
+COMIC,2015,NOVEMBER,288,PS Blackcross,6,3.99,Dynamite,4549
+COMIC,2015,NOVEMBER,289,Usagi Yojimbo,150,3.5,Dark Horse,4539
+COMIC,2015,NOVEMBER,290,Marvel Universe Avengers Assemble Season Two,13,2.99,Marvel,4500
+COMIC,2015,NOVEMBER,291,Grimm Fairy Tales Grimm Fairy Tales,116,3.99,Zenescope,4477
+COMIC,2015,NOVEMBER,292,Transformers Robots In Disguise Animated,4*,3.99,IDW,4474
+COMIC,2015,NOVEMBER,293,Zombie Tramp Ongoing,17,4.99,Action Lab,4337
+COMIC,2015,NOVEMBER,295,Dark Horse Presents 2014,16,5.99,Dark Horse,4318
+COMIC,2015,NOVEMBER,296,Munchkin,11,3.99,Boom,4246
+COMIC,2015,NOVEMBER,297,Masks 2,8,3.99,Dynamite,4232
+COMIC,2015,NOVEMBER,298,Onyx,3*,3.99,IDW,4217
+COMIC,2015,NOVEMBER,299,Humans,9,2.99,Image,4205
+COMIC,2015,NOVEMBER,300,Captain Canuck 2015,5,3.99,Chapter House,4197
+COMIC,2015,NOVEMBER,311,Evil Dead 2 Tales of the Exmortis,2,4.99,Space Goat,3934
+COMIC,2015,NOVEMBER,312,LCSD 2015 Invader Zim Treasury Ed,,14.99,Oni,3927
+COMIC,2015,NOVEMBER,314,Invader Zim,4,3.99,Oni,3918
+COMIC,2015,NOVEMBER,318,Grimm Fairy Tales Wonderland,41,3.99,Zenescope,3883
+COMIC,2015,NOVEMBER,324,Grimm Fairy Tales Oz Reign of Witch Queen,6,3.99,Zenescope,3817
+COMIC,2015,NOVEMBER,325,Grimm Fairy Tales Robyn Hood Ongoing,16,3.99,Zenescope,3810
+COMIC,2015,NOVEMBER,327,Grimm Fairy Tales Coven,4,3.99,Zenescope,3789
+COMIC,2015,NOVEMBER,329,Wes Craven Coming of Rage,2,3.99,Liquid,3745
+COMIC,2015,NOVEMBER,332,Exodus Life After,1*,3.99,Oni,3641
+COMIC,2015,NOVEMBER,335,Zombie Tramp Ongoing,16,4.99,Action Lab,3589
+COMIC,2015,NOVEMBER,337,Letter 44,21,3.99,Oni,3582
+COMIC,2015,NOVEMBER,340,Niobe She Is Life,1,3.99,Stranger,3443
+COMIC,2015,NOVEMBER,347,Grimm Fairy Tales Grimm Tales of Terror Vol. 2,2,3.99,Zenescope,3286
+COMIC,2015,NOVEMBER,348,Black Hood,7*,3.99,Archie,3218
+COMIC,2015,NOVEMBER,349,LCSD 2015 Rick & Morty Treasury Ed,,14.99,Oni,3212
+COMIC,2015,NOVEMBER,354,Fathom Blue,5,3.99,Aspen,2929
+COMIC,2015,NOVEMBER,356,Jirni Vol. 2,4,3.99,Aspen,2889
+COMIC,2015,NOVEMBER,366,Welcome To Showside,1,3.99,Z2,2726
+COMIC,2015,NOVEMBER,367,Blood Feud,2,3.99,Oni,2677
+COMIC,2015,NOVEMBER,368,Project Nemesis,2,3.99,American Gothic,2626
+TPB,2015,NOVEMBER,1,Sandman Overture Deluxe Ed HC,,24.99,DC,12549
+TPB,2015,NOVEMBER,2,"Star Wars Journey To Sw Force Awakens ShatterEmpire",,16.99,Marvel,7076
+TPB,2015,NOVEMBER,3,Star Wars Princess Leia,,16.99,Marvel,6782
+TPB,2015,NOVEMBER,4,Ms Marvel Vol. 4 Last Days,,17.99,Marvel,5519
+TPB,2015,NOVEMBER,5,Spider-Gwen Vol. 0 Most Wanted,,16.99,Marvel,5157
+TPB,2015,NOVEMBER,6,Deadpool Vs Thanos,,16.99,Marvel,4798
+TPB,2015,NOVEMBER,7,Low Vol. 2 Before The Dawn Burns Us,,14.99,Image,4732
+TPB,2015,NOVEMBER,8,Vampirella #1969,,7.99,Dynamite,4621
+TPB,2015,NOVEMBER,9,Star Wars Kanan Vol. 1 Last Padawan,,19.99,Marvel,4604
+TPB,2015,NOVEMBER,10,Saga Vol. 5,,14.99,Image,4409
+TPB,2015,NOVEMBER,11,Wolverine Old Man Logan Vol. 0 Warzones,,17.99,Marvel,4244
+TPB,2015,NOVEMBER,12,Hawkeye Vol. 5 All New Hawkeye,,15.99,Marvel,4109
+TPB,2015,NOVEMBER,13,Superman Earth One Vol. 3,,14.99,DC,3715
+TPB,2015,NOVEMBER,14,Rick & Morty Vol. 1,,19.99,Oni,3011
+TPB,2015,NOVEMBER,15,Star Wars HC Episode VI Return of Jedi,,24.99,Marvel,2975
+TPB,2015,NOVEMBER,16,"Unbeatable Squirrel Girl Vol. 2 Squirrel YouKnow Its Tru",,14.99,Marvel,2928
+TPB,2015,NOVEMBER,17,"Lady Mechanika Vol. 1 Mystery of MechanicalCorpse",,19.99,Benitez,2817
+TPB,2015,NOVEMBER,18,Sonic Mega Man Worlds Collide Vol. 1,,11.99,Archie,2789
+TPB,2015,NOVEMBER,19,Guardians of Galaxy Vol. 4 Original Sin,,19.99,Marvel,2698
+TPB,2015,NOVEMBER,20,Blade Undead By Daylight,,7.99,Marvel,2674
+TPB,2015,NOVEMBER,21,A-Force Warzones Vol. 0,,16.99,Marvel,2656
+TPB,2015,NOVEMBER,22,Star Wars Darth Vader Vol. 1 Vader,,19.99,Marvel,2651
+TPB,2015,NOVEMBER,23,Saga Vol. 1,,9.99,Image,2623
+TPB,2015,NOVEMBER,24,Wolf Vol. 1,,9.99,Image,2591
+TPB,2015,NOVEMBER,25,Batman & Robin Vol. 6 The Hunt For Robin,,16.99,DC,2569
+TPB,2015,NOVEMBER,26,Copperhead Vol. 2,,14.99,Image,2567
+TPB,2015,NOVEMBER,27,Flash By Geoff Johns Book 1,,24.99,DC,2479
+TPB,2015,NOVEMBER,28,Deadpool Classic Vol. 14 Suicide Kings,,34.99,Marvel,2465
+TPB,2015,NOVEMBER,29,Batman The Dark Knight Saga HC,,49.99,DC,2361
+TPB,2015,NOVEMBER,30,American Vampire Vol. 7,,14.99,DC,2303
+TPB,2015,NOVEMBER,31,X-Men Years of Future Past,,16.99,Marvel,2240
+TPB,2015,NOVEMBER,32,Daredevil Vol. 4 Autobiography of Matt Murdock,,15.99,Marvel,2233
+TPB,2015,NOVEMBER,33,Guardians of Knowhere,,15.99,Marvel,2214
+TPB,2015,NOVEMBER,34,Age of Apocalypse Warzones,,16.99,Marvel,2181
+TPB,2015,NOVEMBER,35,Spider-Island Warzones,,17.99,Marvel,2157
+TPB,2015,NOVEMBER,36,Archie Vs Predator HC,,19.99,Dark Horse,2133
+TPB,2015,NOVEMBER,37,Mouse Guard Legends of Guard HC Vol. 3,,19.99,Boom,2105
+TPB,2015,NOVEMBER,38,Captain Marvel and Carol Corps,,15.99,Marvel,2105
+TPB,2015,NOVEMBER,39,Superman Wonder Woman Vol. 2 War and Peace,,16.99,DC,2052
+TPB,2015,NOVEMBER,40,Age of Ultron Vs Marvel Zombies,,15.99,Marvel,2051
+TPB,2015,NOVEMBER,41,Marvel Zombies Battleworld,,15.99,Marvel,2050
+TPB,2015,NOVEMBER,42,Frankenstein Underground,,19.99,Dark Horse,2027
+TPB,2015,NOVEMBER,43,Bobs Burgers Ongoing Vol. 1 Medium Rare,,14.99,Dynamite,2026
+TPB,2015,NOVEMBER,44,Giant Days Vol. 1,,9.99,Boom,2018
+TPB,2015,NOVEMBER,45,Star Wars Vol. 1 Skywalker Strikes,,19.99,Marvel,1997
+TPB,2015,NOVEMBER,46,All New X-Men Vol. 6 Ultimate Adventure,,19.99,Marvel,1975
+TPB,2015,NOVEMBER,47,Green Arrow Vol. 7 Kingdom,,14.99,DC,1958
+TPB,2015,NOVEMBER,48,Batman & Robin HC Vol. 7 Robin Rises,,24.99,DC,1950
+TPB,2015,NOVEMBER,49,Luthor,,14.99,DC,1932
+TPB,2015,NOVEMBER,50,Superman Adventures Vol. 1,,19.99,DC,1929
+TPB,2015,NOVEMBER,51,Batman The Killing Joke Special Ed HC,,17.99,DC,1922
+TPB,2015,NOVEMBER,52,Jessica Jones Alias Vol. 3,,19.99,Marvel,1914
+TPB,2015,NOVEMBER,53,Robin Vol. 1 Reborn,,19.99,DC,1878
+TPB,2015,NOVEMBER,54,Birds of Prey Vol. 1,,19.99,DC,1842
+TPB,2015,NOVEMBER,55,Marvel 1872,,15.99,Marvel,1842
+TPB,2015,NOVEMBER,56,Secret Wars 2099,,16.99,Marvel,1838
+TPB,2015,NOVEMBER,57,Batman 66 Meets The Green Hornet,,14.99,DC,1793
+TPB,2015,NOVEMBER,58,Cyanide & Happiness Stab Factory,,14.99,Boom,1792
+TPB,2015,NOVEMBER,59,Walking Dead Vol. 1 Days Gone Bye,,14.99,Image,1776
+TPB,2015,NOVEMBER,60,Thanos Cosmic Powers,,34.99,Marvel,1775
+TPB,2015,NOVEMBER,61,Star-Lord and Kitty Pryde,,15.99,Marvel,1755
+TPB,2015,NOVEMBER,62,Civil War,,24.99,Marvel,1715
+TPB,2015,NOVEMBER,63,Spawn Resurrection Vol. 1,,9.99,Image,1711
+TPB,2015,NOVEMBER,64,Sandman Vol. 1 Preludes & Nocturnes New Ed,,19.99,DC,1699
+TPB,2015,NOVEMBER,65,Uncanny X-Men Vol. 5 Omega Mutant,,19.99,Marvel,1690
+TPB,2015,NOVEMBER,66,Saga Vol. 4,,14.99,Image,1689
+TPB,2015,NOVEMBER,67,Earth 2 Vol. 5 The Kryptonian,,16.99,DC,1682
+TPB,2015,NOVEMBER,68,Morning Glories Vol. 9,,12.99,Image,1664
+TPB,2015,NOVEMBER,69,Sons of the Devil Vol. 1,,9.99,Image,1624
+TPB,2015,NOVEMBER,70,Wytches Vol. 1,,9.99,Image,1595
+TPB,2015,NOVEMBER,71,Preacher Book 1,,19.99,DC,1581
+TPB,2015,NOVEMBER,72,Bitch Planet Vol. 1 Extraordinary Machine,,9.99,Image,1576
+TPB,2015,NOVEMBER,73,Andre The Giant Closer To Heaven,,12.99,IDW,1567
+TPB,2015,NOVEMBER,74,Ragnarok HC Vol. 1 Last God Standing,,24.99,IDW,1538
+TPB,2015,NOVEMBER,75,Saga Vol. 2,,14.99,Image,1516
+TPB,2015,NOVEMBER,76,Suiciders HC Vol. 1,,22.99,DC,1493
+TPB,2015,NOVEMBER,77,Spread Vol. 2 Childrens Crusade,,14.99,Image,1471
+TPB,2015,NOVEMBER,78,Swamp Thing Darker Genesis,,19.99,DC,1455
+TPB,2015,NOVEMBER,79,Scooby Doo Team Up Vol. 2,,12.99,DC,1454
+TPB,2015,NOVEMBER,80,"Miles Morales Ultimate Spider-Man Ult Coll Book3",,34.99,Marvel,1442
+TPB,2015,NOVEMBER,81,"Superman Wonder Woman HC Vol. 3 Casualties ofWar",,22.99,DC,1413
+TPB,2015,NOVEMBER,82,Silver Surfer Epic Collection Freedom,,34.99,Marvel,1412
+TPB,2015,NOVEMBER,83,Lcsd 2015 Space Riders HC Vol. 1,,24.99,Black Mask,1399
+TPB,2015,NOVEMBER,84,Adventure Time Original Vol. 6 Masked Mayhem,,14.99,Boom,1384
+TPB,2015,NOVEMBER,85,Harley Quinn Vol. 1 Hot In The City,,16.99,DC,1337
+TPB,2015,NOVEMBER,86,Surface Vol. 1,,14.99,Image,1335
+TPB,2015,NOVEMBER,87,Korvac Saga Warzones,,19.99,Marvel,1313
+TPB,2015,NOVEMBER,88,Walking Dead Vol. 24 Life and Death,,14.99,Image,1302
+TPB,2015,NOVEMBER,89,Kitchen,,16.99,DC,1296
+TPB,2015,NOVEMBER,90,Batman The Golden Age Omnibus HC Vol. 1,,75.0,DC,1293
+TPB,2015,NOVEMBER,91,Jessica Jones Vol. 1 Alias,,24.99,Marvel,1292
+TPB,2015,NOVEMBER,92,Marvel Masterworks Spider-Woman HC Vol. 1,,75.0,Marvel,1270
+TPB,2015,NOVEMBER,93,Batman Arkham Two Face,,19.99,DC,1266
+TPB,2015,NOVEMBER,94,Goon Library HC Vol. 1,,39.99,Dark Horse,1253
+TPB,2015,NOVEMBER,95,Lumberjanes To Max Ed HC Vol. 1,,39.99,Boom,1240
+TPB,2015,NOVEMBER,96,Batman Legends of the Dark Knight Vol. 5,,16.99,DC,1237
+TPB,2015,NOVEMBER,97,Catwoman A Celebration of 75 Years HC,,39.99,DC,1223
+TPB,2015,NOVEMBER,98,Saga Vol. 3,,14.99,Image,1218
+TPB,2015,NOVEMBER,99,Earth 2 HC Vol. 6 Collision,,22.99,DC,1209
+TPB,2015,NOVEMBER,100,Invincible HC Vol. 10 Ultimate Coll,,39.99,Image,1175
+TPB,2015,NOVEMBER,101,Fatale Dlx Ed HC Vol. 2,,49.99,Image,1151
+TPB,2015,NOVEMBER,102,Wicked & Divine Vol. 1 The Faust Act,,9.99,Image,1142
+TPB,2015,NOVEMBER,103,Watchmen,,19.99,DC,1133
+TPB,2015,NOVEMBER,104,Crossed Vol. 14,,19.99,Avatar,1041
+TPB,2015,NOVEMBER,105,Usagi Yojimbo Saga Vol. 5,,24.99,Dark Horse,1040
+TPB,2015,NOVEMBER,106,New Avengers By Jonathan Hickman HC Vol. 2,,34.99,Marvel,1023
+TPB,2015,NOVEMBER,107,Ms Marvel Vol. 1 No Normal,,15.99,Marvel,1021
+TPB,2015,NOVEMBER,108,Astro City Lovers Quarrel HC,,24.99,DC,1018
+TPB,2015,NOVEMBER,109,Avengers By Busiek and Perez Omnibus HC Vol. 2,,125.0,Marvel,1016
+TPB,2015,NOVEMBER,110,Descender Vol. 1 Tin Stars,,9.99,Image,993
+TPB,2015,NOVEMBER,111,Our Expanding Universe,,19.99,IDW,989
+TPB,2015,NOVEMBER,112,My Little Pony Art Is Magic,,19.99,IDW,978
+TPB,2015,NOVEMBER,113,Double D Book 1,,9.99,Image,977
+TPB,2015,NOVEMBER,114,Batman RIP Unwrapped HC,,34.99,DC,970
+TPB,2015,NOVEMBER,115,Batman Vol. 2 The City of Owls,,16.99,DC,953
+TPB,2015,NOVEMBER,116,A-Force Presents Vol. 2,,14.99,Marvel,948
+TPB,2015,NOVEMBER,117,Chronicles of Conan Vol. 30 Death of Conan,,19.99,Dark Horse,939
+TPB,2015,NOVEMBER,118,Transformers Vs G.I. Joe Vol. 2,,19.99,IDW,933
+TPB,2015,NOVEMBER,119,Batman Dark Knight Returns,,19.99,DC,922
+TPB,2015,NOVEMBER,120,"Buffy the Vampire Slayer Season 9 Library HCVol. 3",,29.99,Dark Horse,918
+TPB,2015,NOVEMBER,121,Lumberjanes Vol. 1,,14.99,Boom,906
+TPB,2015,NOVEMBER,122,Walking Dead Vol. 2 Miles Behind Us,,14.99,Image,898
+TPB,2015,NOVEMBER,123,Ingress Niantic Project Begins,,14.95,Cryptozoic,895
+TPB,2015,NOVEMBER,124,Deadpool Kills Marvel Universe,,14.99,Marvel,891
+TPB,2015,NOVEMBER,125,My Little Pony Adventures In Friendship HC Vol. 4,,12.99,IDW,888
+TPB,2015,NOVEMBER,126,Deadpool Vol. 1 Dead Presidents Now,,15.99,Marvel,884
+TPB,2015,NOVEMBER,127,George Romeros Empire of Dead Act Three,,19.99,Marvel,883
+TPB,2015,NOVEMBER,128,Batman Vol. 1 The Court of Owls,,16.99,DC,876
+TPB,2015,NOVEMBER,129,Deathstroke Book and Mask Set,,29.99,DC,866
+TPB,2015,NOVEMBER,130,Wonder Woman War Years HC,,24.99,Quarto,864
+TPB,2015,NOVEMBER,131,"Marvel Universe All New Avengers AssembleDigest Vol. 3",,9.99,Marvel,860
+TPB,2015,NOVEMBER,132,Steven Universe Vol. 1,,14.99,Boom,837
+TPB,2015,NOVEMBER,133,Walking Dead Compendium Vol. 3,,59.99,Image,835
+TPB,2015,NOVEMBER,134,"Amazing World Gumball Original Vol. 1 FairyTale Trouble",,14.99,Boom,834
+TPB,2015,NOVEMBER,135,"Disney Rosa Duck Library HC Vol. 4 Last ClanMcduck",,29.99,Fantagraphics,833
+TPB,2015,NOVEMBER,136,Jojos Bizarre Adv Battle Tendency HC Vol. 1,,19.99,Viz,829
+TPB,2015,NOVEMBER,137,Django Zorro HC,,29.99,Dynamite,819
+TPB,2015,NOVEMBER,138,Batman Vol. 3 Death of the Family,,16.99,DC,817
+TPB,2015,NOVEMBER,139,Wicked & Divine Vol. 2 Fandemonium,,14.99,Image,813
+TPB,2015,NOVEMBER,140,Uncle Scrooge Vol. 2 Grand Canyon Conquest,,12.99,IDW,812
+TPB,2015,NOVEMBER,141,Sex Criminals Vol. 1,,9.99,Image,789
+TPB,2015,NOVEMBER,142,Tokyo Ghoul Vol. 1,,12.99,Viz,788
+TPB,2015,NOVEMBER,143,Ultraman Vol. 2,,12.99,Viz,780
+TPB,2015,NOVEMBER,144,Tomb Raider Vol. 3 Queen of Serpents,,19.99,Dark Horse,772
+TPB,2015,NOVEMBER,145,Walt Kellys Fairy Tales HC,,39.99,IDW,762
+TPB,2015,NOVEMBER,146,Big Hero 6 Manga Vol. 2,,12.0,Hachette,761
+TPB,2015,NOVEMBER,147,Infinity Gauntlet,,24.99,Marvel,740
+TPB,2015,NOVEMBER,148,Rat Queens Vol. 1 Sass & Sorcery,,9.99,Image,739
+TPB,2015,NOVEMBER,149,Wolverine Old Man Logan,,29.99,Marvel,739
+TPB,2015,NOVEMBER,150,Jessica Jones Vol. 2 Alias,,19.99,Marvel,735
+TPB,2015,NOVEMBER,151,Walking Dead Vol. 23 Whispers Into Screams,,14.99,Image,727
+TPB,2015,NOVEMBER,152,Nailbiter Vol. 1 There Will Be Blood,,9.99,Image,719
+TPB,2015,NOVEMBER,153,Outcast By Kirkman & Azaceta Vol. 1,,9.99,Image,715
+TPB,2015,NOVEMBER,154,Batman The Long Halloween,,24.99,DC,713
+TPB,2015,NOVEMBER,155,Flash Vol. 1 Move Forward,,16.99,DC,704
+TPB,2015,NOVEMBER,156,Walking Dead Compendium Vol. 1,,59.99,Image,703
+TPB,2015,NOVEMBER,157,V For Vendetta New Edition,,19.99,DC,696
+TPB,2015,NOVEMBER,158,"Rat Queens Vol. 2 Far Reaching Tentacles ofNrygoth",,14.99,Image,688
+TPB,2015,NOVEMBER,159,Imperium Vol. 2 Broken Angels,,14.99,Valiant,687
+TPB,2015,NOVEMBER,160,Red Sonja Vol. 3 Forgiving of Monsters,,19.99,Dynamite,677
+TPB,2015,NOVEMBER,161,LCSD 2015 Bitch Planet HC,,25.0,Image,667
+TPB,2015,NOVEMBER,162,Batman Vol. 4 Zero Year Secret City,,16.99,DC,663
+TPB,2015,NOVEMBER,163,Infinite Loop,,19.99,IDW,662
+TPB,2015,NOVEMBER,164,Preacher Book 2,,19.99,DC,648
+TPB,2015,NOVEMBER,165,Lazarus Vol. 1,,9.99,Image,646
+TPB,2015,NOVEMBER,166,SIP (Strangers In Paradise) Kids Collected Ed,,14.95,Abstract,632
+TPB,2015,NOVEMBER,167,Guardians of Galaxy Solo Classic Omnibus HC,,125.0,Marvel,632
+TPB,2015,NOVEMBER,168,Batman HC Vol. 7 Endgame,,24.99,DC,630
+TPB,2015,NOVEMBER,169,Tokyo Ghoul Vol. 3,,12.99,Viz,628
+TPB,2015,NOVEMBER,170,Tokyo Ghoul Vol. 2,,12.99,Viz,625
+TPB,2015,NOVEMBER,171,East of West Vol. 1 The Promise,,9.99,Image,617
+TPB,2015,NOVEMBER,172,Superman Red Son New Edition,,17.99,DC,614
+TPB,2015,NOVEMBER,173,Minions Digest Vol. 1 Banana,,6.99,Random House,608
+TPB,2015,NOVEMBER,174,Archie 1000 Page Comics Gala,,14.99,Archie,605
+TPB,2015,NOVEMBER,175,Walking Dead Vol. 3 Safety Behind Bars,,14.99,Image,605
+TPB,2015,NOVEMBER,176,Low Vol. 1 The Delirium of Hope,,9.99,Image,596
+TPB,2015,NOVEMBER,177,Batman Vol. 5 Zero Year Dark City,,16.99,DC,592
+TPB,2015,NOVEMBER,178,Gil Kane Undersea Agent HC,,17.99,IDW,588
+TPB,2015,NOVEMBER,179,Suicide Squad Vol. 1 Kicked In The Teeth,,14.99,DC,587
+TPB,2015,NOVEMBER,180,Puma Blues Complete Saga HC,,29.95,Dover,584
+TPB,2015,NOVEMBER,181,Uncle Grandpa Vol. 1,,14.99,Boom,582
+TPB,2015,NOVEMBER,182,Y The Last Man Book 1,,19.99,DC,582
+TPB,2015,NOVEMBER,183,Deadly Class Vol. 1 Reagan Youth,,9.99,Image,582
+TPB,2015,NOVEMBER,184,Trees Vol. 1,,14.99,Image,560
+TPB,2015,NOVEMBER,185,"Final Fantasy Type 0 Side Story Vol. 2 ReaperIcy Blade",,13.0,Hachette,553
+TPB,2015,NOVEMBER,186,Herb Trimpe Incredible Hulk Artist Ed HC,,75.0,IDW,546
+TPB,2015,NOVEMBER,187,Captain Canuck Unholy War,,15.95,Chapter House,545
+TPB,2015,NOVEMBER,188,Krampus Shadow of Saint Nicholas,,14.99,Random House,545
+TPB,2015,NOVEMBER,189,Star Trek Gold Key Archives HC Vol. 4,,29.99,IDW,539
+TPB,2015,NOVEMBER,190,Assassins Creed Vol. 6 Leila,,9.99,Random House,539
+TPB,2015,NOVEMBER,191,Fairy Girls Vol. 1,,10.99,Random House,539
+TPB,2015,NOVEMBER,192,Art of Marvel Studios Slipcase,,99.99,Marvel,535
+TPB,2015,NOVEMBER,193,Chi Sweet Home Vol. 12,,13.95,Random House,533
+TPB,2015,NOVEMBER,194,John Carpenters Tales For Halloween Night,,14.99,Storm King,532
+TPB,2015,NOVEMBER,195,Batman Dark Knight Strikes Again,,19.99,DC,530
+TPB,2015,NOVEMBER,196,Unity Vol. 6 The War Monger,,14.99,Valiant,528
+TPB,2015,NOVEMBER,197,One Punch Man Vol. 1,,9.99,Viz,518
+TPB,2015,NOVEMBER,198,Kabuki Library HC Vol. 2,,39.99,Dark Horse,514
+TPB,2015,NOVEMBER,199,Batman Year One Deluxe SC,,14.99,DC,514
+TPB,2015,NOVEMBER,200,Ms Marvel Vol. 3 Crushed,,15.99,Marvel,512
+TPB,2015,NOVEMBER,201,Complete Chester Gould Dick Tracy HC Vol. 19,,39.99,IDW,510
+TPB,2015,NOVEMBER,202,Fables Vol. 1 Legends In Exile New Ed,,12.99,DC,504
+TPB,2015,NOVEMBER,203,DC Comics Book and Dvd Blu Ray Slipcase Set,,72.9,DC,502
+TPB,2015,NOVEMBER,204,Puppetmaster Vol. 1 Offering,,9.99,Action Lab,500
+TPB,2015,NOVEMBER,205,Ms Marvel Vol. 2 Generation Why,,15.99,Marvel,500
+TPB,2015,NOVEMBER,206,Deadly Class Vol. 3 The Snake Pit,,14.99,Image,497
+TPB,2015,NOVEMBER,207,Star Trek New Adventures Vol. 2,,29.99,IDW,493
+TPB,2015,NOVEMBER,208,Legenderry Red Sonja,,17.99,Dynamite,488
+TPB,2015,NOVEMBER,209,Sex Criminals Vol. 2 Two Worlds One Cop,,14.99,Image,485
+TPB,2015,NOVEMBER,210,Star Wars Episode V HC Empire Strikes Back,,24.99,Marvel,480
+TPB,2015,NOVEMBER,211,Star Wars Legends Epic Collection Vol. 2 Empire,,39.99,Marvel,479
+TPB,2015,NOVEMBER,212,Junction True,,29.99,IDW,471
+TPB,2015,NOVEMBER,213,Batman Hush Complete,,24.99,DC,470
+TPB,2015,NOVEMBER,214,Preacher Book 3,,19.99,DC,469
+TPB,2015,NOVEMBER,215,Shigeru Mizuki Hitler,,24.95,Drawn & Quarterly,467
+TPB,2015,NOVEMBER,216,Revival Vol. 1 You'Re Among Friends,,12.99,Image,466
+TPB,2015,NOVEMBER,217,Hopeless Savages Break,,17.99,Oni,466
+TPB,2015,NOVEMBER,218,Deadpool By Daniel Way Complete Coll Vol. 1,,34.99,Marvel,465
+TPB,2015,NOVEMBER,219,Lumberjanes Vol. 2,,14.99,Boom,461
+TPB,2015,NOVEMBER,220,Batman Vol. 6 Graveyard Shift,,16.99,DC,458
+TPB,2015,NOVEMBER,221,We3 New Ed,,14.99,DC,457
+TPB,2015,NOVEMBER,222,Injection Vol. 1,,9.99,Image,456
+TPB,2015,NOVEMBER,223,Star Wars Ogn HC Episode IV New Hope,,24.99,Marvel,452
+TPB,2015,NOVEMBER,224,Divinity Dlx HC,,24.99,Valiant,451
+TPB,2015,NOVEMBER,225,Flashpoint,,16.99,DC,450
+TPB,2015,NOVEMBER,226,Copperhead Vol. 1 A New Sheriff In Town,,9.99,Image,447
+TPB,2015,NOVEMBER,227,Lucifer Vol. 1,,29.99,DC,441
+TPB,2015,NOVEMBER,228,Dragonar Academy Vol. 8,,12.99,St. Martins,437
+TPB,2015,NOVEMBER,229,Walking Dead Vol. 4 Hearts Desire,,14.99,Image,435
+TPB,2015,NOVEMBER,230,New Suicide Squad Vol. 1 Pure Insanity,,16.99,DC,432
+TPB,2015,NOVEMBER,231,Unbeatable Squirrel Girl Vol. 1 Squirrel Power,,15.99,Marvel,432
+TPB,2015,NOVEMBER,232,Hellbreak Vol. 1,,19.99,Oni,431
+TPB,2015,NOVEMBER,233,Witchblade 20Th Anniversary HC,,39.99,Image,426
+TPB,2015,NOVEMBER,234,Lone Sloane Vol. 2 Delirious,,19.99,Titan,425
+TPB,2015,NOVEMBER,235,Big Trouble In Little China Vol. 1,,14.99,Boom,424
+TPB,2015,NOVEMBER,236,Livingstone Vol. 1,,10.99,Random House,424
+TPB,2015,NOVEMBER,237,Autumnlands Vol. 1 Tooth & Claw,,9.99,Image,419
+TPB,2015,NOVEMBER,238,Peanuts Every Sunday 1958-1961,,6.99,Titan,418
+TPB,2015,NOVEMBER,239,Dawn of the Planet of the Apes Vol. 1,,19.99,Boom,415
+TPB,2015,NOVEMBER,240,Fubar Mother Russia,,11.99,Alterna,412
+TPB,2015,NOVEMBER,241,Fear & Loathing In Las Vegas HC,,24.99,IDW,412
+TPB,2015,NOVEMBER,242,Diary of A Wimpy Kid HC Vol. 10 Old School,,13.95,Abrams,409
+TPB,2015,NOVEMBER,243,UQ Holder Vol. 6,,10.99,Random House,404
+TPB,2015,NOVEMBER,244,The Valiant Dlx HC,,24.99,Valiant,404
+TPB,2015,NOVEMBER,245,Sandman Vol. 2 The Dolls House New Ed,,19.99,DC,403
+TPB,2015,NOVEMBER,246,Blackest Night,,19.99,DC,402
+TPB,2015,NOVEMBER,247,Doctor Who The Eye of Torment,,19.99,Panini,402
+TPB,2015,NOVEMBER,248,Trashed Gn,,18.95,Abrams,400
+TPB,2015,NOVEMBER,249,Usagi Yojimbo Saga Ltd Ed HC Vol. 5,,79.99,Dark Horse,398
+TPB,2015,NOVEMBER,250,Batman A Death In The Family New Ed,,24.99,DC,398
+TPB,2015,NOVEMBER,251,Go Fly A Kite Charlie Brown 1959-1960,,6.99,Titan,398
+TPB,2015,NOVEMBER,252,Sixth Gun Dust To Death,,19.99,Oni,395
+TPB,2015,NOVEMBER,253,Noragami Stray God Vol. 8,,10.99,Random House,395
+TPB,2015,NOVEMBER,254,March Book 1,,14.95,IDW,394
+TPB,2015,NOVEMBER,255,One Punch Man Vol. 2,,9.99,Viz,392
+TPB,2015,NOVEMBER,256,Mister X Razed,,15.99,Dark Horse,391
+TPB,2015,NOVEMBER,257,Blankets (D&Q Ed),,29.95,Drawn & Quarterly,391
+TPB,2015,NOVEMBER,258,Fairy Tail Masters Ed Vol. 1,,39.99,Random House,391
+TPB,2015,NOVEMBER,259,Kingdom Come New Ptg,,19.99,DC,390
+TPB,2015,NOVEMBER,260,Batman & Robin Vol. 1 Born To Kill,,16.99,DC,388
+TPB,2015,NOVEMBER,261,Black Science Vol. 1 How To Fall Forever,,9.99,Image,388
+TPB,2015,NOVEMBER,262,Deadpool Classic Vol. 1,,29.99,Marvel,388
+TPB,2015,NOVEMBER,263,Walking Dead Vol. 22 A New Beginning,,14.99,Image,384
+TPB,2015,NOVEMBER,264,Order of the Forge,,14.99,Dark Horse,383
+TPB,2015,NOVEMBER,265,Chew Vol. 1,,9.99,Image,383
+TPB,2015,NOVEMBER,266,Superman Vs Muhammad Ali Deluxe HC,,19.99,DC,382
+TPB,2015,NOVEMBER,267,Johnny Homicidal Maniac Directors Cut SC,,21.95,Slave Labor,382
+TPB,2015,NOVEMBER,268,East of West Vol. 4 Who Wants War,,14.99,Image,379
+TPB,2015,NOVEMBER,269,Irredeemable Premier Edition HC Vol. 1,,29.99,Boom,378
+TPB,2015,NOVEMBER,270,Resident Alien Vol. 3 Sam Hain Mystery,,14.99,Dark Horse,378
+TPB,2015,NOVEMBER,271,Supergirl Vol. 1 Last Daughter of Krypton,,14.99,DC,376
+TPB,2015,NOVEMBER,272,Southern Bastards Vol. 1 Here Was A Man,,9.99,Image,376
+TPB,2015,NOVEMBER,273,Walking Dead Vol. 5 Best Defense,,14.99,Image,374
+TPB,2015,NOVEMBER,274,Outcast By Kirkman & Azaceta Vol. 2,,14.99,Image,373
+TPB,2015,NOVEMBER,275,Preacher Book 4,,19.99,DC,371
+TPB,2015,NOVEMBER,276,Loeg Nemo Trilogy HC Slipcase Ed,,39.99,IDW,370
+TPB,2015,NOVEMBER,277,Joker Death of the Family,,24.99,DC,366
+TPB,2015,NOVEMBER,278,Prince Valiant HC Vol. 12 1959-1960,,34.99,Fantagraphics,365
+TPB,2015,NOVEMBER,279,Justice League Vol. 1 Origin,,16.99,DC,364
+TPB,2015,NOVEMBER,280,Attack On Titan Vol. 1,,10.99,Random House,364
+TPB,2015,NOVEMBER,281,Deadpool Kills Deadpool,,14.99,Marvel,362
+TPB,2015,NOVEMBER,282,Archie Archives Prom Pranks and Other Stories,,19.99,Dark Horse,360
+TPB,2015,NOVEMBER,283,Hellblazer Vol. 1 Original Sins New Ed,,19.99,DC,360
+TPB,2015,NOVEMBER,284,Preacher Book 5,,19.99,DC,358
+TPB,2015,NOVEMBER,285,Ranma 1/2 2In1 Vol. 11,,14.99,Viz,358
+TPB,2015,NOVEMBER,286,Unity Dlx HC Vol. 1,,39.99,Valiant,355
+TPB,2015,NOVEMBER,287,Nowhere Men Vol. 1 Fates Worse Than Death,,9.99,Image,352
+TPB,2015,NOVEMBER,288,"Bodacious Space Pirates Abyss of HyperspaceVol. 2",,12.99,St. Martins,352
+TPB,2015,NOVEMBER,289,Multiversity Dlx Ed HC,,49.99,DC,351
+TPB,2015,NOVEMBER,290,Deadpool Vol. 2 Soul Hunter Now,,15.99,Marvel,351
+TPB,2015,NOVEMBER,291,Miami Vice Remix Vol. 1,,19.99,IDW,350
+TPB,2015,NOVEMBER,292,Deadpool Vol. 3 Good Bad and Ugly Now,,15.99,Marvel,350
+TPB,2015,NOVEMBER,293,Amazing Fantastic Incredible Marvelous Memoir,,30.0,Pocket,350
+TPB,2015,NOVEMBER,294,Southern Bastards Vol. 2 Gridiron,,9.99,Image,348
+TPB,2015,NOVEMBER,295,Eternaut HC,,39.99,Fantagraphics,345
+TPB,2015,NOVEMBER,296,Walking Dead Compendium Vol. 2,,59.99,Image,345
+TPB,2015,NOVEMBER,297,Grimm Fairy Tales Realm War Vol. 2,,15.99,Zenescope,345
+TPB,2015,NOVEMBER,298,Inuyashiki Vol. 2,,12.99,Random House,344
+TPB,2015,NOVEMBER,299,Flash Vol. 2 Rogues Revolution,,16.99,DC,340
+TPB,2015,NOVEMBER,300,Rumble Vol. 1 What Color of Darkness,,9.99,Image,340
+TPB,2015,NOVEMBER,301,Terra Formars Vol. 9,,12.99,Viz,339
+TPB,2015,NOVEMBER,302,One Punch Man Vol. 3,,9.99,Viz,339
+TPB,2015,NOVEMBER,305,Oh My Goddess Omnibus Vol. 2,,19.99,Dark Horse,335
+TPB,2015,NOVEMBER,309,Rin-Ne Vol. 19,,9.99,Viz,330
+TPB,2015,NOVEMBER,319,Legend of Zelda Link To The Past,,19.99,Viz,322
+TPB,2015,NOVEMBER,321,Seven Deadly Sins Vol. 11,,10.99,Random House,321
+TPB,2015,NOVEMBER,326,Death Note Black Ed Vol. 1,,14.99,Viz,312
+TPB,2015,NOVEMBER,328,Death Note Black Ed Vol. 5,,14.99,Viz,310
+TPB,2015,NOVEMBER,333,Tiger & Bunny Vol. 8,,9.99,Viz,299
+TPB,2015,NOVEMBER,341,Silent Voice Vol. 4,,10.99,Random House,292
+TPB,2015,NOVEMBER,342,Pokemon XY Vol. 1,,4.99,Viz,291
+TPB,2015,NOVEMBER,350,A Centaurs Life Vol. 7,,13.99,St. Martins,281
+TPB,2015,NOVEMBER,353,Yamada Kun & Seven Witches Vol. 5,,10.99,Random House,278
+TPB,2015,NOVEMBER,364,My Little Monster Vol. 11,,10.99,Random House,265
+TPB,2015,NOVEMBER,370,My Neighbor Seki Vol. 5,,10.95,Random House,258
+TPB,2015,NOVEMBER,376,Say I Love You Vol. 10,,10.99,Random House,250
+TPB,2015,NOVEMBER,390,Ringworld Part 2,,17.99,St. Martins,243
+TPB,2015,NOVEMBER,421,Love Stage Vol. 4,,12.99,Viz,224
+TPB,2015,NOVEMBER,421,Pokemon XY Vol. 2,,4.99,Viz,224
+TPB,2015,NOVEMBER,440,Cage of Eden Vol. 19,,10.99,Random House,208
+TPB,2015,NOVEMBER,446,Ooku Inner Chambers Vol. 11,,12.99,Viz,205
+TPB,2015,NOVEMBER,450,Faceless Ghost,,16.95,Random House,204
+TPB,2015,NOVEMBER,451,Pokemon XY Vol. 3,,4.99,Viz,204
+TPB,2015,NOVEMBER,459,Black Rose Alice Vol. 6,,9.99,Viz,199
+TPB,2015,NOVEMBER,464,Kill La Kill Vol. 1,,12.99,Udon,197
+TPB,2015,NOVEMBER,469,Pokemon XY Vol. 4,,4.99,Viz,195
+TPB,2015,NOVEMBER,534,Attack On Titan Vol. 2,,10.99,Random House,165
+TPB,2015,NOVEMBER,550,Tsubasa Omnibus Vol. 6,,19.99,Random House,157

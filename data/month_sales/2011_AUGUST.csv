@@ -1,0 +1,601 @@
+PUBLICATION_FORMAT,YEAR,MONTH,SALES_RANK,TITLE,ISSUE,PRICE,PUBLISHER,EST_SALES
+COMIC,2011,AUGUST,1,Justice League,1,3.99,DC,171344
+COMIC,2011,AUGUST,2,Flashpoint,5,3.99,DC,94547
+COMIC,2011,AUGUST,3,Fear Itself,5,3.99,Marvel,90914
+COMIC,2011,AUGUST,4,Flashpoint,4,3.99,DC,86216
+COMIC,2011,AUGUST,5,Ultimate Comics Fallout,4,3.99,Marvel,73764
+COMIC,2011,AUGUST,6,Amazing Spider-Man,667,3.99,Marvel,71235
+COMIC,2011,AUGUST,7,Avengers,16,3.99,Marvel,60295
+COMIC,2011,AUGUST,8,War of the Green Lanterns Aftermath,2,3.99,DC,57707
+COMIC,2011,AUGUST,9,Amazing Spider-Man,668,3.99,Marvel,57533
+COMIC,2011,AUGUST,10,New Avengers,15,3.99,Marvel,56035
+COMIC,2011,AUGUST,11,Uncanny X-Men,542,3.99,Marvel,54840
+COMIC,2011,AUGUST,12,Captain America,2,3.99,Marvel,54384
+COMIC,2011,AUGUST,13,Kick-Ass 2,3,2.99,Marvel,54270
+COMIC,2011,AUGUST,14,Uncanny X-Force,13,3.99,Marvel,53904
+COMIC,2011,AUGUST,15,Batman Incorporated,8,2.99,DC,53481
+COMIC,2011,AUGUST,16,Green Lantern Corps,63,2.99,DC,53372
+COMIC,2011,AUGUST,17,Batman the Dark Knight,5,2.99,DC,52908
+COMIC,2011,AUGUST,18,Batman And Robin,26,2.99,DC,52704
+COMIC,2011,AUGUST,19,FF,8,2.99,Marvel,51917
+COMIC,2011,AUGUST,20,Batman,713,2.99,DC,51760
+COMIC,2011,AUGUST,21,Uncanny X-Force,14,3.99,Marvel,50770
+COMIC,2011,AUGUST,22,X-Men Schism,3,3.99,Marvel,50147
+COMIC,2011,AUGUST,23,Ultimate Comics Ultimates,1,3.99,Marvel,47630
+COMIC,2011,AUGUST,24,Secret Avengers,16,3.99,Marvel,46317
+COMIC,2011,AUGUST,25,Punisher,1,3.99,Marvel,44725
+COMIC,2011,AUGUST,26,Mighty Thor,5,3.99,Marvel,44594
+COMIC,2011,AUGUST,27,Green Lantern Emerald Warriors,13,2.99,DC,44228
+COMIC,2011,AUGUST,28,X-Men,16,3.99,Marvel,43161
+COMIC,2011,AUGUST,29,Justice League of America,60,2.99,DC,42587
+COMIC,2011,AUGUST,30,Punisher,2,2.99,Marvel,42459
+COMIC,2011,AUGUST,31,Ultimate Comics Fallout,5,3.99,Marvel,41336
+COMIC,2011,AUGUST,32,Daredevil,2,2.99,Marvel,40990
+COMIC,2011,AUGUST,33,X-Men Legacy,253,2.99,Marvel,40466
+COMIC,2011,AUGUST,34,"Flashpoint Batman Knight ofVengeance",3,2.99,DC,40275
+COMIC,2011,AUGUST,35,Invincible Iron Man,507,3.99,Marvel,40082
+COMIC,2011,AUGUST,36,X-Men Legacy,254,2.99,Marvel,39896
+COMIC,2011,AUGUST,37,Detective Comics,881,3.99,DC,39729
+COMIC,2011,AUGUST,38,Action Comics,904,2.99,DC,39323
+COMIC,2011,AUGUST,39,Wolverine,13,3.99,Marvel,39296
+COMIC,2011,AUGUST,40,Ultimate Comics Fallout,6,3.99,Marvel,39190
+COMIC,2011,AUGUST,41,Wolverine,14,3.99,Marvel,38869
+COMIC,2011,AUGUST,42,Incredible Hulks,635,3.99,Marvel,38223
+COMIC,2011,AUGUST,43,X-Men,15.1,2.99,Marvel,38078
+COMIC,2011,AUGUST,44,"Brightest Day Aftermath Search forSwamp Thing",3,2.99,DC,37509
+COMIC,2011,AUGUST,45,Captain America And Bucky,621,2.99,Marvel,36069
+COMIC,2011,AUGUST,46,Superman,714,2.99,DC,35919
+COMIC,2011,AUGUST,47,Venom,6,2.99,Marvel,35033
+COMIC,2011,AUGUST,48,Teenage Mutant Ninja Turtles Ongoing,1,3.99,IDW,34803
+COMIC,2011,AUGUST,49,Fear Itself Uncanny X-Force,2,2.99,Marvel,34640
+COMIC,2011,AUGUST,50,Astonishing X-Men,41,3.99,Marvel,33470
+COMIC,2011,AUGUST,51,Walking Dead,88,2.99,Image,31839
+COMIC,2011,AUGUST,52,"Flashpoint Abin Sur the GreenLantern",3,2.99,DC,31820
+COMIC,2011,AUGUST,53,Journey Into Mystery,626,2.99,Marvel,31549
+COMIC,2011,AUGUST,54,Flashpoint Project Superman,3,2.99,DC,30565
+COMIC,2011,AUGUST,55,Ultimate Comics Hawkeye,1,3.99,Marvel,30469
+COMIC,2011,AUGUST,56,Moon Knight,4,3.99,Marvel,30237
+COMIC,2011,AUGUST,57,"Flashpoint Wonder Woman And theFuries",3,2.99,DC,29492
+COMIC,2011,AUGUST,58,Flashpoint Emperor Aquaman,3,2.99,DC,29491
+COMIC,2011,AUGUST,59,Generation Hope,10,2.99,Marvel,29245
+COMIC,2011,AUGUST,60,Wonder Woman,614,2.99,DC,29223
+COMIC,2011,AUGUST,61,Hulk,38,2.99,Marvel,29059
+COMIC,2011,AUGUST,62,Flashpoint Hal Jordan,3,2.99,DC,28911
+COMIC,2011,AUGUST,63,Batman Arkham City,4,2.99,DC,28573
+COMIC,2011,AUGUST,64,Booster Gold,47,2.99,DC,28295
+COMIC,2011,AUGUST,65,Batman Arkham City,5,2.99,DC,28042
+COMIC,2011,AUGUST,66,Journey Into Mystery,626.1,2.99,Marvel,27877
+COMIC,2011,AUGUST,67,Flashpoint the World of Flashpoint,3,2.99,DC,27743
+COMIC,2011,AUGUST,68,Teen Titans,100,4.99,DC,27459
+COMIC,2011,AUGUST,69,Infinite,1,2.99,Image,27434
+COMIC,2011,AUGUST,70,Incredible Hulks,634,2.99,Marvel,27310
+COMIC,2011,AUGUST,71,New Mutants,29,2.99,Marvel,27205
+COMIC,2011,AUGUST,72,Red Robin,26,2.99,DC,26939
+COMIC,2011,AUGUST,73,Hulk,39,2.99,Marvel,26895
+COMIC,2011,AUGUST,74,Deadpool,42,2.99,Marvel,26794
+COMIC,2011,AUGUST,75,Deadpool,41,2.99,Marvel,26766
+COMIC,2011,AUGUST,76,New Mutants,30,2.99,Marvel,26678
+COMIC,2011,AUGUST,77,Batman Gates of Gotham,4,2.99,DC,26533
+COMIC,2011,AUGUST,78,Thunderbolts,161,2.99,Marvel,26439
+COMIC,2011,AUGUST,79,Superman Batman,87,2.99,DC,26425
+COMIC,2011,AUGUST,80,Birds of Prey,15,2.99,DC,26043
+COMIC,2011,AUGUST,81,"Flashpoint Deadman and the FlyingGraysons",3,2.99,DC,25991
+COMIC,2011,AUGUST,82,Thunderbolts,162,2.99,Marvel,25990
+COMIC,2011,AUGUST,83,Flashpoint Kid Flash Lost,3,2.99,DC,25978
+COMIC,2011,AUGUST,84,Superman Beyond,0,3.99,DC,25793
+COMIC,2011,AUGUST,85,Justice Society of America,54,2.99,DC,25584
+COMIC,2011,AUGUST,86,Batman Gates of Gotham,5,2.99,DC,25376
+COMIC,2011,AUGUST,87,Fear Itself Wolverine,2,2.99,Marvel,25268
+COMIC,2011,AUGUST,88,Flashpoint Citizen Cold,3,2.99,DC,25009
+COMIC,2011,AUGUST,89,Avengers Academy,17,2.99,Marvel,24898
+COMIC,2011,AUGUST,90,Alpha Flight,3,2.99,Marvel,24872
+COMIC,2011,AUGUST,91,"Flashpoint Deathstroke the Curse ofRavager",3,2.99,DC,24634
+COMIC,2011,AUGUST,92,Avengers Academy,18,2.99,Marvel,24538
+COMIC,2011,AUGUST,93,Ghost Rider,2,2.99,Marvel,24440
+COMIC,2011,AUGUST,94,"Flashpoint Lois Lane and theResistance",3,2.99,DC,24060
+COMIC,2011,AUGUST,95,X-23,13,2.99,Marvel,23976
+COMIC,2011,AUGUST,96,Green Arrow,15,2.99,DC,23883
+COMIC,2011,AUGUST,97,X-Factor,223,2.99,Marvel,23854
+COMIC,2011,AUGUST,98,Teen Titans,99,2.99,DC,23756
+COMIC,2011,AUGUST,99,Flashpoint Secret Seven,3,2.99,DC,23747
+COMIC,2011,AUGUST,100,X-Factor,224,2.99,Marvel,23681
+COMIC,2011,AUGUST,101,"Flashpoint Frankenstein Creaturesof Unknown",3,2.99,DC,23131
+COMIC,2011,AUGUST,102,Flashpoint Legion of Doom,3,2.99,DC,23088
+COMIC,2011,AUGUST,103,Shield,2,2.99,Marvel,22877
+COMIC,2011,AUGUST,104,Angel & Faith,1 Morris Cvr,2.99,Dark Horse,22813
+COMIC,2011,AUGUST,105,Fear Itself Deadpool,3,2.99,Marvel,22725
+COMIC,2011,AUGUST,106,Batgirl,24,2.99,DC,22695
+COMIC,2011,AUGUST,107,Flashpoint the Outsider,3,2.99,DC,21839
+COMIC,2011,AUGUST,108,Batman Beyond,8,2.99,DC,21838
+COMIC,2011,AUGUST,109,Daken Dark Wolverine,12,2.99,Marvel,21734
+COMIC,2011,AUGUST,110,Batman 80 Page Giant 2011,1,5.99,DC,21681
+COMIC,2011,AUGUST,111,Legion of Super Heroes,16,2.99,DC,21373
+COMIC,2011,AUGUST,112,Daken Dark Wolverine,13,2.99,Marvel,21302
+COMIC,2011,AUGUST,113,Superboy,10,2.99,DC,20563
+COMIC,2011,AUGUST,114,Spider-Island Cloak And Dagger,1,2.99,Marvel,20348
+COMIC,2011,AUGUST,115,Black Panther Man Without Fear,522,2.99,Marvel,20342
+COMIC,2011,AUGUST,116,Superboy,11,2.99,DC,20317
+COMIC,2011,AUGUST,117,Gotham City Sirens,26,2.99,DC,20216
+COMIC,2011,AUGUST,118,Fear Itself Home Front,5,3.99,Marvel,19956
+COMIC,2011,AUGUST,119,Spider-Island Deadly Foes,1,4.99,Marvel,19956
+COMIC,2011,AUGUST,120,Supergirl,67,2.99,DC,19764
+COMIC,2011,AUGUST,121,Hellboy the Fury,3,2.99,Dark Horse,19674
+COMIC,2011,AUGUST,122,Wolverine Best There Is,9,3.99,Marvel,19476
+COMIC,2011,AUGUST,123,Adventure Comics,529,2.99,DC,19227
+COMIC,2011,AUGUST,124,Secret Six,36,2.99,DC,19104
+COMIC,2011,AUGUST,125,Green Lantern Movie Prequel Sinestro,1,2.99,DC,18918
+COMIC,2011,AUGUST,126,Mystic,1,2.99,Marvel,18783
+COMIC,2011,AUGUST,127,"Star Wars Dark Times Out of theWilderness",1,2.99,Dark Horse,18548
+COMIC,2011,AUGUST,128,Spider-Island Amazing Spider-Girl,1,2.99,Marvel,18394
+COMIC,2011,AUGUST,129,Fables,108,2.99,DC,18390
+COMIC,2011,AUGUST,130,Heroes For Hire,10,2.99,Marvel,18374
+COMIC,2011,AUGUST,131,Titans,38,2.99,DC,18035
+COMIC,2011,AUGUST,132,Boys,57,3.99,Dynamic Forces,17884
+COMIC,2011,AUGUST,133,Punishermax,16,3.99,Marvel,17625
+COMIC,2011,AUGUST,134,Kevin Smith Bionic Man,1,3.99,Dynamic Forces,17187
+COMIC,2011,AUGUST,135,Zatanna,16,2.99,DC,17076
+COMIC,2011,AUGUST,136,Iron Man 2.0,7.1,2.99,Marvel,16984
+COMIC,2011,AUGUST,137,Fear Itself Deep,3,2.99,Marvel,16918
+COMIC,2011,AUGUST,138,Vengeance,2,3.99,Marvel,16895
+COMIC,2011,AUGUST,139,Herc,6,2.99,Marvel,16730
+COMIC,2011,AUGUST,140,DC Universe Online Legends,13,2.99,DC,16540
+COMIC,2011,AUGUST,141,Power Girl,27,2.99,DC,16491
+COMIC,2011,AUGUST,142,Fear Itself Youth In Revolt,4,2.99,Marvel,16478
+COMIC,2011,AUGUST,143,Iron Man 2.0,8,2.99,Marvel,16455
+COMIC,2011,AUGUST,144,Dark Tower Gunslinger Battle of Tull,3,3.99,Marvel,16337
+COMIC,2011,AUGUST,145,Red Skull,2,2.99,Marvel,16166
+COMIC,2011,AUGUST,146,Fear Itself Fearsome Four,3,2.99,Marvel,16099
+COMIC,2011,AUGUST,147,DC Universe Online Legends,14,2.99,DC,16018
+COMIC,2011,AUGUST,148,"Spider-Island Deadly Hands of KungFu",1,2.99,Marvel,15907
+COMIC,2011,AUGUST,149,Marvel Universe Vs Wolverine,3,3.99,Marvel,15583
+COMIC,2011,AUGUST,150,Star Wars Knight Errant Deluge,1,3.5,Dark Horse,15448
+COMIC,2011,AUGUST,151,American Vampire,18,2.99,DC,15423
+COMIC,2011,AUGUST,152,Boys Butcher Baker Candlestickmaker,2,3.99,Dynamic Forces,15168
+COMIC,2011,AUGUST,153,Invincible,82,2.99,Image,15105
+COMIC,2011,AUGUST,154,Star Wars Invasion Revelations,2,3.5,Dark Horse,14829
+COMIC,2011,AUGUST,155,Rocketeer Adventures,4,3.99,IDW,14749
+COMIC,2011,AUGUST,156,Star Wars Old Republic,3,3.5,Dark Horse,14741
+COMIC,2011,AUGUST,157,"American Vampire Survival of theFittest",3,2.99,DC,14696
+COMIC,2011,AUGUST,158,Deadpoolmax,11,3.99,Marvel,14626
+COMIC,2011,AUGUST,159,Stand Night Has Come,1,3.99,Marvel,14510
+COMIC,2011,AUGUST,160,Justice League,1 Combo Pack,4.99,DC,14432
+COMIC,2011,AUGUST,161,Star Wars Jedi Dark Side,4,2.99,Dark Horse,14425
+COMIC,2011,AUGUST,162,Spawn,210,2.99,Image,14100
+COMIC,2011,AUGUST,163,Herc,6.1,2.99,Marvel,13990
+COMIC,2011,AUGUST,164,Haunt,17,2.99,Image,13443
+COMIC,2011,AUGUST,165,Warlord of Mars Dejah Thoris,5,3.99,Dynamic Forces,13331
+COMIC,2011,AUGUST,166,Criminal Last of Innocent,3,3.5,Marvel,13265
+COMIC,2011,AUGUST,167,Iron Age,3,4.99,Marvel,13036
+COMIC,2011,AUGUST,168,Thor Heaven And Earth,2,2.99,Marvel,12696
+COMIC,2011,AUGUST,169,Hero Comics 2011,,3.99,IDW,12668
+COMIC,2011,AUGUST,170,Wolverine And Black Cat Claws 2,2,3.99,Marvel,12668
+COMIC,2011,AUGUST,171,DC Retroactive Batman the 80s,1,4.99,DC,12534
+COMIC,2011,AUGUST,172,Godzilla Kingdom of Monsters,6,3.99,IDW,12524
+COMIC,2011,AUGUST,173,Vampirella,9,3.99,Dynamic Forces,12459
+COMIC,2011,AUGUST,174,Red Wing,2,3.5,Image,12368
+COMIC,2011,AUGUST,175,Dollhouse Epitaphs,2,3.5,Dark Horse,12366
+COMIC,2011,AUGUST,176,Chew,20,2.99,Image,12202
+COMIC,2011,AUGUST,177,Iron Age Omega,1,2.99,Marvel,12144
+COMIC,2011,AUGUST,178,Conan Road of Kings,7,3.5,Dark Horse,11955
+COMIC,2011,AUGUST,179,DC Retroactive Batman the 90s,1,4.99,DC,11609
+COMIC,2011,AUGUST,180,DC Retroactive Green Lantern the 80s,1,4.99,DC,11398
+COMIC,2011,AUGUST,181,Captain America Corps,3,2.99,Marvel,11394
+COMIC,2011,AUGUST,182,BPRD Hell On Earth Monsters,2,3.5,Dark Horse,11221
+COMIC,2011,AUGUST,183,"DC Retroactive Justice LeagueAmerica the 90s",1,4.99,DC,11205
+COMIC,2011,AUGUST,184,Hellraiser,4,3.99,Boom,11096
+COMIC,2011,AUGUST,185,DC Retroactive Superman the 80s,1,4.99,DC,11072
+COMIC,2011,AUGUST,186,Rachel Rising,1,3.99,Abstract,10989
+COMIC,2011,AUGUST,187,Thor Heaven And Earth,3,2.99,Marvel,10948
+COMIC,2011,AUGUST,188,Artifacts,9,3.99,Image,10942
+COMIC,2011,AUGUST,189,G.I. Joe Vol. 2 Ongoing,4,3.99,IDW,10824
+COMIC,2011,AUGUST,190,Baltimore Curse Bells,1,3.5,Dark Horse,10797
+COMIC,2011,AUGUST,191,Unwritten,28,2.99,DC,10731
+COMIC,2011,AUGUST,192,Morning Glories,11,2.99,Image,10653
+COMIC,2011,AUGUST,193,"DC Retroactive Justice LeagueAmerica the 80s",1,4.99,DC,10583
+COMIC,2011,AUGUST,194,Severed,1,2.99,Image,10573
+COMIC,2011,AUGUST,195,DC Retroactive Green Lantern the 90s,1,4.99,DC,10527
+COMIC,2011,AUGUST,196,"Godzilla Gangsters &Goliaths",3,3.99,IDW,10525
+COMIC,2011,AUGUST,197,Fear Itself Fellowship of Fear Fear,,3.99,Marvel,10448
+COMIC,2011,AUGUST,198,DC Retroactive the Flash the 80s,1,4.99,DC,10446
+COMIC,2011,AUGUST,199,Jonah Hex,70,2.99,DC,10369
+COMIC,2011,AUGUST,200,Transformers Ongoing,23,3.99,IDW,10327
+COMIC,2011,AUGUST,201,Transformers Ongoing,24,3.99,IDW,10097
+COMIC,2011,AUGUST,202,DC Retroactive Wonder Woman the 80s,1,4.99,DC,10079
+COMIC,2011,AUGUST,203,Supreme Power,3,3.99,Marvel,10040
+COMIC,2011,AUGUST,204,Dungeons & Dragons Drizzt,1,3.99,IDW,9855
+COMIC,2011,AUGUST,205,Warlord of Mars Fall of Barsoom,2,3.99,Dynamic Forces,9812
+COMIC,2011,AUGUST,206,G.I. Joe A Real American Hero,169,3.99,IDW,9670
+COMIC,2011,AUGUST,207,Izombie,16,2.99,DC,9568
+COMIC,2011,AUGUST,208,DC Retroactive the Flash the 90s,1,4.99,DC,9512
+COMIC,2011,AUGUST,209,Sonic the Hedgehog,228,2.99,Archie,9444
+COMIC,2011,AUGUST,210,DC Retroactive Superman the 90s,1,4.99,DC,9443
+COMIC,2011,AUGUST,211,Sonic the Hedgehog,227,2.99,Archie,9419
+COMIC,2011,AUGUST,212,Hellblazer,282,2.99,DC,9372
+COMIC,2011,AUGUST,213,Mystery Men,4,2.99,Marvel,9300
+COMIC,2011,AUGUST,214,DC Retroactive Wonder Woman the 90s,1,4.99,DC,9290
+COMIC,2011,AUGUST,215,Snake Eyes Ongoing,4,3.99,IDW,9288
+COMIC,2011,AUGUST,216,Dungeons And Dragons,9,3.99,IDW,8987
+COMIC,2011,AUGUST,217,Dark Horse Presents,3 Gibbons Cvr,7.99,Dark Horse,8931
+COMIC,2011,AUGUST,218,Mega Man,4 Spaz Cvr,2.99,Archie,8900
+COMIC,2011,AUGUST,219,Irredeemable,28,3.99,Boom,8820
+COMIC,2011,AUGUST,220,All Winners Squad Band of Heroes,3,2.99,Marvel,8766
+COMIC,2011,AUGUST,221,Lady Death,8,3.99,Avatar,8681
+COMIC,2011,AUGUST,222,Dungeons And Dragons,10,3.99,IDW,8546
+COMIC,2011,AUGUST,223,Goon,35,3.5,Dark Horse,8528
+COMIC,2011,AUGUST,224,Zombies Christmas Carol,4,3.99,Marvel,8513
+COMIC,2011,AUGUST,225,Witchblade,147,3.99,Image,8487
+COMIC,2011,AUGUST,226,Thunder Agents,10,2.99,DC,8453
+COMIC,2011,AUGUST,227,Gambit From the Marvel Vault,1,2.99,Marvel,8441
+COMIC,2011,AUGUST,228,War Goddess,0,3.99,Avatar,8427
+COMIC,2011,AUGUST,229,Planet of the Apes,5,1.0,Boom,8386
+COMIC,2011,AUGUST,230,Grimm Fairy Tales,63,2.99,Zenescope,8086
+COMIC,2011,AUGUST,231,Young Justice,7,2.99,DC,8062
+COMIC,2011,AUGUST,232,Sweet Tooth,24,2.99,DC,7948
+COMIC,2011,AUGUST,233,Suicide Girls,4,3.99,IDW,7902
+COMIC,2011,AUGUST,234,Spongebob Comics,4,2.99,United Plankton,7889
+COMIC,2011,AUGUST,235,Red Sonja,57,3.99,Dynamic Forces,7888
+COMIC,2011,AUGUST,236,X-Men Schism,1,4.99,Marvel,7792
+COMIC,2011,AUGUST,237,Locke & Key Clockworks,2,3.99,IDW,7686
+COMIC,2011,AUGUST,238,John Byrne Next Men,9,3.99,IDW,7651
+COMIC,2011,AUGUST,239,Tiny Titans,43,2.99,DC,7534
+COMIC,2011,AUGUST,240,Zombies Christmas Carol,5,3.99,Marvel,7514
+COMIC,2011,AUGUST,241,Doctor Who Ongoing Vol. 2,8,3.99,IDW,7480
+COMIC,2011,AUGUST,242,Sergio Aragones Funnies,2,3.5,Bongo,7439
+COMIC,2011,AUGUST,243,X-Men Schism,2,3.99,Marvel,7346
+COMIC,2011,AUGUST,244,Roger Langridge Snarked,0,1.0,Boom,7159
+COMIC,2011,AUGUST,245,Sonic Universe,31,2.99,Archie,7038
+COMIC,2011,AUGUST,246,Spirit,17,2.99,DC,7032
+COMIC,2011,AUGUST,247,Incorruptible,21,3.99,Boom,7015
+COMIC,2011,AUGUST,248,Northlanders,43,2.99,DC,6901
+COMIC,2011,AUGUST,249,Anne Rice Servant of the Bones,1,3.99,IDW,6884
+COMIC,2011,AUGUST,250,Green Hornet Year One,11,3.99,Dynamic Forces,6839
+COMIC,2011,AUGUST,251,Queen Sonja,19,3.99,Dynamic Forces,6816
+COMIC,2011,AUGUST,252,Simpsons Comics,181,2.99,Bongo,6796
+COMIC,2011,AUGUST,253,Anita Blake Circus of Damned Ingenue,5,3.99,Marvel,6712
+COMIC,2011,AUGUST,254,Amazing Spider-Man Infested,1,3.99,Marvel,6692
+COMIC,2011,AUGUST,255,Xombi,6,2.99,DC,6669
+COMIC,2011,AUGUST,256,Elric the Balance Lost,2,3.99,Boom,6643
+COMIC,2011,AUGUST,257,Zorro Rides Again,1,3.99,Dynamic Forces,6569
+COMIC,2011,AUGUST,258,Caligula,3,3.99,Avatar,6560
+COMIC,2011,AUGUST,259,Tales From Neverland,3,3.99,Zenescope,6531
+COMIC,2011,AUGUST,260,House of Mystery,40,2.99,DC,6512
+COMIC,2011,AUGUST,261,Ka-Zar,3,2.99,Marvel,6475
+COMIC,2011,AUGUST,262,Doctor Who Annual 2011,,7.99,IDW,6453
+COMIC,2011,AUGUST,263,Grimm Fairy Tales,62,2.99,Zenescope,6452
+COMIC,2011,AUGUST,264,Scalped,51,2.99,DC,6409
+COMIC,2011,AUGUST,265,Fathom Blue Descent,3 Cvr A Alex Sanchez,2.99,Aspen,6398
+COMIC,2011,AUGUST,266,"All New Batman the Brave And theBold",10,2.99,DC,6351
+COMIC,2011,AUGUST,267,Doc Savage,17,2.99,DC,6312
+COMIC,2011,AUGUST,268,Last Phantom,8,3.99,Dynamic Forces,6172
+COMIC,2011,AUGUST,269,Fly,3 A Cvr Ebas,2.99,Zenescope,6133
+COMIC,2011,AUGUST,270,50 Girls 50,3,2.99,Image,6127
+COMIC,2011,AUGUST,271,Sinbad Gft Dream Eater One Shot,,2.99,Zenescope,6059
+COMIC,2011,AUGUST,272,Veronica,208,2.99,Archie,5981
+COMIC,2011,AUGUST,273,68 (Sixty Eight),3,3.99,Image,5954
+COMIC,2011,AUGUST,274,Soulfire Vol. 3,3 Cvr A Fabok,2.99,Aspen,5895
+COMIC,2011,AUGUST,275,Executive Assistant Iris Vol. 2,2 Cvr A Francisco,3.5,Aspen,5843
+COMIC,2011,AUGUST,276,The Rinse,1,1.0,Boom,5819
+COMIC,2011,AUGUST,277,War Goddess,1,3.99,Avatar,5789
+COMIC,2011,AUGUST,278,Zorro Rides Again,2,3.99,Dynamic Forces,5740
+COMIC,2011,AUGUST,279,Hack Slash Eva Monsters Ball,3,3.99,Dynamic Forces,5726
+COMIC,2011,AUGUST,280,Dmz,68,2.99,DC,5668
+COMIC,2011,AUGUST,281,"Spider-Man Emergence Evil JackalAnd Hobgoblin",1,4.99,Marvel,5666
+COMIC,2011,AUGUST,282,"Night of the Living Dead DeathValley",3,3.99,Avatar,5527
+COMIC,2011,AUGUST,283,Bart Simpson Comics,62,2.99,Bongo,5462
+COMIC,2011,AUGUST,284,Warehouse 13,1,3.99,Dynamic Forces,5380
+COMIC,2011,AUGUST,285,Grimm Fairy Tales Annual 2011,,5.99,Zenescope,5349
+COMIC,2011,AUGUST,286,Darkwing Duck,15,3.99,Boom,5312
+COMIC,2011,AUGUST,287,Butcher Baker Righteous Maker,6,2.99,Image,5256
+COMIC,2011,AUGUST,288,Salems Daughter Haunting,1 A Cvr Artgerm,2.99,Zenescope,5171
+COMIC,2011,AUGUST,289,30 Days of Night Night Again,4,3.99,IDW,5157
+COMIC,2011,AUGUST,290,Vescell,1,2.99,Image,5094
+COMIC,2011,AUGUST,291,Damaged,1,3.99,Radical,4977
+COMIC,2011,AUGUST,292,Usagi Yojimbo,139,3.5,Dark Horse,4769
+COMIC,2011,AUGUST,293,Savage Dragon,172,3.5,Image,4717
+COMIC,2011,AUGUST,294,Savage Dragon,173,3.5,Image,4712
+COMIC,2011,AUGUST,295,Avengelyne,2,2.99,Image,4710
+COMIC,2011,AUGUST,296,Scooby Doo Where Are You,12,2.99,DC,4686
+COMIC,2011,AUGUST,297,Spider-Man,17,2.99,Marvel,4675
+COMIC,2011,AUGUST,298,Strawberry Shortcake Berry Fun,1,3.95,Ape,4581
+COMIC,2011,AUGUST,299,Chronicles of Wormwood Last Battle,6,4.99,Avatar,4532
+COMIC,2011,AUGUST,300,Blue Estate,5,2.99,Image,4514
+TPB,2011,AUGUST,1,"Serenity HC Vol. 2 Better Days& Other Stories",,19.99,Dark Horse,4076
+TPB,2011,AUGUST,2,"Star Wars Adv Chewbacca &Slavers of the Shadowland",,7.99,Dark Horse,3612
+TPB,2011,AUGUST,3,We 3 Deluxe Edition HC,,24.99,DC,3229
+TPB,2011,AUGUST,4,BPRD Hell On Earth Vol. 1 New World,,19.99,Dark Horse,3110
+TPB,2011,AUGUST,5,Batman Mad Love And Other Stories,,17.99,DC,3088
+TPB,2011,AUGUST,6,"FF By Jonathan Hickman Prem HC Vol.1",,19.99,Marvel,2685
+TPB,2011,AUGUST,7,Walking Dead Vol. 14 No Way Out,,14.99,Image,2638
+TPB,2011,AUGUST,8,Walking Dead Vol. 1 Days Gone Bye,,9.99,Image,2632
+TPB,2011,AUGUST,9,Batman Under the Red Hood,,29.99,DC,2625
+TPB,2011,AUGUST,10,"Invincible Iron Man Vol. 6 StarkResilient Book 2",,15.99,Marvel,2522
+TPB,2011,AUGUST,11,Shadowland,,19.99,Marvel,2502
+TPB,2011,AUGUST,12,Hellblazer Bloody Carnations,,19.99,DC,2445
+TPB,2011,AUGUST,13,"Green Lantern Emerald Warriors HCVol. 1",,22.99,DC,2320
+TPB,2011,AUGUST,14,Superman Batman Night And Day,,17.99,DC,2250
+TPB,2011,AUGUST,15,Batman Impostors,,14.99,DC,2212
+TPB,2011,AUGUST,16,Fables Deluxe Edition HC Vol. 3,,29.99,DC,2158
+TPB,2011,AUGUST,17,"League of Extraordinary GentlemenIII Century #2 1969",,9.95,Top Shelf,2153
+TPB,2011,AUGUST,18,Crow Special Ed,,18.0,Pocket,2117
+TPB,2011,AUGUST,19,Oz Marvelous Land of Oz,,19.99,Marvel,2105
+TPB,2011,AUGUST,20,Madame Xanadu Vol. 4 Extra Sensory,,17.99,DC,2092
+TPB,2011,AUGUST,21,Best of Archie Comics,,9.99,Archie,2080
+TPB,2011,AUGUST,22,Creepy Presents Bernie Wrightson HC,,19.99,Dark Horse,2065
+TPB,2011,AUGUST,23,X-Men Curse of Mutants,,19.99,Marvel,2055
+TPB,2011,AUGUST,24,X-Men Legacy Collision,,14.99,Marvel,2047
+TPB,2011,AUGUST,25,Showcase Presents Trial of the Flash,,19.99,DC,2031
+TPB,2011,AUGUST,26,Spider-Man Big Time,,14.99,Marvel,1989
+TPB,2011,AUGUST,27,Superman Grounded HC Vol. 1,,22.99,DC,1977
+TPB,2011,AUGUST,28,"Transmetropolitan Vol. 10 One MoreTime New Ed",,19.99,DC,1972
+TPB,2011,AUGUST,29,Carnage HC Family Feud,,24.99,Marvel,1959
+TPB,2011,AUGUST,30,"Chronicles of Conan Vol. 21 Bloodof Titan",,18.99,Dark Horse,1873
+TPB,2011,AUGUST,31,Incredible Hulks Dark Son,,19.99,Marvel,1849
+TPB,2011,AUGUST,32,"Star Wars Long Time Ago OmnibusVol. 4",,24.99,Dark Horse,1841
+TPB,2011,AUGUST,33,Silver Surfer Devolution,,14.99,Marvel,1781
+TPB,2011,AUGUST,34,X-Men Prelude to Schism Prem HC,,19.99,Marvel,1747
+TPB,2011,AUGUST,35,Terry Moores Echo Complete Ed Sc,,39.99,Abstract,1701
+TPB,2011,AUGUST,36,"Invincible Iron Man Prem HC Vol. 8Unfixable",,19.99,Marvel,1665
+TPB,2011,AUGUST,37,Yu Gi Oh Gx Vol. 7,,9.99,Viz,1657
+TPB,2011,AUGUST,38,"Gotham City Sirens HC Vol. 3Strange Fruit",,22.99,DC,1637
+TPB,2011,AUGUST,39,Firestorm the Nuclear Man,,17.99,DC,1629
+TPB,2011,AUGUST,40,Planet of the Apes Vol. 1,,9.99,Boom,1620
+TPB,2011,AUGUST,41,Gantz Vol. 18,,12.99,Dark Horse,1606
+TPB,2011,AUGUST,42,Amazing Spider-Man Omnibus HC,,99.99,Marvel,1602
+TPB,2011,AUGUST,43,"Spider-Man Fantastic Spider-ManPrem HC",,24.99,Marvel,1593
+TPB,2011,AUGUST,44,Knuckles the Echidna Archives Vol. 1,,9.95,Archie,1547
+TPB,2011,AUGUST,45,Shadowland Daredevil,,14.99,Marvel,1543
+TPB,2011,AUGUST,46,"Blackjacked & PistolWhipped Crime Does Not PayPrimer",,19.99,Dark Horse,1498
+TPB,2011,AUGUST,47,"Jack Kirby Omnibus HC Vol. 1Starring Green Arrow",,49.99,DC,1481
+TPB,2011,AUGUST,48,"Deadpool Am Spider-Man HulkIdentity Wars Prem HC",,19.99,Marvel,1481
+TPB,2011,AUGUST,49,Drifters Vol. 1,,12.99,Dark Horse,1479
+TPB,2011,AUGUST,50,Infestation Vol. 1,,19.99,IDW,1478
+TPB,2011,AUGUST,51,BPRD Plague of Frogs HC Vol. 2,,34.99,Dark Horse,1477
+TPB,2011,AUGUST,52,DC Universe Legacies HC,,34.99,DC,1460
+TPB,2011,AUGUST,53,"Sandman Vol. 6 Fables AndReflections New Ed",,19.99,DC,1454
+TPB,2011,AUGUST,54,"Uncanny X-Force Vol. 1 ApocalypseSolution",,15.99,Marvel,1453
+TPB,2011,AUGUST,55,Avengers Academy Arcade Death Game,,14.99,Marvel,1452
+TPB,2011,AUGUST,56,"Walking Dead Vol. 2 Miles Behind Us(New Ptg)",,14.99,Image,1450
+TPB,2011,AUGUST,57,"New Avengers By Brian MichaelBendis Prem HC Vol. 2",,24.99,Marvel,1440
+TPB,2011,AUGUST,58,X-Men Phoenix Rising,,14.99,Marvel,1430
+TPB,2011,AUGUST,59,Team Ups of the Brave And the Bold,,17.99,DC,1424
+TPB,2011,AUGUST,60,Magdalena Vol. 1,,14.99,Image,1417
+TPB,2011,AUGUST,61,"Cardcaptor Sakura Dark HorseOmnibus Ed Vol. 2",,19.99,Dark Horse,1406
+TPB,2011,AUGUST,62,Blackest Night,,19.99,DC,1400
+TPB,2011,AUGUST,63,"Malinky Robot Coll Stories& Other Bits",,16.99,Image,1400
+TPB,2011,AUGUST,64,Supergirl Bizarrogirl,,19.99,DC,1388
+TPB,2011,AUGUST,65,Secret Society of Super Villains HC,,39.99,DC,1381
+TPB,2011,AUGUST,66,Chimichanga HC,,14.99,Dark Horse,1366
+TPB,2011,AUGUST,67,X-Men X-Tinction Agenda HC,,49.99,Marvel,1364
+TPB,2011,AUGUST,68,"Thunderbolts By Ellis And DeodatoUlt Coll",,29.99,Marvel,1357
+TPB,2011,AUGUST,69,"Marvel Masterworks Daredevil HCVol. 6",,54.99,Marvel,1349
+TPB,2011,AUGUST,70,World of Warcraft Vol. 4,,14.99,DC,1341
+TPB,2011,AUGUST,71,99 Days HC,,19.99,DC,1337
+TPB,2011,AUGUST,72,Annihilators HC,,24.99,Marvel,1329
+TPB,2011,AUGUST,73,Shadowland Street Heroes,,19.99,Marvel,1314
+TPB,2011,AUGUST,74,Batman Year One Deluxe SC,,14.99,DC,1298
+TPB,2011,AUGUST,75,Spider-Girl Family Values,,19.99,Marvel,1295
+TPB,2011,AUGUST,76,"Marvel Masterworks Atlas Era VenusHC Vol. 1",,59.99,Marvel,1277
+TPB,2011,AUGUST,77,"Tales of the Batman Gene Colan HCVol. 1",,39.99,DC,1276
+TPB,2011,AUGUST,78,Pokemon Black & White Vol. 1,,4.99,Viz,1272
+TPB,2011,AUGUST,79,Resident Evil,,19.99,DC,1268
+TPB,2011,AUGUST,80,Halcyon,,14.99,Image,1256
+TPB,2011,AUGUST,81,Bakuman Vol. 6,,9.99,Viz,1256
+TPB,2011,AUGUST,82,Batman Hush Complete,,24.99,DC,1237
+TPB,2011,AUGUST,83,Criminal Macabre Omnibus Vol. 1,,24.99,Dark Horse,1233
+TPB,2011,AUGUST,84,New Teen Titans Omnibus HC Vol. 1,,75.0,DC,1233
+TPB,2011,AUGUST,85,"Wolverine Hercules Myths MonstersAnd Mutants",,14.99,Marvel,1223
+TPB,2011,AUGUST,86,Batman Dark Knight Returns,,14.99,DC,1214
+TPB,2011,AUGUST,87,Daken Dark Wolverine Empire,,19.99,Marvel,1211
+TPB,2011,AUGUST,88,"X-Men Curse of Mutants Mutants VsVampires",,19.99,Marvel,1208
+TPB,2011,AUGUST,89,Essential Web of Spider-Man Vol. 1,,19.99,Marvel,1207
+TPB,2011,AUGUST,90,"Green River Killer True DetectiveStory HC",,24.99,Dark Horse,1188
+TPB,2011,AUGUST,91,"Fantastic Four By Waid &Wieringo Ult Coll Book 02",,24.99,Marvel,1168
+TPB,2011,AUGUST,92,Too Much Coffee Man Omnibus Vol. 1,,24.99,Dark Horse,1161
+TPB,2011,AUGUST,93,Pokemon Black & White Vol. 2,,4.99,Viz,1140
+TPB,2011,AUGUST,94,Invincible Compendium Vol. 1,,64.99,Image,1132
+TPB,2011,AUGUST,95,"Captain America Prisoner of WarPrem HC",,24.99,Marvel,1117
+TPB,2011,AUGUST,96,"Walking Dead Vol. 3 Safety BehindBars",,14.99,Image,1107
+TPB,2011,AUGUST,97,Joker HC,,19.99,DC,1093
+TPB,2011,AUGUST,98,"Naoki Urasawa 20th Century BoysVol. 16",,12.99,Viz,1079
+TPB,2011,AUGUST,99,Magnus Robot Fighter Vol. 1,,15.99,Dark Horse,1068
+TPB,2011,AUGUST,100,Mega Man Gigamix Vol. 2,,12.95,Udon,1056
+TPB,2011,AUGUST,101,"Goon Vol. 3 Heaps of Ruination 2ndEd",,16.99,Dark Horse,1051
+TPB,2011,AUGUST,102,Hulk Vs the Marvel Universe,,24.99,Marvel,1051
+TPB,2011,AUGUST,103,"Billy the Kid Old Timey OdditiesVol. 2 Fiend London",,15.99,Dark Horse,1041
+TPB,2011,AUGUST,104,Terminal Alice Gn,,9.99,Zenescope,1023
+TPB,2011,AUGUST,105,Lions Tigers & Bears Vol. 3,,12.99,Hermes,1016
+TPB,2011,AUGUST,106,Shadowland Thunderbolts,,15.99,Marvel,1006
+TPB,2011,AUGUST,107,"Esperanza Love & RocketsBook SC",,18.99,Fantagraphics,1001
+TPB,2011,AUGUST,108,Walking Dead Vol. 13 Too Far Gone,,14.99,Image,983
+TPB,2011,AUGUST,109,"Walter Simonson Thor Artist Ed HC(Net)",,75.0,IDW,974
+TPB,2011,AUGUST,110,"Batman the Killing Joke Special EdHC",,17.99,DC,967
+TPB,2011,AUGUST,111,"Steve Ditko Omnibus HC Vol. 1Starring Shade",,59.99,DC,967
+TPB,2011,AUGUST,112,History of Violence New Ed,,14.99,DC,965
+TPB,2011,AUGUST,113,Infinite Kung Fu,,24.95,Top Shelf,960
+TPB,2011,AUGUST,114,"Little Lulu Vol. 28 Prize WinnerAnd Other Stories",,14.99,Dark Horse,958
+TPB,2011,AUGUST,115,Pokemon Adventures Vol. 14,,7.99,Viz,957
+TPB,2011,AUGUST,116,"Spider-Man Newspaper Strips HC Vol.2",,39.99,Marvel,949
+TPB,2011,AUGUST,117,"Complete Peanuts HC Vol. 161981-1982",,28.99,Fantagraphics,944
+TPB,2011,AUGUST,118,Walking Dead Vol. 4 Hearts Desire,,14.99,Image,942
+TPB,2011,AUGUST,119,"Marvel Masterworks Sub-Mariner Vol.1",,24.99,Marvel,942
+TPB,2011,AUGUST,120,Let Me In Vol. 1 Crossroads,,14.99,Dark Horse,939
+TPB,2011,AUGUST,121,"How To Understand Israel In 60 Daysor Less",,19.99,DC,938
+TPB,2011,AUGUST,122,Last Dragon HC,,29.99,Dark Horse,931
+TPB,2011,AUGUST,123,Any Empire HC,,19.95,Top Shelf,930
+TPB,2011,AUGUST,124,Civil War,,24.99,Marvel,923
+TPB,2011,AUGUST,125,New X-Men By Grant Morrison Book 04,,14.99,Marvel,919
+TPB,2011,AUGUST,126,Rocket Raccoon Guardian Prem HC,,24.99,Marvel,913
+TPB,2011,AUGUST,127,G.I. Joe Vol. 5,,19.99,IDW,894
+TPB,2011,AUGUST,128,Chew Vol. 1,,9.99,Image,869
+TPB,2011,AUGUST,129,"Scott Pilgrim Vol. 1 PreciousLittle Life",,11.99,Oni,869
+TPB,2011,AUGUST,130,Hulk Visionaries Peter David Vol. 8,,29.99,Marvel,867
+TPB,2011,AUGUST,131,Outsiders the Great Divide,,17.99,DC,865
+TPB,2011,AUGUST,132,Diary of A Zombie Kid Vol. 1,,14.95,Antarctic,854
+TPB,2011,AUGUST,133,"Pirate Penguin Vs Ninja Chicken HCVol. 1",,9.95,Top Shelf,843
+TPB,2011,AUGUST,134,Petrograd,,29.99,Oni,841
+TPB,2011,AUGUST,135,Uncouth Sleuth Vol. 1,,12.99,Fulp Fiction,840
+TPB,2011,AUGUST,136,Fables Vol. 1 Legends In Exile,,12.99,DC,834
+TPB,2011,AUGUST,137,"Star Wars Clone Wars Yr Tv Vol. 6Starcrusher Trap",,7.99,Dark Horse,833
+TPB,2011,AUGUST,138,Essential Spider-Man Vol. 1 New Ed,,19.99,Marvel,832
+TPB,2011,AUGUST,139,"Avengers Academy Prem HC Vol. 2Real World",,24.99,Marvel,824
+TPB,2011,AUGUST,140,"Sandman Vol. 1 Preludes &Nocturnes New Ed",,19.99,DC,819
+TPB,2011,AUGUST,141,K On Vol. 3,,11.99,Hachette,816
+TPB,2011,AUGUST,142,Walking Dead Vol. 5 Best Defense,,14.99,Image,813
+TPB,2011,AUGUST,143,Eerie Archives HC Vol. 8,,49.99,Dark Horse,812
+TPB,2011,AUGUST,144,Blankets Gn,,29.95,Top Shelf,800
+TPB,2011,AUGUST,145,Chew Vol. 3 Just Desserts,,12.99,Image,797
+TPB,2011,AUGUST,146,"Marvel Adv Spider-Man NeighborhoodDigest",,9.99,Marvel,788
+TPB,2011,AUGUST,147,Insanely Awesome Mad,,12.99,DC,786
+TPB,2011,AUGUST,148,Chew Vol. 2 International Flavor,,12.99,Image,786
+TPB,2011,AUGUST,149,Tenjo Tenge Vol. 2,,17.99,Viz,785
+TPB,2011,AUGUST,150,Walking Dead Vol. 12 Life Among Them,,14.99,Image,778
+TPB,2011,AUGUST,151,"Knights of the Dinner Table JavaJoint Strips",,11.99,Kenzer,775
+TPB,2011,AUGUST,152,"Inspector Gadget Vol. 1 Gadget Onthe Orient Express",,5.95,Viper,775
+TPB,2011,AUGUST,153,X-Men Fallen Angels Prem HC,,29.99,Marvel,771
+TPB,2011,AUGUST,154,Melancholy of Haruhi Suzumiya Vol. 9,,11.99,Hachette,769
+TPB,2011,AUGUST,155,Walking Dead Vol. 9 Here We Remain,,14.99,Image,769
+TPB,2011,AUGUST,156,Spider-Man Next Chapter Vol. 1,,39.99,Marvel,763
+TPB,2011,AUGUST,157,"Street Fighter Legends UltimateEdition",,59.99,Udon,762
+TPB,2011,AUGUST,158,Batman the Long Halloween,,19.99,DC,761
+TPB,2011,AUGUST,159,Watchmen,,19.99,DC,759
+TPB,2011,AUGUST,160,Infestation Vol. 2,,19.99,IDW,748
+TPB,2011,AUGUST,161,Walking Dead Vol. 10 What We Become,,14.99,Image,746
+TPB,2011,AUGUST,162,Dark Rain A New Orleans Story Sc,,19.99,DC,741
+TPB,2011,AUGUST,163,V For Vendetta New Edition,,19.99,DC,741
+TPB,2011,AUGUST,164,Meta 4 Complete Series,,14.99,Image,741
+TPB,2011,AUGUST,165,"Namor First Mutant Vol. 2 NamorGoes To Hell",,16.99,Marvel,738
+TPB,2011,AUGUST,166,Haunt Immortal Ed HC Vol. 1,,34.99,Image,723
+TPB,2011,AUGUST,167,"Marineman A Matter of Life& Depth",,19.99,Image,717
+TPB,2011,AUGUST,168,"Locke & Key Vol. 1 WelcomeTo Lovecraft",,19.99,IDW,713
+TPB,2011,AUGUST,169,Fables Vol. 15 Rose Red,,17.99,DC,711
+TPB,2011,AUGUST,170,Fogtown,,12.99,DC,708
+TPB,2011,AUGUST,171,"Walking Dead Vol. 11 Fear theHunters",,14.99,Image,704
+TPB,2011,AUGUST,172,Archies Mad House HC Vol. 1,,34.99,IDW,699
+TPB,2011,AUGUST,173,"Umbrella Academy Vol. 1 ApocalypseSuite",,17.99,Dark Horse,698
+TPB,2011,AUGUST,174,Arkham Asylum Anniversary Ed SC,,17.99,DC,698
+TPB,2011,AUGUST,175,Eden Vol. 13 Its An Endless World,,12.99,Dark Horse,697
+TPB,2011,AUGUST,176,"Do Androids Dream of Electric SheepHC Vol. 5",,24.99,Boom,685
+TPB,2011,AUGUST,177,"Vampirella Masters Series Vol. 5Kurt Busiek",,24.99,Dynamic Forces,683
+TPB,2011,AUGUST,178,"Marvel Adventures Avengers Vol. 2Mischief Digest",,7.99,Marvel,683
+TPB,2011,AUGUST,179,Mighty Avengers HC Dark Reign,,44.99,Marvel,679
+TPB,2011,AUGUST,180,Walking Dead Vol. 7 the Calm Before,,14.99,Image,669
+TPB,2011,AUGUST,181,Bad Island Gn,,10.99,Scholastic,666
+TPB,2011,AUGUST,182,Walking Dead Vol. 6 Sorrowful Life,,14.99,Image,661
+TPB,2011,AUGUST,183,Blue Exorcist Vol. 3,,9.99,Viz,661
+TPB,2011,AUGUST,184,Milton Caniff Male Call HC,,39.99,Hermes,658
+TPB,2011,AUGUST,185,Thor Gods & Men,,29.99,Marvel,658
+TPB,2011,AUGUST,186,"Batman And Robin Vol. 1 BatmanReborn",,14.99,DC,656
+TPB,2011,AUGUST,187,"Little Lulu Pal Tubby Vol. 4 AtomicViolin & OtherStories",,15.99,Dark Horse,655
+TPB,2011,AUGUST,188,"Tales of the Abyss Asch Bloody Vol.1",,10.99,Bandai,654
+TPB,2011,AUGUST,189,Tezukas Black Jack Vol. 15,,16.95,Random House,654
+TPB,2011,AUGUST,190,"Preacher Vol. 1 Gone To Texas NewEdition",,17.99,DC,649
+TPB,2011,AUGUST,191,"Simpsons Treehouse of Horror Vol. 6Beyond the Grave",,17.99,HarperCollins,649
+TPB,2011,AUGUST,192,Penguins of Madagascar Digest Vol. 2,,6.95,Ape,639
+TPB,2011,AUGUST,193,Vampire Tales Vol. 3,,19.99,Marvel,638
+TPB,2011,AUGUST,194,Spike HC Vol. 2,,21.99,IDW,637
+TPB,2011,AUGUST,195,"Locke & Key HC Vol. 4 KeysTo the Kingdom",,24.99,IDW,636
+TPB,2011,AUGUST,196,Y the Last Man Vol. 1 Unmanned,,14.99,DC,631
+TPB,2011,AUGUST,197,Archie High School Chronicles Vol. 2,,9.95,Archie,629
+TPB,2011,AUGUST,198,"Space Family Robinson Archives HCVol. 1",,49.99,Dark Horse,623
+TPB,2011,AUGUST,199,"Dungeons & Dragons Dark SunHC Vol. 1",,24.99,IDW,623
+TPB,2011,AUGUST,200,"Megamind Vol. 1 BrilliantlyBrilliant",,6.95,Ape,619
+TPB,2011,AUGUST,201,Green Lantern Rebirth New Edition,,14.99,DC,617
+TPB,2011,AUGUST,202,Serenity Shepherds Tale HC,,14.99,Dark Horse,614
+TPB,2011,AUGUST,203,Air Gear Vol. 19,,10.99,Random House,613
+TPB,2011,AUGUST,204,"Spider-Man Complete Ben Reilly EpicBook 1",,39.99,Marvel,611
+TPB,2011,AUGUST,205,Scott Pilgrim Vol. 2 Vs the World,,11.99,Oni,609
+TPB,2011,AUGUST,206,"Higurashi When They Cry Vol. 14 EyeOpening Arc Pt 4",,11.99,Hachette,600
+TPB,2011,AUGUST,207,Kingdom Come New Edition,,17.99,DC,598
+TPB,2011,AUGUST,208,"Modesty Blaise Vol. 20 MillionDollar Game",,19.95,Titan,598
+TPB,2011,AUGUST,209,"Acts of Vengeance CrossoversOmnibus HC",,99.99,Marvel,593
+TPB,2011,AUGUST,210,Crossed Vol. 1,,24.99,Avatar,590
+TPB,2011,AUGUST,211,Archie Americana HC Vol. 1 the 40s,,24.99,IDW,587
+TPB,2011,AUGUST,212,"Green Goblin A Lighter Shade ofGreen",,39.99,Marvel,586
+TPB,2011,AUGUST,213,"Elephantmen Vol. 2 Fatal DiseasesRevised & Expanded Ed",,24.99,Image,585
+TPB,2011,AUGUST,214,Caniff HC,,49.99,IDW,584
+TPB,2011,AUGUST,215,Walking Dead Vol. 8 Made To Suffer,,14.99,Image,583
+TPB,2011,AUGUST,216,Siege,,19.99,Marvel,582
+TPB,2011,AUGUST,217,Red Sonja Vol. 9 War Season,,16.99,Dynamic Forces,565
+TPB,2011,AUGUST,218,Batman Rip,,14.99,DC,561
+TPB,2011,AUGUST,219,Bleach 3-In-1 Ed Vol. 2,,14.99,Viz,556
+TPB,2011,AUGUST,220,Kodt Bundle of Trouble Vol. 32,,12.99,Kenzer,555
+TPB,2011,AUGUST,221,"Sandman Vol. 2 the Dolls House NewEd",,19.99,DC,554
+TPB,2011,AUGUST,222,Kidnapping Kevin Smith,,10.95,Pathetic Aesthetic,553
+TPB,2011,AUGUST,223,Kodt Bundle of Trouble Vol. 33,,14.99,Kenzer,550
+TPB,2011,AUGUST,224,"Batman Knightfall Part 2 Who Rulesthe Night",,17.99,DC,545
+TPB,2011,AUGUST,225,Doctor Who Classics Omnibus Vol. 2,,24.99,IDW,543
+TPB,2011,AUGUST,226,Echoes HC Vol. 1,,19.99,Image,543
+TPB,2011,AUGUST,227,Cthulhu Tales Omnibus Delirium,,19.99,Boom,540
+TPB,2011,AUGUST,228,"Transmetropolitan Vol. 1 Back Onthe Street",,14.99,DC,530
+TPB,2011,AUGUST,229,"Melancholy of Suzmiya Haruhi ChanVol. 3",,11.99,Hachette,529
+TPB,2011,AUGUST,230,"Finder Vol. 4 Prisoner in the ViewFinder",,13.95,Digital Manga,525
+TPB,2011,AUGUST,231,Batman Knightfall Part 1 Broken Bat,,19.99,DC,524
+TPB,2011,AUGUST,232,Fullmetal Alchemist 3-In-1 Ed Vol. 2,,14.99,Viz,524
+TPB,2011,AUGUST,233,"Breed Col Vol. 2 Book ofEcclesiastes",,17.99,Image,523
+TPB,2011,AUGUST,234,Btvs Season 8 Vol. 1 Long Way Home,,15.99,Dark Horse,516
+TPB,2011,AUGUST,235,Kobato Vol. 4,,11.99,Hachette,516
+TPB,2011,AUGUST,236,Vagabond Vizbig Ed Vol. 10,,19.99,Viz,516
+TPB,2011,AUGUST,237,Daytripper,,19.99,DC,515
+TPB,2011,AUGUST,238,"Locke & Key Vol. 2 HeadGames",,19.99,IDW,513
+TPB,2011,AUGUST,239,Fables Vol. 2 Animal Farm,,12.99,DC,510
+TPB,2011,AUGUST,240,Omamori Himari Vol. 4,,11.99,Hachette,508
+TPB,2011,AUGUST,241,Superman Red Son,,17.99,DC,503
+TPB,2011,AUGUST,242,Blankets HC,,39.95,Top Shelf,503
+TPB,2011,AUGUST,243,"Okie Dokie Donuts Open For BusinessHC",,9.95,Top Shelf,498
+TPB,2011,AUGUST,244,Batman Knightfall Part 03 Knightsend,,19.99,DC,497
+TPB,2011,AUGUST,245,Serenity Better Days,,9.99,Dark Horse,496
+TPB,2011,AUGUST,246,"League of Extraordinary GentlemenVol. 1",,14.99,DC,490
+TPB,2011,AUGUST,247,"Spider-Man J Vol. 1 JapaneseKnights Digest",,9.99,Marvel,484
+TPB,2011,AUGUST,248,"Marvel Adventures Avengers Vol. 4Digest",,7.99,Marvel,481
+TPB,2011,AUGUST,249,Y the Last Man Vol. 2 Cycles,,12.99,DC,480
+TPB,2011,AUGUST,250,"League of Extraordinary GentlemenVol. 2",,16.99,DC,478
+TPB,2011,AUGUST,251,Big Adventures of Majoko Vol. 5,,7.99,Udon,477
+TPB,2011,AUGUST,252,Final Crisis,,19.99,DC,476
+TPB,2011,AUGUST,253,Eduardo Risso Borderline Vol. 4,,19.99,Dynamic Forces,473
+TPB,2011,AUGUST,254,"Marvel Adventures Avengers Vol. 3Digest",,7.99,Marvel,465
+TPB,2011,AUGUST,255,Bouncer One Armed Gunslinger HC,,29.95,Humanoids,463
+TPB,2011,AUGUST,256,Blackest Night Green Lantern,,19.99,DC,462
+TPB,2011,AUGUST,257,Sayonara Zetsubou Sensei Vol. 10,,10.99,Random House,460
+TPB,2011,AUGUST,258,"Preacher Vol. 2 Until the End ofthe World New Edition",,14.99,DC,457
+TPB,2011,AUGUST,259,Moon Knight Vol. 1 Rock Bottom,,14.99,Marvel,457
+TPB,2011,AUGUST,260,Blackest Night Tales of the Corps,,19.99,DC,455
+TPB,2011,AUGUST,261,Tegami Bachi Vol. 6,,9.99,Viz,455
+TPB,2011,AUGUST,262,Boys Vol. 8 Highland Laddie,,19.99,Dynamic Forces,452
+TPB,2011,AUGUST,263,Walking Dead Compendium Vol. 1,,59.99,Image,452
+TPB,2011,AUGUST,264,Deadpool Vol. 4 Monkey Business,,15.99,Marvel,448
+TPB,2011,AUGUST,265,"Sakura Hime Legend of PrincessSakura Vol. 3",,9.99,Viz,448
+TPB,2011,AUGUST,266,Batman Dark Victory,,19.99,DC,444
+TPB,2011,AUGUST,267,Fables Vol. 3 Storybook Love,,14.99,DC,444
+TPB,2011,AUGUST,268,Nura Rise of the Yokai Clan Vol. 4,,9.99,Viz,444
+TPB,2011,AUGUST,269,Transformers Classics Vol. 1,,24.99,IDW,441
+TPB,2011,AUGUST,270,"Nge Shinji Ikari Raising ProjectVol. 9",,9.99,Dark Horse,439
+TPB,2011,AUGUST,271,"Scott Pilgrim Vol. 3 InfiniteSadness",,11.99,Oni,437
+TPB,2011,AUGUST,272,"Flash Gordon Comic Book Archives HCVol. 4",,49.99,Dark Horse,436
+TPB,2011,AUGUST,273,"League of Extraordinary GentlemenIII Century #1 1910",,7.95,Top Shelf,435
+TPB,2011,AUGUST,274,Pin-Up Art of Humorama Gn,,19.99,Fantagraphics,432
+TPB,2011,AUGUST,275,Ikigami Ultimate Limit Vol. 7,,12.99,Viz,431
+TPB,2011,AUGUST,276,Serenity Those Left Behind,,9.99,Dark Horse,430
+TPB,2011,AUGUST,277,Otomen Vol. 11,,9.99,Viz,429
+TPB,2011,AUGUST,278,"Morning Glories Vol. 1 For A BetterFuture",,9.99,Image,426
+TPB,2011,AUGUST,279,Zombie Tales Omnibus,,19.99,Boom,424
+TPB,2011,AUGUST,280,Boys Vol. 1 Name of the Game,,16.99,Dynamic Forces,424
+TPB,2011,AUGUST,281,Incognito Vol. 2 Bad Influences,,17.99,Marvel,422
+TPB,2011,AUGUST,282,Fables Vol. 14 Witches,,17.99,DC,418
+TPB,2011,AUGUST,283,Yellow II Vol. 3 Episode 3,,6.95,Digital Manga,417
+TPB,2011,AUGUST,284,"Absolute Batman the Long HalloweenHC",,75.0,DC,416
+TPB,2011,AUGUST,285,"Steve Canyon Comp Comic Book SeriesHC Vol. 1",,49.99,Hermes,415
+TPB,2011,AUGUST,286,"Marvel Adventures Avengers Vol. 7Digest",,8.99,Marvel,412
+TPB,2011,AUGUST,287,Superman Earth One HC,,19.99,DC,411
+TPB,2011,AUGUST,288,"Deadpool Vol. 5 What Happened InVegas",,15.99,Marvel,408
+TPB,2011,AUGUST,289,X-Men Second Coming,,34.99,Marvel,408
+TPB,2011,AUGUST,290,"Btvs Season 8 Vol. 2 No Future ForYou",,15.99,Dark Horse,407
+TPB,2011,AUGUST,291,Gunnerkrigg Court HC Vol. 3,,26.95,Archaia,406
+TPB,2011,AUGUST,292,An Even More Beautiful Lie,,12.95,Digital Manga,406
+TPB,2011,AUGUST,293,Dr Horrible,,9.99,Dark Horse,404
+TPB,2011,AUGUST,294,Sky Link,,12.95,Digital Manga,404
+TPB,2011,AUGUST,295,"Complete Little Orphan Annie HCVol. 7",,49.99,IDW,398
+TPB,2011,AUGUST,296,Tank Tankuro HC W/ Slipcase,,29.95,Presspop,397
+TPB,2011,AUGUST,297,"Locke & Key Vol. 3 Crown ofShadows",,19.99,IDW,395
+TPB,2011,AUGUST,298,I Kill Giants,,15.99,Image,395
+TPB,2011,AUGUST,299,"Scott Pilgrim Vol. 4 Gets ItTogether",,11.99,Oni,395
+TPB,2011,AUGUST,300,"Boris Karloff Tales of MysteryArchives HC Vol. 6",,49.99,Dark Horse,389

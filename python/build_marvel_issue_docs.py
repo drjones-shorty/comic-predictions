@@ -102,7 +102,7 @@ def getIssueDetails(title, issue, pub_year, pub_month, est_sales, month_rank):
     if uriParams["series"] == "" or uriParams["issueNumber"] == "":
         debug(2, 'Bad input:' + matchedTitle['title'] + ' (' + matchedTitle['id'] + ') ~ source:' + title + '|Issue:' + uriParams["issueNumber"])
         return
-        #raise ValueError('Bad input:' + matchedTitle['title'] + ' (' + matchedTitle['id'] + ') ~ source:' + title + '|Issue:' + uriParams["issueNumber"])
+        #raise ValueError('Bad input:' + matchedTitle['title'] + ' (' + matchedTitle['id'] + ') ~ source:' + title + '|Issue:' + uriParams["issueNumber")
 
     debug(4, issueUri)
     issueDataWrapper = json.loads(urllib2.urlopen(issueUri).read())

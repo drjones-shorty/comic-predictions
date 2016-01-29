@@ -1,0 +1,605 @@
+PUBLICATION_FORMAT,YEAR,MONTH,SALES_RANK,TITLE,ISSUE,PRICE,PUBLISHER,EST_SALES
+COMIC,2010,NOVEMBER,1,Batman The Return,1,4.99,DC,99545
+COMIC,2010,NOVEMBER,2,Batman Incorporated,1,3.99,DC,95587
+COMIC,2010,NOVEMBER,3,Avengers,7,3.99,Marvel,89758
+COMIC,2010,NOVEMBER,4,Batman Return Of Bruce Wayne,6,3.99,DC,83004
+COMIC,2010,NOVEMBER,5,Batman And Robin,16,3.99,DC,80343
+COMIC,2010,NOVEMBER,6,Brightest Day,13,2.99,DC,79955
+COMIC,2010,NOVEMBER,7,Brightest Day,14,2.99,DC,78452
+COMIC,2010,NOVEMBER,8,Amazing Spider-Man,648,3.99,Marvel,77033
+COMIC,2010,NOVEMBER,9,Green Lantern,59,2.99,DC,76173
+COMIC,2010,NOVEMBER,10,Batman And Robin,17,2.99,DC,70600
+COMIC,2010,NOVEMBER,11,New Avengers,6,3.99,Marvel,66724
+COMIC,2010,NOVEMBER,12,Batman,704,2.99,DC,65212
+COMIC,2010,NOVEMBER,13,Secret Avengers,7,3.99,Marvel,59999
+COMIC,2010,NOVEMBER,14,Uncanny X-Men,530,3.99,Marvel,58006
+COMIC,2010,NOVEMBER,15,Flash,6,2.99,DC,57673
+COMIC,2010,NOVEMBER,16,Green Lantern Corps,54,2.99,DC,57448
+COMIC,2010,NOVEMBER,17,X-Men,5,3.99,Marvel,56651
+COMIC,2010,NOVEMBER,18,Uncanny X-Force,2,3.99,Marvel,56518
+COMIC,2010,NOVEMBER,19,Amazing Spider-Man,647,4.99,Marvel,55819
+COMIC,2010,NOVEMBER,20,Amazing Spider-Man,649,3.99,Marvel,52586
+COMIC,2010,NOVEMBER,21,Wolverine,3,3.99,Marvel,51600
+COMIC,2010,NOVEMBER,22,Justice League Of America,51,3.99,DC,50887
+COMIC,2010,NOVEMBER,23,Thor,617,3.99,Marvel,49165
+COMIC,2010,NOVEMBER,24,Captain America,612,3.99,Marvel,47343
+COMIC,2010,NOVEMBER,25,Green Lantern Emerald Warriors,4,3.99,DC,46319
+COMIC,2010,NOVEMBER,26,Superman,705,2.99,DC,46261
+COMIC,2010,NOVEMBER,27,Batwoman,0,2.99,DC,43891
+COMIC,2010,NOVEMBER,28,X-Men Legacy,242,2.99,Marvel,43750
+COMIC,2010,NOVEMBER,29,Avengers Prime,4,3.99,Marvel,41932
+COMIC,2010,NOVEMBER,30,Buffy the Vampire Slayer,38,2.99,Dark Horse,41189
+COMIC,2010,NOVEMBER,31,Invincible Iron Man,32,3.99,Marvel,40978
+COMIC,2010,NOVEMBER,32,Ultimate Comics Spider-Man,150,5.99,Marvel,40553
+COMIC,2010,NOVEMBER,33,Superboy,1,2.99,DC,39701
+COMIC,2010,NOVEMBER,34,Green Arrow,6,2.99,DC,39575
+COMIC,2010,NOVEMBER,35,Hulk,27,3.99,Marvel,38691
+COMIC,2010,NOVEMBER,36,Fantastic Four,585,2.99,Marvel,37740
+COMIC,2010,NOVEMBER,37,Generation Hope,1,3.99,Marvel,37398
+COMIC,2010,NOVEMBER,38,Detective Comics,871,3.99,DC,36941
+COMIC,2010,NOVEMBER,39,Ultimate Comics Avengers 3,4,3.99,Marvel,36777
+COMIC,2010,NOVEMBER,40,Avengers Childrens Crusade,3,3.99,Marvel,35410
+COMIC,2010,NOVEMBER,41,Incredible Hulks,616,3.99,Marvel,35296
+COMIC,2010,NOVEMBER,42,Superior,2,2.99,Marvel,34688
+COMIC,2010,NOVEMBER,43,Birds Of Prey,6,2.99,DC,34440
+COMIC,2010,NOVEMBER,44,Incredible Hulks,617,3.99,Marvel,34340
+COMIC,2010,NOVEMBER,45,Justice Society Of America,45,2.99,DC,33582
+COMIC,2010,NOVEMBER,46,Justice League Generation Lost,13,2.99,DC,33504
+COMIC,2010,NOVEMBER,47,Action Comics,895,3.99,DC,33089
+COMIC,2010,NOVEMBER,48,Justice League Generation Lost,14,2.99,DC,32722
+COMIC,2010,NOVEMBER,49,Daken Dark Wolverine,3,2.99,Marvel,32679
+COMIC,2010,NOVEMBER,50,Ultimate Comics Thor,2,3.99,Marvel,31829
+COMIC,2010,NOVEMBER,51,Red Robin,17,2.99,DC,31825
+COMIC,2010,NOVEMBER,52,Thunderbolts,150,4.99,Marvel,31704
+COMIC,2010,NOVEMBER,53,Batman Odyssey,5,3.99,DC,31386
+COMIC,2010,NOVEMBER,54,Deadpool,29,2.99,Marvel,31350
+COMIC,2010,NOVEMBER,55,Superman Batman,78,2.99,DC,31337
+COMIC,2010,NOVEMBER,56,X-23,3,2.99,Marvel,31224
+COMIC,2010,NOVEMBER,57,Vampirella,1,3.99,Dynamic Forces,29215
+COMIC,2010,NOVEMBER,58,Astonishing Thor,1,3.99,Marvel,29202
+COMIC,2010,NOVEMBER,59,Thanos Imperative,6,3.99,Marvel,29188
+COMIC,2010,NOVEMBER,60,Walking Dead,79,2.99,Image,28971
+COMIC,2010,NOVEMBER,61,Chaos War,3,3.99,Marvel,28630
+COMIC,2010,NOVEMBER,62,Batman Beyond,6,2.99,DC,28485
+COMIC,2010,NOVEMBER,63,X-Factor,211,2.99,Marvel,26632
+COMIC,2010,NOVEMBER,64,Teen Titans,89,2.99,DC,26444
+COMIC,2010,NOVEMBER,65,Legion Of Super Heroes,7,3.99,DC,26439
+COMIC,2010,NOVEMBER,66,Avengers Academy,6,2.99,Marvel,25977
+COMIC,2010,NOVEMBER,67,Batgirl,15,2.99,DC,25827
+COMIC,2010,NOVEMBER,68,New Mutants,19,2.99,Marvel,25440
+COMIC,2010,NOVEMBER,69,Supergirl,58,2.99,DC,25412
+COMIC,2010,NOVEMBER,70,Scarlet,3,3.95,Marvel,24986
+COMIC,2010,NOVEMBER,71,Adventure Comics,520,3.99,DC,24540
+COMIC,2010,NOVEMBER,72,Titans,29,2.99,DC,24138
+COMIC,2010,NOVEMBER,73,Secret Warriors,22,2.99,Marvel,24059
+COMIC,2010,NOVEMBER,74,Spider-Girl,1,3.99,Marvel,23926
+COMIC,2010,NOVEMBER,75,Captain America Man Out Of Time,1,3.99,Marvel,23566
+COMIC,2010,NOVEMBER,76,Deadpoolmax,2,3.99,Marvel,23382
+COMIC,2010,NOVEMBER,77,DC Universe Legacies,7,3.99,DC,23215
+COMIC,2010,NOVEMBER,78,Osborn,1,3.99,Marvel,23152
+COMIC,2010,NOVEMBER,79,Batman Streets Of Gotham,17,3.99,DC,22390
+COMIC,2010,NOVEMBER,80,True Blood,5,3.99,IDW,22154
+COMIC,2010,NOVEMBER,81,Red Hood Lost Days,6,2.99,DC,22123
+COMIC,2010,NOVEMBER,82,Gotham City Sirens,17,2.99,DC,22107
+COMIC,2010,NOVEMBER,83,Iron Man Thor,1,3.99,Marvel,21416
+COMIC,2010,NOVEMBER,84,Thor For Asgard,4,3.99,Marvel,20934
+COMIC,2010,NOVEMBER,85,Zatanna,7,2.99,DC,20671
+COMIC,2010,NOVEMBER,86,Namor First Mutant,3,2.99,Marvel,20541
+COMIC,2010,NOVEMBER,87,"Hellboy Double Feature of Evil OneShot",1,3.5,Dark Horse,20436
+COMIC,2010,NOVEMBER,88,Chaos War Dead Avengers,1,3.99,Marvel,20312
+COMIC,2010,NOVEMBER,89,Punisher In Blood,1,3.99,Marvel,20028
+COMIC,2010,NOVEMBER,90,Boys,48,3.99,Dynamic Forces,20004
+COMIC,2010,NOVEMBER,91,Secret Six,27,2.99,DC,19963
+COMIC,2010,NOVEMBER,92,American Vampire,8,3.99,DC,19850
+COMIC,2010,NOVEMBER,93,Chaos War Thor,1,3.99,Marvel,19738
+COMIC,2010,NOVEMBER,94,JSA All Stars,12,3.99,DC,19630
+COMIC,2010,NOVEMBER,95,Namor First Mutant,4,2.99,Marvel,19469
+COMIC,2010,NOVEMBER,96,X-Men To Serve And Protect,1,3.99,Marvel,19273
+COMIC,2010,NOVEMBER,97,She-Hulks,1,3.99,Marvel,18616
+COMIC,2010,NOVEMBER,98,Invaders Now,3,3.99,Marvel,18366
+COMIC,2010,NOVEMBER,99,Deadpool Corps,8,2.99,Marvel,18267
+COMIC,2010,NOVEMBER,100,Kevin Smith Green Hornet,9,3.99,Dynamic Forces,17894
+COMIC,2010,NOVEMBER,101,Kevin Smith Green Hornet,10,3.99,Dynamic Forces,17753
+COMIC,2010,NOVEMBER,102,Deadpool Team-Up,887,2.99,Marvel,17677
+COMIC,2010,NOVEMBER,103,Chaos War Chaos King,1,3.99,Marvel,17578
+COMIC,2010,NOVEMBER,104,Power Girl,18,2.99,DC,17300
+COMIC,2010,NOVEMBER,105,Batman Catwoman Follow The Money,1,4.99,DC,17281
+COMIC,2010,NOVEMBER,106,Booster Gold,38,2.99,DC,17276
+COMIC,2010,NOVEMBER,107,Chaos War Alpha Flight,1,3.99,Marvel,17164
+COMIC,2010,NOVEMBER,108,Invincible,75,5.99,Image,17029
+COMIC,2010,NOVEMBER,109,Warlord Of Mars,2,3.99,Dynamic Forces,16991
+COMIC,2010,NOVEMBER,110,Stand Hardcases,5,3.99,Marvel,16751
+COMIC,2010,NOVEMBER,111,Haunt,11,2.99,Image,16658
+COMIC,2010,NOVEMBER,112,Thunder Agents,1,3.99,DC,16122
+COMIC,2010,NOVEMBER,113,Thunderstrike,1,3.99,Marvel,15689
+COMIC,2010,NOVEMBER,114,Star Wars Old Republic,5,2.99,Dark Horse,15660
+COMIC,2010,NOVEMBER,115,"Star Wars Blood Ties Tale Jango& Boba Fett",4,3.5,Dark Horse,15606
+COMIC,2010,NOVEMBER,116,JLA The 99,2,3.99,DC,15525
+COMIC,2010,NOVEMBER,117,Bullseye Perfect Game,1,3.99,Marvel,15462
+COMIC,2010,NOVEMBER,118,Dungeons And Dragons,1,3.99,IDW,15462
+COMIC,2010,NOVEMBER,119,Stan Lee Traveler,1,3.99,Boom,15450
+COMIC,2010,NOVEMBER,120,Conan The Cimmerian,25,2.99,Dark Horse,15421
+COMIC,2010,NOVEMBER,121,Boys Highland Laddie,4,3.99,Dynamic Forces,15389
+COMIC,2010,NOVEMBER,122,Deadpool Pulp,3,3.99,Marvel,15009
+COMIC,2010,NOVEMBER,123,Ant-Man & Wasp,1,3.99,Marvel,14975
+COMIC,2010,NOVEMBER,124,Star Wars Knight Errant Aflame,2,2.99,Dark Horse,14956
+COMIC,2010,NOVEMBER,125,Black Widow,8,2.99,Marvel,14856
+COMIC,2010,NOVEMBER,126,Shadowland Blood On Streets,4,3.99,Marvel,14617
+COMIC,2010,NOVEMBER,127,Knight & Squire,2,2.99,DC,14466
+COMIC,2010,NOVEMBER,128,Batman Confidential,50,4.99,DC,14450
+COMIC,2010,NOVEMBER,129,Angel,39,3.99,IDW,14449
+COMIC,2010,NOVEMBER,130,Hawkeye & Mockingbird,6,2.99,Marvel,14217
+COMIC,2010,NOVEMBER,131,Warriors Three,1,3.99,Marvel,14203
+COMIC,2010,NOVEMBER,132,Shadowland Daughters Of Shadow,3,3.99,Marvel,14129
+COMIC,2010,NOVEMBER,133,Thor First Thunder,3,3.99,Marvel,14038
+COMIC,2010,NOVEMBER,134,Iron Man Legacy,8,2.99,Marvel,13686
+COMIC,2010,NOVEMBER,135,Shadowland Power Man,4,3.99,Marvel,13584
+COMIC,2010,NOVEMBER,136,Outsiders,34,2.99,DC,13576
+COMIC,2010,NOVEMBER,137,Ozma Of Oz,1,3.99,Marvel,13222
+COMIC,2010,NOVEMBER,138,Taskmaster,3,3.99,Marvel,13127
+COMIC,2010,NOVEMBER,139,Chew,15,2.99,Image,13047
+COMIC,2010,NOVEMBER,140,Izombie,7,2.99,DC,12800
+COMIC,2010,NOVEMBER,141,Iron Man Rapture,1,3.99,Marvel,12479
+COMIC,2010,NOVEMBER,142,I Am An Avenger,3,3.99,Marvel,12277
+COMIC,2010,NOVEMBER,143,Avengers & Infinity Gauntlet,4,2.99,Marvel,12064
+COMIC,2010,NOVEMBER,144,Unwritten,19,2.99,DC,12036
+COMIC,2010,NOVEMBER,145,X-Men Forever 2,11,3.99,Marvel,12018
+COMIC,2010,NOVEMBER,146,BPRD Hell On Earth New World,4,3.5,Dark Horse,11882
+COMIC,2010,NOVEMBER,147,Artifacts,3,3.99,Image,11844
+COMIC,2010,NOVEMBER,148,X-Men Forever 2,12,3.99,Marvel,11756
+COMIC,2010,NOVEMBER,149,Incredible Hulks Enigma Force,3,3.99,Marvel,11696
+COMIC,2010,NOVEMBER,150,G.I. Joe A Real American Hero,160,3.99,IDW,11544
+COMIC,2010,NOVEMBER,151,Morning Glories,4,3.5,Image,11292
+COMIC,2010,NOVEMBER,152,Iron Man Rapture,2,3.99,Marvel,11239
+COMIC,2010,NOVEMBER,153,Freedom Fighters,3,2.99,DC,11186
+COMIC,2010,NOVEMBER,154,Stan Lee Soldier Zero,2,3.99,Boom,11180
+COMIC,2010,NOVEMBER,155,Irredeemable,19,3.99,Boom,11102
+COMIC,2010,NOVEMBER,156,Young Allies,6,2.99,Marvel,11015
+COMIC,2010,NOVEMBER,157,Transformers Ongoing,13,3.99,IDW,10998
+COMIC,2010,NOVEMBER,158,G.I. Joe,24,3.99,IDW,10985
+COMIC,2010,NOVEMBER,159,Rebels,22,2.99,DC,10797
+COMIC,2010,NOVEMBER,160,Jonah Hex,61,2.99,DC,10796
+COMIC,2010,NOVEMBER,161,New Mutants Forever,4,3.99,Marvel,10515
+COMIC,2010,NOVEMBER,162,Klaws Of Panther,3,3.99,Marvel,10356
+COMIC,2010,NOVEMBER,163,Witchblade,139,2.99,Image,10113
+COMIC,2010,NOVEMBER,164,Kevin Smith Kato,5,3.99,Dynamic Forces,10015
+COMIC,2010,NOVEMBER,165,Strange Tales 2,2,4.99,Marvel,9960
+COMIC,2010,NOVEMBER,166,Doom Patrol,16,2.99,DC,9955
+COMIC,2010,NOVEMBER,167,Captain America Forever Allies,4,3.99,Marvel,9905
+COMIC,2010,NOVEMBER,168,Hellblazer,273,2.99,DC,9645
+COMIC,2010,NOVEMBER,169,Crossed Family Values,5,3.99,Avatar,9628
+COMIC,2010,NOVEMBER,170,Baltimore Plague Ships,4,3.5,Dark Horse,9558
+COMIC,2010,NOVEMBER,171,X-Files 30 Days Of Night,5,3.99,DC,9504
+COMIC,2010,NOVEMBER,172,Incorruptible,12,3.99,Boom,9403
+COMIC,2010,NOVEMBER,173,Heroic Age Villains,1,3.99,Marvel,9294
+COMIC,2010,NOVEMBER,174,Spike,2,3.99,IDW,9262
+COMIC,2010,NOVEMBER,175,Doc Savage,8,3.99,DC,9257
+COMIC,2010,NOVEMBER,176,Last Phantom,3,3.99,Dynamic Forces,9157
+COMIC,2010,NOVEMBER,177,Red Sonja,53,3.99,Dynamic Forces,9060
+COMIC,2010,NOVEMBER,178,G.I. Joe Origins,21,3.99,IDW,8970
+COMIC,2010,NOVEMBER,179,Halcyon,1,2.99,Image,8895
+COMIC,2010,NOVEMBER,180,Sweet Tooth,15,2.99,DC,8750
+COMIC,2010,NOVEMBER,181,Spirit,8,3.99,DC,8706
+COMIC,2010,NOVEMBER,182,Kull The Hate Witch,1,3.5,Dark Horse,8695
+COMIC,2010,NOVEMBER,183,Angel Illyria,1,3.99,IDW,8509
+COMIC,2010,NOVEMBER,184,Queen Sonja,11,3.99,Dynamic Forces,8502
+COMIC,2010,NOVEMBER,185,Mouse Guard Legends of the Guard,4,3.5,Archaia,8423
+COMIC,2010,NOVEMBER,186,Thor Mighty Avenger,6,2.99,Marvel,8420
+COMIC,2010,NOVEMBER,187,"All New Batman The Brave And TheBold",1,2.99,DC,8408
+COMIC,2010,NOVEMBER,188,G.I. Joe Cobra II,10,3.99,IDW,8275
+COMIC,2010,NOVEMBER,189,Women Of Marvel,1,3.99,Marvel,8145
+COMIC,2010,NOVEMBER,190,Tiny Titans Little Archie,2,2.99,DC,8025
+COMIC,2010,NOVEMBER,191,Avengers Earths Mightiest Heroes,1,3.99,Marvel,7934
+COMIC,2010,NOVEMBER,192,Nightmaster Monsters Of Rock,1,2.99,DC,7890
+COMIC,2010,NOVEMBER,193,Azrael,14,2.99,DC,7841
+COMIC,2010,NOVEMBER,194,"Constantine Hellblazer City OfDemons",3,2.99,DC,7791
+COMIC,2010,NOVEMBER,195,Sonic The Hedgehog,219,2.99,Archie,7770
+COMIC,2010,NOVEMBER,196,Comic Book Guy The Comic Book,5,2.99,Bongo,7730
+COMIC,2010,NOVEMBER,197,Tiny Titans,34,2.99,DC,7713
+COMIC,2010,NOVEMBER,198,GFT Wonderland Annual 2010,,5.99,Zenescope,7686
+COMIC,2010,NOVEMBER,199,Tarot Witch Of The Black Rose,65,2.95,Broadsword,7671
+COMIC,2010,NOVEMBER,200,House Of Mystery,31,2.99,DC,7610
+COMIC,2010,NOVEMBER,201,"Constantine Hellblazer City OfDemons",4,2.99,DC,7566
+COMIC,2010,NOVEMBER,202,"World Of Warcraft Curse Of TheWorgen",1,2.99,DC,7521
+COMIC,2010,NOVEMBER,203,Simpsons Comics,172,2.99,Bongo,7429
+COMIC,2010,NOVEMBER,204,"Locke & Key Keys To TheKingdom",3,3.99,IDW,7225
+COMIC,2010,NOVEMBER,205,Magdalena,4,3.99,Image,7171
+COMIC,2010,NOVEMBER,206,Madame Xanadu,29,2.99,DC,7040
+COMIC,2010,NOVEMBER,207,Northlanders,34,2.99,DC,7018
+COMIC,2010,NOVEMBER,208,Assassins Creed The Fall,1,3.99,DC,6941
+COMIC,2010,NOVEMBER,209,Tron Original Movie Adaptation,1,3.99,Marvel,6854
+COMIC,2010,NOVEMBER,210,Kato Origins Way of the Ninja,5,3.99,Dynamic Forces,6826
+COMIC,2010,NOVEMBER,211,Terminator 1984,3,3.5,Dark Horse,6693
+COMIC,2010,NOVEMBER,212,Transformers Sector 7,3,3.99,IDW,6665
+COMIC,2010,NOVEMBER,213,Star Trek Khan Ruling In Hell,2,3.99,IDW,6660
+COMIC,2010,NOVEMBER,214,Sonic Universe,22,2.99,Archie,6641
+COMIC,2010,NOVEMBER,215,Darkwing Duck,6,3.99,Boom,6565
+COMIC,2010,NOVEMBER,216,Green Hornet Blood Ties,2,3.99,Dynamic Forces,6439
+COMIC,2010,NOVEMBER,217,Futurama Comics,52,2.99,Bongo,6390
+COMIC,2010,NOVEMBER,218,Scalped,43,2.99,DC,6324
+COMIC,2010,NOVEMBER,219,Angelus,6,2.99,Image,6294
+COMIC,2010,NOVEMBER,220,Astounding Wolf-Man,25,4.99,Image,6104
+COMIC,2010,NOVEMBER,221,God Of War,5,3.99,DC,6088
+COMIC,2010,NOVEMBER,222,"Victorian Undead II Holmes VsDracula",1,3.99,DC,6066
+COMIC,2010,NOVEMBER,223,Dmz,59,2.99,DC,6046
+COMIC,2010,NOVEMBER,224,Tom Strong And The Robots Of Doom,6,3.99,DC,5995
+COMIC,2010,NOVEMBER,225,Authority,28,2.99,DC,5984
+COMIC,2010,NOVEMBER,226,X-Men Curse Of Mutants Spotlight,1,3.99,Marvel,5962
+COMIC,2010,NOVEMBER,227,Hack Slash Trailers Part 2,,6.99,Image,5887
+COMIC,2010,NOVEMBER,228,Avengers Vs Pet Avengers,2,2.99,Marvel,5871
+COMIC,2010,NOVEMBER,229,Monster Hunters Survival Guide,1,3.99,Zenescope,5868
+COMIC,2010,NOVEMBER,230,Billy The Kid Ghastly Fiend London,3,3.99,Dark Horse,5744
+COMIC,2010,NOVEMBER,231,Tron Betrayal,2,4.99,Marvel,5742
+COMIC,2010,NOVEMBER,232,G.I. Joe Future Noir Sp,1,7.99,IDW,5676
+COMIC,2010,NOVEMBER,233,Spider-Man,7,2.99,Marvel,5603
+COMIC,2010,NOVEMBER,234,"Robert Jordan Wheel Of Time Eye ofthe World",6,3.99,Dynamic Forces,5311
+COMIC,2010,NOVEMBER,235,Mystery Society,4,3.99,IDW,5299
+COMIC,2010,NOVEMBER,236,Spider-Man,8,2.99,Marvel,5269
+COMIC,2010,NOVEMBER,237,Green Hornet Parallel Lives,5,3.99,Dynamic Forces,5194
+COMIC,2010,NOVEMBER,238,Fringe Tales From The Fringe,6,3.99,DC,5187
+COMIC,2010,NOVEMBER,239,Wildcats,29,2.99,DC,5151
+COMIC,2010,NOVEMBER,240,DV8 Gods And Monsters,8,2.99,DC,5112
+COMIC,2010,NOVEMBER,241,Skullkickers,3,2.99,Image,5008
+COMIC,2010,NOVEMBER,242,Mighty Crusaders,5,3.99,DC,5006
+COMIC,2010,NOVEMBER,243,Super Hero Squad,11,2.99,Marvel,4977
+COMIC,2010,NOVEMBER,244,Do Androids Dream Of Electric Sheep,17,3.99,Boom,4969
+COMIC,2010,NOVEMBER,245,Unknown Soldier,25,2.99,DC,4962
+COMIC,2010,NOVEMBER,246,Savage Dragon,166,3.5,Image,4943
+COMIC,2010,NOVEMBER,247,Simpsons Winter Wingding,5,4.99,Bongo,4921
+COMIC,2010,NOVEMBER,248,Scooby Doo Where Are You,3,2.99,DC,4861
+COMIC,2010,NOVEMBER,249,Whatever Happened To Baron Von Shock,4,3.99,Image,4854
+COMIC,2010,NOVEMBER,250,Jurassic Park Redemption,5,3.99,IDW,4842
+COMIC,2010,NOVEMBER,251,Silent Hill Past Life,1,3.99,IDW,4710
+COMIC,2010,NOVEMBER,252,Usagi Yojimbo,133,3.5,Dark Horse,4681
+COMIC,2010,NOVEMBER,253,Last Unicorn,6,3.99,IDW,4670
+COMIC,2010,NOVEMBER,254,Clint,2,6.99,Titan,4637
+COMIC,2010,NOVEMBER,255,Broken Trinity Pandoras Box,4,3.99,Image,4628
+COMIC,2010,NOVEMBER,256,Chronicles Of Wormwood Last Battle,5,3.99,Avatar,4477
+COMIC,2010,NOVEMBER,257,Hollow Point Damaged Flip Book,,1.0,Radical,4398
+COMIC,2010,NOVEMBER,258,Atomic Robo Deadly Art Ofience,1,3.5,Red 5,4358
+COMIC,2010,NOVEMBER,259,George R.R. Martins Doorways,1,3.99,IDW,4336
+COMIC,2010,NOVEMBER,260,Scourge,2,2.99,Aspen,4489
+COMIC,2010,NOVEMBER,261,"Jim Butcher Dresden Files StormFront Vol. 2",4,3.99,Dynamic Forces,4264
+COMIC,2010,NOVEMBER,262,Farscape Ongoing,13,3.99,Boom,4262
+COMIC,2010,NOVEMBER,263,Nancy In Hell,4,2.99,Image,4193
+COMIC,2010,NOVEMBER,264,"Amory Wars Keeping Secrets OfSilent Earth 3",6,3.99,Boom,4051
+COMIC,2010,NOVEMBER,265,Conan Legacy Frazetta Cover,6,6.99,Dark Horse,4049
+COMIC,2010,NOVEMBER,266,Marvelman Familys Finest,5,3.99,Marvel,3993
+COMIC,2010,NOVEMBER,267,Life With Archie Married Life,4,3.99,Archie,3987
+COMIC,2010,NOVEMBER,268,Archie,615,2.99,Archie,3944
+COMIC,2010,NOVEMBER,269,Cowboy Ninja Viking,10,3.99,Image,3804
+COMIC,2010,NOVEMBER,270,"DC Comics Presents The Flash GreenLantern",1,7.99,DC,3664
+COMIC,2010,NOVEMBER,271,28 Days Later,16,3.99,Boom,3654
+COMIC,2010,NOVEMBER,272,DC Comics Presents Batman,2,7.99,DC,3643
+COMIC,2010,NOVEMBER,273,Farscape Scorpius,7,3.99,Boom,3609
+COMIC,2010,NOVEMBER,274,Sixth Gun,6,3.99,Oni,3589
+COMIC,2010,NOVEMBER,275,Uncanny X-Force,1,3.99,Marvel,3555
+COMIC,2010,NOVEMBER,276,Super Heroes,8,2.99,Marvel,3541
+COMIC,2010,NOVEMBER,277,Knights Of The Dinner Table,168,4.99,Kenzer,3516
+COMIC,2010,NOVEMBER,278,28 Days Later,17,3.99,Boom,3486
+COMIC,2010,NOVEMBER,279,Uncle Scrooge,397,2.99,Boom,3468
+COMIC,2010,NOVEMBER,280,Bomb Queen VI,2,3.5,Image,3451
+COMIC,2010,NOVEMBER,281,"Welcome To Tranquility One FootGrave",5,3.99,DC,3446
+COMIC,2010,NOVEMBER,282,Ratchet And Clank,3,3.99,DC,3382
+COMIC,2010,NOVEMBER,283,Boondock Saints Head Of The Snake,1,3.99,12 Gauge,3328
+COMIC,2010,NOVEMBER,284,DC Comics Presents Brightest Day,2,7.99,DC,3292
+COMIC,2010,NOVEMBER,285,Very Zombie Christmas,2,3.5,Antarctic,3286
+COMIC,2010,NOVEMBER,286,Dracula Company Of Monsters,4,3.99,Boom,3095
+COMIC,2010,NOVEMBER,287,La Banks Vampire Huntress,2,3.99,Dynamic Forces,3090
+COMIC,2010,NOVEMBER,288,Toy Story Tales From Toy Chest,2,2.99,Boom,3079
+COMIC,2010,NOVEMBER,289,Phoenix Without Ashes,4,3.99,IDW,3065
+COMIC,2010,NOVEMBER,290,Vertigo Resurrected The Extremist,1,7.99,DC,3041
+COMIC,2010,NOVEMBER,291,After Dark,2,4.99,Radical,2979
+COMIC,2010,NOVEMBER,292,Route Des Maisons Rouges,2,2.99,GG,2965
+COMIC,2010,NOVEMBER,293,"Avengers Thor Captain America OffIndex Mu",7,3.99,Marvel,2947
+COMIC,2010,NOVEMBER,294,DC Comics Presents Superman,2,7.99,DC,2915
+COMIC,2010,NOVEMBER,295,Stargate Vala Mal Doran,5,3.99,Dynamic Forces,2906
+COMIC,2010,NOVEMBER,296,"Walt Disneys Comics &Stories",712,2.99,Boom,2881
+COMIC,2010,NOVEMBER,297,Elephantmen,28,3.5,Image,2864
+COMIC,2010,NOVEMBER,298,Shonen Jump December 2010,,4.99,Viz,2863
+COMIC,2010,NOVEMBER,300,Strange Science Fantasy,5,3.99,IDW,2814
+COMIC,2010,NOVEMBER,317,Glamourpuss,16,3.0,Aardvark-Vanaheim,2386
+COMIC,2010,NOVEMBER,320,Shrapnel Hubris,3,4.99,Radical,2289
+COMIC,2010,NOVEMBER,323,One,2,2.99,GG,2219
+COMIC,2010,NOVEMBER,328,Clint,1,6.99,Titan,2144
+COMIC,2010,NOVEMBER,329,Zombies Vs Cheerleaders,2,3.99,Moonstone,2136
+TPB,2010,NOVEMBER,1,Walking Dead Vol. 13 Too Far Gone,,14.99,Image,19324
+TPB,2010,NOVEMBER,2,Serenity Shepherds Tale HC,,14.99,Dark Horse,14299
+TPB,2010,NOVEMBER,3,Superman Earth One HC,,19.99,DC,8014
+TPB,2010,NOVEMBER,4,Boys Vol. 7 The Innocents,,19.99,Dynamic Forces,6130
+TPB,2010,NOVEMBER,5,"Batman And Robin Deluxe HC Vol. 2Batman Vs Robin",,24.99,DC,5556
+TPB,2010,NOVEMBER,6,Chew Vol. 3 Just Desserts,,12.99,Image,5543
+TPB,2010,NOVEMBER,7,Ex Machina Vol. 10 Term Limits,,14.99,DC,4841
+TPB,2010,NOVEMBER,8,Siege,,19.99,Marvel,4420
+TPB,2010,NOVEMBER,9,Walking Dead Vol. 1 Days Gone Bye,,9.99,Image,4324
+TPB,2010,NOVEMBER,10,Green Lantern Agent Orange,,14.99,DC,4018
+TPB,2010,NOVEMBER,11,BPRD Vol. 14 King Of Fear,,17.99,Dark Horse,4012
+TPB,2010,NOVEMBER,12,Superman Vs Muhammad Ali Deluxe HC,,19.99,DC,3983
+TPB,2010,NOVEMBER,13,Batman Battle For The Cowl,,14.99,DC,3573
+TPB,2010,NOVEMBER,14,Grant Morrison 18 Days,,24.99,Dynamic Forces,3367
+TPB,2010,NOVEMBER,15,Mouse Guard Legends of the Guard HC,,19.95,Archaia,3215
+TPB,2010,NOVEMBER,16,Powers Vol. 13 Z,,24.99,Marvel,3192
+TPB,2010,NOVEMBER,17,Green Lantern Corps Emerald Eclipse,,14.99,DC,2884
+TPB,2010,NOVEMBER,18,Witchblade Redemption Vol. 1,,4.99,Image,2826
+TPB,2010,NOVEMBER,19,Acme Novelty Library HC #20,,23.95,Drawn & Quarterly,2779
+TPB,2010,NOVEMBER,20,Deadpool Vol. 4 Monkey Business,,15.99,Marvel,2566
+TPB,2010,NOVEMBER,21,Fables Deluxe Edition HC Vol. 2,,29.99,DC,2435
+TPB,2010,NOVEMBER,22,Punisher Max Kingpin,,19.99,Marvel,2323
+TPB,2010,NOVEMBER,23,Walking Dead Vol. 2 Miles Behind Us,,14.99,Image,2254
+TPB,2010,NOVEMBER,24,"Legion Of Super-Heroes GreatDarkness Saga Dlx HC",,39.99,DC,2194
+TPB,2010,NOVEMBER,25,Captain America Two Americas,,14.99,Marvel,2156
+TPB,2010,NOVEMBER,26,Absolute All Star Superman HC,,99.99,DC,2146
+TPB,2010,NOVEMBER,27,Thor Siege Aftermath,,15.99,Marvel,2054
+TPB,2010,NOVEMBER,28,"Greek Street Vol. 2 CassandraComplex",,14.99,DC,2021
+TPB,2010,NOVEMBER,29,Savage Sword Of Kull Vol. 1,,19.99,Dark Horse,2011
+TPB,2010,NOVEMBER,30,Unknown Soldier Vol. 3 Dry Season,,14.99,DC,2007
+TPB,2010,NOVEMBER,31,Last Days Of American Crime,,14.95,Random House,1998
+TPB,2010,NOVEMBER,32,"Superman Vs. Muhammad Ali FacsimileEdition HC",,39.99,DC,1912
+TPB,2010,NOVEMBER,33,"How To Understand Israel In 60 DaysOr Less HC",,24.99,DC,1890
+TPB,2010,NOVEMBER,34,"Gotham City Sirens Song Of TheSirens HC",,19.99,DC,1832
+TPB,2010,NOVEMBER,35,Guild Vol. 1,,12.99,Dark Horse,1828
+TPB,2010,NOVEMBER,36,Tron Betrayal,,9.99,HarperCollins,1813
+TPB,2010,NOVEMBER,37,Walking Dead Vol. 12 Life Among Them,,14.99,Image,1752
+TPB,2010,NOVEMBER,38,Siege X-Men,,15.99,Marvel,1721
+TPB,2010,NOVEMBER,39,"Thor By Michael Straczynski OmnibusHC",,64.99,Marvel,1716
+TPB,2010,NOVEMBER,40,Spider-Man One Moment Time Prem HC,,24.99,Marvel,1703
+TPB,2010,NOVEMBER,41,"Walking Dead Vol. 3 Safety BehindBars",,14.99,Image,1702
+TPB,2010,NOVEMBER,42,"Fantastic Four By Jonathan HickmanVol. 2",,15.99,Marvel,1670
+TPB,2010,NOVEMBER,43,"Darkwing Duck Vol. 1 Duck KnightReturns",,14.99,Boom,1669
+TPB,2010,NOVEMBER,44,"Superman Last Stand Of New KryptonHC Vol. 1",,24.99,DC,1640
+TPB,2010,NOVEMBER,45,JLA Deluxe Edition HC Vol. 4,,34.99,DC,1626
+TPB,2010,NOVEMBER,46,Red Mass For Mars Vol. 1,,14.99,Image,1614
+TPB,2010,NOVEMBER,47,Gantz Vol. 14,,12.99,Dark Horse,1613
+TPB,2010,NOVEMBER,48,Deadpool HC Wade Wilsons War,,19.99,Marvel,1596
+TPB,2010,NOVEMBER,49,Realm Of Kings,,34.99,Marvel,1576
+TPB,2010,NOVEMBER,50,Kill Shakespeare Vol. 1,,19.99,IDW,1564
+TPB,2010,NOVEMBER,51,"Star Wars Dark Times Vol. 4 BlueHarvest",,17.99,Dark Horse,1524
+TPB,2010,NOVEMBER,52,"Scott Pilgrim Vol. 1 PreciousLittle Life",,11.99,Oni,1508
+TPB,2010,NOVEMBER,53,Sgt Rock The Lost Battalion,,17.99,DC,1502
+TPB,2010,NOVEMBER,54,Siege Battlefield,,19.99,Marvel,1488
+TPB,2010,NOVEMBER,55,Siege Embedded,,14.99,Marvel,1488
+TPB,2010,NOVEMBER,56,North 40,,17.99,DC,1485
+TPB,2010,NOVEMBER,57,Lady Death Origins Vol. 1,,19.99,Avatar,1484
+TPB,2010,NOVEMBER,58,"Spider-Man Complete Clone Saga EpicBook 4",,39.99,Marvel,1453
+TPB,2010,NOVEMBER,59,Ex Machina Deluxe Edition HC Vol. 4,,29.99,DC,1444
+TPB,2010,NOVEMBER,60,Grandville Mon Amour HC,,19.99,Dark Horse,1425
+TPB,2010,NOVEMBER,61,"Guardians Of Galaxy Vol. 4 Realm OfKings",,19.99,Marvel,1424
+TPB,2010,NOVEMBER,62,Walking Dead Vol. 5 Best Defense,,14.99,Image,1414
+TPB,2010,NOVEMBER,63,"Batman Brave And Bold Fearsome FangStrikes",,12.99,DC,1393
+TPB,2010,NOVEMBER,64,"Janet Evanovich Troublemaker HCBook 2",,17.99,Dark Horse,1390
+TPB,2010,NOVEMBER,65,Archie Firsts HC Vol. 1,,24.99,Dark Horse,1386
+TPB,2010,NOVEMBER,66,Ultimatum HC,,34.99,Marvel,1376
+TPB,2010,NOVEMBER,67,Green Lantern Omnibus HC Vol. 1,,75.0,DC,1363
+TPB,2010,NOVEMBER,68,"Vampirella Masters Series Vol. 1Grant Morrison",,24.99,Dynamic Forces,1338
+TPB,2010,NOVEMBER,69,"Walking Dead Vol. 11 Fear TheHunters",,14.99,Image,1335
+TPB,2010,NOVEMBER,70,Walking Dead Vol. 4 Hearts Desire,,14.99,Image,1320
+TPB,2010,NOVEMBER,71,Walking Dead Vol. 6 Sorrowful Life,,14.99,Image,1292
+TPB,2010,NOVEMBER,72,"Marvel Masterworks Doctor StrangeVol. 1",,24.99,Marvel,1288
+TPB,2010,NOVEMBER,73,Lucky Star Vol. 7,,10.99,Bandai,1285
+TPB,2010,NOVEMBER,74,Darkness Pitt Vol. 1,,14.99,Image,1281
+TPB,2010,NOVEMBER,75,Walking Dead Vol. 9 Here We Remain,,14.99,Image,1269
+TPB,2010,NOVEMBER,76,Xenozoic Complete Coll,,39.95,Flesk,1262
+TPB,2010,NOVEMBER,77,"Hack Slash Vol. 8 Super SidekickSleepover Slaughter",,18.99,Image,1261
+TPB,2010,NOVEMBER,78,Luna Park,,14.99,DC,1236
+TPB,2010,NOVEMBER,79,"Little Lulu Vol. 25 Burglar ProofClubhouse",,14.99,Dark Horse,1230
+TPB,2010,NOVEMBER,80,Walking Dead Vol. 7 The Calm Before,,14.99,Image,1223
+TPB,2010,NOVEMBER,81,Green Arrow Black Canary Five Stages,,17.99,DC,1203
+TPB,2010,NOVEMBER,82,Punisher HC Franken-Castle,,39.99,Marvel,1199
+TPB,2010,NOVEMBER,83,Walking Dead Vol. 10 What We Become,,14.99,Image,1199
+TPB,2010,NOVEMBER,84,Terry Moores Echo Vol. 5,,15.95,Abstract,1186
+TPB,2010,NOVEMBER,85,Heroic Age,,24.99,Marvel,1179
+TPB,2010,NOVEMBER,86,Smurfs Vol. 3 Smurf King,,5.99,NBM,1174
+TPB,2010,NOVEMBER,87,Dead Space Salvage,,17.99,IDW,1173
+TPB,2010,NOVEMBER,88,Spawn Origins Vol. 8,,14.99,Image,1161
+TPB,2010,NOVEMBER,89,"Daredevil Bendis And MaleevUltimate Coll Bk 03",,34.99,Marvel,1158
+TPB,2010,NOVEMBER,90,"Boy Commandos By Joe Simon And JackKirby HC",,49.99,DC,1140
+TPB,2010,NOVEMBER,91,Savage Sword Of Conan Vol. 8,,19.99,Dark Horse,1120
+TPB,2010,NOVEMBER,92,Gravel Vol. 3 Last King Of England,,19.99,Avatar,1106
+TPB,2010,NOVEMBER,93,Elmer,,12.95,Slave Labor,1104
+TPB,2010,NOVEMBER,94,Grimms Fairy Tales HC Vol. 1,,16.99,IDW,1104
+TPB,2010,NOVEMBER,95,"Ultimate Comics Spider-ManChameleons Prem HC Vol. 2",,24.99,Marvel,1103
+TPB,2010,NOVEMBER,96,Castle Waiting HC Vol. 2,,29.99,Fantagraphics,1102
+TPB,2010,NOVEMBER,97,"Sin City New Miller Cvr Vol. 4 ThatYellow Bastard",,21.0,Dark Horse,1100
+TPB,2010,NOVEMBER,98,D Gray Man Vol. 19,,9.99,Viz,1088
+TPB,2010,NOVEMBER,99,Walking Dead Vol. 8 Made To Suffer,,14.99,Image,1085
+TPB,2010,NOVEMBER,100,Eerie Archives HC Vol. 5,,49.99,Dark Horse,1084
+TPB,2010,NOVEMBER,101,"Scott Pilgrim Precious Little BoxSet",,72.0,Oni,1084
+TPB,2010,NOVEMBER,102,Batman Hush Complete,,24.99,DC,1059
+TPB,2010,NOVEMBER,103,Green Hornet Year One Vol. 1,,19.99,Dynamic Forces,1059
+TPB,2010,NOVEMBER,104,"Pokemon Diamond & PearlAdventure Vol. 8",,7.99,Viz,1054
+TPB,2010,NOVEMBER,105,Inu Yasha Vol. 54,,9.99,Viz,1053
+TPB,2010,NOVEMBER,106,Lenore Cooties Px HC Color Ed,,24.95,Titan,1045
+TPB,2010,NOVEMBER,107,Ghostbusters Haunted Holidays,,17.99,IDW,1040
+TPB,2010,NOVEMBER,108,"Thor By Dan Jurgens And John RomitaJr Vol. 4",,29.99,Marvel,1040
+TPB,2010,NOVEMBER,109,Spider-Man Osborn Identity,,14.99,Marvel,1017
+TPB,2010,NOVEMBER,110,"Archie Americana Ser Vol. 11 BestOf 80S Book 2",,11.95,Archie,1002
+TPB,2010,NOVEMBER,111,G.I. Joe Hearts And Minds HC Vol. 1,,24.99,IDW,1001
+TPB,2010,NOVEMBER,112,Avengers Origin HC,,24.99,Marvel,997
+TPB,2010,NOVEMBER,113,Bakuman Vol. 2,,9.99,Viz,987
+TPB,2010,NOVEMBER,114,Sense & Sensibility Prem HC,,19.99,Marvel,985
+TPB,2010,NOVEMBER,115,"Sin City New Miller Cvr Vol. 5Family Values",,14.0,Dark Horse,985
+TPB,2010,NOVEMBER,116,Walking Dead Compendium Vol. 1,,59.99,Image,972
+TPB,2010,NOVEMBER,117,Human Target,,17.99,DC,964
+TPB,2010,NOVEMBER,118,"Amazing Spider-Man By Jms Ult CollBook 5",,34.99,Marvel,963
+TPB,2010,NOVEMBER,119,Outsiders The Road To Hell,,14.99,DC,955
+TPB,2010,NOVEMBER,120,Avengers X-Men Maximum Security,,39.99,Marvel,946
+TPB,2010,NOVEMBER,121,Spectacular Spider-Girl Last Stand,,19.99,Marvel,932
+TPB,2010,NOVEMBER,122,Pax Romana Vol. 1,,14.99,Image,912
+TPB,2010,NOVEMBER,123,"Dan Brereton The Goddess &The Monster HC",,29.99,Image,911
+TPB,2010,NOVEMBER,124,"Transformers Spotlight NefariousVol. 1",,19.99,IDW,909
+TPB,2010,NOVEMBER,125,Biomega Vol. 4,,12.99,Viz,902
+TPB,2010,NOVEMBER,126,G.I. Joe Cobra Vol. 2,,19.99,IDW,901
+TPB,2010,NOVEMBER,127,"Cartoon Network 2 In 1 Ben 10 AlienForce Sat",,12.99,DC,890
+TPB,2010,NOVEMBER,128,Classic Jurassic Park Vol. 1,,17.99,IDW,888
+TPB,2010,NOVEMBER,129,Hatter M Vol. 3 The Nature Of Wonder,,14.95,Automatic Pictures,887
+TPB,2010,NOVEMBER,130,Agents Of Atlas Vs,,19.99,Marvel,886
+TPB,2010,NOVEMBER,131,Little Prince,,19.99,Houghton Mifflin,885
+TPB,2010,NOVEMBER,132,Thor Across All Worlds New Ptg,,29.99,Marvel,866
+TPB,2010,NOVEMBER,133,Naruto Illustration Book,,19.99,Viz,848
+TPB,2010,NOVEMBER,134,Kick Ass Prem HC,,24.99,Marvel,845
+TPB,2010,NOVEMBER,135,Mice Templar Vol. 2 .2 Destiny Pt 2,,17.99,Image,833
+TPB,2010,NOVEMBER,136,Captain America Bloodstone Hunt,,19.99,Marvel,827
+TPB,2010,NOVEMBER,137,Blackest Night HC,,29.99,DC,816
+TPB,2010,NOVEMBER,138,K On Vol. 1,,10.99,Hachette,810
+TPB,2010,NOVEMBER,139,"28 Days Later Vol. 2 Bend In TheRoad",,12.99,Boom,805
+TPB,2010,NOVEMBER,140,Best American Comics HC 2010,,23.0,Houghton Mifflin,804
+TPB,2010,NOVEMBER,141,"Showcase Presents Green LanternVol. 1",,19.99,DC,799
+TPB,2010,NOVEMBER,142,Marvel 1602 Spider-Man,,16.99,Marvel,798
+TPB,2010,NOVEMBER,143,Scott Pilgrim Vol. 2 Vs The World,,11.99,Oni,795
+TPB,2010,NOVEMBER,144,"Captain America 1940S NewspaperStrip",,14.99,Marvel,789
+TPB,2010,NOVEMBER,145,Captain America New Deal Premiere HC,,24.99,Marvel,789
+TPB,2010,NOVEMBER,146,Transformers Best Of Grimlock,,19.99,IDW,789
+TPB,2010,NOVEMBER,147,Spice And Wolf Vol. 3,,12.99,Hachette,777
+TPB,2010,NOVEMBER,148,SRG Presents Zombie Tramp,,11.99,Super Real Graphics,776
+TPB,2010,NOVEMBER,149,Chew Vol. 1,,9.99,Image,771
+TPB,2010,NOVEMBER,150,Hikaru No Go Vol. 21,,9.99,Viz,766
+TPB,2010,NOVEMBER,151,Walking Dead HC Vol. 1,,34.99,Image,762
+TPB,2010,NOVEMBER,152,James Pattersons Murder Of King Tut,,24.99,IDW,755
+TPB,2010,NOVEMBER,153,Tsubasa Vol. 28,,10.99,Random House,754
+TPB,2010,NOVEMBER,154,"Sin City New Miller Cvr Vol. 3 BigFat Kill",,19.0,Dark Horse,750
+TPB,2010,NOVEMBER,155,"Uncanny X-Men Off Index MarvelUniverse",,19.99,Marvel,748
+TPB,2010,NOVEMBER,156,"Archie Best Of Stan Goldberg HCVol. 1",,24.99,IDW,745
+TPB,2010,NOVEMBER,157,Mega Man Megamix Vol. 3,,12.95,Udon,739
+TPB,2010,NOVEMBER,158,"Extraordinary Adventures Of AdeleBlanc Sec HC Vol. 1",,24.99,Fantagraphics,728
+TPB,2010,NOVEMBER,159,"Kevin Smith Kato Vol. 1 Not MyFathers Daughter",,19.99,Dynamic Forces,718
+TPB,2010,NOVEMBER,160,What I Did HC,,24.99,Fantagraphics,716
+TPB,2010,NOVEMBER,161,"Franklin Richards Son Genius UltColl Bk 02",,19.99,Marvel,712
+TPB,2010,NOVEMBER,162,Shaman King Vol. 31,,9.99,Viz,704
+TPB,2010,NOVEMBER,163,"Rocketeer Complete Collection DlxEd HC Vol. 1",,75.0,IDW,703
+TPB,2010,NOVEMBER,164,Forgetless,,14.99,Image,697
+TPB,2010,NOVEMBER,165,Eeek Vol. 1,,14.95,Asylum,693
+TPB,2010,NOVEMBER,166,Kabuki HC Vol. 1,,29.99,Marvel,688
+TPB,2010,NOVEMBER,167,"Squadron Supreme By Mark GruenwaldOmnibus HC",,74.99,Marvel,683
+TPB,2010,NOVEMBER,168,Lenore Cooties HC Color Ed,,17.95,Titan,681
+TPB,2010,NOVEMBER,169,Little Maakies Prairie HC,,19.99,Fantagraphics,675
+TPB,2010,NOVEMBER,170,CBGB,,14.99,Boom,672
+TPB,2010,NOVEMBER,171,Mage HC Vol. 1 The Hero Discovered,,39.99,Image,670
+TPB,2010,NOVEMBER,172,Fables Vol. 1 Legends In Exile,,12.99,DC,664
+TPB,2010,NOVEMBER,173,Maid Sama Vol. 7,,10.99,Tokyopop,661
+TPB,2010,NOVEMBER,174,Philip K Dicks Electric Ant Prem HC,,24.99,Marvel,661
+TPB,2010,NOVEMBER,175,Coffin HC 10Th Ann Ed,,21.99,IDW,660
+TPB,2010,NOVEMBER,176,"Do Androids Dream Dust To Dust Vol.1",,9.99,Boom,647
+TPB,2010,NOVEMBER,177,Black Bird Vol. 6,,9.99,Viz,639
+TPB,2010,NOVEMBER,178,Xxxholic Vol. 16,,10.99,Random House,630
+TPB,2010,NOVEMBER,179,"Scott Pilgrim Vol. 3 InfiniteSadness",,11.99,Oni,622
+TPB,2010,NOVEMBER,180,"Goon Vol. 4 Virtue & GrimConsequences",,16.99,Dark Horse,612
+TPB,2010,NOVEMBER,181,Anita Blake Book 3 Lc Executioner,,16.99,Marvel,609
+TPB,2010,NOVEMBER,182,Bloody Kiss Tonight,,12.95,Digital Manga,603
+TPB,2010,NOVEMBER,183,"Preacher Vol. 1 Gone To Texas NewEdition",,17.99,DC,597
+TPB,2010,NOVEMBER,184,"Scott Pilgrim Vol. 4 Gets ItTogether",,11.99,Oni,591
+TPB,2010,NOVEMBER,185,Watchmen,,19.99,DC,591
+TPB,2010,NOVEMBER,186,Batman Dark Knight Returns,,14.99,DC,589
+TPB,2010,NOVEMBER,187,Dot Hack Cell Vol. 2,,10.99,Tokyopop,583
+TPB,2010,NOVEMBER,188,"Amazing Spider-Man Vol. 10 NewAvengers",,14.99,Marvel,580
+TPB,2010,NOVEMBER,189,Supreme Power Hyperion,,19.99,Marvel,578
+TPB,2010,NOVEMBER,190,Marvel Weddings,,19.99,Marvel,575
+TPB,2010,NOVEMBER,191,"Turok Son Of Stone Archives HC Vol.7",,49.99,Dark Horse,575
+TPB,2010,NOVEMBER,192,Giant Size Marvel,,24.99,Marvel,573
+TPB,2010,NOVEMBER,193,Batman The Long Halloween,,19.99,DC,571
+TPB,2010,NOVEMBER,194,Newuniversal Everything Went White,,14.99,Marvel,570
+TPB,2010,NOVEMBER,195,"New Excalibur Vol. 2 Last Days OfCamelot",,19.99,Marvel,569
+TPB,2010,NOVEMBER,196,Terry Moores Complete Paradise Too,,29.95,Abstract,569
+TPB,2010,NOVEMBER,197,Kato Origins Vol. 1 Way of the Ninja,,19.99,Dynamic Forces,568
+TPB,2010,NOVEMBER,198,Ninja Girls Vol. 4,,10.99,Random House,567
+TPB,2010,NOVEMBER,199,Y The Last Man Vol. 1 Unmanned,,12.99,DC,566
+TPB,2010,NOVEMBER,200,Walking Dead HC Vol. 6,,34.99,Image,564
+TPB,2010,NOVEMBER,201,Chew Vol. 2 International Flavor,,12.99,Image,563
+TPB,2010,NOVEMBER,202,Marvel Team-Up Vol. 4 Freedom Ring,,17.99,Marvel,561
+TPB,2010,NOVEMBER,203,Irredeemable Vol. 1,,9.99,Boom,558
+TPB,2010,NOVEMBER,204,V For Vendetta,,19.99,DC,558
+TPB,2010,NOVEMBER,205,Astonishing X-Men HC Vol. 1,,29.99,Marvel,556
+TPB,2010,NOVEMBER,206,"Elephantmen Vol. 1 Wounded AnimalsRevised Ed",,19.99,Image,556
+TPB,2010,NOVEMBER,207,Hercules New Labors Of Hercules,,13.99,Marvel,554
+TPB,2010,NOVEMBER,208,Rest Vol. 1 (Top Cow Ed),,14.99,Image,553
+TPB,2010,NOVEMBER,209,Scott Pilgrim Vol. 5 Vs The Universe,,11.99,Oni,552
+TPB,2010,NOVEMBER,210,Shockrockets HC,,24.99,IDW,552
+TPB,2010,NOVEMBER,211,"Friendly Neighborhood Spider-ManVol. 1 Derailed",,14.99,Marvel,548
+TPB,2010,NOVEMBER,212,Howard The Duck Media Duckling,,11.99,Marvel,546
+TPB,2010,NOVEMBER,213,Diary Of A Wimpy Kid HC Vol. 5,,13.95,Abrams,542
+TPB,2010,NOVEMBER,214,Scott Pilgrim Vol. 6 Finest Hour,,11.99,Oni,541
+TPB,2010,NOVEMBER,215,Vagabond Vizbig Ed Vol. 9,,19.99,Viz,530
+TPB,2010,NOVEMBER,216,Vassalord Vol. 4,,10.99,Tokyopop,524
+TPB,2010,NOVEMBER,217,Luthor HC,,19.99,DC,520
+TPB,2010,NOVEMBER,218,Green Hornet Parallel Lives,,19.99,Dynamic Forces,519
+TPB,2010,NOVEMBER,219,Irredeemable Vol. 3,,16.99,Boom,519
+TPB,2010,NOVEMBER,220,Final Crisis,,19.99,DC,515
+TPB,2010,NOVEMBER,221,Lil Abner HC Vol. 2,,49.99,IDW,515
+TPB,2010,NOVEMBER,222,All Star Superman Vol. 1,,12.99,DC,514
+TPB,2010,NOVEMBER,223,"Batman The Killing Joke Special EdHC",,17.99,DC,510
+TPB,2010,NOVEMBER,224,Astonishing X-Men HC Vol. 2,,34.99,Marvel,506
+TPB,2010,NOVEMBER,225,Storm,,14.99,Marvel,505
+TPB,2010,NOVEMBER,226,"Wolverine First Class Vol. 2 ToRussia With Love",,15.99,Marvel,505
+TPB,2010,NOVEMBER,227,Mickey Mouse On Quandomai Island,,9.99,Boom,504
+TPB,2010,NOVEMBER,228,Otomen Vol. 8,,9.99,Viz,504
+TPB,2010,NOVEMBER,229,"Uncanny X-Men New Age Vol. 2Cruelest Cut",,11.99,Marvel,504
+TPB,2010,NOVEMBER,230,Supreme Power Nighthawk,,16.99,Marvel,501
+TPB,2010,NOVEMBER,231,Treasure Vol. 1,,12.95,Digital Manga,501
+TPB,2010,NOVEMBER,232,Dragonball Z Vizbig Ed Vol. 9,,17.99,Viz,500
+TPB,2010,NOVEMBER,233,"New Excalibur Vol. 1 Defenders OfThe Realm",,17.99,Marvel,496
+TPB,2010,NOVEMBER,234,Darkstar And Winter Guard,,19.99,Marvel,495
+TPB,2010,NOVEMBER,235,"Donald Duck And Friends Double DuckVol. 3",,9.99,Boom,495
+TPB,2010,NOVEMBER,236,"Great Treasury Of Christmas ComicBook Stories HC",,34.99,IDW,494
+TPB,2010,NOVEMBER,237,Fantastic Four Foes,,16.99,Marvel,493
+TPB,2010,NOVEMBER,238,"Tarzan The Jesse Marsh Years HCVol. 7",,49.99,Dark Horse,493
+TPB,2010,NOVEMBER,239,Deaths Head 3.0 Unnatural Selection,,13.99,Marvel,492
+TPB,2010,NOVEMBER,240,Alpha Flight Vol. 2 Waxing Poetic,,14.99,Marvel,491
+TPB,2010,NOVEMBER,241,Hellboy Vol. 11 Masks And Monsters,,17.99,Dark Horse,491
+TPB,2010,NOVEMBER,242,Alias Vol. 3 The Underneath,,16.99,Marvel,490
+TPB,2010,NOVEMBER,243,Walking Dead HC Vol. 2,,34.99,Image,489
+TPB,2010,NOVEMBER,244,"Spectacular Spider-Man Vol. 6 FinalCurtain",,14.99,Marvel,488
+TPB,2010,NOVEMBER,245,Rock N Roll Comics Led Zeppelin,,17.99,Bluewater,483
+TPB,2010,NOVEMBER,246,Sa Vol. 17,,9.99,Viz,483
+TPB,2010,NOVEMBER,247,Sgt. Frog Vol. 20,,10.99,Tokyopop,483
+TPB,2010,NOVEMBER,248,Doctor Who Only Good Dalek,,20.99,Random House,480
+TPB,2010,NOVEMBER,249,"Bloom County Complete Library HCVol. 3",,39.99,IDW,479
+TPB,2010,NOVEMBER,250,"Uncanny X-Men New Age Vol. 5 FirstFoursaken",,11.99,Marvel,478
+TPB,2010,NOVEMBER,251,Wolverine Old Man Logan,,29.99,Marvel,478
+TPB,2010,NOVEMBER,252,Loners Secret Lives Of Super Heroes,,14.99,Marvel,477
+TPB,2010,NOVEMBER,253,Penance Relentless,,13.99,Marvel,477
+TPB,2010,NOVEMBER,254,Sensational Spider-Man Feral,,13.99,Marvel,476
+TPB,2010,NOVEMBER,255,Alchemist HC,,22.99,HarperCollins,475
+TPB,2010,NOVEMBER,256,"Marvel Team-Up Vol. 2 Master Of TheRing",,17.99,Marvel,475
+TPB,2010,NOVEMBER,257,X-Men Vignettes Vol. 2,,17.99,Marvel,474
+TPB,2010,NOVEMBER,258,"Batman And Robin Deluxe HC Vol. 1Batman Reborn",,24.99,DC,473
+TPB,2010,NOVEMBER,259,X-Men Angel Revelations,,19.99,Marvel,473
+TPB,2010,NOVEMBER,260,Batman Year One Deluxe,,14.99,DC,472
+TPB,2010,NOVEMBER,261,Alias Vol. 2 Come Home,,13.99,Marvel,470
+TPB,2010,NOVEMBER,262,Kimi Ni Todoke Vol. 6 From Me To You,,9.99,Viz,470
+TPB,2010,NOVEMBER,263,Exiles Vol. 5 Unnatural Instinct,,14.99,Marvel,469
+TPB,2010,NOVEMBER,264,"Thunderbolts Presents Zemo BornBetter",,10.99,Marvel,469
+TPB,2010,NOVEMBER,265,"Buffy the Vampire Slayer Season 8Vol. 7 Twilight",,16.99,Dark Horse,466
+TPB,2010,NOVEMBER,266,Grimm Fairy Tales Vol. 7,,15.99,Zenescope,466
+TPB,2010,NOVEMBER,267,Exiles Vol. 15,,13.99,Marvel,465
+TPB,2010,NOVEMBER,268,Black Panther By Jack Kirby Vol. 2,,19.99,Marvel,464
+TPB,2010,NOVEMBER,269,Farscape Vol. 2 Strange Detractors,,12.99,Boom,460
+TPB,2010,NOVEMBER,270,New Warriors Vol. 1 Defiant,,14.99,Marvel,458
+TPB,2010,NOVEMBER,271,Return of the Dapper Men HC,,24.95,Archaia,457
+TPB,2010,NOVEMBER,272,All Star Superman Vol. 2,,12.99,DC,451
+TPB,2010,NOVEMBER,273,Story Of Saiunkoku Vol. 1,,9.99,Viz,448
+TPB,2010,NOVEMBER,274,"Green Lantern Secret Origin HC NewEd",,19.99,DC,446
+TPB,2010,NOVEMBER,275,Ptolus City By The Spire Vol. 1,,14.99,Marvel,446
+TPB,2010,NOVEMBER,276,Joker HC,,19.99,DC,443
+TPB,2010,NOVEMBER,277,Your And My Secret Vol. 7,,10.99,Tokyopop,441
+TPB,2010,NOVEMBER,278,Last Planet Standing,,13.99,Marvel,437
+TPB,2010,NOVEMBER,279,Magician Apprentice Vol. 1,,15.99,Marvel,437
+TPB,2010,NOVEMBER,280,"New Excalibur Vol. 3 Battle ForEternity",,24.99,Marvel,433
+TPB,2010,NOVEMBER,281,"Transmetropolitan Vol. 1 Back OnThe Street",,14.99,DC,433
+TPB,2010,NOVEMBER,282,S.E. Hinton Puppy Sister,,9.99,Bluewater,432
+TPB,2010,NOVEMBER,283,"Marvel Comics Presents WolverineVol. 2",,12.99,Marvel,427
+TPB,2010,NOVEMBER,284,Secretary Love,,14.99,Tokyopop,425
+TPB,2010,NOVEMBER,285,Boys Vol. 1 Name Of The Game,,16.99,Dynamic Forces,423
+TPB,2010,NOVEMBER,286,Black Panther Bride,,14.99,Marvel,422
+TPB,2010,NOVEMBER,287,Arkham Asylum Anniversary Ed,,17.99,DC,419
+TPB,2010,NOVEMBER,288,"X-Men The End Book 3 Men &X-Men",,14.99,Marvel,419
+TPB,2010,NOVEMBER,289,"Marvel Comics Presents WolverineVol. 4",,12.99,Marvel,412
+TPB,2010,NOVEMBER,290,"Sandman Vol. 1 Preludes &Nocturnes",,19.99,DC,409
+TPB,2010,NOVEMBER,291,Gakuen Alice Vol. 14,,10.99,Tokyopop,408
+TPB,2010,NOVEMBER,292,Y The Last Man Vol. 2 Cycles,,12.99,DC,405
+TPB,2010,NOVEMBER,293,Logans Run,,14.99,Bluewater,402
+TPB,2010,NOVEMBER,294,Savage Dragon Dragon War,,16.99,Image,400
+TPB,2010,NOVEMBER,295,Walking Dead HC Vol. 3,,34.99,Image,395
+TPB,2010,NOVEMBER,296,Green Lantern Rebirth New Edition,,14.99,DC,390
+TPB,2010,NOVEMBER,297,"Pang Wandering Shaolin Monk HC Vol.1",,19.95,Iron Crotch,390
+TPB,2010,NOVEMBER,298,Eensy Weensy Monster Vol. 1,,10.99,Tokyopop,386
+TPB,2010,NOVEMBER,299,Walking Dead HC Vol. 5,,34.99,Image,386
+TPB,2010,NOVEMBER,300,Kiss Blue Vol. 2,,12.95,Digital Manga,385
