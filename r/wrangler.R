@@ -31,6 +31,7 @@ nprices <- max(sapply(pr, length))
 l.prices <- lapply(pr, function(X) c(X, rep(NA, nprices - length(X))))
 augmented.df = data.frame(do.call(cbind, l.prices))
 temp.df = cbind(comicsDf,augmented.df)
+# Warnings: fix syntax
 temp.df[-(1:16)] <- mapply(grepl, pattern=temp.df[-(1:16)], x=list(temp.df$PRICE_INFO))+0
 comicsDf <- temp.df
 
@@ -47,6 +48,7 @@ ndate <- max(sapply(dr, length))
 l.dates <- lapply(dr, function(X) c(X, rep(NA, ndate - length(X))))
 augmented.df = data.frame(do.call(cbind, l.dates))
 temp.df = cbind(comicsDf,augmented.df)
+# Warnings: fix syntax
 temp.df[-(1:(nprices + 16))] <- mapply(grepl, pattern=temp.df[-(1:(nprices + 16))], x=list(temp.df$DATE_INFO))+0
 comicsDf <- temp.df
 
