@@ -1,0 +1,599 @@
+PUBLICATION_FORMAT,YEAR,MONTH,SALES_RANK,TITLE,ISSUE,PRICE,PUBLISHER,EST_SALES
+COMIC,2010,MAY,1,Avengers,1,3.99,Marvel,163867
+COMIC,2010,MAY,2,Siege,4,3.99,Marvel,113752
+COMIC,2010,MAY,3,Batman Return of Bruce Wayne,1,3.99,DC,108534
+COMIC,2010,MAY,4,Secret Avengers,1,3.99,Marvel,106750
+COMIC,2010,MAY,5,Brightest Day,1,2.99,DC,103326
+COMIC,2010,MAY,6,Batman Return of Bruce Wayne,2,3.99,DC,93606
+COMIC,2010,MAY,7,Brightest Day,2,2.99,DC,90245
+COMIC,2010,MAY,8,Green Lantern,54,2.99,DC,88292
+COMIC,2010,MAY,9,Batman And Robin,12,2.99,DC,84843
+COMIC,2010,MAY,10,Uncanny X-Men,524,2.99,Marvel,77056
+COMIC,2010,MAY,11,New Avengers Finale,1,4.99,Marvel,76918
+COMIC,2010,MAY,12,Flash,2,2.99,DC,76560
+COMIC,2010,MAY,13,Dark Avengers,16,3.99,Marvel,71509
+COMIC,2010,MAY,14,Green Lantern Corps,48,2.99,DC,68826
+COMIC,2010,MAY,15,X-Men Legacy,236,2.99,Marvel,64850
+COMIC,2010,MAY,16,X-Force,27,2.99,Marvel,62509
+COMIC,2010,MAY,17,Justice League of America,45,3.99,DC,62465
+COMIC,2010,MAY,18,Batman,699,2.99,DC,62377
+COMIC,2010,MAY,19,Thor,610,2.99,Marvel,61779
+COMIC,2010,MAY,20,Sentry Fallen Sun,,3.99,Marvel,60883
+COMIC,2010,MAY,21,Amazing Spider-Man,630,2.99,Marvel,57969
+COMIC,2010,MAY,22,Amazing Spider-Man,631,2.99,Marvel,57239
+COMIC,2010,MAY,23,Amazing Spider-Man,632,2.99,Marvel,56723
+COMIC,2010,MAY,24,Astonishing Spider-Man Wolverine,1,3.99,Marvel,56518
+COMIC,2010,MAY,25,Astonishing X-Men Xenogenesis,1,3.99,Marvel,55428
+COMIC,2010,MAY,26,Invincible Iron Man,26,2.99,Marvel,53625
+COMIC,2010,MAY,27,Ultimate Comics New Ultimates,2,3.99,Marvel,53323
+COMIC,2010,MAY,28,Ultimate Comics Avengers 2,2,3.99,Marvel,52939
+COMIC,2010,MAY,29,Justice League Generation Lost,1,2.99,DC,50784
+COMIC,2010,MAY,30,Birds of Prey,1,2.99,DC,50428
+COMIC,2010,MAY,31,Hulk,22,3.99,Marvel,49618
+COMIC,2010,MAY,32,New Mutants,13,2.99,Marvel,49583
+COMIC,2010,MAY,33,Superman War of the Supermen,1,2.99,DC,48357
+COMIC,2010,MAY,34,Incredible Hulk,609,3.99,Marvel,46670
+COMIC,2010,MAY,35,Dark Wolverine,86,2.99,Marvel,46315
+COMIC,2010,MAY,36,Buffy the Vampire Slayer,35 Twilight Pt 4,2.99,Dark Horse,45446
+COMIC,2010,MAY,37,Superman War of the Supermen,2,2.99,DC,44828
+COMIC,2010,MAY,38,Justice League Generation Lost,2,2.99,DC,44711
+COMIC,2010,MAY,39,Legion of Super Heroes,1,3.99,DC,44415
+COMIC,2010,MAY,40,Superman War of the Supermen,3,2.99,DC,43056
+COMIC,2010,MAY,41,Deadpool,23,2.99,Marvel,42761
+COMIC,2010,MAY,42,Superman War of the Supermen,4,2.99,DC,42436
+COMIC,2010,MAY,43,X-Factor,205,2.99,Marvel,41745
+COMIC,2010,MAY,44,Detective Comics,865,3.99,DC,41501
+COMIC,2010,MAY,45,Amazing Spider-Man Annual,37,3.99,Marvel,41388
+COMIC,2010,MAY,46,Siege Embedded,4,3.99,Marvel,40054
+COMIC,2010,MAY,47,Ultimate Comics Spider-Man,10,3.99,Marvel,39690
+COMIC,2010,MAY,48,Wolverine,900,4.99,Marvel,38990
+COMIC,2010,MAY,49,Fantastic Four,579,2.99,Marvel,38415
+COMIC,2010,MAY,50,Avengers Initiative,35,2.99,Marvel,38158
+COMIC,2010,MAY,51,Red Robin,12,2.99,DC,36273
+COMIC,2010,MAY,52,Wolverine Origins,48,2.99,Marvel,35999
+COMIC,2010,MAY,53,"X-Men Second Coming RevelationsBlind Science",1,3.99,Marvel,35483
+COMIC,2010,MAY,54,Adventure Comics,11,3.99,DC,34794
+COMIC,2010,MAY,55,Dc Universe Legacies,1,3.99,DC,34429
+COMIC,2010,MAY,56,Zatanna,1,2.99,DC,33691
+COMIC,2010,MAY,57,Age of Heroes,1,3.99,Marvel,33573
+COMIC,2010,MAY,58,X-Men Hellbound,1,3.99,Marvel,33345
+COMIC,2010,MAY,59,Thunderbolts,144,2.99,Marvel,33276
+COMIC,2010,MAY,60,Izombie,1,1.0,DC,33025
+COMIC,2010,MAY,61,Superman Batman,72,2.99,DC,32047
+COMIC,2010,MAY,62,Titans Villains for Hire Special,1,4.99,DC,31718
+COMIC,2010,MAY,63,Marvels Project,8,3.99,Marvel,31345
+COMIC,2010,MAY,64,Justice League the Rise of Arsenal,3,3.99,DC,31246
+COMIC,2010,MAY,65,First Wave,2,3.99,DC,30705
+COMIC,2010,MAY,66,Deadpool Merc With A Mouth,11,2.99,Marvel,30677
+COMIC,2010,MAY,67,Wolverine Weapon X,13,3.99,Marvel,29773
+COMIC,2010,MAY,68,Thanos Imperative Ignition,1,3.99,Marvel,29716
+COMIC,2010,MAY,69,Secret Warriors,16,2.99,Marvel,29340
+COMIC,2010,MAY,70,Iron Man Legacy,2,2.99,Marvel,29175
+COMIC,2010,MAY,71,Batgirl,10,2.99,DC,28641
+COMIC,2010,MAY,72,Doomwar,4,3.99,Marvel,28307
+COMIC,2010,MAY,73,Deadpool Corps,2,2.99,Marvel,28236
+COMIC,2010,MAY,74,Fall of Hulks Savage She-Hulks,3,3.99,Marvel,27809
+COMIC,2010,MAY,75,Ultimate Comics Enemy,4,3.99,Marvel,27612
+COMIC,2010,MAY,76,Deadpool Team-Up,893,2.99,Marvel,26578
+COMIC,2010,MAY,77,American Vampire,3,3.99,DC,26510
+COMIC,2010,MAY,78,Kevin Smith Green Hornet,4,3.99,Dynamite,26292
+COMIC,2010,MAY,79,"Dark Tower Gunslinger JourneyBegins",1,3.99,Marvel,26275
+COMIC,2010,MAY,80,Gotham City Sirens,12,2.99,DC,26029
+COMIC,2010,MAY,81,Batman Streets of Gotham,12,3.99,DC,25446
+COMIC,2010,MAY,82,Wonder Woman,44,2.99,DC,25443
+COMIC,2010,MAY,83,Jsa All Stars,6,3.99,DC,25306
+COMIC,2010,MAY,84,Walking Dead,72,2.99,Image,25182
+COMIC,2010,MAY,85,Teen Titans,83,3.99,DC,24960
+COMIC,2010,MAY,86,Black Widow,2,2.99,Marvel,23384
+COMIC,2010,MAY,87,Marvel Zombies 5,3,3.99,Marvel,22894
+COMIC,2010,MAY,88,Atlas,1,3.99,Marvel,22756
+COMIC,2010,MAY,90,Secret Six,21,2.99,DC,22334
+COMIC,2010,MAY,91,Punishermax,7,3.99,Marvel,22198
+COMIC,2010,MAY,92,Enter the Heroic Age,1,3.99,Marvel,22139
+COMIC,2010,MAY,93,Avengers Origin,2,3.99,Marvel,22108
+COMIC,2010,MAY,94,Brave And the Bold,34,2.99,DC,21758
+COMIC,2010,MAY,95,Boys,42,2.99,Dynamite,21479
+COMIC,2010,MAY,96,Power Girl,12,2.99,DC,20681
+COMIC,2010,MAY,97,Vengeance of Moon Knight,8,2.99,Marvel,20597
+COMIC,2010,MAY,98,"Amazing Spider-Man PresentsAmerican Son",1,3.99,Marvel,20375
+COMIC,2010,MAY,99,Heroic Age Prince of Power,1,3.99,Marvel,20373
+COMIC,2010,MAY,100,Booster Gold,32,2.99,DC,20343
+COMIC,2010,MAY,101,X-Men Origins Emma Frost,1,3.99,Marvel,20093
+COMIC,2010,MAY,102,Haunt,7,2.99,Image,20005
+COMIC,2010,MAY,103,Star Wars Legacy,48,2.99,Dark Horse,19954
+COMIC,2010,MAY,104,Fables,95,2.99,DC,19932
+COMIC,2010,MAY,105,Kevin Smith Kato,1,3.99,Dynamite,19720
+COMIC,2010,MAY,106,Web of Spider-Man,8,3.99,Marvel,19623
+COMIC,2010,MAY,107,Doc Savage,2,3.99,DC,19073
+COMIC,2010,MAY,108,Spawn,197,2.99,Image,18361
+COMIC,2010,MAY,109,Star Wars Invasion Rescues,1,2.99,Dark Horse,17911
+COMIC,2010,MAY,110,Daredevil Cage Match,1,2.99,Marvel,17711
+COMIC,2010,MAY,111,Mystery Society,1,3.99,IDW,17630
+COMIC,2010,MAY,112,Angel,33,3.99,IDW,17521
+COMIC,2010,MAY,113,Spectacular Spider-Girl,1,3.99,Marvel,17025
+COMIC,2010,MAY,114,Joe the Barbarian,5,2.99,DC,16725
+COMIC,2010,MAY,115,Dazzler,1,3.99,Marvel,16320
+COMIC,2010,MAY,116,Rescue,1,3.99,Marvel,15711
+COMIC,2010,MAY,117,Green Hornet Strikes,1,3.99,Dynamite,15626
+COMIC,2010,MAY,118,"Captain America Black Panther Flagsof Fathers",2,3.99,Marvel,15480
+COMIC,2010,MAY,119,Stephen King's N,3,3.99,Marvel,15470
+COMIC,2010,MAY,120,Batman Confidential,44,2.99,DC,15279
+COMIC,2010,MAY,121,Avengers Assemble,1,3.99,Marvel,15113
+COMIC,2010,MAY,122,X-Men Forever,23,3.99,Marvel,15045
+COMIC,2010,MAY,123,X-Men Forever,24,3.99,Marvel,14940
+COMIC,2010,MAY,124,New Avengers Luke Cage,2,3.99,Marvel,14878
+COMIC,2010,MAY,125,Realm of Kings Son of Hulk,4,3.99,Marvel,14312
+COMIC,2010,MAY,126,Spirit,2,3.99,DC,14274
+COMIC,2010,MAY,127,Iron Man 2 Public Identity,2,3.99,Marvel,14030
+COMIC,2010,MAY,128,Green Hornet Year One,3,3.99,Dynamite,13954
+COMIC,2010,MAY,129,Iron Man 2 Public Identity,3,3.99,Marvel,13645
+COMIC,2010,MAY,130,Unwritten,13,2.99,DC,13467
+COMIC,2010,MAY,131,Origins of Marvel Comics,1,3.99,Marvel,13274
+COMIC,2010,MAY,132,Guild,3,3.5,Dark Horse,12972
+COMIC,2010,MAY,133,Astro City the Dark Age Book Four,4,4.99,DC,12900
+COMIC,2010,MAY,134,X-Factor Forever,3,3.99,Marvel,12794
+COMIC,2010,MAY,135,Irredeemable,13,3.99,Boom,12784
+COMIC,2010,MAY,136,G.I. Joe,18,3.99,IDW,12776
+COMIC,2010,MAY,137,BPRD King of Fear,5,2.99,Dark Horse,12519
+COMIC,2010,MAY,138,Peter Parker,3,2.99,Marvel,12514
+COMIC,2010,MAY,139,Marvelous Land of Oz,6,3.99,Marvel,12366
+COMIC,2010,MAY,140,Doom Patrol,10,2.99,DC,12334
+COMIC,2010,MAY,141,Ex Machina,49,2.99,DC,11994
+COMIC,2010,MAY,142,Transformers Ongoing,7,3.99,IDW,11932
+COMIC,2010,MAY,143,Spider-Man Fever,2,3.99,Marvel,11665
+COMIC,2010,MAY,144,Many Loves of Amazing Spider-Man,1,3.99,Marvel,11522
+COMIC,2010,MAY,145,Incorruptible,6,3.99,Boom,11517
+COMIC,2010,MAY,146,Jonah Hex,55,2.99,DC,11327
+COMIC,2010,MAY,147,Rebels,16,2.99,DC,11120
+COMIC,2010,MAY,148,Weapon X Noir,1,3.99,Marvel,11119
+COMIC,2010,MAY,149,AVP Three World War,4,3.5,Dark Horse,11112
+COMIC,2010,MAY,150,G.I. Joe: Hearts And Minds,1,3.99,IDW,11039
+COMIC,2010,MAY,151,Fathom Blue Descent,0,2.5,Aspen,10731
+COMIC,2010,MAY,152,G.I. Joe: Origins,15,3.99,IDW,10650
+COMIC,2010,MAY,153,Witchblade,136,2.99,Image,10649
+COMIC,2010,MAY,154,Azrael,8,2.99,DC,10228
+COMIC,2010,MAY,155,Hellblazer,267,2.99,DC,10155
+COMIC,2010,MAY,156,Project Superpowers Chapter Two,9,2.99,Dynamite,10132
+COMIC,2010,MAY,157,"Marvel's Greatest Comics: MarvelZombies",1,1.0,Marvel,10084
+COMIC,2010,MAY,158,X-Men Pixie Strikes Back,4,3.99,Marvel,9746
+COMIC,2010,MAY,159,Sweet Tooth,9,2.99,DC,9654
+COMIC,2010,MAY,160,Daytripper,6,2.99,DC,9574
+COMIC,2010,MAY,161,God of War,2,3.99,DC,9501
+COMIC,2010,MAY,162,"Anita Blake Circus of DamnedCharmer",1,3.99,Marvel,9484
+COMIC,2010,MAY,163,Iron Man Noir,2,3.99,Marvel,9268
+COMIC,2010,MAY,164,Girl Comics,2,4.99,Marvel,9263
+COMIC,2010,MAY,165,House of Mystery,25,2.99,DC,9253
+COMIC,2010,MAY,166,Galacta Daughter of Galactus,1,3.99,Marvel,9243
+COMIC,2010,MAY,167,Transformers Ironhide,1,3.99,IDW,9019
+COMIC,2010,MAY,169,Halo Blood Line,5,3.99,Marvel,8510
+COMIC,2010,MAY,170,Deathlok,7,3.99,Marvel,8506
+COMIC,2010,MAY,171,Jonah Hex,1 New Ptg,1.0,DC,8463
+COMIC,2010,MAY,172,Grimm Fairy Tales Annual Las Vegas,,5.99,Zenescope,8462
+COMIC,2010,MAY,173,Grimm Fairy Tales: Inferno,1,2.99,Zenescope,8170
+COMIC,2010,MAY,174,Creepy Comics,3,4.99,Dark Horse,8165
+COMIC,2010,MAY,175,Tarot Witch of the Black Rose,62,2.95,Broadsword,8131
+COMIC,2010,MAY,176,G.I. Joe: Operation Hiss,4,3.99,IDW,8118
+COMIC,2010,MAY,177,"Transformers Last Stand of theWreckers",5,3.99,IDW,8105
+COMIC,2010,MAY,178,Madame Xanadu,23,2.99,DC,8028
+COMIC,2010,MAY,179,Tiny Titans,28,2.5,DC,7959
+COMIC,2010,MAY,180,Warlord,14,2.99,DC,7915
+COMIC,2010,MAY,181,Incorruptible,5,3.99,Boom,7900
+COMIC,2010,MAY,182,Angel Barbary Coast,2,3.99,IDW,7844
+COMIC,2010,MAY,183,"Heroic Age Previews (Bundle of 25)(Net)",,10.0,Marvel,7787
+COMIC,2010,MAY,184,Spider-Man,2,2.99,Marvel,7709
+COMIC,2010,MAY,185,Pilot Season Stealth,1,2.99,Image,7676
+COMIC,2010,MAY,186,Sam & Twitch Writer,1,2.99,Image,7667
+COMIC,2010,MAY,187,Sword,24,4.99,Image,7631
+COMIC,2010,MAY,188,Northlanders,28,2.99,DC,7630
+COMIC,2010,MAY,189,Terminator,3,3.5,Dark Horse,7520
+COMIC,2010,MAY,190,Transformers Nefarious,3,3.99,IDW,7354
+COMIC,2010,MAY,191,Black Terror,10,3.5,Dynamite,7352
+COMIC,2010,MAY,192,Authority,22,2.99,DC,7295
+COMIC,2010,MAY,193,Magog,9,2.99,DC,7264
+COMIC,2010,MAY,194,Simpsons Comics,166,2.99,Bongo,7161
+COMIC,2010,MAY,195,Red Sonja Wrath of the Gods,4,3.99,Dynamite,7150
+COMIC,2010,MAY,196,Hellblazer,1 New Ptg,1.0,DC,7089
+COMIC,2010,MAY,197,Mighty Crusaders Special,1,4.99,DC,7017
+COMIC,2010,MAY,198,X-Men Second Coming,1,3.99,Marvel,6990
+COMIC,2010,MAY,199,Choker,3,3.99,Image,6945
+COMIC,2010,MAY,200,"Amory Wars Keeping Secrets ofSilent Earth 3",1,3.99,Boom,6909
+COMIC,2010,MAY,201,New Mutants,12,2.99,Marvel,6807
+COMIC,2010,MAY,202,Sam & Twitch Writer,2,2.99,Image,6775
+COMIC,2010,MAY,203,DMZ,53,2.99,DC,6759
+COMIC,2010,MAY,204,Doctor Who Ongoing,11,3.99,IDW,6743
+COMIC,2010,MAY,205,DV8 Gods And Monsters,2,2.99,DC,6671
+COMIC,2010,MAY,206,Scalped,38,2.99,DC,6632
+COMIC,2010,MAY,207,Terry Moore's Echo,21,3.5,Abstract,6611
+COMIC,2010,MAY,208,"Whatever Happened To Baron VonShock",1,3.99,Image,6534
+COMIC,2010,MAY,209,Shield,1,3.99,Marvel,6513
+COMIC,2010,MAY,210,Soulfire Volume Two,5,2.99,Aspen,6458
+COMIC,2010,MAY,211,Star Trek Mccoy,2,3.99,IDW,6450
+COMIC,2010,MAY,212,Scalped,1 New Ptg,1.0,DC,6438
+COMIC,2010,MAY,213,Sonic Universe,16,2.99,Archie,6406
+COMIC,2010,MAY,214,Supernatural Beginnings End,5,2.99,DC,6403
+COMIC,2010,MAY,215,Complete Alice In Wonderland,4,4.99,Dynamite,6396
+COMIC,2010,MAY,216,Super Heroes,2,2.99,Marvel,6360
+COMIC,2010,MAY,217,Shadowhawk,1,3.5,Image,6345
+COMIC,2010,MAY,218,Lockjaw And Pet Avengers Unleashed,3,2.99,Marvel,6339
+COMIC,2010,MAY,219,Nemesis the Impostors,3,2.99,DC,6252
+COMIC,2010,MAY,220,Human Target,4,2.99,DC,6222
+COMIC,2010,MAY,221,Earp Saints for Sinners,0,1.0,Radical,6212
+COMIC,2010,MAY,222,Wildcats,23,2.99,DC,6185
+COMIC,2010,MAY,223,Electric Ant,2,3.99,Marvel,6181
+COMIC,2010,MAY,224,Astounding Wolf-Man,23,2.99,Image,6160
+COMIC,2010,MAY,225,Greek Street,11,2.99,DC,6128
+COMIC,2010,MAY,226,Great Ten,7,2.99,DC,6112
+COMIC,2010,MAY,227,Batman the Brave And the Bold,17,2.5,DC,6103
+COMIC,2010,MAY,228,Futurama Comics,49,2.99,Bongo,6071
+COMIC,2010,MAY,229,Buck Rogers,11,3.5,Dynamite,6045
+COMIC,2010,MAY,230,Action Comics,858 New Ptg,1.0,DC,5896
+COMIC,2010,MAY,231,Her-Oes,2,2.99,Marvel,5871
+COMIC,2010,MAY,232,Demo Vol 2,4,2.99,DC,5818
+COMIC,2010,MAY,233,Authority,1 New Ptg,1.0,DC,5792
+COMIC,2010,MAY,234,"Robert Jordan Wheel of Time Eye ofthe World",2,3.99,Dynamite,5694
+COMIC,2010,MAY,235,Thor And Warriors Four,2,2.99,Marvel,5651
+COMIC,2010,MAY,236,Super Hero Squad,5,2.99,Marvel,5639
+COMIC,2010,MAY,237,Broken Trinity Pandoras Box,2,3.99,Image,5628
+COMIC,2010,MAY,238,Star Trek Captains Log Harriman,1,3.99,IDW,5610
+COMIC,2010,MAY,239,Marvel,1,1.0,Marvel,5497
+COMIC,2010,MAY,240,Marvel's Greatest Comics: Alias,20,2.99,DC,5466
+COMIC,2010,MAY,241,Do Androids Dream Dust To Dust,1,3.99,Boom,5449
+COMIC,2010,MAY,242,Darkstalkers Night Warriors,2,3.95,Udon,5445
+COMIC,2010,MAY,243,Garth Ennis Battlefields,6,3.5,Dynamite,5444
+COMIC,2010,MAY,244,Savage Dragon,160,3.5,Image,5411
+COMIC,2010,MAY,245,"Marvel's Greatest Comics: Marvel1602",1,1.0,Marvel,5312
+COMIC,2010,MAY,246,X-Force,26,2.99,Marvel,5312
+COMIC,2010,MAY,247,Farscape Ongoing,7,3.99,Boom,5275
+COMIC,2010,MAY,248,Shield,9,3.99,DC,5201
+COMIC,2010,MAY,249,Stargate Vala Mal Doran,1,3.99,Dynamite,5160
+COMIC,2010,MAY,250,"Marvel's Greatest Comics: Agents ofAtlas",1,1.0,Marvel,5136
+COMIC,2010,MAY,251,Air,21,2.99,DC,5104
+COMIC,2010,MAY,252,"Avengers Thor Captain AmericaOfficial Index",1,3.99,Marvel,4997
+COMIC,2010,MAY,253,Star Trek Movie Adaptation,4,3.99,IDW,4993
+COMIC,2010,MAY,254,Farscape Scorpius,1,3.99,Boom,4945
+COMIC,2010,MAY,255,Uncanny X-Men,523,2.99,Marvel,4909
+COMIC,2010,MAY,256,Archie,609,2.99,Archie,4848
+COMIC,2010,MAY,257,Sense & Sensibility,1,3.99,Marvel,4809
+COMIC,2010,MAY,258,Wolfskin Hundredth Dream,2,3.99,Avatar,4788
+COMIC,2010,MAY,259,Simpsons Summer Shindig,4,4.99,Bongo,4695
+COMIC,2010,MAY,260,Super Friends,27,2.5,DC,4688
+COMIC,2010,MAY,261,X-Men Legacy,235,2.99,Marvel,4653
+COMIC,2010,MAY,262,Web,9,3.99,DC,4640
+COMIC,2010,MAY,263,28 Days Later,10,3.99,Boom,4623
+COMIC,2010,MAY,264,Robocop,4,3.5,Dynamite,4585
+COMIC,2010,MAY,265,Bram Stokers Death Ship,1,3.99,IDW,4452
+COMIC,2010,MAY,266,Iron Man Extremis Directors Cut,1,3.99,Marvel,4440
+COMIC,2010,MAY,267,Sparta USA,3,2.99,DC,4425
+COMIC,2010,MAY,268,Muppet Show,5,2.99,Boom,4316
+COMIC,2010,MAY,269,Incredibles,9,2.99,Boom,4288
+COMIC,2010,MAY,270,WWE Heroes,3,3.99,Titan,4170
+COMIC,2010,MAY,271,7 Psychopaths,1,3.99,Boom,4163
+COMIC,2010,MAY,272,"Billy Batson And the Magic ofShazam",16,2.5,DC,4125
+COMIC,2010,MAY,273,Boondock Saints In Nomine Patris,1,3.99,12 Gauge,4063
+COMIC,2010,MAY,274,X-Factor,204,2.99,Marvel,3961
+COMIC,2010,MAY,275,Zorro Matanzas,4,3.99,Dynamite,3907
+COMIC,2010,MAY,276,Scooby Doo,156,2.5,DC,3857
+COMIC,2010,MAY,277,"Atomic Robo Revenge of the VampireDimension",3,3.5,Red 5,3840
+COMIC,2010,MAY,278,Fraggle Rock,2,3.95,Archaia,3779
+COMIC,2010,MAY,279,Kill Shakespeare,2,3.99,IDW,3703
+COMIC,2010,MAY,280,Knights of the Dinner Table,161,4.99,Kenzer,3699
+COMIC,2010,MAY,281,Uncle Scrooge,391,2.99,Boom,3677
+COMIC,2010,MAY,282,"Walt Disneys Comics &Stories",706,2.99,Boom,3655
+COMIC,2010,MAY,283,Knights of the Dinner Table,162,4.99,Kenzer,3618
+COMIC,2010,MAY,284,Chimichanga,2,3.0,Albatross Exploding,3608
+COMIC,2010,MAY,285,Tales of the Dragon Guard,3,5.99,Marvel,3582
+COMIC,2010,MAY,286,Muppet Snow White,1,2.99,Boom,3521
+COMIC,2010,MAY,287,"James Pattersons Witch &Wizard",1 Battle Shadowland,3.99,IDW,3481
+COMIC,2010,MAY,288,Light,2,2.99,Image,3323
+COMIC,2010,MAY,289,Muppet King Arthur,4,2.99,Boom,3308
+COMIC,2010,MAY,290,Expendables,1,3.99,Dynamite,3258
+COMIC,2010,MAY,291,Garrison,2,2.99,DC,3252
+COMIC,2010,MAY,292,Tank Girl Royal Escape,3,3.99,IDW,3227
+COMIC,2010,MAY,293,Wall-E,6,2.99,Boom,3214
+COMIC,2010,MAY,294,Dantes Inferno,6,3.99,DC,3197
+COMIC,2010,MAY,295,Zombies Vs Robots Aventure,4,3.99,IDW,3152
+COMIC,2010,MAY,296,Orc Stain,3,2.99,Image,3151
+COMIC,2010,MAY,297,Cold Space,2,3.99,Boom,3138
+COMIC,2010,MAY,298,Veronica,200,2.99,Archie,3095
+COMIC,2010,MAY,299,Donald Duck And Friends,354,2.99,Boom,3074
+COMIC,2010,MAY,300,American Vampire,1,3.99,DC,3069
+TPB,2010,MAY,1,Ex Machina Vol. 9 Ring Out the Old,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401226947&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,4864
+TPB,2010,MAY,2,Sweet Tooth Vol. 1 Out of the Woods,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401226961&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,DC,4782
+TPB,2010,MAY,3,Invincible Vol. 12 Still Standing,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781607061663&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",16.99,Image,4687
+TPB,2010,MAY,4,Walking Dead HC Vol. 5,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781607061717&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",34.99,Image,3878
+TPB,2010,MAY,5,Scalped Vol. 6 The Gnawing,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401227173&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,3767
+TPB,2010,MAY,6,Wednesday HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401227470&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",49.99,DC,3694
+TPB,2010,MAY,7,Deadpool Vol. 3 X Marks Spot,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785140405&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",15.99,Marvel,3594
+TPB,2010,MAY,8,Hellsing Vol. 10,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781595824981&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",13.99,Dark Horse,3575
+TPB,2010,MAY,9,"Invincible Iron Man Vol. 3 MostWanted Book 2","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785136859&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Marvel,3484
+TPB,2010,MAY,10,Kick Ass Premium HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785134350&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.99,Marvel,3429
+TPB,2010,MAY,11,Incorruptible Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781608860159&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",16.99,Boom,3202
+TPB,2010,MAY,12,Dong Xoai Vietnam 1965 HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401221423&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.99,DC,3023
+TPB,2010,MAY,13,Thor Latverian Prometheus,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785143727&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Marvel,2758
+TPB,2010,MAY,14,Pride Prejudice & Zombies,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780345520685&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Random House,2634
+TPB,2010,MAY,15,Benny and Penny Big No No HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780979923890&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.95,Raw Junior,2524
+TPB,2010,MAY,16,War of Kings,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785135425&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.99,Marvel,2418
+TPB,2010,MAY,17,Dark Tower Gunslinger Born,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785121459&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Marvel,2369
+TPB,2010,MAY,18,Superman New Krypton Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401223304&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",17.99,DC,2308
+TPB,2010,MAY,19,Walking Dead Vol. 1 Days Gone Bye,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781582406725&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Image,2303
+TPB,2010,MAY,20,Executor HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401213855&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,DC,2284
+TPB,2010,MAY,21,"Batman Streets of Gotham HC Vol. 1Hush Money","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401227210&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,DC,2212
+TPB,2010,MAY,22,Batman Long Shadows HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401227197&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,DC,2187
+TPB,2010,MAY,23,Air Vol. 3 Pureland,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401227067&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,2184
+TPB,2010,MAY,24,Hulk Prem HC Vol. 5 Fall of Hulks,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785139850&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Marvel,2171
+TPB,2010,MAY,25,"Transmetropolitan Vol. 7 SpidersThrash New Ed","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401228156&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,2167
+TPB,2010,MAY,26,"Scott Pilgrim Vol. 1 PreciousLittle Life","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781932664089&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",11.99,Oni,2159
+TPB,2010,MAY,27,X-Men Psylocke,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785144397&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Marvel,2145
+TPB,2010,MAY,28,Jonah Hex Welcome To Paradise,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401227579&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",17.99,DC,2072
+TPB,2010,MAY,29,X-Men Origins,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785134527&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Marvel,2068
+TPB,2010,MAY,30,Invincible Gene Colan HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780979760266&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Hero Initiative,2044
+TPB,2010,MAY,31,"Incredible Hulk Fall of Hulks PremHC","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785142522&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Marvel,1991
+TPB,2010,MAY,32,"Justice League of America SecondComing","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401222536&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",17.99,DC,1989
+TPB,2010,MAY,33,Doc Savage the Man of Bronze,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401227272&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",17.99,DC,1988
+TPB,2010,MAY,34,"DCs Greatest Imaginary Stories Vol.2","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401227258&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,DC,1976
+TPB,2010,MAY,35,Oh My Goddess Vol. 35,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781595825094&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",10.99,Dark Horse,1963
+TPB,2010,MAY,36,X-Men Nation X HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785138730&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",34.99,Marvel,1914
+TPB,2010,MAY,37,Savage Sword of Conan Vol. 7,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781595825100&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Dark Horse,1902
+TPB,2010,MAY,38,Spider-Man Red Headed Stranger,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785138693&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Marvel,1881
+TPB,2010,MAY,39,Wonder Woman Warkiller,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401227791&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,1878
+TPB,2010,MAY,40,Gantz Vol. 10,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781595824592&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,Dark Horse,1797
+TPB,2010,MAY,41,Classic G.I. Joe Vol. 8,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781600106552&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.99,IDW,1777
+TPB,2010,MAY,42,Justice Society of America Bad Seed,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401227142&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,1757
+TPB,2010,MAY,43,"Spider-Man Complete Clone Saga EpicBook 02","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785143512&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",34.99,Marvel,1738
+TPB,2010,MAY,44,Dark X-Men Prem HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785145264&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Marvel,1736
+TPB,2010,MAY,45,Scott Pilgrim Gn Vol. 2 vs the World,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781932664126&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",11.99,Oni,1727
+TPB,2010,MAY,46,"Marvel Masterworks Avengers HC Vol.10","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785133315&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",54.99,Marvel,1669
+TPB,2010,MAY,47,Iron Man Armor Wars II,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785145578&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",29.99,Marvel,1655
+TPB,2010,MAY,48,Cable Vol. 3 Stranded,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785141679&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Marvel,1629
+TPB,2010,MAY,49,Essential Fantastic Four Vol. 8,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785145387&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Marvel,1614
+TPB,2010,MAY,50,"X-Men Forever Vol. 3 Come to MotherRussia","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785136811&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",16.99,Marvel,1601
+TPB,2010,MAY,51,Stuff of Legend,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780345521002&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",13.0,Random House,1591
+TPB,2010,MAY,52,"Warcraft Shadow Wing Vol. 1 Dragonsof Outland","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781427810267&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,Tokyopop,1591
+TPB,2010,MAY,53,Superboy the Boy of Steel HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401227722&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,DC,1584
+TPB,2010,MAY,54,"Spider-Woman HC Agent of Sword withMotion DVD","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785147688&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",29.99,Marvel,1579
+TPB,2010,MAY,55,"Marvel Masterworks AmazingSpider-Man Vol. 4","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785142805&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.99,Marvel,1556
+TPB,2010,MAY,56,"Anita Blake Prem HC Book 3 LcExecutioner","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785136347&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Marvel,1549
+TPB,2010,MAY,57,Ex Machina Deluxe Edition HC Vol. 3,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401228002&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",29.99,DC,1543
+TPB,2010,MAY,58,Warcraft Mage World of Warcraft,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781427814975&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,Tokyopop,1535
+TPB,2010,MAY,59,World of Warcraft Ashbringer,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401223427&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,1528
+TPB,2010,MAY,60,"Walking Dead Vol. 11 Fear theHunters","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781607061816&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Image,1515
+TPB,2010,MAY,61,Nobody,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401220815&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,1513
+TPB,2010,MAY,62,Talisman Road of Trials HC Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780345517982&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",25.0,Random House,1491
+TPB,2010,MAY,63,Avengers Prem HC Red Zone,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785144663&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.99,Marvel,1491
+TPB,2010,MAY,64,Supergirl Friends And Fugitives,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401227951&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",17.99,DC,1479
+TPB,2010,MAY,65,"Marvel Masterworks Golden AgeCaptain America HC Vol. 4","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785133612&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",59.99,Marvel,1459
+TPB,2010,MAY,66,"Scott Pilgrim Vol. 4 Gets ItTogether","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781932664492&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",11.99,Oni,1459
+TPB,2010,MAY,67,Iron Man Captain America,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785144519&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.99,Marvel,1435
+TPB,2010,MAY,68,Eerie Archives HC Vol. 3,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781595823694&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",49.99,Dark Horse,1414
+TPB,2010,MAY,69,"Billy Batson And the Magic ofShazam","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401222482&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,DC,1402
+TPB,2010,MAY,70,Walking Dead Vol. 2 Miles Behind Us,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781582407753&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,Image,1399
+TPB,2010,MAY,71,"Spider-Man Gauntlet Premium HC Vol.3 Vulture & Moribus","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785146117&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Marvel,1363
+TPB,2010,MAY,72,Atomic Knights HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401227487&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",39.99,DC,1339
+TPB,2010,MAY,73,Spawn Origins Vol. 5,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781607062240&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Image,1336
+TPB,2010,MAY,74,One Piece Vol. 48,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421534640&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Viz,1330
+TPB,2010,MAY,75,One Piece Vol. 47,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421534633&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Viz,1329
+TPB,2010,MAY,76,One Piece Vol. 46,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421534626&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Viz,1328
+TPB,2010,MAY,77,One Piece Vol. 44,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421534602&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Viz,1325
+TPB,2010,MAY,78,"Captain Marvel Death of CaptainMarvel Prem HC","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785146278&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.99,Marvel,1317
+TPB,2010,MAY,79,One Piece Vol. 45,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421534619&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Viz,1313
+TPB,2010,MAY,80,Titans Vol. 3 Fractured,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401227760&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",17.99,DC,1306
+TPB,2010,MAY,81,Weathercraft HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781606993408&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Fantagraphics,1299
+TPB,2010,MAY,82,Conan HC Vol. 8 Black Colossus,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781595825070&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.99,Dark Horse,1295
+TPB,2010,MAY,83,"Angel After the Fall HC Vol. 6 LastAngel In Hell","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781600107320&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",29.99,IDW,1279
+TPB,2010,MAY,84,"Scott Pilgrim Vol. 5 Sp Vs theUniverse","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781934964101&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",11.95,Oni,1274
+TPB,2010,MAY,85,Destroyer,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785133469&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Marvel,1265
+TPB,2010,MAY,86,"Barry Windsor Smith Conan ArchivesHC Vol. 2","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781595825063&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",49.99,Dark Horse,1256
+TPB,2010,MAY,87,Spike After the Fall Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781600106651&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",17.99,IDW,1250
+TPB,2010,MAY,88,D Gray Man Vol. 17,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421531601&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Viz,1243
+TPB,2010,MAY,89,Negima Vol. 26,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780345521118&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",10.99,Random House,1241
+TPB,2010,MAY,90,Tsubasa Vol. 26,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780345520708&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",10.99,Random House,1232
+TPB,2010,MAY,91,"Garth Ennis Battlefields Vol. 4Happy Valley","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781606901281&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,Dynamite,1226
+TPB,2010,MAY,92,Question Vol. 6 the Peacemaker,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401227609&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,DC,1201
+TPB,2010,MAY,93,Inu Yasha Vol. 48,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421529981&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Viz,1200
+TPB,2010,MAY,94,"Legion of Super Heroes EnemyManifest","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401223052&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,1196
+TPB,2010,MAY,95,Avengers I Am An Avenger,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785143604&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.99,Marvel,1185
+TPB,2010,MAY,96,"Walking Dead Vol. 3 Safety BehindBars","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781582408057&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Image,1179
+TPB,2010,MAY,97,Little Lulu Vol. 23 Bogey Snowman,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781595824745&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Dark Horse,1178
+TPB,2010,MAY,98,"Doctor Voodoo Avenger ofSupernatural","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785144090&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",16.99,Marvel,1140
+TPB,2010,MAY,99,"Codename Knockout Vol. 1 the DevilYou Say","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401227982&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,DC,1122
+TPB,2010,MAY,100,Outsiders the Hunt,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401227166&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,1122
+TPB,2010,MAY,101,Wall-E Vol. 1 Recharge,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781608865123&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Boom,1118
+TPB,2010,MAY,102,Y the Last Man Vol. 1 Unmanned,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781563899805&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,DC,1111
+TPB,2010,MAY,103,End League Vol. 2 Weathered Statues,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781595825179&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",16.99,Dark Horse,1093
+TPB,2010,MAY,104,I Kill Giants,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781607060925&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",15.99,Image,1088
+TPB,2010,MAY,105,"Fortune & Glory A TrueHollywood Comic Book HC","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785143093&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Marvel,1085
+TPB,2010,MAY,106,Muppet Show Vol. 3 On the Road,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781608865161&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Boom,1082
+TPB,2010,MAY,107,"Marvel Adventures Black Widow& Avengers Digest","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785133247&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Marvel,1080
+TPB,2010,MAY,108,Runaways Escape To New York,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785141471&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Marvel,1078
+TPB,2010,MAY,109,"Naoki Urasawa 20th Century BoysVol. 8","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421523439&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,Viz,1072
+TPB,2010,MAY,110,Walking Dead Vol. 10 What We Become,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781607060758&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Image,1070
+TPB,2010,MAY,111,Howard Chaykin Black Kiss HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781606900215&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.99,Dynamite,1062
+TPB,2010,MAY,112,Losers Book 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401227333&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,DC,1062
+TPB,2010,MAY,113,"Toy Story Vol. 1 Return of BuzzLightyear","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781608865574&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Boom,1037
+TPB,2010,MAY,114,"Incredibles Vol. 3 Revenge FromBelow","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781608865185&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Boom,1035
+TPB,2010,MAY,115,Fables Vol. 1 Legends In Exile,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781563899423&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,DC,1034
+TPB,2010,MAY,116,Black Butler Vol. 2,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780316084253&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",10.99,Hachette,1031
+TPB,2010,MAY,117,"Archie Americana Ser Vol. 10 Bestof 70s Book 2","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781879794498&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",11.95,Archie,1006
+TPB,2010,MAY,118,Walking Dead Vol. 9 Here We Remain,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781607060222&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Image,989
+TPB,2010,MAY,119,Soulfire Vol. 1 Part 2,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780982362815&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Aspen,969
+TPB,2010,MAY,120,Spider-Man Real Clone Saga HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785144243&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",29.99,Marvel,963
+TPB,2010,MAY,121,Walking Dead Vol. 4 Hearts Desire,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781582405308&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,Image,952
+TPB,2010,MAY,122,Cowboy Ninja Viking,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781607062615&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",17.99,Image,942
+TPB,2010,MAY,123,"Captain Easy HC Vol. 1 Soldier ofFortune","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781606991619&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",39.99,Fantagraphics,939
+TPB,2010,MAY,124,James Bond Adv Vol. 1 Silverfin,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781423130239&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,HarperCollins,935
+TPB,2010,MAY,125,"X-Factor Prem HC Invisible WomanHas Vanished","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785146575&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Marvel,933
+TPB,2010,MAY,126,Super F-----s,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781603090520&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.95,Top Shelf,920
+TPB,2010,MAY,127,Serenity Better Days,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781595821621&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Dark Horse,902
+TPB,2010,MAY,128,Underground,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781607062660&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Image,900
+TPB,2010,MAY,129,"Robotech Prelude To the ShadowChronicles","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401228163&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",17.99,DC,896
+TPB,2010,MAY,130,Serenity Those Left Behind,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781593074494&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Dark Horse,892
+TPB,2010,MAY,131,Flash Rebirth HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401225681&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,DC,869
+TPB,2010,MAY,132,Crossed Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781592910908&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.99,Avatar,863
+TPB,2010,MAY,133,"Incredible Hercules Prem HC AssaultOn New Olympus","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785145455&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Marvel,858
+TPB,2010,MAY,134,Chew Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781607061595&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Image,853
+TPB,2010,MAY,135,Ghoul HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,IDW,851
+TPB,2010,MAY,136,"Project Superpowers Meet the BadGuys","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781606901045&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",16.99,Dynamite,848
+TPB,2010,MAY,137,Hp Lovecraft Call of Cthulhu,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780941613897&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Transfuzion,846
+TPB,2010,MAY,138,"Avengers West Coast AvengersAssemble Premium HC","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785143215&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",29.99,Marvel,844
+TPB,2010,MAY,139,Hikaru No Go Vol. 19,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421528243&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Viz,838
+TPB,2010,MAY,140,Art of Blade the Immortal HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781595825124&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",29.99,Dark Horse,832
+TPB,2010,MAY,141,"Invincible Iron Man Vol. 2 WorldsMost Wanted","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785134138&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Marvel,832
+TPB,2010,MAY,142,Squee,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780943151243&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",15.95,Slave Labor,831
+TPB,2010,MAY,143,Walking Dead Vol. 5 Best Defense,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781582406121&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Image,830
+TPB,2010,MAY,144,Amazon HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781569718377&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Dark Horse,827
+TPB,2010,MAY,145,Last Airbender Movie Prequel Gn,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780345518545&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",10.99,Random House,822
+TPB,2010,MAY,146,Code Geass Knight Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781604962192&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",10.99,Bandai,818
+TPB,2010,MAY,147,Rip Kirby HC Vol. 2,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781600105821&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",49.99,IDW,814
+TPB,2010,MAY,148,"Batman And Robin Deluxe HC Vol. 1Batman Reborn","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401225667&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.99,DC,813
+TPB,2010,MAY,149,Dreadstar the Beginning HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781606901199&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",29.99,Dynamite,811
+TPB,2010,MAY,150,"Preacher Vol. 1 Gone To Texas NewEdition","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781563892615&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,811
+TPB,2010,MAY,151,"Jeff Smith Little Mouse Gets ReadyHC","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781935179016&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.95,Raw Junior,809
+TPB,2010,MAY,152,Bone Handbook,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780545211420&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Scholastic,808
+TPB,2010,MAY,153,Walking Dead Vol. 8 Made To Suffer,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781582408835&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Image,806
+TPB,2010,MAY,154,Shaman King Vol. 28,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421521817&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Viz,797
+TPB,2010,MAY,155,Iron Man Art of Iron Man 2 HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785143208&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",49.99,Marvel,785
+TPB,2010,MAY,156,"Madman Atomic Comics Vol. 3Electric Allegories","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781607062639&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Image,770
+TPB,2010,MAY,157,Biomega Vol. 2,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421531854&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,Viz,769
+TPB,2010,MAY,158,Wolverine HC Old Man Logan,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785131595&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",34.99,Marvel,763
+TPB,2010,MAY,159,Cars Vol. 3 Rally Race,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781608865178&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Boom,755
+TPB,2010,MAY,160,Chobits Art Book Your Eyes Only Gn,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781598165951&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",17.99,Tokyopop,750
+TPB,2010,MAY,161,Rin-Ne Vol. 3,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421534879&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Viz,738
+TPB,2010,MAY,162,"Alice in the Country of Hearts Vol.3","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781427818188&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",10.99,Tokyopop,731
+TPB,2010,MAY,163,Torpedo HC Vol. 2,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781600106149&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.99,IDW,730
+TPB,2010,MAY,164,Krazy And Ignatz 1916-1918,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781606993163&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.99,Fantagraphics,724
+TPB,2010,MAY,165,Negima Neo Vol. 5,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780345517913&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",10.99,Random House,720
+TPB,2010,MAY,166,Walking Dead Vol. 6 Sorrowful Life,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781582406848&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Image,718
+TPB,2010,MAY,167,"Fables Vol. 13 the Great FablesCrossover","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401225728&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",17.99,DC,717
+TPB,2010,MAY,168,Y the Last Man Vol. 2 Cycles,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401200763&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,DC,717
+TPB,2010,MAY,169,Maiden Rose Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781569701621&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.95,Digital Manga,715
+TPB,2010,MAY,170,Star Trek Motion Picture Trilogy,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781600106606&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.99,IDW,713
+TPB,2010,MAY,171,Walking Dead Vol. 7 the Calm Before,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781582408286&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,Image,700
+TPB,2010,MAY,172,Marvel 1602 Spider-Man Prem HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785146032&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Marvel,699
+TPB,2010,MAY,173,Twilight Manga Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780759529434&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Hachette,694
+TPB,2010,MAY,174,Gi Joe Disavowed Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781600106583&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,IDW,691
+TPB,2010,MAY,175,Trojan War Gn,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785138631&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Marvel,684
+TPB,2010,MAY,176,Batman Dark Knight Returns,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781563893421&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,681
+TPB,2010,MAY,177,Essential X-Men Vol. 3,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785143666&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Marvel,677
+TPB,2010,MAY,178,Alien Legion Omnibus Vol. 2,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781595824943&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.99,Dark Horse,671
+TPB,2010,MAY,179,Doctor Who Classics Omnibus Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781600106224&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.99,IDW,669
+TPB,2010,MAY,180,"Erb John Carter of Mars Jesse MarshYears HC","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781595824714&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",29.99,Dark Horse,668
+TPB,2010,MAY,181,Watchmen,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780930289232&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,DC,657
+TPB,2010,MAY,182,V For Vendetta,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780930289522&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,DC,654
+TPB,2010,MAY,183,Runaways Live Fast Prem HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785141549&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Marvel,652
+TPB,2010,MAY,184,Kobato Vol. 2,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780316085403&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",11.99,Hachette,646
+TPB,2010,MAY,185,"Sandman Vol. 1 Preludes &Nocturnes","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781563890116&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,DC,645
+TPB,2010,MAY,186,Dance In the Vampire Bund Vol. 7,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781934876800&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",10.99,St. Martin's,638
+TPB,2010,MAY,187,Liberty Meadows Vol. 1 Eden,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781582406244&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Image,632
+TPB,2010,MAY,188,Pandora Hearts Vol. 2,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780316076081&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",10.99,Hachette,630
+TPB,2010,MAY,189,Gundam 0f Vol. 3,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781604961980&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",10.99,Bandai,621
+TPB,2010,MAY,190,Batman Hush Complete,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401223175&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.99,DC,614
+TPB,2010,MAY,191,"Luis Royo Dead Moon HC Vol. 2Epilogue","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781935351276&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",29.95,Heavy Metal,611
+TPB,2010,MAY,192,"Y the Last Man Vol. 3 One SmallStep","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401202019&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,DC,600
+TPB,2010,MAY,193,Fables Vol. 2 Animal Farm,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401200770&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,DC,600
+TPB,2010,MAY,194,Batman the Long Halloween,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781563894695&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,DC,590
+TPB,2010,MAY,195,Deadman Wonderland Vol. 2,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781427817426&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",10.99,Tokyopop,575
+TPB,2010,MAY,196,Black Bird Vol. 4,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421527673&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Viz,574
+TPB,2010,MAY,197,"100 Bullets Vol. 1 First Shot LastCall","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781563896453&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,DC,573
+TPB,2010,MAY,198,"Boys Vol. 6 Self-PreservationSociety","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781606901250&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Dynamite,565
+TPB,2010,MAY,199,Gakuen Alice Vol. 11,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781427807052&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",10.99,Tokyopop,562
+TPB,2010,MAY,200,Complete Zombies Vs Robots,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781600103285&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,IDW,560
+TPB,2010,MAY,201,Invincible HC Vol. 5 Ultimate Coll,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781607061168&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",34.99,Image,553
+TPB,2010,MAY,202,Green Lantern Rebirth New Edition,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401227555&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,552
+TPB,2010,MAY,203,"Mouse Guard HC Vol. 1 Fall 1152 W/Dust Jacket","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781932386578&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.95,Archaia,546
+TPB,2010,MAY,204,Power Pack Classic Vol. 2,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785145929&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",29.99,Marvel,540
+TPB,2010,MAY,205,Boys Vol. 1 Name of the Game,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781933305738&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",16.99,Dynamite,537
+TPB,2010,MAY,206,Neko Ramen Vol. 1 Hey Order Up,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781427817792&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",10.99,Tokyopop,537
+TPB,2010,MAY,207,"Elephantmen HC Vol. 3 DangerousLiaisons","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781607062509&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",34.99,Image,534
+TPB,2010,MAY,208,Y the Last Man Vol. 4 Safeword,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401202323&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,DC,534
+TPB,2010,MAY,209,Otomen Vol. 6,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421529301&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Viz,532
+TPB,2010,MAY,210,"Preacher Vol. 2 Until the End ofthe World New Edition","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781563893124&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,530
+TPB,2010,MAY,211,"Unwritten Vol. 1 Tommy Taylor BogusIdentity","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401225650&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,DC,527
+TPB,2010,MAY,212,Haunt Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781607061540&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Image,524
+TPB,2010,MAY,213,"Transmetropolitan Vol. 1 Back Onthe Street","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401220846&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,523
+TPB,2010,MAY,214,Grimm Fairy Tales Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780978687403&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",15.99,Zenescope,521
+TPB,2010,MAY,215,Buck Rogers HC Vol. 1 Future Shock,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781606901069&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.99,Dynamite,518
+TPB,2010,MAY,216,James Bond Nightbird,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781845765163&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.95,Titan,511
+TPB,2010,MAY,217,Fruits Basket Ultimate Ed Vol. 5,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781427818157&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Tokyopop,507
+TPB,2010,MAY,218,"Y the Last Man Deluxe Edition HCVol. 1","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401219215&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",29.99,DC,506
+TPB,2010,MAY,219,Batman Year One Deluxe,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401207526&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,505
+TPB,2010,MAY,220,"Batman the Killing Joke Special EdHC","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401216672&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",17.99,DC,504
+TPB,2010,MAY,221,"Complete Little Orphan Annie HCVol. 5","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781600105807&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",49.99,IDW,500
+TPB,2010,MAY,222,Fables Vol. 3 Storybook Love,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401202569&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,498
+TPB,2010,MAY,223,Kobato Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780316085366&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",11.99,Hachette,498
+TPB,2010,MAY,224,Arkham Asylum Anniversary Ed,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401204259&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",17.99,DC,495
+TPB,2010,MAY,225,Darkstalkers Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780973865219&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,Udon,491
+TPB,2010,MAY,226,Sayonara Zetsubo Sensei Vol. 6,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780345518125&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",10.99,Random House,489
+TPB,2010,MAY,227,All Star Superman Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401211028&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,DC,483
+TPB,2010,MAY,228,Btvs Season 8 Vol. 6 Retreat,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781595824158&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",15.99,Dark Horse,479
+TPB,2010,MAY,229,Flower In Storm Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421532417&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Viz,478
+TPB,2010,MAY,230,Ikigami Ultimate Limit Vol. 5,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421531656&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,Viz,475
+TPB,2010,MAY,231,My Girlfriends A Geek Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780759531734&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",10.99,Hachette,468
+TPB,2010,MAY,232,"Y the Last Man Vol. 8 KimonoDragons","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401210106&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,466
+TPB,2010,MAY,233,Captain Long Ears,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781593621872&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.95,Slave Labor,462
+TPB,2010,MAY,234,Saturn Apartments Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421533643&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,Viz,461
+TPB,2010,MAY,235,Boys Vol. 5 Herogasm,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781606900826&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Dynamite,460
+TPB,2010,MAY,236,Y the Last Man Vol. 5 Ring of Truth,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401204877&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,460
+TPB,2010,MAY,237,All Star Superman Vol. 2,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401218607&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,DC,457
+TPB,2010,MAY,238,Jack the Lantern War of the Soul,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",5.95,Castle Rain,457
+TPB,2010,MAY,239,"Transformers Idw Collection HC Vol.1","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781600106675&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",49.99,IDW,456
+TPB,2010,MAY,240,Shadowhawk Chronicles Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781607062677&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Image,456
+TPB,2010,MAY,241,A-Team Shotgun Wedding,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781600107269&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",17.99,IDW,452
+TPB,2010,MAY,242,Future Diary Vol. 6,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781427816306&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",10.99,Tokyopop,448
+TPB,2010,MAY,243,DMZ Vol. 1 On the Ground,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401210625&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,DC,448
+TPB,2010,MAY,244,"Green Lantern Sinestro Corps WarVol. 1","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401218706&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,447
+TPB,2010,MAY,245,Spice And Wolf Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780316073394&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,Hachette,442
+TPB,2010,MAY,246,Nola Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781608860180&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",16.99,Boom,437
+TPB,2010,MAY,247,Thor By J Michael Straczynski Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785117223&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Marvel,437
+TPB,2010,MAY,248,Scalped Vol. 1 Indian Country,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401213176&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,DC,437
+TPB,2010,MAY,249,Zorro Vol. 2 Clashing Blades,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781606901168&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Dynamite,434
+TPB,2010,MAY,250,Sandman Vol. 2 the Dolls House,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780930289591&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,DC,434
+TPB,2010,MAY,251,Y the Last Man Vol. 7 Paper Dolls,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401210090&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,431
+TPB,2010,MAY,252,"Y the Last Man Vol. 10 Whys AndWherefores","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401218133&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,428
+TPB,2010,MAY,253,Y the Last Man Vol. 9 Motherland,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401213510&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,428
+TPB,2010,MAY,254,A-Team War Stories,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781600107276&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",17.99,IDW,425
+TPB,2010,MAY,255,Wonderful Wizard Oz HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785129219&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",29.99,Marvel,422
+TPB,2010,MAY,256,Fables Vol. 12 the Dark Ages,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401223168&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",17.99,DC,422
+TPB,2010,MAY,257,"Preacher Vol. 3 Proud Americans NewEdition","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781563893278&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,422
+TPB,2010,MAY,258,Gin Tama Vol. 18,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421528168&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Viz,419
+TPB,2010,MAY,259,Kingdom Come New Edition,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401220341&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",17.99,DC,416
+TPB,2010,MAY,260,"Mouse Guard HC Vol. 2 Winter 1152W/ Dust Jacket","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781932386745&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.95,Archaia,415
+TPB,2010,MAY,261,"Green Lantern Sinestro Corps WarVol. 2","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401220365&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,411
+TPB,2010,MAY,262,Y the Last Man Vol. 6 Girl On Girl,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401205010&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,DC,411
+TPB,2010,MAY,263,"Northlanders Vol. 1 Sven theReturned","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401219185&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,DC,410
+TPB,2010,MAY,264,I'll Give It My All Tomorrow Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421533650&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,Viz,407
+TPB,2010,MAY,265,"Ex Machina Vol. 1 the First HundredDays","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401206123&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,DC,407
+TPB,2010,MAY,266,"Scott Pilgrim Vol. 3 InfiniteSadness","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781932664225&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",11.99,Oni,406
+TPB,2010,MAY,267,Record of A Fallen Vampire Vol. 9,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421529028&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Viz,405
+TPB,2010,MAY,268,Silver Diamond Vol. 6,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781427809704&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",10.99,Tokyopop,401
+TPB,2010,MAY,269,Prince of Tennis Vol. 37,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421528496&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Viz,401
+TPB,2010,MAY,270,"Boys HC Ltd Ed Vol. 6Self-Preservation Society","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781606901410&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",29.99,Dynamite,400
+TPB,2010,MAY,271,"Complete Invincible Library HC Vol.2","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781607061120&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",125.0,Image,399
+TPB,2010,MAY,272,"Fables Vol. 4 March of the WoodenSoldiers","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401202224&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",17.99,DC,399
+TPB,2010,MAY,273,Ctrl+Alt+Del Vol. 3 Muffins,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780981216348&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.95,Blind Ferret,399
+TPB,2010,MAY,274,Benny And Penny Just Pretend,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780979923869&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",4.99,Raw Junior,399
+TPB,2010,MAY,275,Yellow Omnibus Ed Vol. 2,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781569701539&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.95,Digital Manga,398
+TPB,2010,MAY,276,Superman Red Son,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401201913&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",17.99,DC,398
+TPB,2010,MAY,277,Boys Vol. 2 Get Some,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781933305684&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Dynamite,395
+TPB,2010,MAY,278,"Judge Dredd Complete Case FilesVol. 15","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781906735449&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",36.99,Rebellion,394
+TPB,2010,MAY,279,Deadpool Vol. 1 Secret Invasion,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785132738&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Marvel,394
+TPB,2010,MAY,280,Yokan Premonition Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781569701607&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.95,Digital Manga,391
+TPB,2010,MAY,281,"Liberty Meadows Vol. 2 CreatureComforts (New Ptg)","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781582406251&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,Image,391
+TPB,2010,MAY,282,Boys Vol. 4 We Gotta Go Now,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781606900352&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,Dynamite,390
+TPB,2010,MAY,283,Solomons Thieves,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781596433915&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",12.99,St. Martin's,382
+TPB,2010,MAY,284,Maoh Juvenile Remix Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781421534282&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.99,Viz,382
+TPB,2010,MAY,285,Free Realms Book 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401228132&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,DC,379
+TPB,2010,MAY,286,"Preacher Vol. 4 Ancient History NewEdition","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781563894053&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,378
+TPB,2010,MAY,287,Crisis On Multiple Earths Vol. 5,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401226237&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,DC,377
+TPB,2010,MAY,288,Sandman Vol. 3 Dream Country,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781563890161&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,376
+TPB,2010,MAY,289,Fables Vol. 6 Homelands,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401205003&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,375
+TPB,2010,MAY,290,"Leonard Starr's Mary Perkins OnStage Vol. 7","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781616587482&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.95,Classic,374
+TPB,2010,MAY,291,Invincible Iron Man HC Vol. 1,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785142959&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",39.99,Marvel,371
+TPB,2010,MAY,292,Itazura Na Kiss Vol. 2,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781569701362&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",16.95,Digital Manga,371
+TPB,2010,MAY,293,Hulk World War Hulk,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9780785125969&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.99,Marvel,369
+TPB,2010,MAY,294,Irredeemable Vol. 2,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781608860005&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",16.99,Boom,369
+TPB,2010,MAY,295,"Northlanders Vol. 3 Blood In theSnow","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401226206&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",14.99,DC,369
+TPB,2010,MAY,296,Tezukas Black Jack Vol. 11,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781934287781&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",16.95,Random House,368
+TPB,2010,MAY,297,"Buffy the Vampire Slayer Season 8Vol. 1 Long Way Home","t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781593078225&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",15.99,Dark Horse,364
+TPB,2010,MAY,298,Stan Drake Heart Juliet Jones Vol. 3,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781616587499&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",24.95,Classic,363
+TPB,2010,MAY,299,Joker HC,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781401215811&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",19.99,DC,361
+TPB,2010,MAY,300,Growing Up Enchanted,"t=""_blank""href=""http://www.amazon.com/gp/search?ie=UTF8&keywords=9781905692385&tag=farawaypcom-20&index=blended&linkCode=ur2&camp=1789&creative=9325"">",9.95,Markosia,360

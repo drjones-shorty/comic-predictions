@@ -1,0 +1,629 @@
+PUBLICATION_FORMAT,YEAR,MONTH,SALES_RANK,TITLE,ISSUE,PRICE,PUBLISHER,EST_SALES
+COMIC,2012,MAY,1,Avengers Vs X-Men,4,3.99,Marvel,178330
+COMIC,2012,MAY,2,Avengers Vs X-Men,3,3.99,Marvel,175695
+COMIC,2012,MAY,3,Batman,9,3.99,DC,134605
+COMIC,2012,MAY,4,Justice League,9,3.99,DC,131332
+COMIC,2012,MAY,5,Batman Annual,1,4.99,DC,101394
+COMIC,2012,MAY,6,AVX Vs,2,3.99,Marvel,98819
+COMIC,2012,MAY,7,Batman Incorporated,1,2.99,DC,96486
+COMIC,2012,MAY,8,Detective Comics,9,3.99,DC,96016
+COMIC,2012,MAY,9,Action Comics,9,3.99,DC,88796
+COMIC,2012,MAY,10,Green Lantern,9,2.99,DC,87601
+COMIC,2012,MAY,11,Earth 2,1*,3.99,DC,86168
+COMIC,2012,MAY,12,Batman The Dark Knight,9,2.99,DC,82169
+COMIC,2012,MAY,13,Batman And Robin,9,2.99,DC,75967
+COMIC,2012,MAY,14,Uncanny X-Men,12,3.99,Marvel,69265
+COMIC,2012,MAY,15,Avengers,26,3.99,Marvel,67744
+COMIC,2012,MAY,16,Wolverine And X-Men,11,3.99,Marvel,64936
+COMIC,2012,MAY,17,New Avengers,26,3.99,Marvel,64326
+COMIC,2012,MAY,18,Wolverine And X-Men,10,3.99,Marvel,63650
+COMIC,2012,MAY,19,Flash,9,2.99,DC,62807
+COMIC,2012,MAY,20,Worlds Finest,1*,2.99,DC,62578
+COMIC,2012,MAY,21,Superman,9,2.99,DC,62232
+COMIC,2012,MAY,22,Nightwing,9,2.99,DC,61395
+COMIC,2012,MAY,23,Aquaman,9,2.99,DC,60527
+COMIC,2012,MAY,24,Batgirl,9,2.99,DC,58710
+COMIC,2012,MAY,25,Amazing Spider-Man,686,3.99,Marvel,58337
+COMIC,2012,MAY,26,Amazing Spider-Man,685,3.99,Marvel,58121
+COMIC,2012,MAY,27,Astonishing X-Men,50,3.99,Marvel,57931
+COMIC,2012,MAY,28,Walking Dead,97,2.99,Image,53733
+COMIC,2012,MAY,29,Uncanny X-Force,25,4.99,Marvel,50851
+COMIC,2012,MAY,30,Teen Titans,9,2.99,DC,50261
+COMIC,2012,MAY,31,Walking Dead,98,2.99,Image,49974
+COMIC,2012,MAY,32,Secret Avengers,27,3.99,Marvel,49851
+COMIC,2012,MAY,33,Catwoman,9,2.99,DC,49726
+COMIC,2012,MAY,34,Red Hood And The Outlaws,9,2.99,DC,48798
+COMIC,2012,MAY,35,Wonder Woman,9,2.99,DC,48750
+COMIC,2012,MAY,36,Green Lantern Corps,9,2.99,DC,46336
+COMIC,2012,MAY,37,X-Men Legacy,267,2.99,Marvel,46279
+COMIC,2012,MAY,38,Green Lantern New Guardians,9,2.99,DC,46237
+COMIC,2012,MAY,39,Teen Titans Annual,1,4.99,DC,44415
+COMIC,2012,MAY,40,Batwoman,9,2.99,DC,43942
+COMIC,2012,MAY,41,Avengers Assemble,3,3.99,Marvel,43886
+COMIC,2012,MAY,42,X-Men Legacy,266,2.99,Marvel,43199
+COMIC,2012,MAY,43,X-O Manowar,1,3.99,Valiant,42708
+COMIC,2012,MAY,44,Ultimate Comics Spider-Man,10,3.99,Marvel,42356
+COMIC,2012,MAY,45,Incredible Hulk,8,3.99,Marvel,42076
+COMIC,2012,MAY,46,Amazing Spider-Man Annual,39,3.99,Marvel,41879
+COMIC,2012,MAY,47,Birds Of Prey,9,2.99,DC,41521
+COMIC,2012,MAY,48,Dial H,1*,2.99,DC,40777
+COMIC,2012,MAY,49,Fantastic Four,606,2.99,Marvel,39914
+COMIC,2012,MAY,50,Ravagers,1*,2.99,DC,39807
+COMIC,2012,MAY,51,Fantastic Four,605.1,2.99,Marvel,39475
+COMIC,2012,MAY,52,Swamp Thing,9,2.99,DC,39385
+COMIC,2012,MAY,53,Daredevil,12,2.99,Marvel,39231
+COMIC,2012,MAY,54,Red Lanterns,9,2.99,DC,39215
+COMIC,2012,MAY,55,Daredevil,13,2.99,Marvel,39056
+COMIC,2012,MAY,56,Captain America,11,3.99,Marvel,39012
+COMIC,2012,MAY,57,Saga,3*,2.99,Image,38895
+COMIC,2012,MAY,58,Captain America,12,3.99,Marvel,38800
+COMIC,2012,MAY,59,Incredible Hulk,7.1,2.99,Marvel,38472
+COMIC,2012,MAY,60,Avenging Spider-Man,7,3.99,Marvel,38012
+COMIC,2012,MAY,61,X-Men,28,3.99,Marvel,35838
+COMIC,2012,MAY,62,Batwing,9,2.99,DC,35731
+COMIC,2012,MAY,63,Animal Man,9,2.99,DC,35699
+COMIC,2012,MAY,64,X-Men,29,3.99,Marvel,35483
+COMIC,2012,MAY,65,Supergirl,9,2.99,DC,35129
+COMIC,2012,MAY,66,Wolverine,306,3.99,Marvel,34873
+COMIC,2012,MAY,67,Superboy,9,2.99,DC,34838
+COMIC,2012,MAY,68,Justice League Dark,9,2.99,DC,34649
+COMIC,2012,MAY,69,FF,18,2.99,Marvel,34555
+COMIC,2012,MAY,70,Wolverine,307,3.99,Marvel,34485
+COMIC,2012,MAY,71,Suicide Squad,9,2.99,DC,32581
+COMIC,2012,MAY,72,Justice League International,9,2.99,DC,32558
+COMIC,2012,MAY,73,Mighty Thor,14,3.99,Marvel,32550
+COMIC,2012,MAY,74,Age Of Apocalypse,3,2.99,Marvel,32085
+COMIC,2012,MAY,75,Animal Man Annual,1,4.99,DC,31710
+COMIC,2012,MAY,76,Invincible Iron Man,517,3.99,Marvel,31536
+COMIC,2012,MAY,77,All Star Western,9,3.99,DC,31413
+COMIC,2012,MAY,78,Invincible Iron Man,516,3.99,Marvel,31374
+COMIC,2012,MAY,79,Ultimate Comics Ultimates,11,3.99,Marvel,31344
+COMIC,2012,MAY,80,Ultimate Comics Ultimates,10,3.99,Marvel,31257
+COMIC,2012,MAY,81,Scarlet Spider,5,2.99,Marvel,30932
+COMIC,2012,MAY,82,Winter Soldier,5,2.99,Marvel,30646
+COMIC,2012,MAY,83,G.I. Combat,1*,3.99,DC,30366
+COMIC,2012,MAY,84,Venom,17,2.99,Marvel,30157
+COMIC,2012,MAY,85,Deadpool,54,2.99,Marvel,29644
+COMIC,2012,MAY,86,Avengers Academy,29,2.99,Marvel,29460
+COMIC,2012,MAY,87,Avengers Academy,30,2.99,Marvel,29213
+COMIC,2012,MAY,88,Deadpool,55,2.99,Marvel,29022
+COMIC,2012,MAY,89,Ultimate Comics X-Men,12,3.99,Marvel,28839
+COMIC,2012,MAY,90,Ultimate Comics X-Men,11,3.99,Marvel,28711
+COMIC,2012,MAY,91,Wolverine And X-Men Alpha And,5,3.99,Marvel,28609
+COMIC,2012,MAY,92,Venom,18,2.99,Marvel,28309
+COMIC,2012,MAY,93,Secret Service,2,2.99,Marvel,28265
+COMIC,2012,MAY,94,Buffy the Vampire Slayer Season 9 Freefall,9,2.99,Dark Horse,28229
+COMIC,2012,MAY,95,Amazing Spider-Man Of Earth,1,3.99,Marvel,27347
+COMIC,2012,MAY,96,Smallville Season 11,1,3.99,DC,27004
+COMIC,2012,MAY,97,Supercrooks,3,2.99,Marvel,26969
+COMIC,2012,MAY,98,Green Arrow,9,2.99,DC,26966
+COMIC,2012,MAY,99,Defenders,6,3.99,Marvel,25518
+COMIC,2012,MAY,100,Batman Arkham Unhinged,2,2.99,DC,25215
+COMIC,2012,MAY,101,Exiled,1,2.99,Marvel,24686
+COMIC,2012,MAY,102,New Mutants,42,2.99,Marvel,24572
+COMIC,2012,MAY,103,Journey Into Mystery,637,2.99,Marvel,24378
+COMIC,2012,MAY,104,Batman Beyond Unlimited,4,3.99,DC,24356
+COMIC,2012,MAY,105,New Mutants,43,2.99,Marvel,24160
+COMIC,2012,MAY,106,X-Factor,235,2.99,Marvel,24051
+COMIC,2012,MAY,107,X-Factor,236,2.99,Marvel,24031
+COMIC,2012,MAY,108,Legion Lost,9,2.99,DC,23794
+COMIC,2012,MAY,109,Captain America And Hawkeye,630,2.99,Marvel,23774
+COMIC,2012,MAY,110,Journey Into Mystery,638,2.99,Marvel,23766
+COMIC,2012,MAY,111,Avengers Vs X-Men,2,3.99,Marvel,23323
+COMIC,2012,MAY,112,Punisher,11,2.99,Marvel,23303
+COMIC,2012,MAY,113,Captain America And Hawkeye,631,2.99,Marvel,22684
+COMIC,2012,MAY,114,Fatale,5,3.5,Image,22484
+COMIC,2012,MAY,115,Stormwatch,9,2.99,DC,22448
+COMIC,2012,MAY,116,Fairest,3,2.99,DC,22329
+COMIC,2012,MAY,117,Hulk,51,2.99,Marvel,22085
+COMIC,2012,MAY,118,Star Wars Darth Vader Ghost Prison,1,3.5,Dark Horse,22026
+COMIC,2012,MAY,119,Shadow,2,3.99,Dynamic Forces,21982
+COMIC,2012,MAY,120,Hulk,52,2.99,Marvel,21882
+COMIC,2012,MAY,121,Star Trek TNG Doctor Who Assimilation,1,3.99,IDW,20940
+COMIC,2012,MAY,122,Deathstroke,9,2.99,DC,20878
+COMIC,2012,MAY,123,Legion Of Super Heroes,9,2.99,DC,20854
+COMIC,2012,MAY,124,Fury Max,1,3.99,Marvel,20620
+COMIC,2012,MAY,125,Adventure Time,4,3.99,Boom,20289
+COMIC,2012,MAY,126,Demon Knights,9,2.99,DC,20196
+COMIC,2012,MAY,127,Mind The Gap,1*,2.99,Image,20038
+COMIC,2012,MAY,128,Star Wars Dawn of the Jedi Force Storm,4,3.5,Dark Horse,19756
+COMIC,2012,MAY,129,Teenage Mutant Ninja Turtles,10,3.99,IDW,19254
+COMIC,2012,MAY,130,Fury Max,2,3.99,Marvel,19021
+COMIC,2012,MAY,131,Thunderbolts,174,2.99,Marvel,18792
+COMIC,2012,MAY,132,Magic The Gathering,4,3.99,IDW,18779
+COMIC,2012,MAY,133,Higher Earth,1,1.0,Boom,18775
+COMIC,2012,MAY,134,Star Wars Blood Ties Boba Fett Is Dead,2,3.5,Dark Horse,18544
+COMIC,2012,MAY,135,Resurrection Man,9,2.99,DC,18018
+COMIC,2012,MAY,136,Manhattan Projects,3,3.5,Image,18001
+COMIC,2012,MAY,137,Thief Of Thieves,4,2.99,Image,17774
+COMIC,2012,MAY,138,Savage Hawkman,9,2.99,DC,17626
+COMIC,2012,MAY,139,Fables,117,2.99,DC,17484
+COMIC,2012,MAY,140,Hulk Smash Avengers,1,2.99,Marvel,17434
+COMIC,2012,MAY,141,Frankenstein Agent Of Shade,9,2.99,DC,17266
+COMIC,2012,MAY,142,Fury Of Firestorm The Nuclear Men,9,2.99,DC,17240
+COMIC,2012,MAY,143,Angel & Faith,10,2.99,Dark Horse,17206
+COMIC,2012,MAY,144,I Vampire,9,2.99,DC,17175
+COMIC,2012,MAY,145,Blue Beetle,9,2.99,DC,16607
+COMIC,2012,MAY,146,Boys,66,3.99,Dynamic Forces,16514
+COMIC,2012,MAY,147,Avengers Vs X-Men,1,3.99,Marvel,16462
+COMIC,2012,MAY,148,Marvel Zombies Destroy,1,3.99,Marvel,16375
+COMIC,2012,MAY,149,Americas Got Powers,2,2.99,Image,16273
+COMIC,2012,MAY,150,Dc Universe Presents,9,2.99,DC,15776
+COMIC,2012,MAY,151,Hulk Smash Avengers,3,2.99,Marvel,15750
+COMIC,2012,MAY,152,Conan The Barbarian,4,3.5,Dark Horse,15689
+COMIC,2012,MAY,153,Hulk Smash Avengers,2,2.99,Marvel,15342
+COMIC,2012,MAY,154,Grifter,9,2.99,DC,15228
+COMIC,2012,MAY,155,Marvel Zombies Destroy,2,3.99,Marvel,15072
+COMIC,2012,MAY,156,Shade,8,2.99,DC,15051
+COMIC,2012,MAY,157,Frankenstein Alive Alive,1,3.99,IDW,14692
+COMIC,2012,MAY,158,Hulk Smash Avengers,4,2.99,Marvel,14625
+COMIC,2012,MAY,159,Invincible,91,2.99,Image,14556
+COMIC,2012,MAY,160,Marvels Avengers Avengers Initiative,,2.99,Marvel,14440
+COMIC,2012,MAY,161,American Vampire,27,2.99,DC,14420
+COMIC,2012,MAY,162,Hulk Smash Avengers,5,2.99,Marvel,14387
+COMIC,2012,MAY,163,Epic Kill,1,2.99,Image,13784
+COMIC,2012,MAY,164,Voodoo,9,2.99,DC,13762
+COMIC,2012,MAY,165,Avengers Black Widow Strikes,1,2.99,Marvel,13682
+COMIC,2012,MAY,166,Superman Family Adventures,1,2.99,DC,13303
+COMIC,2012,MAY,167,Star Wars Knights Of The Old Republic War,5,3.5,Dark Horse,13260
+COMIC,2012,MAY,168,Spawn,219,2.99,Image,12804
+COMIC,2012,MAY,169,The Spider,1,3.99,Dynamic Forces,12547
+COMIC,2012,MAY,170,Powers,10,3.95,Marvel,12484
+COMIC,2012,MAY,171,Avengers Black Widow Strikes,2,2.99,Marvel,12404
+COMIC,2012,MAY,172,Captain Atom,9,2.99,DC,12264
+COMIC,2012,MAY,173,BPRD Hell On Earth Transformation Odonnell,1,3.5,Dark Horse,12261
+COMIC,2012,MAY,174,Chew,26,2.99,Image,12187
+COMIC,2012,MAY,175,Godzilla,1,3.99,IDW,11994
+COMIC,2012,MAY,176,Transformers More Than Meets Eye,5,3.99,IDW,11602
+COMIC,2012,MAY,177,Star Trek,8,3.99,IDW,11590
+COMIC,2012,MAY,178,Transformers Robots In Disguise,5,3.99,IDW,11506
+COMIC,2012,MAY,179,BPRD Hell On Earth Devils Engine,1,3.5,Dark Horse,11395
+COMIC,2012,MAY,180,Mystery In Space,1,7.99,DC,11184
+COMIC,2012,MAY,181,Star Trek,9,3.99,IDW,11171
+COMIC,2012,MAY,182,Hardcore,1,2.99,Image,11112
+COMIC,2012,MAY,183,Rocketeer Adventures 2,3,3.99,IDW,10942
+COMIC,2012,MAY,184,Game Of Thrones,8,3.99,Dynamic Forces,10797
+COMIC,2012,MAY,185,Teenage Mutant Ninja Turtles Color Classics,1,3.99,IDW,10732
+COMIC,2012,MAY,186,Saucer Country,3,2.99,DC,10656
+COMIC,2012,MAY,187,True Blood,1,3.99,IDW,10615
+COMIC,2012,MAY,188,Garfield,1,3.99,Boom,10057
+COMIC,2012,MAY,189,Takio,1,3.95,Marvel,9793
+COMIC,2012,MAY,190,Crossed Badlands,5,3.99,Avatar,9746
+COMIC,2012,MAY,191,Nightwing,8,2.99,DC,9648
+COMIC,2012,MAY,192,Warlord Of Mars Dejah Thoris,12,3.99,Dynamic Forces,9620
+COMIC,2012,MAY,193,Green Lantern The Animated Series,2,2.99,DC,9615
+COMIC,2012,MAY,194,New Deadwardians,3,2.99,DC,9594
+COMIC,2012,MAY,195,Unwritten,37,2.99,DC,9549
+COMIC,2012,MAY,196,Lobster Johnson The Burning Hand,5,3.5,Dark Horse,9506
+COMIC,2012,MAY,197,Teenage Mutant Ninja Turtles,9,3.99,IDW,9438
+COMIC,2012,MAY,198,Hellblazer,291,2.99,DC,9426
+COMIC,2012,MAY,199,G.I. Joe Vol. 2,13,3.99,IDW,9391
+COMIC,2012,MAY,200,Avengers Vs X-Men,0,3.99,Marvel,9372
+COMIC,2012,MAY,201,Trio,1,3.99,IDW,9353
+COMIC,2012,MAY,202,Stephen King Joe Hill Road Rage,4,3.99,IDW,9335
+COMIC,2012,MAY,203,Crossed Badlands,6,3.99,Avatar,9285
+COMIC,2012,MAY,204,Ghostbusters,9,3.99,IDW,9133
+COMIC,2012,MAY,205,Guild Fawkes,1,3.5,Dark Horse,9067
+COMIC,2012,MAY,206,Dungeons & Dragons Forgotten Realms,1,3.99,IDW,9005
+COMIC,2012,MAY,207,Morning Glories,18,2.99,Image,8953
+COMIC,2012,MAY,208,Fanboys Vs Zombies,2,3.99,Boom,8942
+COMIC,2012,MAY,209,Vampirella,17,3.99,Dynamic Forces,8873
+COMIC,2012,MAY,210,Sonic The Hedgehog,236,2.99,Archie,8864
+COMIC,2012,MAY,211,Witchblade,156,2.99,Image,8835
+COMIC,2012,MAY,212,Lord Of The Jungle,4,3.99,Dynamic Forces,8829
+COMIC,2012,MAY,213,G.I. Joe A Real American Hero,178,3.99,IDW,8804
+COMIC,2012,MAY,214,Dancer,1,3.5,Image,8727
+COMIC,2012,MAY,215,Dejah Thoris & White Apes Of Mars,2,3.99,Dynamic Forces,8649
+COMIC,2012,MAY,216,Sonic The Hedgehog,237,2.99,Archie,8586
+COMIC,2012,MAY,217,Snake Eyes & Storm Shadow,13,3.99,IDW,8567
+COMIC,2012,MAY,218,Kevin Smith Bionic Man,9,3.99,Dynamic Forces,8540
+COMIC,2012,MAY,219,Grimm's Fairy Tales Alice In Wonderland,6,5.99,Zenescope,8492
+COMIC,2012,MAY,220,Avx Vs,1,3.99,Marvel,8477
+COMIC,2012,MAY,221,Night Force,3,2.99,DC,8458
+COMIC,2012,MAY,222,Locke & Key Clockworks,6,3.99,IDW,8436
+COMIC,2012,MAY,223,Cobra,13,3.99,IDW,8115
+COMIC,2012,MAY,224,Rachel Rising,8,3.99,Abstract,8103
+COMIC,2012,MAY,225,Garth Ennis Jennifer Blood,13,3.99,Dynamic Forces,7997
+COMIC,2012,MAY,226,Izombie,25,2.99,DC,7974
+COMIC,2012,MAY,227,Bart Simpsons Pal Milhouse,1,2.99,Bongo,7862
+COMIC,2012,MAY,228,Call Of Wonderland,1,3.99,Zenescope,7852
+COMIC,2012,MAY,229,Mass Effect Homeworlds,2,3.5,Dark Horse,7789
+COMIC,2012,MAY,230,Grim Leaper,1,3.5,Image,7779
+COMIC,2012,MAY,231,Sweet Tooth,33,2.99,DC,7631
+COMIC,2012,MAY,232,Youngblood,71,2.99,Image,7611
+COMIC,2012,MAY,233,Irredeemable,37,3.99,Boom,7609
+COMIC,2012,MAY,234,Hero Comics 2012,,3.99,IDW,7601
+COMIC,2012,MAY,235,Marvel Universe Ultimate Spider-Man,2,2.99,Marvel,7581
+COMIC,2012,MAY,236,Mind Mgmt,1,3.99,Dark Horse,7537
+COMIC,2012,MAY,237,Hell Yeah,3,2.99,Image,7504
+COMIC,2012,MAY,238,Dorothy And Wizard In Oz,6,3.99,Marvel,7475
+COMIC,2012,MAY,239,Young Justice,16,2.99,DC,7466
+COMIC,2012,MAY,240,Lady Death,17,3.99,Avatar,7453
+COMIC,2012,MAY,241,Dorothy And Wizard In Oz,7,3.99,Marvel,7391
+COMIC,2012,MAY,242,Dark Horse Presents,12,7.99,Dark Horse,7281
+COMIC,2012,MAY,243,Danger Club,2,2.99,Image,7210
+COMIC,2012,MAY,244,Sonic Universe,40,2.99,Archie,7077
+COMIC,2012,MAY,245,Bionic Woman,2,3.99,Dynamic Forces,7053
+COMIC,2012,MAY,246,Tarot Witch Of The Black Rose,74,2.95,Broadsword,6970
+COMIC,2012,MAY,247,Red Sonja Witchblade,3,3.99,Dynamic Forces,6896
+COMIC,2012,MAY,248,Artifacts,17,3.99,Image,6887
+COMIC,2012,MAY,249,Dominique Laveau Voodoo Child,3,2.99,DC,6873
+COMIC,2012,MAY,250,Simpsons Comics,190,2.99,Bongo,6779
+COMIC,2012,MAY,251,Grimm Fairy Tales,73,2.99,Zenescope,6757
+COMIC,2012,MAY,252,Marvel Universe Avengers Earths Heroes,2,2.99,Marvel,6733
+COMIC,2012,MAY,253,Hellraiser,14,3.99,Boom,6707
+COMIC,2012,MAY,254,Red Sonja,66,3.99,Dynamic Forces,6650
+COMIC,2012,MAY,255,Green Hornet,25,3.99,Dynamic Forces,6641
+COMIC,2012,MAY,256,Incorruptible,29,3.99,Boom,6400
+COMIC,2012,MAY,257,Prophet,25,2.99,Image,6390
+COMIC,2012,MAY,258,Supreme,64,2.99,Image,6353
+COMIC,2012,MAY,259,Voltron,5,3.99,Dynamic Forces,6337
+COMIC,2012,MAY,260,Hack Slash,15,3.5,Image,6310
+COMIC,2012,MAY,261,Amazing Spider-Man Parallel Lives,1,4.99,Marvel,6304
+COMIC,2012,MAY,262,Mega Man,13,2.99,Archie,6273
+COMIC,2012,MAY,263,Futurama Comics,61,2.99,Bongo,6271
+COMIC,2012,MAY,264,Saga,2,2.99,Image,6252
+COMIC,2012,MAY,265,Rasl,14,3.5,Cartoon,6208
+COMIC,2012,MAY,266,Ragemoor,3,3.5,Dark Horse,6167
+COMIC,2012,MAY,267,Darkness,103,2.99,Image,6140
+COMIC,2012,MAY,268,Scalped,58,2.99,DC,6098
+COMIC,2012,MAY,269,Grimm's Fairy Tales Jungle Book,3,2.99,Zenescope,6054
+COMIC,2012,MAY,270,The Lone Ranger,5,3.99,Dynamic Forces,6044
+COMIC,2012,MAY,271,Army Of Darkness,4,3.99,Dynamic Forces,5972
+COMIC,2012,MAY,272,Vampirella Vs Dracula,4,3.99,Dynamic Forces,5962
+COMIC,2012,MAY,273,Lady Death Origins Cursed,2,3.99,Avatar,5884
+COMIC,2012,MAY,274,Lord Of The Jungle Annual,1,4.99,Dynamic Forces,5874
+COMIC,2012,MAY,275,Queen Sonja,29,3.99,Dynamic Forces,5861
+COMIC,2012,MAY,276,Ultimate Comics Fallout,4,3.99,Marvel,5791
+COMIC,2012,MAY,277,Grimm's Fairy Tales Myths & Legends,17,2.99,Zenescope,5761
+COMIC,2012,MAY,278,Dark Shadows,5,3.99,Dynamic Forces,5746
+COMIC,2012,MAY,279,Resident Alien,1,3.5,Dark Horse,5705
+COMIC,2012,MAY,280,Next Men Aftermath,43,3.99,IDW,5655
+COMIC,2012,MAY,281,Ferals,5,3.99,Avatar,5624
+COMIC,2012,MAY,282,Batman,8,3.99,DC,5616
+COMIC,2012,MAY,283,Grimm's Fairy Tales Myths & Legends,16,2.99,Zenescope,5591
+COMIC,2012,MAY,284,Avenging Spider-Man,2,3.99,Marvel,5584
+COMIC,2012,MAY,286,Fathom Kiani Vol. 2,2,3.5,Aspen,5496
+COMIC,2012,MAY,287,Bart Simpson Comics,71,2.99,Bongo,5418
+COMIC,2012,MAY,288,Dan The Unharmable,1,3.99,Avatar,5333
+COMIC,2012,MAY,289,Scooby Doo Where Are You,21,2.99,DC,5269
+COMIC,2012,MAY,290,Uncanny X-Men,11,3.99,Marvel,5234
+COMIC,2012,MAY,291,John Carter Gods Of Mars,3,2.99,Marvel,5180
+COMIC,2012,MAY,292,Peter Panzerfaust,4,3.5,Image,5177
+COMIC,2012,MAY,293,Planet Of The Apes,14,3.99,Boom,5058
+COMIC,2012,MAY,294,Grimm's Fairy Tales Presents Neverland Hook,5,2.99,Zenescope,5045
+COMIC,2012,MAY,295,Secret Avengers,26,3.99,Marvel,5012
+COMIC,2012,MAY,296,Night Of 1000 Wolves,1,3.99,IDW,4985
+COMIC,2012,MAY,297,Magdalena,12,3.99,Image,4978
+COMIC,2012,MAY,298,Ninjettes,4,3.99,Dynamic Forces,4946
+COMIC,2012,MAY,299,Voltron Year One,2,3.99,Dynamic Forces,4828
+COMIC,2012,MAY,300,Alabaster Wolves,2,3.5,Dark Horse,4817
+COMIC,2012,MAY,304,Archie,633,2.99,Archie,4677
+COMIC,2012,MAY,306,Tick,100,6.99,New England,4626
+COMIC,2012,MAY,310,Soulfire Vol. 3,8,3.5,Aspen,4529
+COMIC,2012,MAY,313,Simpsons Summer Shindig,6,4.99,Bongo,4411
+COMIC,2012,MAY,320,Atomic Robo Real Science Adv,2,2.75,Red 5,4160
+COMIC,2012,MAY,326,Stan Lees Mighty 7,2,2.99,Archie,3931
+COMIC,2012,MAY,331,Courtney Crumrin,2,3.99,Oni,3638
+COMIC,2012,MAY,340,Charmed,21,3.5,Zenescope,3227
+COMIC,2012,MAY,343,Sixth Gun,22,3.99,Oni,3169
+COMIC,2012,MAY,349,Knights Of The Dinner Table,186,5.99,Kenzer,3055
+COMIC,2012,MAY,351,Secret History Of Db Cooper,3,3.99,Oni,2973
+COMIC,2012,MAY,369,Simpsons Illustrated,2,3.99,Bongo,2751
+COMIC,2012,MAY,374,Lady Mechanika,2,3.99,Aspen,2684
+COMIC,2012,MAY,384,Life With Archie,19,3.99,Archie,2330
+COMIC,2012,MAY,387,Glamourpuss,25,3.0,Aardvark-Vanaheim,2239
+COMIC,2012,MAY,395,Ursa Minor,1,3.5,Big Dog,2038
+COMIC,2012,MAY,398,Gold Digger,138,3.99,Antarctic,1901
+COMIC,2012,MAY,399,Rex Zombie Killer One Shot,,3.5,Big Dog,1901
+COMIC,2012,MAY,400,Mediterranea,7,2.99,GG,1892
+COMIC,2012,MAY,401,Gore,6,2.99,GG,1891
+COMIC,2012,MAY,405,Betty & Veronica Double Digest,201,3.99,Archie,1847
+COMIC,2012,MAY,409,Cavewoman Mutation,2,3.75,Basement,1659
+COMIC,2012,MAY,410,Archie Double Digest,229,3.99,Archie,1644
+COMIC,2012,MAY,412,Jughead,213,2.99,Archie,1581
+COMIC,2012,MAY,413,B & V Friends Double Digest,225,3.99,Archie,1578
+COMIC,2012,MAY,414,Bela Lugosi Tales From Grave,2,4.99,Monsterverse,1577
+COMIC,2012,MAY,415,Archie & Friends Double Digest,16,3.99,Archie,1554
+COMIC,2012,MAY,416,B & V Friends Double Digest,224,3.99,Archie,1542
+COMIC,2012,MAY,417,Clint 2.0,1,6.99,Titan,1443
+TPB,2012,MAY,1,Justice League HC Vol. 1 Origin,,24.99,DC,8855
+TPB,2012,MAY,2,Batman HC Vol. 1 The Court Of Owls,,24.99,DC,8173
+TPB,2012,MAY,3,Walking Dead Vol. 1 Days Gone Bye,,9.99,Image,7494
+TPB,2012,MAY,4,Batman Death By Design Deluxe Ed HC,,24.99,DC,7309
+TPB,2012,MAY,5,Animal Man Vol. 1 The Hunt,,14.99,DC,5930
+TPB,2012,MAY,6,Walking Dead Vol. 4 Hearts Desire,,14.99,Image,4735
+TPB,2012,MAY,7,Kick-Ass 2 Prem HC,,24.99,Marvel,4609
+TPB,2012,MAY,8,Walking Dead Vol. 2 Miles Behind Us,,14.99,Image,4529
+TPB,2012,MAY,9,Watchmen HC,,39.99,DC,4489
+TPB,2012,MAY,10,Green Lantern HC Vol. 1 Sinestro,,22.99,DC,4429
+TPB,2012,MAY,11,Avatar Last Airbender Vol. 2 Promise Part 2,,10.99,Dark Horse,4193
+TPB,2012,MAY,12,Walking Dead Vol. 3 Safety Behind Bars,,14.99,Image,3971
+TPB,2012,MAY,13,Spider-Man Season One Prem HC,,24.99,Marvel,3961
+TPB,2012,MAY,14,Catwoman Vol. 1 The Game,,14.99,DC,3900
+TPB,2012,MAY,15,Batman And Robin Vol. 3 Batman Robin Must Die,,17.99,DC,3858
+TPB,2012,MAY,16,Wonder Woman HC Vol. 1 Blood,,22.99,DC,3697
+TPB,2012,MAY,17,Empowered Vol. 7,,16.99,Dark Horse,3620
+TPB,2012,MAY,18,Locke & Key Vol. 4 Keys To The Kingdom,,19.99,IDW,3567
+TPB,2012,MAY,19,American Vampire Vol. 2,,17.99,DC,3363
+TPB,2012,MAY,20,Naruto Vol. 56,,9.99,Viz,3317
+TPB,2012,MAY,21,Uncanny X-Force Vol. 3 Dark Angel Saga Book 1,,19.99,Marvel,3275
+TPB,2012,MAY,22,Pro One Shot,,7.99,Image,3208
+TPB,2012,MAY,23,Walking Dead Vol. 5 Best Defense,,14.99,Image,2944
+TPB,2012,MAY,24,Sailor Moon Kodansha Ed Vol. 5,,10.99,Random House,2870
+TPB,2012,MAY,25,Walking Dead Vol. 15 We Find Ourselves,,14.99,Image,2841
+TPB,2012,MAY,26,"Justice League International Vol. 1 SignalMasters",,14.99,DC,2812
+TPB,2012,MAY,27,Green Lantern Brightest Day,,19.99,DC,2703
+TPB,2012,MAY,28,Brightest Day Vol. 2,,19.99,DC,2678
+TPB,2012,MAY,29,Ultimate Comics Spider-Man DOSM Fallout,,19.99,Marvel,2662
+TPB,2012,MAY,30,Avengers X-Sanction HC,,24.99,Marvel,2632
+TPB,2012,MAY,31,Savage Sword Of Conan Vol. 11,,19.99,Dark Horse,2554
+TPB,2012,MAY,32,Mighty Thor By Matt Fraction Vol. 1,,19.99,Marvel,2478
+TPB,2012,MAY,33,Walking Dead Vol. 6 Sorrowful Life,,14.99,Image,2473
+TPB,2012,MAY,34,Fables Vol. 1 Legends In Exile New Ed,,12.99,DC,2421
+TPB,2012,MAY,35,Stormwatch Vol. 1 The Dark Side,,14.99,DC,2380
+TPB,2012,MAY,36,Green Arrow Vol. 1 The Midas Touch,,14.99,DC,2373
+TPB,2012,MAY,37,Walking Dead Vol. 9 Here We Remain,,14.99,Image,2357
+TPB,2012,MAY,38,Walking Dead Vol. 7 The Calm Before,,14.99,Image,2339
+TPB,2012,MAY,39,Irredeemable Vol. 9,,16.99,Boom,2299
+TPB,2012,MAY,40,Batman Knightfall New Ed Vol. 2 Knightquest,,29.99,DC,2279
+TPB,2012,MAY,41,Batman Bruce Wayne The Road Home,,17.99,DC,2272
+TPB,2012,MAY,42,Astonishing X-Men Vol. 7 Monstrous,,16.99,Marvel,2248
+TPB,2012,MAY,43,Walking Dead Vol. 10 What We Become,,14.99,Image,2242
+TPB,2012,MAY,44,Walking Dead Vol. 8 Made To Suffer,,14.99,Image,2233
+TPB,2012,MAY,45,Walking Dead Vol. 14 No Way Out,,14.99,Image,2229
+TPB,2012,MAY,46,Walking Dead Vol. 11 Fear The Hunters,,14.99,Image,2155
+TPB,2012,MAY,47,Walking Dead Vol. 13 Too Far Gone,,14.99,Image,2154
+TPB,2012,MAY,48,Infinity Gauntlet,,24.99,Marvel,2067
+TPB,2012,MAY,49,Magneto Not A Hero,,14.99,Marvel,2004
+TPB,2012,MAY,50,Walking Dead Vol. 12 Life Among Them,,14.99,Image,1992
+TPB,2012,MAY,51,Channel Zero Complete Collection,,19.99,Dark Horse,1962
+TPB,2012,MAY,52,Batman Prey,,24.99,DC,1952
+TPB,2012,MAY,53,Uncanny X-Force Otherworld Prem HC,,24.99,Marvel,1903
+TPB,2012,MAY,54,Oz Ozma Of Oz,,19.99,Marvel,1836
+TPB,2012,MAY,55,Fables Deluxe Edition HC Vol. 5,,29.99,DC,1831
+TPB,2012,MAY,56,"Buffy the Vampire Slayer Season 8 Library HCVol. 1 Long Way Home",,29.99,Dark Horse,1814
+TPB,2012,MAY,57,Joe Hill The Cape HC,,24.99,IDW,1813
+TPB,2012,MAY,58,Generation Hope End Of A Generation,,15.99,Marvel,1808
+TPB,2012,MAY,59,Haunt Vol. 3,,14.99,Image,1772
+TPB,2012,MAY,60,Walking Dead Compendium Vol. 1,,59.99,Image,1766
+TPB,2012,MAY,61,Incorruptible Vol. 6,,16.99,Boom,1753
+TPB,2012,MAY,62,Stand Vol. 3 Soul Survivors,,19.99,Marvel,1725
+TPB,2012,MAY,63,Marvels Avengers Prelude,,14.99,Marvel,1723
+TPB,2012,MAY,64,Deadenders,,29.99,DC,1722
+TPB,2012,MAY,65,Grimm Fairy Tales Vol. 11,,15.99,Zenescope,1716
+TPB,2012,MAY,66,Silver Surfer Parable Prem HC,,24.99,Marvel,1700
+TPB,2012,MAY,67,Superman Grounded Vol. 1,,17.99,DC,1697
+TPB,2012,MAY,68,Star Wars Knight Errant Vol. 2 Deluge,,18.99,Dark Horse,1646
+TPB,2012,MAY,69,Batman Dark Knight Returns,,19.99,DC,1615
+TPB,2012,MAY,70,Amazing Spider-Man Secret Origins,,14.99,Marvel,1610
+TPB,2012,MAY,71,Sandman Vol. 9 The Kindly Ones New Ed,,19.99,DC,1603
+TPB,2012,MAY,72,Atomic Robo Vol. 6 Ghost Of Station X,,18.95,Red 5,1596
+TPB,2012,MAY,73,Avengers Contest,,16.99,Marvel,1575
+TPB,2012,MAY,74,Bible HC,,29.99,DC,1561
+TPB,2012,MAY,75,Spirit World HC,,39.99,DC,1557
+TPB,2012,MAY,76,Baltimore HC Vol. 2 Curse Bells,,24.99,Dark Horse,1553
+TPB,2012,MAY,77,One Piece Vol. 62,,9.99,Viz,1503
+TPB,2012,MAY,78,Venom Circle Of Four Prem HC,,29.99,Marvel,1472
+TPB,2012,MAY,79,Negima Vol. 34,,10.99,Random House,1466
+TPB,2012,MAY,80,Comic Book History Of Comics Gn,,21.99,IDW,1439
+TPB,2012,MAY,81,Showcase Presents Sea Devils Vol. 1,,19.99,DC,1433
+TPB,2012,MAY,82,Deadpool Max Involuntary Armageddon,,19.99,Marvel,1419
+TPB,2012,MAY,83,Captain America By Ed Brubaker Prem HC Vol. 2,,19.99,Marvel,1391
+TPB,2012,MAY,84,FLCL Omnibus,,19.99,Dark Horse,1384
+TPB,2012,MAY,85,Are You My Mother A Comic Drama HC,,22.0,Houghton Mifflin,1382
+TPB,2012,MAY,86,Essential Black Panther Vol. 1,,19.99,Marvel,1376
+TPB,2012,MAY,87,Watchmen,,19.99,DC,1374
+TPB,2012,MAY,88,Mmw Avengers HC Vol. 12,,59.99,Marvel,1363
+TPB,2012,MAY,89,Batman Hush Complete,,24.99,DC,1343
+TPB,2012,MAY,90,Avengers By Brian Michael Bendis Prem HC Vol. 3,,29.99,Marvel,1343
+TPB,2012,MAY,91,Hack Slash Omnibus Vol. 4,,34.99,Image,1342
+TPB,2012,MAY,92,Villains For Hire Knight Takes King,,14.99,Marvel,1341
+TPB,2012,MAY,93,Wolverine And Black Cat Claws 2,,14.99,Marvel,1334
+TPB,2012,MAY,94,Starman Omnibus Vol. 1,,29.99,DC,1296
+TPB,2012,MAY,95,Dc Universe Legacies,,24.99,DC,1289
+TPB,2012,MAY,96,"New Avengers By Brian Michael Bendis Prem HCVol. 3",,29.99,Marvel,1278
+TPB,2012,MAY,97,Avengers Art Of Avengers HC Slipcase,,49.99,Marvel,1277
+TPB,2012,MAY,98,Avengers Academy Prem HC Second Semester,,24.99,Marvel,1273
+TPB,2012,MAY,99,Choker Vol. 1,,16.99,Image,1272
+TPB,2012,MAY,100,Halo Fall Of Reach Covenant,,16.99,Marvel,1269
+TPB,2012,MAY,101,Avengers Many Faces Of Henry Pym,,19.99,Marvel,1268
+TPB,2012,MAY,102,Captain America And Bucky Old Wounds Prem HC,,19.99,Marvel,1235
+TPB,2012,MAY,103,Secret Society Of Super Villains HC Vol. 2,,39.99,DC,1234
+TPB,2012,MAY,104,Mmw Amazing Spider-Man Vol. 7,,24.99,Marvel,1213
+TPB,2012,MAY,105,Batman The Killing Joke Special Ed HC,,17.99,DC,1209
+TPB,2012,MAY,106,Mmw Atlas Era Journey Into Mystery HC Vol. 4,,64.99,Marvel,1201
+TPB,2012,MAY,107,X-Men Phoenix Endsong Warsong Ult Coll,,29.99,Marvel,1182
+TPB,2012,MAY,108,Marvel Universe Vs Wolverine,,14.99,Marvel,1177
+TPB,2012,MAY,109,Soul Eater Vol. 9,,11.99,Hachette,1173
+TPB,2012,MAY,110,Zombies HC,,24.99,IDW,1171
+TPB,2012,MAY,111,Civil War,,24.99,Marvel,1171
+TPB,2012,MAY,112,Legion Of Super Heroes Archives HC Vol. 13,,59.99,DC,1160
+TPB,2012,MAY,113,Pokemon Black & White Vol. 7,,4.99,Viz,1155
+TPB,2012,MAY,114,Avatar Last Airbender Vol. 1 Promise Part 1,,10.99,Dark Horse,1133
+TPB,2012,MAY,115,Avengers Kree Skrull War HC,,34.99,Marvel,1101
+TPB,2012,MAY,116,Grimm Fairy Tales The Library,,15.99,Zenescope,1084
+TPB,2012,MAY,117,Daken Dark Wolverine Prem HC No More Heroes,,19.99,Marvel,1071
+TPB,2012,MAY,118,Absolute Batman Dark Victory HC,,99.99,DC,1056
+TPB,2012,MAY,119,Epic Mad,,12.99,DC,1036
+TPB,2012,MAY,120,Moon Knight By Bendis And Maleev Prem HC Vol. 2,,24.99,Marvel,1025
+TPB,2012,MAY,121,Daredevil By Brubaker And Lark Ult Coll Book 02,,29.99,Marvel,1022
+TPB,2012,MAY,122,Deadpool Max Prem HC Second Cut,,24.99,Marvel,1018
+TPB,2012,MAY,123,Batman The Long Halloween,,24.99,DC,981
+TPB,2012,MAY,124,Caligula Vol. 1,,19.99,Avatar,980
+TPB,2012,MAY,125,Mighty Thor By Matt Fraction Prem HC Vol. 2,,24.99,Marvel,979
+TPB,2012,MAY,126,V For Vendetta New Edition,,19.99,DC,978
+TPB,2012,MAY,127,Walking Dead HC Vol. 1,,34.99,Image,963
+TPB,2012,MAY,128,Grimm's Fairy Tales Myths & Legends Vol. 3,,15.99,Zenescope,954
+TPB,2012,MAY,129,Avengers Private War Of Dr Doom Prem HC,,29.99,Marvel,952
+TPB,2012,MAY,130,Sandman Vol. 1 Preludes & Nocturnes New Ed,,19.99,DC,945
+TPB,2012,MAY,131,Locke & Key Vol. 1 Welcome To Lovecraft,,19.99,IDW,929
+TPB,2012,MAY,132,Planet Of The Apes Vol. 2,,14.99,Boom,927
+TPB,2012,MAY,133,Blackest Night,,19.99,DC,926
+TPB,2012,MAY,134,Chew Vol. 1,,9.99,Image,926
+TPB,2012,MAY,135,Marvel Firsts 1970S Vol. 3,,29.99,Marvel,925
+TPB,2012,MAY,136,Godzilla Kingdom Of Monsters Vol. 3,,17.99,IDW,907
+TPB,2012,MAY,137,King City,,19.99,Image,902
+TPB,2012,MAY,138,"Amazing Spider-Man Young Readers Vol. 1 BehindMask",,6.99,Marvel,901
+TPB,2012,MAY,139,"League of Extraordinary Gentlemen III Century #21969",,9.95,Top Shelf,898
+TPB,2012,MAY,140,Avengers Assemble Vol. 3,,34.99,Marvel,896
+TPB,2012,MAY,141,Batman Knightfall New Ed Vol. 1,,29.99,DC,881
+TPB,2012,MAY,142,Princeless Vol. 1,,14.95,Action Lab,869
+TPB,2012,MAY,143,Ultimate Spider-Man HC Vol. 12,,39.99,Marvel,866
+TPB,2012,MAY,144,X-23 Prem HC Vol. 3 Dont Look Back,,19.99,Marvel,866
+TPB,2012,MAY,145,Strawberry Shortcake Vol. 1 Berry Fun,,14.99,Ape,864
+TPB,2012,MAY,146,Puella Magi Madoka Magica Vol. 1,,11.99,Hachette,844
+TPB,2012,MAY,147,Manara Erotica HC Vol. 1,,59.99,Dark Horse,836
+TPB,2012,MAY,148,Flex Mentallo Man Of Muscle Mystery Dlx HC,,22.99,DC,826
+TPB,2012,MAY,149,G.I. Joe A Real American Hero Vol. 4,,19.99,IDW,821
+TPB,2012,MAY,150,Green Wake Vol. 2 Lost Children,,14.99,Image,819
+TPB,2012,MAY,151,Chew Vol. 5 Major League Chew,,12.99,Image,818
+TPB,2012,MAY,152,Batman Year One Deluxe Sc,,14.99,DC,814
+TPB,2012,MAY,153,Ninjago Vol. 3 Rise O/T Serpentine,,6.99,NBM,807
+TPB,2012,MAY,154,Pandora Hearts Vol. 10,,11.99,Hachette,805
+TPB,2012,MAY,155,Hulk Return Of Monster Prem HC,,29.99,Marvel,804
+TPB,2012,MAY,156,Y The Last Man Vol. 1 Unmanned,,14.99,DC,793
+TPB,2012,MAY,157,Batman The Black Mirror HC,,29.99,DC,783
+TPB,2012,MAY,158,Best Of Sonic The Hedgehog HC,,24.99,Archie,777
+TPB,2012,MAY,159,Melancholy Of Haruhi Suzumiya Vol. 12,,11.99,Hachette,772
+TPB,2012,MAY,160,Walking Dead HC Vol. 4,,34.99,Image,764
+TPB,2012,MAY,161,"League of Extraordinary Gentlemen III Century #11910",,7.95,Top Shelf,760
+TPB,2012,MAY,162,Roger Langridges Snarked Vol. 1,,14.99,Boom,754
+TPB,2012,MAY,163,Eerie Archives HC Vol. 10,,49.99,Dark Horse,750
+TPB,2012,MAY,164,Megalex Complete Story HC,,29.95,Humanoids,746
+TPB,2012,MAY,165,Dungeons & Dragons Forgotten Realms Vol. 3,,19.99,IDW,745
+TPB,2012,MAY,166,Fallen Words Gn,,19.95,Drawn & Quarterly,742
+TPB,2012,MAY,167,Blood Blockade Battlefront Vol. 2,,10.99,Dark Horse,740
+TPB,2012,MAY,168,X-Factor Prem HC They Keep Killing Madrox,,19.99,Marvel,739
+TPB,2012,MAY,169,Bride Of The Water God Vol. 11,,9.99,Dark Horse,736
+TPB,2012,MAY,170,Complete Chester Goulds Dick Tracy HC Vol. 13,,39.99,IDW,734
+TPB,2012,MAY,171,Tanpopo Collection HC Vol. 1,,24.99,Boom,727
+TPB,2012,MAY,172,Kung Fu Panda Digest Vol. 2 Elemental,,6.95,Ape,723
+TPB,2012,MAY,173,Avengers Vs X-Men Its Coming,,19.99,Marvel,722
+TPB,2012,MAY,174,Elephantmen Vol. 0,,24.99,Image,713
+TPB,2012,MAY,175,Batman Incorporated Deluxe HC Vol. 1,,29.99,DC,712
+TPB,2012,MAY,176,Ultimates Vol. 1,,12.99,Marvel,712
+TPB,2012,MAY,177,"Steve Ditko Archives HC Vol. 3 MysteriousTraveler",,39.99,Fantagraphics,710
+TPB,2012,MAY,178,Wolverine Old Man Logan,,29.99,Marvel,710
+TPB,2012,MAY,179,Fables Vol. 16 Super Team,,14.99,DC,708
+TPB,2012,MAY,180,Preacher Vol. 1 Gone To Texas New Edition,,14.99,DC,707
+TPB,2012,MAY,181,Superman Red Son,,17.99,DC,703
+TPB,2012,MAY,182,G.I. Joe 2 Retaliation Movie Prequel,,17.99,IDW,703
+TPB,2012,MAY,183,Artifacts Origins First Born,,19.99,Image,696
+TPB,2012,MAY,184,Thing Serpent Crown Affair Prem HC,,24.99,Marvel,691
+TPB,2012,MAY,185,Three Stooges Vol. 1 Bed Bugged,,6.99,NBM,688
+TPB,2012,MAY,186,Kingdom Come New Edition,,17.99,DC,686
+TPB,2012,MAY,187,Amory Wars Secrets Of Silent Earth 3 HC Ult Ed,,29.99,Boom,683
+TPB,2012,MAY,188,Anne Rice Servant Of The Bones HC,,24.99,IDW,683
+TPB,2012,MAY,189,Marvel Universe Spider-Man Amazing Fantasy Digest,,9.99,Marvel,681
+TPB,2012,MAY,190,X-Men Mutant Genesis 2.0 HC,,49.99,Marvel,681
+TPB,2012,MAY,191,Superman Earth One HC Vol. 1,,19.99,DC,673
+TPB,2012,MAY,192,Walking Dead HC Vol. 2,,34.99,Image,671
+TPB,2012,MAY,193,Arkham Asylum Anniversary Ed Sc,,17.99,DC,666
+TPB,2012,MAY,194,Deadpool Classic Vol. 1,,29.99,Marvel,659
+TPB,2012,MAY,195,Teenage Mutant Ninja Turtles Ongoing Vol. 1,,17.99,IDW,642
+TPB,2012,MAY,196,Adventures Of Dog Mendonca Pizzaboy,,12.99,Dark Horse,641
+TPB,2012,MAY,197,New Mutants Classic Vol. 7,,29.99,Marvel,640
+TPB,2012,MAY,198,Locke & Key Vol. 2 Head Games,,19.99,IDW,639
+TPB,2012,MAY,199,Ultimates 2 Ultimate Collection,,34.99,Marvel,637
+TPB,2012,MAY,200,Coldest City HC,,19.99,Oni,636
+TPB,2012,MAY,201,"Astonishing X-Men By Whedon & CassadayOmnibus HC",,75.0,Marvel,634
+TPB,2012,MAY,202,Spider-Man Identity Crisis New Ptg,,24.99,Marvel,630
+TPB,2012,MAY,203,Batman Gates Of Gotham,,14.99,DC,624
+TPB,2012,MAY,204,American Vampire Vol. 1,,19.99,DC,622
+TPB,2012,MAY,205,Cinderella Fables Are Forever,,14.99,DC,622
+TPB,2012,MAY,206,Mediterranea Vol. 1,,18.99,GG,622
+TPB,2012,MAY,207,Forgetless Live To See Last Call,,14.99,Image,611
+TPB,2012,MAY,208,Flashpoint,,14.99,DC,610
+TPB,2012,MAY,209,Serenity Those Left Behind,,9.99,Dark Horse,605
+TPB,2012,MAY,210,Locke & Key HC Vol. 1 Welcome To Lovecraft,,24.99,IDW,603
+TPB,2012,MAY,211,Strange Talent Of Luther Strode Vol. 1,,14.99,Image,595
+TPB,2012,MAY,212,Off Handbook Of Marvel Universe A To Z Vol. 5,,24.99,Marvel,593
+TPB,2012,MAY,213,Serenity Better Days,,9.99,Dark Horse,592
+TPB,2012,MAY,214,Certain Scientific Railgun Vol. 4,,11.99,St. Martins,591
+TPB,2012,MAY,215,Sandman Vol. 2 The Dolls House New Ed,,19.99,DC,590
+TPB,2012,MAY,216,Uncanny X-Force Vol. 1 Apocalypse Solution,,15.99,Marvel,584
+TPB,2012,MAY,217,Transmetropolitan Vol. 1 Back On The Street,,14.99,DC,581
+TPB,2012,MAY,218,Adventures Into The Unknown Archives HC Vol. 1,,49.99,Dark Horse,575
+TPB,2012,MAY,219,Powers Prem HC Vol. 6 Sellouts,,24.99,Marvel,575
+TPB,2012,MAY,220,Mad Archives HC Vol. 3,,59.99,DC,574
+TPB,2012,MAY,221,Makeshift Miracle HC Vol. 1 Girl From Nowhere,,19.99,Udon,573
+TPB,2012,MAY,222,Dogs Of Mars,,15.99,Image,572
+TPB,2012,MAY,223,Avatar Last Airbender Lost Adventures Vol. 1,,14.99,Dark Horse,571
+TPB,2012,MAY,224,Avengers By Brian Michael Bendis Vol. 1,,19.99,Marvel,571
+TPB,2012,MAY,225,Batman Dark Victory,,19.99,DC,566
+TPB,2012,MAY,226,"Buffy the Vampire Slayer Season 8 Vol. 1 LongWay Home",,15.99,Dark Horse,563
+TPB,2012,MAY,227,Fairy Tales Of Oscar Wilde HC Vol. 5 Happy Prince,,16.99,NBM,557
+TPB,2012,MAY,228,Scott Pilgrim Vol. 1 Precious Little Life,,11.99,Oni,554
+TPB,2012,MAY,229,Chew Vol. 4 Flambe,,12.99,Image,546
+TPB,2012,MAY,230,Hellboy Vol. 2 Wake The Devil,,17.99,Dark Horse,544
+TPB,2012,MAY,231,All Star Superman,,29.99,DC,544
+TPB,2012,MAY,232,Spawn Compendium Vol. 1,,59.99,Image,542
+TPB,2012,MAY,233,Crogans Loyalty HC,,14.99,Oni,537
+TPB,2012,MAY,234,Omamori Himari Vol. 7,,11.99,Hachette,532
+TPB,2012,MAY,235,Y The Last Man Vol. 2 Cycles,,12.99,DC,526
+TPB,2012,MAY,236,Thanos Imperative,,19.99,Marvel,525
+TPB,2012,MAY,237,Avengers Childrens Crusade HC,,34.99,Marvel,520
+TPB,2012,MAY,238,Chew Vol. 2 International Flavor,,12.99,Image,506
+TPB,2012,MAY,239,House Of M,,24.99,Marvel,505
+TPB,2012,MAY,240,Doctor Solar Man Of The Atom Vol. 2 Revelation,,15.99,Dark Horse,500
+TPB,2012,MAY,241,Nausicaa Of Valley Of Wind Vol. 1 2Nd Ed,,9.95,Viz,500
+TPB,2012,MAY,242,Walking Dead HC Vol. 3,,34.99,Image,496
+TPB,2012,MAY,243,Strikeforce Morituri Vol. 3,,34.99,Marvel,495
+TPB,2012,MAY,244,Batman Venom New Edition,,14.99,DC,493
+TPB,2012,MAY,245,Amazing Spider-Man Omnibus HC,,99.99,Marvel,493
+TPB,2012,MAY,246,Babys In Black HC,,24.99,St. Martins,493
+TPB,2012,MAY,247,Batman RIP,,14.99,DC,490
+TPB,2012,MAY,248,Axe Cop Vol. 1,,14.99,Dark Horse,489
+TPB,2012,MAY,249,From Hell,,35.0,Top Shelf,487
+TPB,2012,MAY,250,Judge Dredd Crusade,,16.99,Pocket,486
+TPB,2012,MAY,251,Until Death Do Us Part Vol. 1,,18.99,Hachette,484
+TPB,2012,MAY,252,Star Trek Classics Vol. 3 Encounters W/ Unknown,,21.99,IDW,484
+TPB,2012,MAY,253,27 (Twenty Seven) Vol. 2 Second Set,,12.99,Image,484
+TPB,2012,MAY,254,Chew Vol. 3 Just Desserts,,12.99,Image,484
+TPB,2012,MAY,255,Ninjago Vol. 2 Mask Of The Sensei,,6.99,NBM,476
+TPB,2012,MAY,256,Zorro Rides Again Vol. 1,,19.99,Dynamic Forces,474
+TPB,2012,MAY,257,Joker HC,,19.99,DC,473
+TPB,2012,MAY,258,Ninjago Vol. 1 Challenge Of Samukai,,6.99,NBM,473
+TPB,2012,MAY,259,Queen Sonja Vol. 3 Coming Of Age,,19.99,Dynamic Forces,471
+TPB,2012,MAY,260,Popeye HC Vol. 6 Me Lil Swee Pea,,29.99,Fantagraphics,469
+TPB,2012,MAY,261,Batman Vs Bane,,12.99,DC,464
+TPB,2012,MAY,262,Xenoholics Vol. 1,,14.99,Image,463
+TPB,2012,MAY,263,Psyren Vol. 4,,9.99,Viz,462
+TPB,2012,MAY,264,Invincible Vol. 1 Family Matters,,12.99,Image,460
+TPB,2012,MAY,265,Ultimates Vol. 2 Homeland Security,,17.99,Marvel,460
+TPB,2012,MAY,266,Richie Rich Vol. 1 Welcome To Rich Rescue,,14.99,Ape,459
+TPB,2012,MAY,267,Nonnonba,,26.95,Drawn & Quarterly,459
+TPB,2012,MAY,268,Transformers IDW Collection HC Vol. 6,,49.99,IDW,452
+TPB,2012,MAY,269,Cow Boy A Boy And His Horse HC,,19.95,Archaia,449
+TPB,2012,MAY,270,Batman And Robin Vol. 1 Batman Reborn,,14.99,DC,449
+TPB,2012,MAY,271,Boys Vol. 10 Butcher Baker Candlestickmaker,,19.99,Dynamic Forces,448
+TPB,2012,MAY,272,Tegami Bachi Vol. 9,,9.99,Viz,447
+TPB,2012,MAY,273,Fables Vol. 2 Animal Farm,,12.99,DC,443
+TPB,2012,MAY,274,Starry Sky Vol. 1,,12.95,Digital Manga,439
+TPB,2012,MAY,275,Incal Classic Collection HC,,44.95,Humanoids,436
+TPB,2012,MAY,276,Love Hina Omnibus Kodansha Ed Vol. 3,,19.99,Random House,431
+TPB,2012,MAY,277,Archie Sundays Finest HC,,49.99,IDW,430
+TPB,2012,MAY,278,Locke & Key HC Vol. 2 Head Games,,24.99,IDW,430
+TPB,2012,MAY,279,Batman Broken City,,14.99,DC,429
+TPB,2012,MAY,280,Yo Gabba Gabba Comic Book Time HC,,24.99,Oni,427
+TPB,2012,MAY,281,Richie Rich Digest Vol. 2 Pursuit Of Pesos,,6.99,Ape,422
+TPB,2012,MAY,282,Thor By Walter Simonson Omnibus HC,,125.0,Marvel,422
+TPB,2012,MAY,283,Walking Dead HC Vol. 5,,34.99,Image,421
+TPB,2012,MAY,284,"Serenity HC Vol. 2 Better Days & OtherStories",,19.99,Dark Horse,420
+TPB,2012,MAY,285,Crossed Vol. 1,,24.99,Avatar,419
+TPB,2012,MAY,286,Tyrant Falls In Love Vol. 6,,12.95,Digital Manga,415
+TPB,2012,MAY,287,Last Unicorn HC Dlx Ed,,50.0,IDW,414
+TPB,2012,MAY,288,Samejima Kun & Sasahara Kun,,12.95,Digital Manga,413
+TPB,2012,MAY,289,Final Crisis,,19.99,DC,410
+TPB,2012,MAY,290,Good Morning,,12.95,Digital Manga,407
+TPB,2012,MAY,291,Best Of The Three Stooges,,19.99,NBM,407
+TPB,2012,MAY,292,Fear Itself Prem HC,,34.99,Marvel,404
+TPB,2012,MAY,293,Umbrella Academy Vol. 1 Apocalypse Suite,,17.99,Dark Horse,402
+TPB,2012,MAY,294,Batwoman Vol. 1 Elegy,,17.99,DC,398
+TPB,2012,MAY,295,Y The Last Man Vol. 3 One Small Step,,14.99,DC,395
+TPB,2012,MAY,296,Ai Ore Vol. 5,,9.99,Viz,395
+TPB,2012,MAY,297,Walking Dead HC Vol. 7,,34.99,Image,394
+TPB,2012,MAY,298,Holliday,,19.99,Oni,392
+TPB,2012,MAY,299,Hellboy Vol. 12 The Storm And The Fury,,19.99,Dark Horse,389
+TPB,2012,MAY,300,Castle Mango Vol. 1,,12.95,Digital Manga,389

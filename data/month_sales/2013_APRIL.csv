@@ -1,0 +1,655 @@
+PUBLICATION_FORMAT,YEAR,MONTH,SALES_RANK,TITLE,ISSUE,PRICE,PUBLISHER,EST_SALES
+COMIC,2013,APRIL,1,Batman,19,3.99,DC,132147
+COMIC,2013,APRIL,2,Thanos Rising,1,3.99,Marvel,114720
+COMIC,2013,APRIL,3,Jupiters Legacy,1*,2.99,Image,105437
+COMIC,2013,APRIL,4,Age of Ultron,4,3.99,Marvel,101057
+COMIC,2013,APRIL,5,Justice League,19,3.99,DC,100943
+COMIC,2013,APRIL,6,Age of Ultron,5,3.99,Marvel,97982
+COMIC,2013,APRIL,7,Age of Ultron,6,3.99,Marvel,97242
+COMIC,2013,APRIL,8,Walking Dead,109,2.99,Image,90362
+COMIC,2013,APRIL,9,Batman and Red Robin,19,2.99,DC,89182
+COMIC,2013,APRIL,10,Guardians of the Galaxy,2,3.99,Marvel,88184
+COMIC,2013,APRIL,11,Superior Spider-Man,7,3.99,Marvel,87945
+COMIC,2013,APRIL,12,Superior Spider-Man,8,3.99,Marvel,85671
+COMIC,2013,APRIL,13,All New X-Men,10,3.99,Marvel,84760
+COMIC,2013,APRIL,14,Uncanny Avengers,6,3.99,Marvel,80863
+COMIC,2013,APRIL,15,Uncanny X-Men,4,3.99,Marvel,80047
+COMIC,2013,APRIL,16,Uncanny X-Men,5,3.99,Marvel,78919
+COMIC,2013,APRIL,17,Avengers,10,3.99,Marvel,78905
+COMIC,2013,APRIL,18,Detective Comics,19,7.99,DC,77922
+COMIC,2013,APRIL,19,Avengers,9,3.99,Marvel,77780
+COMIC,2013,APRIL,20,Uncanny Avengers,7,3.99,Marvel,77027
+COMIC,2013,APRIL,21,Green Lantern,19,2.99,DC,71018
+COMIC,2013,APRIL,22,New Avengers,5,3.99,Marvel,63423
+COMIC,2013,APRIL,23,Wolverine,2,3.99,Marvel,57165
+COMIC,2013,APRIL,24,Deadpool,7,2.99,Marvel,57016
+COMIC,2013,APRIL,25,Batman Incorporated,10,2.99,DC,56464
+COMIC,2013,APRIL,26,Indestructible Hulk,6,3.99,Marvel,55470
+COMIC,2013,APRIL,27,Saga,12,2.99,Image,53339
+COMIC,2013,APRIL,28,Deadpool,8,2.99,Marvel,52851
+COMIC,2013,APRIL,29,Batman The Dark Knight,19,2.99,DC,52644
+COMIC,2013,APRIL,30,Action Comics,19,3.99,DC,52007
+COMIC,2013,APRIL,31,Thor God of Thunder,7,3.99,Marvel,51526
+COMIC,2013,APRIL,32,Superman,19,2.99,DC,48598
+COMIC,2013,APRIL,33,Captain America,6,3.99,Marvel,47802
+COMIC,2013,APRIL,34,Wolverine And X-Men,27AU,3.99,Marvel,47055
+COMIC,2013,APRIL,35,Nightwing,19,2.99,DC,46978
+COMIC,2013,APRIL,36,Wonder Woman,19,2.99,DC,46492
+COMIC,2013,APRIL,37,Batgirl,19,2.99,DC,45939
+COMIC,2013,APRIL,38,Savage Wolverine,4,3.99,Marvel,45933
+COMIC,2013,APRIL,39,Earth 2,11,2.99,DC,45468
+COMIC,2013,APRIL,40,Star Wars,4,2.99,Dark Horse,45019
+COMIC,2013,APRIL,41,Ultron,1AU,3.99,Marvel,44854
+COMIC,2013,APRIL,42,Iron Man,8,3.99,Marvel,43974
+COMIC,2013,APRIL,43,Green Lantern Corps,19,2.99,DC,43903
+COMIC,2013,APRIL,44,Wolverine And X-Men,28,3.99,Marvel,42718
+COMIC,2013,APRIL,45,Flash,19,2.99,DC,42079
+COMIC,2013,APRIL,46,East of West,2*,3.5,Image,41838
+COMIC,2013,APRIL,47,Cable And X-Force,7,3.99,Marvel,41500
+COMIC,2013,APRIL,48,Green Lantern New Guardians,19,2.99,DC,41481
+COMIC,2013,APRIL,49,Fantastic Four,6,2.99,Marvel,41291
+COMIC,2013,APRIL,50,Before Watchmen Comedian,6,3.99,DC,40852
+COMIC,2013,APRIL,51,Nova,3,3.99,Marvel,40548
+COMIC,2013,APRIL,52,Daredevil,25,2.99,Marvel,39822
+COMIC,2013,APRIL,53,Hawkeye,9,2.99,Marvel,39678
+COMIC,2013,APRIL,54,Teen Titans,19,2.99,DC,39532
+COMIC,2013,APRIL,55,Fantastic Four,7,2.99,Marvel,39314
+COMIC,2013,APRIL,56,Secret Avengers,3,3.99,Marvel,38676
+COMIC,2013,APRIL,57,Thunderbolts,8,2.99,Marvel,36979
+COMIC,2013,APRIL,58,Red Hood And The Outlaws,19,2.99,DC,36630
+COMIC,2013,APRIL,59,Avengers Assemble,14AU,3.99,Marvel,35985
+COMIC,2013,APRIL,60,Jirni,1,1.0,Aspen,35777
+COMIC,2013,APRIL,61,Ultimate Comics Spider-Man,22,3.99,Marvel,34918
+COMIC,2013,APRIL,62,Deadpool Killustrated,4,2.99,Marvel,34703
+COMIC,2013,APRIL,63,Red Lanterns,19,2.99,DC,34673
+COMIC,2013,APRIL,64,Young Avengers,4,2.99,Marvel,34378
+COMIC,2013,APRIL,65,My Little Pony Friendship Is Magic,6,3.99,IDW,33903
+COMIC,2013,APRIL,66,FF,6,2.99,Marvel,32937
+COMIC,2013,APRIL,67,Batwoman,19,2.99,DC,31538
+COMIC,2013,APRIL,68,A Plus X,7,3.99,Marvel,31183
+COMIC,2013,APRIL,69,Constantine,2,2.99,DC,30789
+COMIC,2013,APRIL,70,Green Arrow,19,2.99,DC,29922
+COMIC,2013,APRIL,71,Avengers Arena,7,2.99,Marvel,29784
+COMIC,2013,APRIL,72,Supergirl,19,2.99,DC,29558
+COMIC,2013,APRIL,73,Swamp Thing,19,2.99,DC,29254
+COMIC,2013,APRIL,74,Avenging Spider-Man,19,3.99,Marvel,28740
+COMIC,2013,APRIL,75,X-Men Legacy,9,2.99,Marvel,28405
+COMIC,2013,APRIL,76,Catwoman,19,2.99,DC,28058
+COMIC,2013,APRIL,77,Avengers Arena,8,2.99,Marvel,27900
+COMIC,2013,APRIL,78,Batman Lil Gotham,1,2.99,DC,27591
+COMIC,2013,APRIL,79,Animal Man,19,2.99,DC,27562
+COMIC,2013,APRIL,80,Worlds Finest,11,2.99,DC,27453
+COMIC,2013,APRIL,81,Astonishing X-Men,61,3.99,Marvel,27090
+COMIC,2013,APRIL,82,X-Termination,2,3.99,Marvel,26538
+COMIC,2013,APRIL,83,Daredevil End of Days,7,3.99,Marvel,25577
+COMIC,2013,APRIL,84,Justice League Dark,19,2.99,DC,25407
+COMIC,2013,APRIL,85,He Man And The Masters of The Universe,1,2.99,DC,25254
+COMIC,2013,APRIL,86,Suicide Squad,19,2.99,DC,24300
+COMIC,2013,APRIL,87,Superboy,19,2.99,DC,24211
+COMIC,2013,APRIL,88,Scarlet Spider,16,2.99,Marvel,24207
+COMIC,2013,APRIL,89,Talon,7,2.99,DC,24045
+COMIC,2013,APRIL,90,Fearless Defenders,3,2.99,Marvel,23514
+COMIC,2013,APRIL,91,My Little Pony Micro Series,3,3.99,IDW,23338
+COMIC,2013,APRIL,92,Ultimate Comics Ultimates,23,3.99,Marvel,22778
+COMIC,2013,APRIL,93,Venom,33,2.99,Marvel,22327
+COMIC,2013,APRIL,94,Venom,34,2.99,Marvel,22120
+COMIC,2013,APRIL,95,Buffy the Vampire Slayer Season 9 Freefall,20,2.99,Dark Horse,21901
+COMIC,2013,APRIL,96,Birds of Prey,19,2.99,DC,21707
+COMIC,2013,APRIL,97,Adventure Time,15,3.99,Boom,21682
+COMIC,2013,APRIL,98,Injustice Gods Among Us,4,3.99,DC,21669
+COMIC,2013,APRIL,99,Age of Apocalypse,14,2.99,Marvel,21486
+COMIC,2013,APRIL,100,Ultimate Comics Wolverine,3,3.99,Marvel,21431
+COMIC,2013,APRIL,101,Sex,2,2.99,Image,21342
+COMIC,2013,APRIL,102,Ultimate Comics X-Men,25,3.99,Marvel,21139
+COMIC,2013,APRIL,103,Morning Glories,26,1.0,Image,20918
+COMIC,2013,APRIL,104,Adventure Time Fionna & Cake,4,3.99,Boom,20760
+COMIC,2013,APRIL,105,TMNT Ongoing,21,3.99,IDW,20659
+COMIC,2013,APRIL,106,X-Factor,254,2.99,Marvel,20579
+COMIC,2013,APRIL,107,Winter Soldier,17,2.99,Marvel,19395
+COMIC,2013,APRIL,108,Gambit,11,2.99,Marvel,19355
+COMIC,2013,APRIL,109,Wolverine Max,6,3.99,Marvel,19316
+COMIC,2013,APRIL,110,Harbinger Wars,1 Reg Larosa,3.99,Valiant,18729
+COMIC,2013,APRIL,111,Miss Fury,1,3.99,Dynamic Forces,18441
+COMIC,2013,APRIL,112,Captain Marvel,12,2.99,Marvel,18344
+COMIC,2013,APRIL,113,Legends of The Dark Knight,7,3.99,DC,18201
+COMIC,2013,APRIL,114,X-Treme X-Men,13,2.99,Marvel,18007
+COMIC,2013,APRIL,115,Morbius Living Vampire,4,2.99,Marvel,17544
+COMIC,2013,APRIL,116,Manhattan Projects,11,3.5,Image,17517
+COMIC,2013,APRIL,117,Journey Into Mystery,651,2.99,Marvel,17443
+COMIC,2013,APRIL,118,Secret Service,6,4.99,Marvel,17328
+COMIC,2013,APRIL,119,Phantom Stranger,7,2.99,DC,17326
+COMIC,2013,APRIL,120,Star Wars Darth Vader & Ninth Assassin,1,3.5,Dark Horse,17278
+COMIC,2013,APRIL,121,Revival,9,2.99,Image,16977
+COMIC,2013,APRIL,122,Justice League of Americas Vibe,3,2.99,DC,16972
+COMIC,2013,APRIL,123,All Star Western,19,3.99,DC,16838
+COMIC,2013,APRIL,124,Dark Avengers,189,2.99,Marvel,16654
+COMIC,2013,APRIL,125,Star Wars Legacy,2,2.99,Dark Horse,16384
+COMIC,2013,APRIL,126,Batman Beyond Unlimited,15,3.99,DC,16283
+COMIC,2013,APRIL,127,Katana,3,2.99,DC,16157
+COMIC,2013,APRIL,128,Legion of Super Heroes,19,2.99,DC,16015
+COMIC,2013,APRIL,129,Spawn,230,2.99,Image,15994
+COMIC,2013,APRIL,130,Smallville Season 11,12,3.99,DC,15930
+COMIC,2013,APRIL,131,Star Trek Countdown To Darkness,4,3.99,IDW,15782
+COMIC,2013,APRIL,132,Fables,128,2.99,DC,15606
+COMIC,2013,APRIL,133,Fairest,14,2.99,DC,15269
+COMIC,2013,APRIL,134,Invincible,102,2.99,Image,15249
+COMIC,2013,APRIL,135,Thief of Thieves,13,2.99,Image,15201
+COMIC,2013,APRIL,136,Red She-Hulk,64,2.99,Marvel,15055
+COMIC,2013,APRIL,137,Batman Arkham Unhinged,13,3.99,DC,14702
+COMIC,2013,APRIL,138,Doctor Who Prisoners of Time,4,3.99,IDW,14653
+COMIC,2013,APRIL,139,Invincible Universe,1,2.99,Image,14526
+COMIC,2013,APRIL,140,Masks,5,3.99,Dynamic Forces,14360
+COMIC,2013,APRIL,141,Harbinger,11,3.99,Valiant,14299
+COMIC,2013,APRIL,142,Angel & Faith,21,2.99,Dark Horse,14102
+COMIC,2013,APRIL,143,Shadow Year One,2,3.99,Dynamic Forces,13748
+COMIC,2013,APRIL,144,TMNT Villain Microseries: Krang,1,3.99,IDW,13689
+COMIC,2013,APRIL,145,Stormwatch,19,2.99,DC,13626
+COMIC,2013,APRIL,146,Batwing,19,2.99,DC,13570
+COMIC,2013,APRIL,147,Masks,6,3.99,Dynamic Forces,13533
+COMIC,2013,APRIL,148,Bloodshot,10,3.99,Valiant,13376
+COMIC,2013,APRIL,149,Dial H,11,2.99,DC,13355
+COMIC,2013,APRIL,150,G.I. Joe Cobra Files,1,3.99,IDW,13231
+COMIC,2013,APRIL,151,X-O Manowar,12,3.99,Valiant,13216
+COMIC,2013,APRIL,152,Five Ghosts Haunting of Fabian Gray,2,2.99,Image,13127
+COMIC,2013,APRIL,153,Ravagers,11,2.99,DC,13074
+COMIC,2013,APRIL,154,Chew,33,2.99,Image,12964
+COMIC,2013,APRIL,155,Demon Knights,19,2.99,DC,12941
+COMIC,2013,APRIL,156,Fury Max,11,3.99,Marvel,12937
+COMIC,2013,APRIL,157,Ame Comi Girls,2,3.99,DC,12878
+COMIC,2013,APRIL,158,Conan The Barbarian,15,3.5,Dark Horse,12845
+COMIC,2013,APRIL,159,Threshold,4,3.99,DC,12811
+COMIC,2013,APRIL,160,Bedlam,6,3.5,Image,12607
+COMIC,2013,APRIL,161,Django Unchained,3,4.99,DC,12561
+COMIC,2013,APRIL,162,Dark Tower Gunslinger Evil Ground,1,3.99,Marvel,12473
+COMIC,2013,APRIL,163,DC Universe Presents,19,2.99,DC,12444
+COMIC,2013,APRIL,164,Star Wars Dark Times Fire Carrier,3,2.99,Dark Horse,12435
+COMIC,2013,APRIL,165,Deathstroke,19,2.99,DC,12392
+COMIC,2013,APRIL,166,Alpha Big Time,3,2.99,Marvel,12265
+COMIC,2013,APRIL,167,Danger Girl Trinity,1,3.99,IDW,12063
+COMIC,2013,APRIL,168,Savage Hawkman,19,2.99,DC,11927
+COMIC,2013,APRIL,169,Abe Sapien Dark & Terrible,1,3.5,Dark Horse,11783
+COMIC,2013,APRIL,170,Shadowman,6,3.99,Valiant,11759
+COMIC,2013,APRIL,171,Team 7,7,2.99,DC,11610
+COMIC,2013,APRIL,172,I Vampire,19,2.99,DC,11469
+COMIC,2013,APRIL,173,Sword of Sorcery,7,3.99,DC,11412
+COMIC,2013,APRIL,174,Mega Man,24,2.99,Archie,11173
+COMIC,2013,APRIL,175,Archer & Armstrong,9,3.99,Valiant,11125
+COMIC,2013,APRIL,176,Shadow,11,3.99,Dynamic Forces,11119
+COMIC,2013,APRIL,177,BPRD Vampire,2,3.5,Dark Horse,11072
+COMIC,2013,APRIL,178,Uber,0,3.99,Avatar,10849
+COMIC,2013,APRIL,179,Shadow,12,3.99,Dynamic Forces,10815
+COMIC,2013,APRIL,180,JSA Liberty Files The Whistling Skull,5,2.99,DC,10728
+COMIC,2013,APRIL,181,Judge Dredd,6,3.99,IDW,10670
+COMIC,2013,APRIL,182,Lost Vegas,2,3.5,Image,10608
+COMIC,2013,APRIL,183,Fury of Firestorm The Nuclear Man,19,2.99,DC,10603
+COMIC,2013,APRIL,184,Locke & Key Omega,4,3.99,IDW,10466
+COMIC,2013,APRIL,185,Arrow,6,3.99,DC,10462
+COMIC,2013,APRIL,186,BPRD Hell On Earth,106,3.5,Dark Horse,10419
+COMIC,2013,APRIL,187,Doctor Who Vol. 3,8,3.99,IDW,10414
+COMIC,2013,APRIL,188,G.I. Joe,3,3.99,IDW,10372
+COMIC,2013,APRIL,189,Helheim,2,3.99,Oni,10256
+COMIC,2013,APRIL,190,Sledgehammer 44,2,3.5,Dark Horse,10049
+COMIC,2013,APRIL,191,1 For $1 Mind Mgmt,1,1.0,Dark Horse,9926
+COMIC,2013,APRIL,192,Sonic Universe,51,2.99,Archie,9912
+COMIC,2013,APRIL,193,East of West,1,3.5,Image,9742
+COMIC,2013,APRIL,194,Magic The Gathering Path of Vengeance,4,4.99,IDW,9734
+COMIC,2013,APRIL,195,Transformers Robots In Disguise,16,3.99,IDW,9700
+COMIC,2013,APRIL,196,Massive,11,3.5,Dark Horse,9661
+COMIC,2013,APRIL,197,Transformers More Than Meets Eye,16,3.99,IDW,9637
+COMIC,2013,APRIL,198,Mara,4,2.99,Image,9600
+COMIC,2013,APRIL,199,Transformers Regeneration One,90,3.99,IDW,9478
+COMIC,2013,APRIL,200,Batman Incorporated,8,2.99,DC,9313
+COMIC,2013,APRIL,201,Snapshot,3,2.99,Image,9310
+COMIC,2013,APRIL,202,Rocketeer Hollywood Horror,3,3.99,IDW,9212
+COMIC,2013,APRIL,203,Judge Dredd Year One,2,3.99,IDW,9069
+COMIC,2013,APRIL,204,Sonic The Hedgehog,247,2.99,Archie,9003
+COMIC,2013,APRIL,205,Godzilla Half Century War,5,3.99,IDW,8884
+COMIC,2013,APRIL,206,Grimm Fairy Tales Robyn Hood Vs Red Riding Hood,1,5.99,Zenescope,8883
+COMIC,2013,APRIL,207,G.I. Joe Special Missions,2,3.99,IDW,8818
+COMIC,2013,APRIL,208,Transformers Spotlight Trailcutter,1,3.99,IDW,8690
+COMIC,2013,APRIL,209,House of Gold & Bones,1,3.99,Dark Horse,8635
+COMIC,2013,APRIL,210,Colonized,1,3.99,IDW,8521
+COMIC,2013,APRIL,211,Miniature Jesus,1,3.99,Image,8363
+COMIC,2013,APRIL,212,Ghostbusters,3,3.99,IDW,8351
+COMIC,2013,APRIL,213,Bravest Warriors,7,3.99,Boom,8311
+COMIC,2013,APRIL,214,Unwritten,48,2.99,DC,8226
+COMIC,2013,APRIL,215,Mind The Gap,9,2.99,Image,8074
+COMIC,2013,APRIL,216,Crossed Badlands,27,3.99,Avatar,7930
+COMIC,2013,APRIL,217,Adventure Time,1,3.99,Boom,7854
+COMIC,2013,APRIL,218,Black Beetle,3,3.99,Dark Horse,7650
+COMIC,2013,APRIL,219,Rachel Rising,16,3.99,Abstract,7608
+COMIC,2013,APRIL,220,Dejah Thoris & Green Men of Mars,3,3.99,Dynamic Forces,7516
+COMIC,2013,APRIL,221,X,0,2.99,Dark Horse,7502
+COMIC,2013,APRIL,222,Grimm Fairy Tales Unleashed,1,5.99,Zenescope,7497
+COMIC,2013,APRIL,223,G.I. Joe A Real American Hero,189,3.99,IDW,7496
+COMIC,2013,APRIL,224,Clone,6,2.99,Image,7460
+COMIC,2013,APRIL,225,Polarity,1,3.99,Boom,7459
+COMIC,2013,APRIL,226,1 For $1 The Massive,1,1.0,Dark Horse,7398
+COMIC,2013,APRIL,227,Witchblade,165,2.99,Image,7262
+COMIC,2013,APRIL,228,Kiss Solo,1,3.99,IDW,7177
+COMIC,2013,APRIL,229,Superman Family Adventures,12,2.99,DC,7175
+COMIC,2013,APRIL,230,Todd The Ugliest Kid On Earth,4,2.99,Image,7113
+COMIC,2013,APRIL,231,Grimm Fairy Tales Unleashed,0,1.99,Zenescope,7103
+COMIC,2013,APRIL,232,Warlord of Mars Dejah Thoris,24,3.99,Dynamic Forces,7059
+COMIC,2013,APRIL,233,Grimm Fairy Tales Unleashed Vampires Eternal,1,3.99,Zenescope,7009
+COMIC,2013,APRIL,234,Batman And Robin,18,2.99,DC,6961
+COMIC,2013,APRIL,235,Spongebob Comics,19,2.99,United Plankton,6940
+COMIC,2013,APRIL,236,Godzilla Ongoing,11,3.99,IDW,6905
+COMIC,2013,APRIL,237,Vampirella Strikes,4,3.99,Dynamic Forces,6893
+COMIC,2013,APRIL,238,Simpsons Comics,201,2.99,Bongo,6844
+COMIC,2013,APRIL,239,Adventure Time,2,3.99,Boom,6716
+COMIC,2013,APRIL,240,Guardians of Galaxy,1,3.99,Marvel,6681
+COMIC,2013,APRIL,241,Kiss Solo,2,3.99,IDW,6676
+COMIC,2013,APRIL,242,Pathfinder,6,3.99,Dynamic Forces,6663
+COMIC,2013,APRIL,243,Grimm Fairy Tales Wonderland,10,2.99,Zenescope,6644
+COMIC,2013,APRIL,244,Adventure Time,3,3.99,Boom,6444
+COMIC,2013,APRIL,245,Evil Ernie,5,3.99,Dynamic Forces,6421
+COMIC,2013,APRIL,246,Adventure Time,4,3.99,Boom,6359
+COMIC,2013,APRIL,247,Great Pacific,6,2.99,Image,6326
+COMIC,2013,APRIL,248,Star Wars,1,2.99,Dark Horse,6306
+COMIC,2013,APRIL,249,Grimm Fairy Tales Grimm Fairy Tales,84,2.99,Zenescope,6284
+COMIC,2013,APRIL,250,Adventure Time,5,3.99,Boom,6276
+COMIC,2013,APRIL,251,Adventure Time,6,3.99,Boom,6252
+COMIC,2013,APRIL,252,Vampirella,28,3.99,Dynamic Forces,6118
+COMIC,2013,APRIL,253,Last of Us American Dreams,1,3.99,Dark Horse,6032
+COMIC,2013,APRIL,254,Dungeons & Dragons Cutter,1,3.99,IDW,5986
+COMIC,2013,APRIL,255,True Blood Ongoing,11,3.99,IDW,5929
+COMIC,2013,APRIL,256,Mind Mgmt,10,3.99,Dark Horse,5842
+COMIC,2013,APRIL,257,Grimm Fairy Tales Madness of Wonderland,3,3.99,Zenescope,5825
+COMIC,2013,APRIL,258,Nightwing,18,2.99,DC,5755
+COMIC,2013,APRIL,259,Saucer Country,14,2.99,DC,5675
+COMIC,2013,APRIL,260,Sex,1,2.99,Image,5668
+COMIC,2013,APRIL,261,Five Weapons,3,3.5,Image,5655
+COMIC,2013,APRIL,262,Witchblade Day of the Outlaw One Shot,,3.99,Image,5636
+COMIC,2013,APRIL,264,Injustice Gods Among Us,2,3.99,DC,5590
+COMIC,2013,APRIL,265,68 Jungle Jim,1,3.99,Image,5488
+COMIC,2013,APRIL,266,Mars Attacks,9,3.99,IDW,5481
+COMIC,2013,APRIL,267,Red Sonja,74,3.99,Dynamic Forces,5449
+COMIC,2013,APRIL,268,Witch Doctor Malpractice,6,2.99,Image,5440
+COMIC,2013,APRIL,269,True Blood Ongoing,12,3.99,IDW,5372
+COMIC,2013,APRIL,270,Fashion Beast,8,3.99,Avatar,5327
+COMIC,2013,APRIL,271,Peanuts Vol. 2,8,3.99,Boom,5313
+COMIC,2013,APRIL,272,Dark Shadows Year One,1,3.99,Dynamic Forces,5270
+COMIC,2013,APRIL,273,Danger Club,5,2.99,Image,5242
+COMIC,2013,APRIL,274,Deathmatch,5,3.99,Boom,5222
+COMIC,2013,APRIL,275,Red Hood And The Outlaws,18,2.99,DC,5170
+COMIC,2013,APRIL,276,Age of Ultron,3,3.99,Marvel,5158
+COMIC,2013,APRIL,277,Bart Simpson Comics,82,2.99,Bongo,5150
+COMIC,2013,APRIL,278,Batman Incorporated,9,2.99,DC,5056
+COMIC,2013,APRIL,279,Marvel Universe Ultimate Spider-Man,13,2.99,Marvel,5004
+COMIC,2013,APRIL,280,Jennifer Blood,25,3.99,Dynamic Forces,4918
+COMIC,2013,APRIL,281,"Grimm Fairy Tales Jungle Book Last of theSpecies",2,3.99,Zenescope,4916
+COMIC,2013,APRIL,282,Marvel Universe Avengers Earths Heroes,13,2.99,Marvel,4911
+COMIC,2013,APRIL,283,Doctor Who Classics,2,3.99,IDW,4900
+COMIC,2013,APRIL,284,Mighty Skullkickers,1,3.5,Image,4856
+COMIC,2013,APRIL,285,The Lone Ranger,14,3.99,Dynamic Forces,4827
+COMIC,2013,APRIL,286,Archie,642,2.99,Archie,4812
+COMIC,2013,APRIL,287,Dark Horse Presents,23,7.99,Dark Horse,4762
+COMIC,2013,APRIL,288,Queen Sonja,35,3.99,Dynamic Forces,4740
+COMIC,2013,APRIL,289,Darkness,112,2.99,Image,4725
+COMIC,2013,APRIL,290,Green Hornet,34,3.99,Dynamic Forces,4705
+COMIC,2013,APRIL,291,Scooby Doo Where Are You,32,2.99,DC,4688
+COMIC,2013,APRIL,292,Jennifer Blood,26,3.99,Dynamic Forces,4657
+COMIC,2013,APRIL,293,Hellraiser Dark Watch,3,3.99,Boom,4592
+COMIC,2013,APRIL,294,Shrugged Vol. 2,2,3.99,Aspen,4567
+COMIC,2013,APRIL,295,Green Hornet,35,3.99,Dynamic Forces,4564
+COMIC,2013,APRIL,296,Legend of the Shadowclan,3,3.99,Aspen,4546
+COMIC,2013,APRIL,297,Bionic Man Vs Bionic Woman,4,3.99,Dynamic Forces,4474
+COMIC,2013,APRIL,298,Castle A Calm Before Storm,4,3.99,Marvel,4383
+COMIC,2013,APRIL,299,Mice Templar IV Legend,1,3.99,Image,4377
+COMIC,2013,APRIL,300,Lord of The Jungle,14,3.99,Dynamic Forces,4369
+COMIC,2013,APRIL,306,Sixth Gun,30,3.99,Oni,4227
+COMIC,2013,APRIL,307,Sixth Gun Sons of the Gun,3,3.99,Oni,4196
+COMIC,2013,APRIL,326,Atomic Robo Real Science Adv,7,2.75,Red 5,3471
+COMIC,2013,APRIL,336,Legend of Oz The Wicked West Ongoing,6,3.5,Big Dog,3152
+COMIC,2013,APRIL,337,Idolized,5,3.99,Aspen,3151
+COMIC,2013,APRIL,342,Betty & Veronica,265,2.99,Archie,3025
+COMIC,2013,APRIL,343,Mylo Xyloto,3,3.99,Bongo,2915
+COMIC,2013,APRIL,358,Kevin Keller,8,2.99,Archie,2528
+COMIC,2013,APRIL,362,Steam Wars,1,3.99,Antarctic,2399
+COMIC,2013,APRIL,365,Stuff of Legend Toy Collector,4,3.99,Thirdworld,2294
+COMIC,2013,APRIL,367,Rogues,1,3.99,Amigo,2230
+COMIC,2013,APRIL,375,Dead Mans Run,4,3.5,Aspen,2057
+COMIC,2013,APRIL,377,Lookouts Riddle Vol. 1,5,3.99,Cryptozoic,2011
+COMIC,2013,APRIL,380,Bodie Troll,1,2.99,Red 5,1981
+COMIC,2013,APRIL,384,Gold Digger,149,3.99,Antarctic,1807
+COMIC,2013,APRIL,392,Victorian Secret Agents,1,3.95,Antarctic,1676
+COMIC,2013,APRIL,398,Knights of The Dinner Table,196,5.99,Kenzer,1558
+COMIC,2013,APRIL,399,Bela Lugosi Tales From Grave,3 (Res),3.99,Monsterverse,1537
+COMIC,2013,APRIL,405,Helheim,1 2nd Ptg,3.99,Oni,1354
+COMIC,2013,APRIL,406,Betty & Veronica Double Double Digest,212,5.99,Archie,1353
+COMIC,2013,APRIL,407,Neozoic Traders Gambit,1,3.5,Red 5,1345
+COMIC,2013,APRIL,410,Last Zombie,1,3.99,Antarctic,1323
+COMIC,2013,APRIL,413,B & V Friends Double Digest,233,3.99,Archie,1287
+COMIC,2013,APRIL,415,Archie & Friends Double Digest,26,3.99,Archie,1270
+TPB,2013,APRIL,1,Walking Dead Vol. 1 Days Gone Bye,,14.99,Image,6925
+TPB,2013,APRIL,2,Manhattan Projects Vol. 2,,14.99,Image,5014
+TPB,2013,APRIL,3,Happy,,12.99,Image,4817
+TPB,2013,APRIL,4,Saga Vol. 1,,9.99,Image,4585
+TPB,2013,APRIL,5,Punk Rock Jesus,,16.99,DC,4547
+TPB,2013,APRIL,6,Batman Detective Vol. 1 Faces of Death,,16.99,DC,4386
+TPB,2013,APRIL,7,Batman Detective Comics HC Vol. 2 Scare Tactics,,29.99,DC,4139
+TPB,2013,APRIL,8,Batman The Killing Joke Special Ed HC,,17.99,DC,4118
+TPB,2013,APRIL,9,Swamp Thing Vol. 2 Family Tree,,14.99,DC,3822
+TPB,2013,APRIL,10,Hawkeye Vol. 1 My Life As Weapon Now,,16.99,Marvel,3654
+TPB,2013,APRIL,11,Morning Glories Vol. 4 Truants,,14.99,Image,3546
+TPB,2013,APRIL,12,Walking Dead Vol. 2 Miles Behind Us,,14.99,Image,3345
+TPB,2013,APRIL,13,Avengers Vs X-Men Vs,,24.99,Marvel,2934
+TPB,2013,APRIL,14,Star Trek Countdown To Darkness,,17.99,IDW,2809
+TPB,2013,APRIL,15,Batman The Long Halloween,,24.99,DC,2780
+TPB,2013,APRIL,16,Uncanny Avengers Prem HC Vol. 1 Red Shadow Now,,24.99,Marvel,2729
+TPB,2013,APRIL,17,Avengers Prem HC Vol. 1 Avengers World,,24.99,Marvel,2616
+TPB,2013,APRIL,18,Walking Dead Vol. 3 Safety Behind Bars,,14.99,Image,2591
+TPB,2013,APRIL,19,Worlds Finest Vol. 1 Lost Daughters,,14.99,DC,2582
+TPB,2013,APRIL,20,Uncanny X-Force Vol. 6 Final Execution Book 1,,19.99,Marvel,2526
+TPB,2013,APRIL,21,Iron Man Extremis,,14.99,Marvel,2525
+TPB,2013,APRIL,22,Sailor Moon Kodansha Ed Vol. 10,,10.99,Random House,2401
+TPB,2013,APRIL,23,Smallville Season 11 Vol. 1 The Guardian,,14.99,DC,2376
+TPB,2013,APRIL,24,Dark Tower Fall of Gilead Prem HC,,24.99,Marvel,2333
+TPB,2013,APRIL,25,Dark Tower Gunslinger Born Prem HC,,24.99,Marvel,2333
+TPB,2013,APRIL,26,Aliens HC Inhuman Condition,,10.99,Dark Horse,2322
+TPB,2013,APRIL,27,Dark Tower Long Road Home HC,,24.99,Marvel,2306
+TPB,2013,APRIL,28,Iron Man Season One Prem HC,,24.99,Marvel,2299
+TPB,2013,APRIL,29,Dark Avengers HC,,49.99,Marvel,2291
+TPB,2013,APRIL,30,Dark Tower Prem HC Battle of Jericho Hill,,24.99,Marvel,2213
+TPB,2013,APRIL,31,Birds of Prey Vol. 2 Your Kiss Might Kill,,14.99,DC,2200
+TPB,2013,APRIL,32,Walking Dead Vol. 17 Something To Fear,,14.99,Image,2197
+TPB,2013,APRIL,33,Dark Tower Treachery Prem HC,,24.99,Marvel,2177
+TPB,2013,APRIL,34,Fantastic Four Vol. 1 New Departure New Arrivals,,15.99,Marvel,2163
+TPB,2013,APRIL,35,Savage Sword of Conan Vol. 13,,19.99,Dark Horse,2105
+TPB,2013,APRIL,36,Batman Year One Hundred New Ptg,,19.99,DC,2102
+TPB,2013,APRIL,37,Batman Hush Complete,,24.99,DC,2098
+TPB,2013,APRIL,38,Avatar Last Airbender Vol. 4 Search Part 1,,10.99,Dark Horse,2097
+TPB,2013,APRIL,39,Dial H Vol. 1 Into You,,14.99,DC,2095
+TPB,2013,APRIL,40,Fantastic Four By John Byrne Omnibus HC Vol. 1,,125.0,Marvel,2075
+TPB,2013,APRIL,41,Walking Dead Vol. 4 Hearts Desire,,14.99,Image,2033
+TPB,2013,APRIL,42,Tiny Titans Vol. 8 Aw Yeah Titans,,12.99,DC,2029
+TPB,2013,APRIL,43,Iron Man Prem HC Believe Vol. 1,,24.99,Marvel,1969
+TPB,2013,APRIL,44,Oz HC Ozma of Oz,,29.99,Marvel,1968
+TPB,2013,APRIL,45,Yu-Gi-Oh 5Ds Vol. 4,,9.99,Viz,1934
+TPB,2013,APRIL,46,Adventure Time Vol. 1,,14.99,Boom,1880
+TPB,2013,APRIL,47,DC Universe By Alan Moore,,24.99,DC,1865
+TPB,2013,APRIL,48,Mind Mgmt HC Vol. 1,,19.99,Dark Horse,1838
+TPB,2013,APRIL,49,Bleach Vol. 56,,9.99,Viz,1819
+TPB,2013,APRIL,50,Walking Dead Compendium Vol. 1,,59.99,Image,1811
+TPB,2013,APRIL,51,Ultimate Comics Spider-Man Dosm Prem HC Quesada Cvr,,24.99,Marvel,1794
+TPB,2013,APRIL,52,Batman Knightfall New Ed Vol. 1,,29.99,DC,1790
+TPB,2013,APRIL,53,Angel & Faith Vol. 3 Family Reunion,,17.99,Dark Horse,1787
+TPB,2013,APRIL,54,All Star Superman,,29.99,DC,1780
+TPB,2013,APRIL,55,Oz Road To Oz HC,,24.99,Marvel,1772
+TPB,2013,APRIL,56,Star Wars Darth Vader & Ghost Prison HC,,24.99,Dark Horse,1713
+TPB,2013,APRIL,57,Wolverine By Jason Aaron Omnibus HC Vol. 1,,99.99,Marvel,1701
+TPB,2013,APRIL,58,Walking Dead Vol. 5 Best Defense,,14.99,Image,1698
+TPB,2013,APRIL,59,Superman Earth One HC Vol. 2,,22.99,DC,1687
+TPB,2013,APRIL,60,Avengers Vs X-Men X-Men Legacy,,29.99,Marvel,1687
+TPB,2013,APRIL,61,Justice League Vol. 1 Origin,,16.99,DC,1678
+TPB,2013,APRIL,62,Venom Devils Pack,,16.99,Marvel,1673
+TPB,2013,APRIL,63,Superman Secret Identity New Ptg,,19.99,DC,1664
+TPB,2013,APRIL,64,Deadpool HC Vol. 1,,39.99,Marvel,1662
+TPB,2013,APRIL,65,Frankenstein Agent of Shade Vol. 2 Secrets Dead,,16.99,DC,1648
+TPB,2013,APRIL,66,Superman Earth One HC Vol. 1,,19.99,DC,1646
+TPB,2013,APRIL,67,Batman Vol. 1 The Court of Owls,,16.99,DC,1644
+TPB,2013,APRIL,68,X-O Manowar Vol. 2 Enter Ninjak,,14.99,Valiant,1638
+TPB,2013,APRIL,69,Star Wars Knight Errant Vol. 3 Escape,,18.99,Dark Horse,1571
+TPB,2013,APRIL,70,Batman HC Vol. 2 The City of Owls,,24.99,DC,1546
+TPB,2013,APRIL,71,Scarlet Spider Vol. 2 Lone Star,,19.99,Marvel,1535
+TPB,2013,APRIL,72,Will Eisner Spirit Artist Ed HC (Net),,95.0,IDW,1518
+TPB,2013,APRIL,73,Judge Dredd Vol. 1,,19.99,IDW,1514
+TPB,2013,APRIL,74,Tmnt Ultimate Coll HC Vol. 4,,49.99,IDW,1509
+TPB,2013,APRIL,75,X-Men Legacy Vol. 1 Prodigal,,15.99,Marvel,1505
+TPB,2013,APRIL,76,Walking Dead Vol. 6 Sorrowful Life,,14.99,Image,1498
+TPB,2013,APRIL,77,Oz Marvelous Land of Oz HC,,29.99,Marvel,1493
+TPB,2013,APRIL,78,Captain America By Ed Brubaker Vol. 3,,19.99,Marvel,1472
+TPB,2013,APRIL,79,Tiger & Bunny Vol. 1,,9.99,Viz,1448
+TPB,2013,APRIL,80,Shadowman Vol. 1 Birth Rites,,9.99,Valiant,1428
+TPB,2013,APRIL,81,Black Butler Vol. 13,,11.99,Hachette,1426
+TPB,2013,APRIL,82,Justice League HC Vol. 2 The Villains Journey,,24.99,DC,1390
+TPB,2013,APRIL,83,Invincible Iron Man HC Vol. 1,,39.99,Marvel,1389
+TPB,2013,APRIL,84,Oh My Goddess Vol. 44,,12.99,Dark Horse,1387
+TPB,2013,APRIL,85,Rocket Raccoon and Groot Complete Collection,,29.99,Marvel,1387
+TPB,2013,APRIL,86,Invincible HC Vol. 8 Ultimate Collection,,39.99,Image,1385
+TPB,2013,APRIL,87,Punisher Nightmare,,14.99,Marvel,1370
+TPB,2013,APRIL,88,Superman Red Son,,17.99,DC,1342
+TPB,2013,APRIL,89,Walking Dead Vol. 7 The Calm Before,,14.99,Image,1305
+TPB,2013,APRIL,90,"Superman Action Comics HC Vol. 1 Superman Menof Steel",,24.99,DC,1294
+TPB,2013,APRIL,91,Batman Year One Deluxe Sc,,14.99,DC,1273
+TPB,2013,APRIL,92,X-Men X-Cutioners Song HC,,49.99,Marvel,1273
+TPB,2013,APRIL,93,Gantz Vol. 27,,13.99,Dark Horse,1265
+TPB,2013,APRIL,94,Superman Beyond Man of Tomorrow,,16.99,DC,1265
+TPB,2013,APRIL,95,100 Bullets HC Book 04,,49.99,DC,1262
+TPB,2013,APRIL,96,Joker HC,,19.99,DC,1247
+TPB,2013,APRIL,97,Nightwing Vol. 1 Traps And Trapezes,,14.99,DC,1239
+TPB,2013,APRIL,98,X-Men Age of X HC,,29.99,Marvel,1238
+TPB,2013,APRIL,99,Superman Last Son of Krypton,,19.99,DC,1236
+TPB,2013,APRIL,100,Superman For Tomorrow,,24.99,DC,1235
+TPB,2013,APRIL,101,Stand No Mans Land Prem HC,,24.99,Marvel,1232
+TPB,2013,APRIL,102,Stand Captain Trips Prem HC Bermejo Ed,,24.99,Marvel,1231
+TPB,2013,APRIL,103,Stand Prem HC Vol. 1 Captain Trips,,24.99,Marvel,1228
+TPB,2013,APRIL,104,Essential Iron Man Vol. 5,,19.99,Marvel,1226
+TPB,2013,APRIL,105,Stand Night Has Come Prem HC,,24.99,Marvel,1226
+TPB,2013,APRIL,106,Dark Tower Gunslinger,,19.99,Marvel,1220
+TPB,2013,APRIL,107,Stand Hardcases Prem HC,,24.99,Marvel,1220
+TPB,2013,APRIL,108,Stand Soul Survivors Prem HC,,24.99,Marvel,1218
+TPB,2013,APRIL,109,Marvels Iron Man 3 Prelude,,14.99,Marvel,1212
+TPB,2013,APRIL,110,Adventure Time Vol. 2,,14.99,Boom,1210
+TPB,2013,APRIL,111,Walking Dead Vol. 8 Made To Suffer,,14.99,Image,1210
+TPB,2013,APRIL,112,X-Men Reckless Abandonment,,19.99,Marvel,1207
+TPB,2013,APRIL,113,DC Universe Secret Origins,,24.99,DC,1200
+TPB,2013,APRIL,114,Flash Chronicles Vol. 4,,14.99,DC,1190
+TPB,2013,APRIL,115,Fables Vol. 18 Cubs In Toyland,,16.99,DC,1180
+TPB,2013,APRIL,116,Batman Illustrated By Neal Adams Vol. 2,,24.99,DC,1179
+TPB,2013,APRIL,117,Blue Beetle Vol. 2 Blue Diamond (Res),,19.99,DC,1176
+TPB,2013,APRIL,118,Blue Exorcist Vol. 9,,9.99,Viz,1146
+TPB,2013,APRIL,119,Batman Earth One HC,,22.99,DC,1141
+TPB,2013,APRIL,120,Age of Apocalypse Vol. 2 Weapon Omega,,16.99,Marvel,1140
+TPB,2013,APRIL,121,Walking Dead Vol. 9 Here We Remain,,14.99,Image,1132
+TPB,2013,APRIL,122,Walking Dead Compendium Vol. 2,,59.99,Image,1125
+TPB,2013,APRIL,123,Walking Dead Vol. 16 A Larger World,,14.99,Image,1109
+TPB,2013,APRIL,124,Marvel Zombies Supreme HC,,24.99,Marvel,1109
+TPB,2013,APRIL,125,Red She-Hulk Hell Hath No Fury Now,,15.99,Marvel,1085
+TPB,2013,APRIL,126,Marshal Law The Deluxe Edition HC,,49.99,DC,1084
+TPB,2013,APRIL,127,G.I. Combat Vol. 1 War That Time Forgot,,19.99,DC,1083
+TPB,2013,APRIL,128,Knuckles The Echidna Archives Vol. 4,,9.99,Archie,1080
+TPB,2013,APRIL,129,Bart Simpson Big Shot,,15.99,Bongo,1075
+TPB,2013,APRIL,130,X-Statix Omnibus HC,,125.0,Marvel,1075
+TPB,2013,APRIL,131,X-Men X-Tinction Agenda HC,,49.99,Marvel,1074
+TPB,2013,APRIL,132,Avengers Vs X-Men,,34.99,Marvel,1064
+TPB,2013,APRIL,133,Marble Season HC,,21.95,Drawn & Quarterly,1063
+TPB,2013,APRIL,134,Marvel Masterworks Incredible Hulk HC Vol. 7,,69.99,Marvel,1062
+TPB,2013,APRIL,135,Wolverine Covenant,,14.99,Marvel,1054
+TPB,2013,APRIL,136,Harvest HC,,19.99,Image,1046
+TPB,2013,APRIL,137,Batman Dark Knight Returns,,19.99,DC,1036
+TPB,2013,APRIL,138,Walking Dead Vol. 10 What We Become,,14.99,Image,1032
+TPB,2013,APRIL,139,Locke & Key Vol. 1 Welcome To Lovecraft,,19.99,IDW,1025
+TPB,2013,APRIL,140,Marvel Masterworks X-Men HC Vol. 1 2nd Ed,,49.99,Marvel,1018
+TPB,2013,APRIL,141,Batman Knightfall New Ed Vol. 2 Knightquest,,29.99,DC,1009
+TPB,2013,APRIL,142,EC Williamson 50 Girls 50 & Other Stories HC,,28.99,Fantagraphics,1009
+TPB,2013,APRIL,143,TMNT Classics Vol. 4,,19.99,IDW,1000
+TPB,2013,APRIL,144,V For Vendetta Book And Mask Set,,24.99,DC,985
+TPB,2013,APRIL,145,Walking Dead Vol. 11 Fear The Hunters,,14.99,Image,980
+TPB,2013,APRIL,146,X-Men Fall of Mutants Vol. 2,,34.99,Marvel,976
+TPB,2013,APRIL,147,Transformers Robots In Disguise Vol. 3,,17.99,IDW,974
+TPB,2013,APRIL,148,Deadpool Kills Marvel Universe,,14.99,Marvel,969
+TPB,2013,APRIL,149,Marvel Masterworks Mighty Thor Vol. 4,,24.99,Marvel,961
+TPB,2013,APRIL,150,Uncanny X-Men Complete Coll By Fraction Vol. 2,,29.99,Marvel,957
+TPB,2013,APRIL,151,Shield HC Architects of Forever,,24.99,Marvel,953
+TPB,2013,APRIL,152,Marvel Art of John Romita Jr HC,,49.99,Marvel,949
+TPB,2013,APRIL,153,Adventures of Superman Jose Luis Garcia Lopez HC,,39.99,DC,929
+TPB,2013,APRIL,154,Point of Impact,,14.99,Image,927
+TPB,2013,APRIL,155,Walking Dead HC Vol. 1,,34.99,Image,927
+TPB,2013,APRIL,156,Twelve HC,,39.99,Marvel,920
+TPB,2013,APRIL,157,Unico Gn,,34.95,Digital Manga,913
+TPB,2013,APRIL,158,Walking Dead Vol. 15 We Find Ourselves,,14.99,Image,912
+TPB,2013,APRIL,159,Walking Dead Vol. 12 Life Among Them,,14.99,Image,905
+TPB,2013,APRIL,160,Tales of the Tmnt Vol. 2,,19.99,IDW,899
+TPB,2013,APRIL,161,Stand American Nightmares Prem HC,,24.99,Marvel,898
+TPB,2013,APRIL,162,Manhattan Projects Vol. 1 Science Bad,,14.99,Image,895
+TPB,2013,APRIL,163,Totally Useless Mad,,12.99,DC,882
+TPB,2013,APRIL,164,Walking Dead Vol. 13 Too Far Gone,,14.99,Image,878
+TPB,2013,APRIL,165,EC Jack Davis Taint Meat Its Humanity HC,,28.99,Fantagraphics,872
+TPB,2013,APRIL,166,Peter Panzerfaust Vol. 1 The Great Escape,,14.99,Image,855
+TPB,2013,APRIL,167,Walking Dead Vol. 14 No Way Out,,14.99,Image,852
+TPB,2013,APRIL,168,Deathmatch Vol. 1,,9.99,Boom,851
+TPB,2013,APRIL,169,Batman Dark Victory,,19.99,DC,848
+TPB,2013,APRIL,170,Hack Slash Vol. 12,,18.99,Image,842
+TPB,2013,APRIL,171,Strange Tales Ii HC,,24.99,Marvel,834
+TPB,2013,APRIL,172,Courtney Crumrin Spec Ed HC Vol. 3,,24.99,Oni,834
+TPB,2013,APRIL,173,Marvel Universe Iron Man Digest,,9.99,Marvel,833
+TPB,2013,APRIL,174,Batman The Dark Knight HC Vol. 1 Knight Terrors,,24.99,DC,831
+TPB,2013,APRIL,175,Kingdom Come New Edition,,17.99,DC,831
+TPB,2013,APRIL,176,Star Trek TNG Doctor Who Assimilation Vol. 1,,17.99,IDW,817
+TPB,2013,APRIL,177,Brodys Ghost Vol. 4,,6.99,Dark Horse,814
+TPB,2013,APRIL,178,Deadpool Corps Prem HC Vol. 2 You Say Revolution,,19.99,Marvel,813
+TPB,2013,APRIL,179,Mars Attacks Idw,,19.99,IDW,810
+TPB,2013,APRIL,180,Marvel Masterworks Uncanny X-Men HC Vol. 7,,54.99,Marvel,809
+TPB,2013,APRIL,181,Spider-Man Matters of Life And Death Prem HC,,24.99,Marvel,805
+TPB,2013,APRIL,182,Captain Britain HC Vol. 1 Birth of Legend,,39.99,Marvel,800
+TPB,2013,APRIL,183,Castle Richard Castles Deadly Storm,,14.99,Marvel,793
+TPB,2013,APRIL,184,Iron Man Deadly Solutions Prem HC,,24.99,Marvel,792
+TPB,2013,APRIL,185,Avatar Last Airbender Vol. 1 Promise Part 1,,10.99,Dark Horse,789
+TPB,2013,APRIL,186,Transfusion,,17.99,IDW,771
+TPB,2013,APRIL,187,X-Men Vs Fantastic Four Prem HC,,19.99,Marvel,771
+TPB,2013,APRIL,188,Art of Spider-Man Classic HC,,49.99,Marvel,762
+TPB,2013,APRIL,189,Disney Fairies Vol. 11 Most Precious Gift,,7.99,NBM,759
+TPB,2013,APRIL,190,Batman A Death In The Family New Ed,,24.99,DC,754
+TPB,2013,APRIL,191,"New Avengers By Brian Michael Bendis Prem HCVol. 2",,24.99,Marvel,753
+TPB,2013,APRIL,192,X-Men Longshot New Ptg,,19.99,Marvel,749
+TPB,2013,APRIL,193,Sandman Vol. 1 Preludes & Nocturnes New Ed,,19.99,DC,747
+TPB,2013,APRIL,194,Spider-Man Short Halloween Prem HC,,19.99,Marvel,746
+TPB,2013,APRIL,195,Fairy Tail Vol. 24,,10.99,Random House,745
+TPB,2013,APRIL,196,Avengers Prime Prem HC,,24.99,Marvel,736
+TPB,2013,APRIL,197,American Vampire Vol. 1,,19.99,DC,734
+TPB,2013,APRIL,198,Thor By J Michael Straczynski Prem HC Vol. 3,,19.99,Marvel,734
+TPB,2013,APRIL,199,X-23 Prem HC Vol. 1 Killing Dream,,19.99,Marvel,734
+TPB,2013,APRIL,200,Ultimate Comics Spider-Man Dosm Fallout Prem HC,,24.99,Marvel,732
+TPB,2013,APRIL,201,Sandman Vol. 2 The Dolls House New Ed,,19.99,DC,731
+TPB,2013,APRIL,202,"Deadpool Am Spider-Man Hulk Identity Wars PremHC",,19.99,Marvel,731
+TPB,2013,APRIL,203,Catwoman Vol. 1 The Game,,14.99,DC,728
+TPB,2013,APRIL,204,Civil War,,24.99,Marvel,728
+TPB,2013,APRIL,205,Batman The Man Who Laughs,,14.99,DC,723
+TPB,2013,APRIL,206,Pandora Hearts Vol. 15,,11.99,Hachette,721
+TPB,2013,APRIL,207,Iron Man 2020,,34.99,Marvel,715
+TPB,2013,APRIL,208,Marvels Project HC Birth of Super Heroes,,34.99,Marvel,710
+TPB,2013,APRIL,209,Batman HC The Night of The Owls,,29.99,DC,707
+TPB,2013,APRIL,210,Punishermax Prem HC Bullseye,,24.99,Marvel,700
+TPB,2013,APRIL,211,Avatar Last Airbender Vol. 3 Promise Part 3,,10.99,Dark Horse,699
+TPB,2013,APRIL,212,"Alice in the Country of Hearts My FanaticRabbit Vol. 2",,11.99,Hachette,697
+TPB,2013,APRIL,213,Melancholy of Haruhi Suzumiya Vol. 15,,11.99,Hachette,692
+TPB,2013,APRIL,214,Battle Angel Alita Last Order Omnibus Vol. 1,,19.99,Random House,692
+TPB,2013,APRIL,215,Y The Last Man Vol. 1 Unmanned,,14.99,DC,691
+TPB,2013,APRIL,216,Animal Man Vol. 1 The Hunt,,14.99,DC,690
+TPB,2013,APRIL,217,Ningens Nightmares (Res),,12.99,Dark Horse,686
+TPB,2013,APRIL,218,Mobile Suit Gundam Origin Vol. 1 Activation,,29.95,Random House,685
+TPB,2013,APRIL,219,Chew Vol. 1,,9.99,Image,680
+TPB,2013,APRIL,220,V For Vendetta New Edition,,19.99,DC,679
+TPB,2013,APRIL,221,Captain America Man Out of Time Prem HC,,19.99,Marvel,677
+TPB,2013,APRIL,222,Avatar Last Airbender Vol. 2 Promise Part 2,,10.99,Dark Horse,671
+TPB,2013,APRIL,223,Marvel Masterworks Iron Fist HC Vol. 1,,54.99,Marvel,668
+TPB,2013,APRIL,224,G.I. Joe/Transformers Vol. 3,,24.99,IDW,665
+TPB,2013,APRIL,225,Marvel Masterworks X-Men HC Vol. 8,,54.99,Marvel,656
+TPB,2013,APRIL,226,"All New X-Men Prem HC Vol. 1 Yesterdays X-MenNow",,24.99,Marvel,649
+TPB,2013,APRIL,227,Kick-Ass,,19.99,Marvel,648
+TPB,2013,APRIL,228,Kick-Ass 2,,19.99,Marvel,646
+TPB,2013,APRIL,229,X-Men Alpha Flight Prem HC,,34.99,Marvel,646
+TPB,2013,APRIL,230,Spider-Man Fantastic Spider-Man Prem HC,,24.99,Marvel,640
+TPB,2013,APRIL,231,"Spider-Man Loves Mary Jane Season 2 SophomoreJinx",,14.99,Marvel,639
+TPB,2013,APRIL,232,Bride of The Water God Vol. 13,,9.99,Dark Horse,633
+TPB,2013,APRIL,233,Is This A Zombie Vol. 4,,11.99,Hachette,632
+TPB,2013,APRIL,234,Marvel Universe Iron Man Comic Reader #2,,3.99,Marvel,632
+TPB,2013,APRIL,235,Batman Haunted Knight,,14.99,DC,628
+TPB,2013,APRIL,236,Watchmen,,19.99,DC,625
+TPB,2013,APRIL,237,Thor For Asgard HC,,24.99,Marvel,622
+TPB,2013,APRIL,238,X-Men Great Power Prem HC,,24.99,Marvel,621
+TPB,2013,APRIL,239,Secret Avengers Prem HC Vol. 2 Eyes of Dragon,,24.99,Marvel,620
+TPB,2013,APRIL,240,League of Extraordinary Gentlemen Vol. One,,16.99,DC,619
+TPB,2013,APRIL,241,Dr Strange Prem HC Into Dark Dimension,,24.99,Marvel,618
+TPB,2013,APRIL,242,Fantastic Four Resurrection Galactus Prem HC,,24.99,Marvel,617
+TPB,2013,APRIL,243,Captain America War & Remembrance Prem HC,,29.99,Marvel,616
+TPB,2013,APRIL,244,Thor And Loki HC Blood Brothers,,24.99,Marvel,610
+TPB,2013,APRIL,245,"Marvel Masterworks Atlas Era Tales of SuspenseHC Vol. 3",,59.99,Marvel,608
+TPB,2013,APRIL,246,Fables Vol. 1 Legends In Exile New Ed,,12.99,DC,607
+TPB,2013,APRIL,247,X-Men Curse of Mutants Prem HC,,24.99,Marvel,607
+TPB,2013,APRIL,248,Transmetropolitan Vol. 1 Back On The Street,,14.99,DC,605
+TPB,2013,APRIL,249,Secret Avengers Prem HC Mission To Mars Vol. 1,,24.99,Marvel,605
+TPB,2013,APRIL,250,Incredible Hulk Prem HC Vol. 2 Fall of Hulks,,19.99,Marvel,602
+TPB,2013,APRIL,251,Darkness Rebirth Vol. 2 (Res),,17.99,Image,599
+TPB,2013,APRIL,252,Certain Scientific Railgun Vol. 7,,12.99,St. Martins,599
+TPB,2013,APRIL,253,Ultimate Comics Spider-Man Prem HC Death Prelude,,24.99,Marvel,597
+TPB,2013,APRIL,254,Revival Vol. 1 You're Among Friends,,12.99,Image,595
+TPB,2013,APRIL,255,Captain America Red Glare Prem HC,,29.99,Marvel,595
+TPB,2013,APRIL,256,Wolverine Wolverine Vs X-Men Prem HC,,19.99,Marvel,593
+TPB,2013,APRIL,257,Marvel Masterworks X-Men HC Vol. 7,,54.99,Marvel,592
+TPB,2013,APRIL,258,Batman The Black Mirror,,16.99,DC,591
+TPB,2013,APRIL,259,Blackest Night,,19.99,DC,590
+TPB,2013,APRIL,260,Swamp Thing Vol. 1 Raise Them Bones,,14.99,DC,589
+TPB,2013,APRIL,261,"Spider-Man Gauntlet Prem HC Vol. 3 Vulture& Moribus",,19.99,Marvel,586
+TPB,2013,APRIL,262,Marvel Masterworks Avengers HC Vol. 5 New Ed,,49.99,Marvel,581
+TPB,2013,APRIL,263,Ultimate Comics Avengers Prem HC Next Generation,,24.99,Marvel,579
+TPB,2013,APRIL,264,Jerusalem Story of City,,24.99,St. Martins,579
+TPB,2013,APRIL,265,Kiss Vol. 2,,17.99,IDW,578
+TPB,2013,APRIL,266,Evolutionary War Omnibus HC Garbett Cvr,,74.99,Marvel,575
+TPB,2013,APRIL,267,Marvel Art of Marko Djurdjevic HC,,49.99,Marvel,573
+TPB,2013,APRIL,268,Relish My Life In Kitchen,,17.99,St. Martins,572
+TPB,2013,APRIL,269,Massive Vol. 1 Black Pacific,,19.99,Dark Horse,571
+TPB,2013,APRIL,270,Batwoman Vol. 1 Hydrology,,14.99,DC,571
+TPB,2013,APRIL,271,Runaways Prem HC Teenage Wasteland,,19.99,Marvel,567
+TPB,2013,APRIL,272,Shield Nick Fury Vs Shield Prem HC,,39.99,Marvel,564
+TPB,2013,APRIL,273,Nemo Heart of Ice HC,,14.95,Top Shelf,563
+TPB,2013,APRIL,274,Ultimate Comics Iron Man Armor Wars Prem HC,,19.99,Marvel,561
+TPB,2013,APRIL,275,Modesty Blaise Vol. 23 Girl In Iron Mask,,19.95,Random House,561
+TPB,2013,APRIL,276,Squadron Supreme New Ptg,,34.99,Marvel,554
+TPB,2013,APRIL,277,Walking Dead HC Vol. 2,,34.99,Image,552
+TPB,2013,APRIL,278,Mighty Avengers HC Secret Invasion,,29.99,Marvel,549
+TPB,2013,APRIL,279,Shadowland Prem HC,,24.99,Marvel,548
+TPB,2013,APRIL,280,Judge Dredd Complete Carlos Ezquerra HC Vol. 1,,49.99,IDW,544
+TPB,2013,APRIL,281,Dungeons & Dragons Vol. 3 Down,,17.99,IDW,542
+TPB,2013,APRIL,282,Timely Annuals 70th Anniv Collection HC,,39.99,Marvel,542
+TPB,2013,APRIL,283,"Fantastic Four Worlds Greatest Comics MagazineHC",,34.99,Marvel,541
+TPB,2013,APRIL,284,Green Lantern Vol. 1 Sinestro,,14.99,DC,540
+TPB,2013,APRIL,285,Fantastic Four In Search of Galactus Prem HC,,29.99,Marvel,538
+TPB,2013,APRIL,286,"Marvel Masterworks Fantastic Four HC Vol. 6 NewEd",,54.99,Marvel,534
+TPB,2013,APRIL,287,DMZ Vol. 1 On The Ground,,12.99,DC,533
+TPB,2013,APRIL,288,"Marvel Masterworks Incredible Hulk HC Vol. 32Nd Ed",,49.99,Marvel,531
+TPB,2013,APRIL,289,Who Is AC,,14.99,Pocket,525
+TPB,2013,APRIL,290,House of Secrets Omnibus HC (Res),,75.0,DC,522
+TPB,2013,APRIL,291,Batman Knightfall Part 01 Broken Bat,,19.99,DC,520
+TPB,2013,APRIL,292,Marvel Masterworks Avengers HC Vol. 7,,54.99,Marvel,519
+TPB,2013,APRIL,293,Marvel Art of Joe Quesada HC,,49.99,Marvel,516
+TPB,2013,APRIL,294,Marvel Masterworks Avengers HC Vol. 11,,54.99,Marvel,515
+TPB,2013,APRIL,295,Punisher Dark Reign Prem HC,,19.99,Marvel,514
+TPB,2013,APRIL,296,"Secret Warriors Prem HC Vol. 2 God of Fear Godof War",,19.99,Marvel,513
+TPB,2013,APRIL,297,Saga of The Swamp Thing Book 01,,19.99,DC,512
+TPB,2013,APRIL,298,All Star Batman And Robin The Boy Wonder Vol. 1,,19.99,DC,511
+TPB,2013,APRIL,299,Marvel Zombies 03 HC,,19.99,Marvel,511
+TPB,2013,APRIL,300,Hulk Prem HC Vol. 4 Hulk Vs X-Force,,24.99,Marvel,510
+TPB,2013,APRIL,301,Lone Ranger Omnibus Vol. 1,,39.99,Dynamic Forces,505
+TPB,2013,APRIL,308,Julios Day HC,,19.99,Fantagraphics,493
+TPB,2013,APRIL,314,Double Fine Action Comics Vol. 1,,19.99,Oni,479
+TPB,2013,APRIL,315,"Crimson Empire Circumstances To Serve A NobleVol. 1",,13.99,St. Martins,479
+TPB,2013,APRIL,326,Kanokon Coll Ed Vol. 1,,18.99,St. Martins,464
+TPB,2013,APRIL,328,Complete Peanuts HC Vol. 19 1987-1988,,28.99,Fantagraphics,463
+TPB,2013,APRIL,339,GTO 14 Days In Shonan Vol. 8,,10.95,Random House,450
+TPB,2013,APRIL,341,HP Lovecraft Case of Charles Dexter Ward,,19.95,Abrams,444
+TPB,2013,APRIL,343,Double Fine Action Comics Vol. 2,,19.99,Oni,442
+TPB,2013,APRIL,346,Kimi Ni Todoke Vol. 16 From Me To You,,9.99,Viz,440
+TPB,2013,APRIL,354,Nura Rise of the Yokai Clan Vol. 14,,9.99,Viz,432
+TPB,2013,APRIL,359,Barrage Vol. 2,,9.99,Viz,428
+TPB,2013,APRIL,360,Queen Sonja Vol. 5 Ascendancy,,19.99,Dynamic Forces,427
+TPB,2013,APRIL,365,Knights of Sidonia Vol. 2,,12.95,Random House,425
+TPB,2013,APRIL,367,Dawn of The Arcana Vol. 9,,9.99,Viz,423
+TPB,2013,APRIL,371,Bunny Drop Vol. 8,,13.99,Hachette,419
+TPB,2013,APRIL,372,Doubt Omnibus Vol. 1,,18.99,Hachette,417
+TPB,2013,APRIL,381,"Harvey Horrors Coll Works Witches Tales HC Vol.3",,47.99,PS Publishing,407
+TPB,2013,APRIL,382,Are You My Mother A Comic Drama SC,,15.95,Houghton Mifflin,407
+TPB,2013,APRIL,384,Armies HC,,34.95,Humanoids,406
+TPB,2013,APRIL,397,Love Hina Omnibus Kodansha Ed Vol. 5,,14.99,Random House,394
+TPB,2013,APRIL,401,Peter Bagge Other Stuff,,19.99,Fantagraphics,392
+TPB,2013,APRIL,406,Sailor Moon Kodansha Ed Vol. 1,,10.99,Random House,385
+TPB,2013,APRIL,420,Judge Dredd Digest Judge Child,,11.0,Titan,372
+TPB,2013,APRIL,432,Secret Honey of the Moon,,19.99,Fantagraphics,353
+TPB,2013,APRIL,433,"Harvey Horrors Coll Works Witches Tales HC Vol.4",,47.99,PS Publishing,352
+TPB,2013,APRIL,443,Letting It Go HC,,24.95,Drawn & Quarterly,344
+TPB,2013,APRIL,459,From Hell,,35.0,Top Shelf,334
+TPB,2013,APRIL,473,Scott Pilgrim Vol. 1 Precious Little Life,,11.99,Oni,322
+TPB,2013,APRIL,486,Charles Burns Library SC Vol. 2 Big Baby,,16.95,Fantagraphics,313
+TPB,2013,APRIL,493,Thea Stilton HC Vol. 1 Secret Whale Island,,9.99,NBM,307
