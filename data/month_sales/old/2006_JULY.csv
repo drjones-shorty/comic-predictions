@@ -1,0 +1,387 @@
+PUBLICATION_FORMAT,YEAR,MONTH,SALES_RANK,TITLE,ISSUE,PRICE,PUBLISHER,EST_SALES
+COMIC,2006,JULY,1,Civil War,3,2.99,Marvel,290672
+COMIC,2006,JULY,2,Justice League of America,0,2.99,DC,162357
+COMIC,2006,JULY,3,New Avengers,22,2.99,Marvel,124601
+COMIC,2006,JULY,4,52,11,2.5,DC,122001
+COMIC,2006,JULY,5,Batman,655,2.99,DC,113552
+COMIC,2006,JULY,6,Amazing Spider-Man,534,2.99,Marvel,113507
+COMIC,2006,JULY,7,Civil War Front Line,3,2.99,Marvel,111406
+COMIC,2006,JULY,8,Wolverine Origins,4,2.99,Marvel,110816
+COMIC,2006,JULY,9,Civil War X-Men,1,2.99,Marvel,106149
+COMIC,2006,JULY,10,Wolverine,44,2.99,Marvel,105206
+COMIC,2006,JULY,11,Uncanny X-Men,475,2.99,Marvel,103980
+COMIC,2006,JULY,12,Civil War Front Line,4,2.99,Marvel,103140
+COMIC,2006,JULY,13,52,9,2.5,DC,102129
+COMIC,2006,JULY,14,52,10,2.5,DC,100766
+COMIC,2006,JULY,15,Ghost Rider,1,2.99,Marvel,98813
+COMIC,2006,JULY,16,52,12,2.5,DC,98654
+COMIC,2006,JULY,17,X-Men,188,2.99,Marvel,95475
+COMIC,2006,JULY,18,Superman Batman,28,2.99,DC,92591
+COMIC,2006,JULY,19,Uncanny X-Men,476,2.99,Marvel,88764
+COMIC,2006,JULY,20,"Civil War Young Avengers &Runaways",1,2.99,Marvel,85335
+COMIC,2006,JULY,21,Supergirl,7 (Res),2.99,DC,85164
+COMIC,2006,JULY,22,Ultimate Fantastic Four,31,2.99,Marvel,84449
+COMIC,2006,JULY,23,X-Men,189,2.99,Marvel,82257
+COMIC,2006,JULY,24,Green Lantern,12,2.99,DC,80282
+COMIC,2006,JULY,25,Flash Fastest Man Alive,2,2.99,DC,77477
+COMIC,2006,JULY,26,Supergirl,8 (Res),2.99,DC,76932
+COMIC,2006,JULY,27,Ultimate Spider-Man,97,2.99,Marvel,76602
+COMIC,2006,JULY,28,Eternals,2,3.99,Marvel,74184
+COMIC,2006,JULY,29,Teen Titans,37,2.99,DC,71254
+COMIC,2006,JULY,30,Ultimate X-Men,72,2.99,Marvel,70584
+COMIC,2006,JULY,31,Black Panther,18,3.99,Marvel,69903
+COMIC,2006,JULY,32,Superman,654,2.99,DC,69517
+COMIC,2006,JULY,33,X-Factor,9,2.99,Marvel,68790
+COMIC,2006,JULY,34,Detective Comics,821,2.99,DC,67337
+COMIC,2006,JULY,35,Action Comics,841,2.99,DC,58650
+COMIC,2006,JULY,36,Sensational Spider-Man,28,2.99,Marvel,58525
+COMIC,2006,JULY,37,Green Lantern Corps,2,2.99,DC,56878
+COMIC,2006,JULY,38,Cable Deadpool,30,2.99,Marvel,56810
+COMIC,2006,JULY,39,Thunderbolts,104,2.99,Marvel,54085
+COMIC,2006,JULY,40,Omac,1,2.99,DC,54085
+COMIC,2006,JULY,41,Ion,4,2.99,DC,49974
+COMIC,2006,JULY,42,All New Atom,1,2.99,DC,49963
+COMIC,2006,JULY,43,JSA,87,2.99,DC,49577
+COMIC,2006,JULY,44,Daredevil,87,2.99,Marvel,49429
+COMIC,2006,JULY,45,Incredible Hulk,96,2.99,Marvel,49202
+COMIC,2006,JULY,46,Friendly Neighborhood Spider-Man,10,2.99,Marvel,48896
+COMIC,2006,JULY,47,Captain America,20,2.99,Marvel,47351
+COMIC,2006,JULY,48,Secret Six,2,2.99,DC,47340
+COMIC,2006,JULY,49,Civil War,2,2.99,Marvel,46102
+COMIC,2006,JULY,50,Squadron Supreme,5,2.99,Marvel,46023
+COMIC,2006,JULY,51,Nightwing,122,2.99,DC,42537
+COMIC,2006,JULY,52,Outsiders,38,2.99,DC,41969
+COMIC,2006,JULY,53,"Supergirl & Legion Of SuperHeroes",20,2.99,DC,41674
+COMIC,2006,JULY,54,Uncle Sam & Freedom Fighters,1,2.99,DC,40731
+COMIC,2006,JULY,55,New X-Men,28,2.99,Marvel,39766
+COMIC,2006,JULY,56,Annihilation Silver Surfer,4,2.99,Marvel,39176
+COMIC,2006,JULY,57,Ms Marvel,5,2.99,Marvel,38869
+COMIC,2006,JULY,58,Crisis Aftermath Spectre,3,2.99,DC,38767
+COMIC,2006,JULY,59,Iron Man,10,2.99,Marvel,38097
+COMIC,2006,JULY,60,Robin,152,2.99,DC,37461
+COMIC,2006,JULY,61,"Crisis Aftermath Battle ForBludhaven",6,2.99,DC,37052
+COMIC,2006,JULY,62,New Excalibur,9,2.99,Marvel,36462
+COMIC,2006,JULY,63,Shadowpact,3,2.99,DC,36337
+COMIC,2006,JULY,64,Green Arrow,64,2.99,DC,36144
+COMIC,2006,JULY,65,Beyond,1,2.99,Marvel,35724
+COMIC,2006,JULY,66,Blue Beetle,5,2.99,DC,35485
+COMIC,2006,JULY,67,Annihilation Nova,4,2.99,Marvel,35190
+COMIC,2006,JULY,68,Checkmate,4,2.99,DC,34656
+COMIC,2006,JULY,69,Punisher,35,2.99,Marvel,34111
+COMIC,2006,JULY,70,Witchblade,100,4.99,Image,33827
+COMIC,2006,JULY,71,JSA Classified,14,2.99,DC,33827
+COMIC,2006,JULY,72,Annihilation Super Skrull,4,2.99,Marvel,33589
+COMIC,2006,JULY,73,Star Wars Legacy,2,2.99,Dark Horse,33294
+COMIC,2006,JULY,74,Red Sonja,12,2.99,Dynamic,33248
+COMIC,2006,JULY,75,Civil War Directors Cut,1,4.99,Marvel,32873
+COMIC,2006,JULY,76,Exiles,84,2.99,Marvel,32862
+COMIC,2006,JULY,77,Birds of Prey,96,2.99,DC,32215
+COMIC,2006,JULY,78,Annihilation Ronan,4,2.99,Marvel,31715
+COMIC,2006,JULY,79,JLA Classified,24,2.99,DC,31692
+COMIC,2006,JULY,80,Conan,30,2.99,Dark Horse,31091
+COMIC,2006,JULY,81,JLA Classified,25,2.99,DC,30705
+COMIC,2006,JULY,82,Aquaman Sword of Atlantis,43,2.99,DC,30580
+COMIC,2006,JULY,83,She-Hulk 2,9,2.99,Marvel,29898
+COMIC,2006,JULY,84,Batman Secrets,5,2.99,DC,27945
+COMIC,2006,JULY,85,Catwoman,57,2.99,DC,27298
+COMIC,2006,JULY,86,Jack of Fables,1,2.99,DC,27094
+COMIC,2006,JULY,87,Y The Last Man,47,2.99,DC,25788
+COMIC,2006,JULY,88,Transformers Infiltration,6,2.99,IDW,25299
+COMIC,2006,JULY,89,Hawkgirl,54,2.99,DC,25197
+COMIC,2006,JULY,90,Conan & Songs of the Dead,1,2.99,Dark Horse,25141
+COMIC,2006,JULY,91,Fables,51,2.99,DC,25084
+COMIC,2006,JULY,92,Runaways,18,2.99,Marvel,24675
+COMIC,2006,JULY,93,Transformers Stormbringer,1,2.99,IDW,24539
+COMIC,2006,JULY,94,Astro City Samaritan Sp,,3.99,DC,24391
+COMIC,2006,JULY,95,Batman Legends of the Dark Knight,208,2.99,DC,23971
+COMIC,2006,JULY,96,"Star Wars Knights of the OldRepublic",7,2.99,Dark Horse,23528
+COMIC,2006,JULY,97,Last Planet Standing,5,2.99,Marvel,23483
+COMIC,2006,JULY,98,Star Wars Rebellion,4,2.99,Dark Horse,23153
+COMIC,2006,JULY,99,Powers,19,2.95,Marvel,23153
+COMIC,2006,JULY,100,Next,1,2.99,DC,22710
+COMIC,2006,JULY,101,Spider-Girl,100,3.99,Marvel,22688
+COMIC,2006,JULY,102,Escapists,1,1.0,Dark Horse,21745
+COMIC,2006,JULY,103,Storm,6,2.99,Marvel,21507
+COMIC,2006,JULY,104,"Transformers Evolutions Hearts ofSteel",1,2.99,IDW,20530
+COMIC,2006,JULY,105,Walking Dead,29,2.99,Image,20383
+COMIC,2006,JULY,106,Jonah Hex,9,2.99,DC,20383
+COMIC,2006,JULY,107,Thing,8,2.99,Marvel,20360
+COMIC,2006,JULY,108,Xena,1,3.5,Dynamic,20326
+COMIC,2006,JULY,109,"All New Off Handbook MarvelUniverse A To Z",7,3.99,Marvel,20121
+COMIC,2006,JULY,110,Planet Hulk Gladiator Guidebook,,3.99,Marvel,20019
+COMIC,2006,JULY,111,Firestorm Nuclear Man,27,2.99,DC,19769
+COMIC,2006,JULY,112,Street Fighter II,4,2.95,Udon,19134
+COMIC,2006,JULY,113,Wolverine Origins Directors Cut (Pp,718),3.99,Marvel,18430
+COMIC,2006,JULY,114,X-Men Fairy Tales,3,2.99,Marvel,18100
+COMIC,2006,JULY,115,Marvel Team-Up,22,2.99,Marvel,17941
+COMIC,2006,JULY,116,Spawn,158,2.95,Image,17726
+COMIC,2006,JULY,117,Fantastic Four First Family,5,2.99,Marvel,16919
+COMIC,2006,JULY,118,Superman Returns Movie Adaptation,,6.99,DC,16828
+COMIC,2006,JULY,119,G.I. Joe Americas Elite,13 Cvr A,2.95,Devil's Due,16749
+COMIC,2006,JULY,120,Neil Gaimans Neverwhere,8,2.99,DC,16590
+COMIC,2006,JULY,121,Fury Peacemaker,6,3.5,Marvel,16579
+COMIC,2006,JULY,122,BPRD Universal Machine,4,2.99,Dark Horse,16022
+COMIC,2006,JULY,123,Ares,5,2.99,Marvel,15784
+COMIC,2006,JULY,124,Amazing Spider-Man,533,2.99,Marvel,15750
+COMIC,2006,JULY,125,Civil War Front Line,2,2.99,Marvel,15648
+COMIC,2006,JULY,126,Man Called Kev,1,2.99,DC,15545
+COMIC,2006,JULY,127,Man-Bat,4,2.99,DC,15500
+COMIC,2006,JULY,128,Army of Darkness,9,2.99,Dynamic,15489
+COMIC,2006,JULY,129,Wolverine,42,2.99,Marvel,15091
+COMIC,2006,JULY,130,Civil War,1,3.99,Marvel,15000
+COMIC,2006,JULY,131,Battler Britton,1,2.99,DC,14841
+COMIC,2006,JULY,132,Warlord,6,2.99,DC,14785
+COMIC,2006,JULY,133,DMZ,9,2.99,DC,14785
+COMIC,2006,JULY,134,Manhunter,24,2.99,DC,14648
+COMIC,2006,JULY,135,Loveless,9,2.99,DC,14433
+COMIC,2006,JULY,136,She-Hulk 2,8,2.99,Marvel,14239
+COMIC,2006,JULY,137,Bite Club Vampire Crime Unit,4,2.99,DC,14160
+COMIC,2006,JULY,138,Hellblazer,222,2.99,DC,13910
+COMIC,2006,JULY,139,Amazing Spider-Man,532,2.99,Marvel,13558
+COMIC,2006,JULY,140,Jack Kirbys Galactic Bounty Hunters,1,3.99,Marvel,13513
+COMIC,2006,JULY,141,New Avengers Illuminati Sp,,3.99,Marvel,13331
+COMIC,2006,JULY,142,American Virgin,5,2.99,DC,13263
+COMIC,2006,JULY,143,100 Bullets,74,2.99,DC,13263
+COMIC,2006,JULY,144,Rush City,1,2.99,DC,13081
+COMIC,2006,JULY,145,Shaolin Cowboy,6,3.5,Burlyman,12775
+COMIC,2006,JULY,146,Thunderbolts,103,2.99,Marvel,12763
+COMIC,2006,JULY,147,Cyberforce,4,2.99,Image,12468
+COMIC,2006,JULY,148,Fantastic Four,538,2.99,Marvel,12048
+COMIC,2006,JULY,149,Blood of the Demon,17,2.99,DC,11934
+COMIC,2006,JULY,150,Haunt of Horror Edgar Allan Poe,3,3.99,Marvel,11560
+COMIC,2006,JULY,151,Goon,18,2.99,Dark Horse,11503
+COMIC,2006,JULY,152,Claw The Unconquered,2,2.99,DC,11469
+COMIC,2006,JULY,153,Elephantmen,1,2.99,Image,11276
+COMIC,2006,JULY,154,Daughters of the Dragon,6,2.99,Marvel,11162
+COMIC,2006,JULY,155,Transformers Generations,5,2.49,IDW,11139
+COMIC,2006,JULY,156,Spike Vs Dracula,4,3.99,IDW,11094
+COMIC,2006,JULY,157,Testament,8,2.99,DC,11071
+COMIC,2006,JULY,158,Rokkin,1,2.99,DC,10844
+COMIC,2006,JULY,159,Girls,15,2.99,Image,10776
+COMIC,2006,JULY,160,Exterminators,7,2.99,DC,10742
+COMIC,2006,JULY,161,Texas Chainsaw Massacre Grind,3,3.99,Avatar,10594
+COMIC,2006,JULY,162,Teen Titans Go,33,2.25,DC,10515
+COMIC,2006,JULY,163,Simpsons Comics,120,2.99,Bongo,10322
+COMIC,2006,JULY,164,Justice League Unlimited,23,2.25,DC,10254
+COMIC,2006,JULY,165,Tarot Witch of the Black Rose,39,2.95,Broadsword,9527
+COMIC,2006,JULY,166,Marvel Adventures Avengers,3,2.99,Marvel,9005
+COMIC,2006,JULY,167,Angel Spotlight Doyle One Shot,,3.99,IDW,8948
+COMIC,2006,JULY,168,Friday The 13th Fearbook,1,3.99,Avatar,8903
+COMIC,2006,JULY,169,Zombies,2,3.99,IDW,8880
+COMIC,2006,JULY,170,Strangers in Paradise,83,2.95,Abstract,8868
+COMIC,2006,JULY,171,Elfquest Discovery,4,3.99,DC,8834
+COMIC,2006,JULY,172,Nightmare of Elm St Fearbook,1,3.99,Avatar,8732
+COMIC,2006,JULY,173,"Marvel Westerns Kid Colt &Arizona Girl",,3.99,Marvel,8596
+COMIC,2006,JULY,174,American Way,6,2.99,DC,8539
+COMIC,2006,JULY,175,Manifest Eternity,2,2.99,DC,8414
+COMIC,2006,JULY,176,New Avengers,21,2.99,Marvel,8346
+COMIC,2006,JULY,178,Marvel Westerns Western Legends,,3.99,Marvel,8267
+COMIC,2006,JULY,179,Skye Runner,3,2.99,DC,8164
+COMIC,2006,JULY,180,Savage Dragon,0,1.95,Image,8164
+COMIC,2006,JULY,181,Batman Strikes,23,2.25,DC,8153
+COMIC,2006,JULY,182,Futurama Comics,26,2.99,Bongo,8142
+COMIC,2006,JULY,183,Texas Chainsaw Massacre Fearbook,1,3.99,Avatar,7983
+COMIC,2006,JULY,184,Occult Crimes Taskforce,1,2.99,Image,7915
+COMIC,2006,JULY,185,Friday The 13th Jason Vs Jason X,2,3.99,Avatar,7824
+COMIC,2006,JULY,186,Dragonlance Chronicles Vol. 2,1 Cvr A,4.95,Devil's Due,7812
+COMIC,2006,JULY,187,Bearers of the Blade Sp,,2.99,Image,7744
+COMIC,2006,JULY,188,Simpsons Super Spectacular,3,2.99,Bongo,7688
+COMIC,2006,JULY,189,Sonic The Hedgehog,164,2.25,Archie,7608
+COMIC,2006,JULY,190,Superman Batman,25 2nd Ptg,2.99,DC,7142
+COMIC,2006,JULY,191,Spider-Man Loves Mary Jane,8,2.99,Marvel,6768
+COMIC,2006,JULY,192,Rival Schools,2,4.95,Udon,6677
+COMIC,2006,JULY,193,Dcu Brave New World,1,1.0,DC,6552
+COMIC,2006,JULY,194,She Dragon,1,5.99,Image,6438
+COMIC,2006,JULY,195,Snakewoman,1,2.99,Virgin,6359
+COMIC,2006,JULY,196,Casanova,2,1.99,Image,6336
+COMIC,2006,JULY,197,Justice,5,3.5,DC,6336
+COMIC,2006,JULY,198,Red Star Sword of Lies,,4.5,Archie,6268
+COMIC,2006,JULY,199,Grimm Fairy Tales,7,2.99,Zenescope,6211
+COMIC,2006,JULY,200,Art of the Witchblade One Shot,,2.99,Image,6132
+COMIC,2006,JULY,201,Marvel Adventures Spider-Man,17,2.99,Marvel,6132
+COMIC,2006,JULY,202,X-Factor,8,2.99,Marvel,6018
+COMIC,2006,JULY,203,Sonic X,11,2.25,Archie,5916
+COMIC,2006,JULY,204,Devi,1,2.99,Virgin,5916
+COMIC,2006,JULY,205,"Clive Barkers Great &Secret Show",4,3.99,IDW,5882
+COMIC,2006,JULY,206,"Avengers & Power PackAssemble",4,2.99,Marvel,5848
+COMIC,2006,JULY,207,Kabuki Reflections Book,6,5.99,Marvel,5814
+COMIC,2006,JULY,208,Ant,7 (Res),2.99,Image,5541
+COMIC,2006,JULY,209,"Marvels Greatest Comics FantasticFour",52,2.99,Marvel,5530
+COMIC,2006,JULY,210,Cryptics,1,3.5,Image,5382
+COMIC,2006,JULY,211,Fear Agent,6 (Res),2.99,Image,5212
+COMIC,2006,JULY,212,Knights of the Dinner Table,116,4.99,Kenzer,5167
+COMIC,2006,JULY,213,Wasteland,1,2.99,Oni,4951
+COMIC,2006,JULY,214,Eternals,1,3.99,Marvel,4940
+COMIC,2006,JULY,215,Innocents,1,2.99,Image,4905
+COMIC,2006,JULY,216,Gumby,1,3.99,Wildcard,4883
+COMIC,2006,JULY,217,Civil War Front Line,1,2.99,Marvel,4871
+COMIC,2006,JULY,218,Scooby Doo,110,2.25,DC,4781
+COMIC,2006,JULY,219,Death Jr Vol. 2,1,4.99,Image,4781
+COMIC,2006,JULY,220,Exalted,4 Reg Ed,3.49,Udon,4769
+COMIC,2006,JULY,221,Battle Pope Color,9 (Res),3.5,Image,4769
+COMIC,2006,JULY,222,Marvel Adventures Fantastic Four,14,2.99,Marvel,4667
+COMIC,2006,JULY,223,Godland,12,2.99,Image,4610
+COMIC,2006,JULY,224,Zoom Suit,3,2.95,Superverse,4610
+COMIC,2006,JULY,225,Casefiles Sam & Twitch,24,2.95,Image,4542
+COMIC,2006,JULY,226,Donald Duck & Friends,342,2.95,Gemstone,4474
+COMIC,2006,JULY,227,Sidekick,2,3.5,Image,4451
+COMIC,2006,JULY,228,Flash Fastest Man Alive,1,2.99,DC,4349
+COMIC,2006,JULY,229,Archenemies,4,2.99,Dark Horse,4326
+COMIC,2006,JULY,230,Road To Hell,1,3.99,IDW,4190
+COMIC,2006,JULY,231,Lullaby,4 (Res),3.5,Alias,4179
+COMIC,2006,JULY,232,Lady Death Shi Preview,,2.5,Avatar,4099
+COMIC,2006,JULY,233,Mickey Mouse & Friends,291,2.95,Gemstone,4020
+COMIC,2006,JULY,235,Wolverine,43,2.99,Marvel,3952
+COMIC,2006,JULY,236,Sadhu,1,2.99,Virgin,3929
+COMIC,2006,JULY,237,Mouse Guard,1,3.5,Archaia,3918
+COMIC,2006,JULY,238,Scarlet Traces Great Game,1 (Res),2.99,Dark Horse,3849
+COMIC,2006,JULY,239,Public Enemy,1,3.99,American Mule,3759
+COMIC,2006,JULY,240,Task Force One,1,3.5,Image,3759
+COMIC,2006,JULY,241,Hate Annual,6,4.95,Fantagraphics,3747
+COMIC,2006,JULY,242,Raymond E Feist Magician Apprentice,2 Cvr A,2.95,Dabel,3713
+COMIC,2006,JULY,243,"Walt Disneys Comics &Stories",671,6.95,Gemstone,3702
+COMIC,2006,JULY,244,52,8,2.5,DC,3668
+COMIC,2006,JULY,245,Blade of the Immortal,115,2.99,Dark Horse,3577
+COMIC,2006,JULY,246,Tick Days of Drama,6,3.95,New England,3429
+COMIC,2006,JULY,247,Hero Squared Ongoing,2,3.99,Boom,3350
+COMIC,2006,JULY,248,Shark-Man,1,3.99,Thrillhouse,3350
+COMIC,2006,JULY,249,Black Harvest,6,3.25,Devil's Due,3338
+COMIC,2006,JULY,250,Star Wars Legacy,1,2.99,Dark Horse,3248
+COMIC,2006,JULY,251,Wonder Woman,1,2.99,DC,3225
+COMIC,2006,JULY,252,Uncle Scrooge,356,6.95,Gemstone,3202
+COMIC,2006,JULY,253,Stargate SG1 2006 Con Sp,,2.99,Avatar,3111
+COMIC,2006,JULY,254,Castle Waiting Vol. II,1,5.95,Fantagraphics,3066
+COMIC,2006,JULY,255,Strange Girl,9,2.99,Image,3055
+COMIC,2006,JULY,256,Hawaiian Dick Last Resort,4,2.99,Image,2839
+COMIC,2006,JULY,257,Black Plague One Shot,,3.99,Boom,2805
+COMIC,2006,JULY,258,Mouse Guard,2,3.5,Archaia,2793
+COMIC,2006,JULY,259,Moon Knight,3,2.99,Marvel,2759
+COMIC,2006,JULY,260,Betty & Veronica,219,2.25,Archie,2748
+COMIC,2006,JULY,261,Revolution of the Planet of the Apes,5,3.95,Markosia,2714
+COMIC,2006,JULY,262,Revved,1,2.99,Image,2691
+COMIC,2006,JULY,263,Looney Tunes,140,2.25,DC,2680
+COMIC,2006,JULY,264,G.I. Joe Americas Elite,13 Cvr B,5.95,Devil's Due,2623
+COMIC,2006,JULY,265,Simpsons Classics,9,3.99,Bongo,2623
+COMIC,2006,JULY,266,Second Wave War of the Worlds,4,2.99,Boom,2578
+COMIC,2006,JULY,267,Starship Troopers,4,3.5,Marvel,2566
+COMIC,2006,JULY,268,Sabrina Vol. 2,77,2.25,Archie,2521
+COMIC,2006,JULY,269,52,7,2.5,DC,2430
+COMIC,2006,JULY,270,Angel Scriptbook,5,3.99,IDW,2339
+COMIC,2006,JULY,271,Veronica,172,2.25,Archie,2316
+COMIC,2006,JULY,272,Archie & Friends,102,2.25,Archie,2316
+COMIC,2006,JULY,273,Tales of Leonardo Blind Sight,2,3.25,Mirage,2316
+COMIC,2006,JULY,274,Rocketo,10,3.99,Image,2226
+COMIC,2006,JULY,275,Second Wave War of the Worlds,5,2.99,Boom,2226
+COMIC,2006,JULY,276,Jeremiah Harm,4,3.99,Boom,2169
+COMIC,2006,JULY,277,Batman,654,2.99,DC,2146
+COMIC,2006,JULY,278,Nightmare of Elm St Paranoid,3,3.99,Avatar,2135
+COMIC,2006,JULY,279,Cobb Off Leash,2,3.99,IDW,2044
+COMIC,2006,JULY,280,"Betty & Veronica DoubleDigest",144,3.69,Archie,2044
+COMIC,2006,JULY,281,Lost Squad,5,2.95,Devil's Due,2044
+COMIC,2006,JULY,282,Pigtale,4,2.99,Image,1987
+COMIC,2006,JULY,283,Cartoon Network Block Party,23,2.25,DC,1976
+COMIC,2006,JULY,284,Texas Chainsaw Massacre Grind,2,3.99,Avatar,1964
+COMIC,2006,JULY,285,Sidekick,1,3.5,Image,1942
+COMIC,2006,JULY,286,Action Comics,840,2.99,DC,1908
+COMIC,2006,JULY,287,Cartoon Network Action Pack,3,2.25,DC,1908
+COMIC,2006,JULY,288,Lady Death Shi Preview Ryp Cvr,,2.99,Avatar,1874
+COMIC,2006,JULY,289,Legend of Isis,10 (Res),3.5,Alias,1862
+COMIC,2006,JULY,290,Betty & Veronica Digest,167,2.49,Archie,1840
+COMIC,2006,JULY,291,Shojo Beat Vol. 2,,5.99,Viz,1840
+COMIC,2006,JULY,292,Housewives At Play,16,4.95,Fantagraphics,1828
+COMIC,2006,JULY,293,Umbra,2,5.99,Image,1817
+COMIC,2006,JULY,294,Pals N Gals Double Digest,104,3.69,Archie,1771
+COMIC,2006,JULY,295,52,6,2.5,DC,1703
+COMIC,2006,JULY,296,Revere,1,3.5,Alias,1703
+COMIC,2006,JULY,297,Blackbeard Legacy,2,3.5,Alias,1703
+COMIC,2006,JULY,298,Screwtooth,1,2.95,Slave Labor,1703
+COMIC,2006,JULY,299,Young Avengers,12,2.99,Marvel,1681
+COMIC,2006,JULY,300,Jughead,175,2.25,Archie,1681
+TPB,2006,JULY,1,"Fables Vol. 7 Arabian Nights& Days",,14.99,DC,10731
+TPB,2006,JULY,2,Halo Graphic Novel HC,,24.99,Marvel,10526
+TPB,2006,JULY,3,New Avengers Vol. 2 Sentry,,14.99,Marvel,7052
+TPB,2006,JULY,4,Twisted Toyfare Theatre Vol. 7,,12.99,Wizard,6370
+TPB,2006,JULY,5,"Teen Titans Vol. 5 Life &Death",,14.99,DC,5837
+TPB,2006,JULY,6,Superman Batman Vol. 4 Vengeance HC,,19.99,DC,5723
+TPB,2006,JULY,7,Superman Infinite Crisis,,12.99,DC,5337
+TPB,2006,JULY,8,Fruits Basket Vol. 14,,9.99,Tokyopop,4463
+TPB,2006,JULY,10,"Showcase Presents Elongated ManVol. 1",,16.99,DC,4349
+TPB,2006,JULY,11,X-Men Deadly Genesis Prem HC,,24.99,Marvel,4258
+TPB,2006,JULY,12,Lucifer Vol. 10 Morningstar,,14.99,DC,4201
+TPB,2006,JULY,13,Star Wars Clone Wars Vol. 9,,17.95,Dark Horse,4190
+TPB,2006,JULY,14,Fullmetal Alchemist Vol. 8,,9.99,Viz,4077
+TPB,2006,JULY,15,Captain America Red Menace Vol. 1,,11.99,Marvel,3952
+TPB,2006,JULY,16,Berserk Vol. 12,,13.95,Dark Horse,3940
+TPB,2006,JULY,19,Batman City of Crime,,19.99,DC,3872
+TPB,2006,JULY,20,X-Men Blood of Apocalypse,,17.99,Marvel,3849
+TPB,2006,JULY,21,Supreme Power Hyperion,,14.99,Marvel,3634
+TPB,2006,JULY,22,Wonder Woman Missions End,,19.99,DC,3577
+TPB,2006,JULY,23,Essential Marvel Team-Up Vol. 2,,16.99,Marvel,3497
+TPB,2006,JULY,24,Walking Dead Vol. 1 HC,,29.99,Image,3475
+TPB,2006,JULY,25,Sloth HC,,19.99,DC,3452
+TPB,2006,JULY,26,Trigun Maximum Vol. 9,,9.95,Dark Horse,3316
+TPB,2006,JULY,28,Rurouni Kenshin Vol. 28,,7.95,Viz,3259
+TPB,2006,JULY,29,Inu Yasha Vol. 26,,8.95,Viz,3111
+TPB,2006,JULY,30,Iron Man Extremis Prem HC,,19.99,Marvel,2998
+TPB,2006,JULY,31,Death Note Vol. 6,,7.99,Viz,2952
+TPB,2006,JULY,32,Testament Akedah,,9.99,DC,2952
+TPB,2006,JULY,33,Hellblazer All His Engines,,14.99,DC,2816
+TPB,2006,JULY,34,BPRD Black Flame,,17.95,Dark Horse,2714
+TPB,2006,JULY,35,Top 10 Beyond Farthest Precinct,,14.99,DC,2691
+TPB,2006,JULY,36,Invincible Vol. 2 Ultimate Coll HC,,34.99,Image,2668
+TPB,2006,JULY,38,Nge Angelic Days Manga Vol. 2,,9.99,ADV,2555
+TPB,2006,JULY,39,"Usagi Yojimbo Vol. 20 Glimpses ofDeath",,15.95,Dark Horse,2510
+TPB,2006,JULY,40,Metal Men Archives Vol. 1 HC,,49.99,DC,2430
+TPB,2006,JULY,41,Ultimates Vol. 2 Homeland Security,,17.99,Marvel,2396
+TPB,2006,JULY,42,Fantastic Four Books of Doom Prem HC,,19.99,Marvel,2385
+TPB,2006,JULY,43,Black Panther By Jack Kirby Vol. 2,,19.99,Marvel,2373
+TPB,2006,JULY,44,Ultimate Fantastic Four Vol. 2 HC,,29.99,Marvel,2339
+TPB,2006,JULY,45,Flight Vol. 3,,24.95,Random House,2305
+TPB,2006,JULY,47,One Piece Vol. 11,,7.95,Viz,2157
+TPB,2006,JULY,48,24 Seven,,24.99,Image,2157
+TPB,2006,JULY,50,Avengers Assemble Vol. 3 HC,,34.99,Marvel,1919
+TPB,2006,JULY,51,"Teen Titans Go Vol. 4 Ready ForAction",,6.99,DC,1919
+TPB,2006,JULY,52,Ultimate Spider-Man Vol. 11 Carnage,,12.99,Marvel,1896
+TPB,2006,JULY,53,Silent Dragon,,19.99,DC,1874
+TPB,2006,JULY,54,Pathfinder,,19.95,Dark Horse,1851
+TPB,2006,JULY,55,"Excalibur Classic Vol. 2 Two EdgedSword",,24.99,Marvel,1840
+TPB,2006,JULY,56,Old Boy Vol. 1,,12.95,Dark Horse,1828
+TPB,2006,JULY,57,Antique Bakery Vol. 4,,12.95,Digital Manga,1817
+TPB,2006,JULY,58,Ultimate X-Men Vol. 7 Blockbuster,,12.99,Marvel,1771
+TPB,2006,JULY,60,Ultimate X-Men Vol. 12 Hard Lessons,,12.99,Marvel,1749
+TPB,2006,JULY,61,Gorgeous Carat Galaxy,,12.95,Digital Manga,1737
+TPB,2006,JULY,62,30 Days of Night Three Tales,,19.99,IDW,1715
+TPB,2006,JULY,63,Ultimate X-Men Vol. 10 Cry Wolf,,8.99,Marvel,1715
+TPB,2006,JULY,64,Iron West,,14.99,Image,1703
+TPB,2006,JULY,66,"Ultimate Spider-Man Vol. 8 Cats& Kings",,17.99,Marvel,1658
+TPB,2006,JULY,67,Polly & Pirates Vol. 1,,11.95,Oni,1624
+TPB,2006,JULY,68,Futurama Vol. 3 Time Bender,,14.95,Bongo,1612
+TPB,2006,JULY,69,Kare Kano Vol. 20,,9.99,Tokyopop,1601
+TPB,2006,JULY,70,Time Lag,,12.95,Digital Manga,1590
+TPB,2006,JULY,71,Museum of Terror Vol. 1,,13.95,Dark Horse,1578
+TPB,2006,JULY,72,Ultimate Spider-Man Vol. 4 Legacy,,14.99,Marvel,1567
+TPB,2006,JULY,74,Kuro No Kishi Black Knight Vol. 1,,9.99,Tokyopop,1556
+TPB,2006,JULY,75,Eightball Pussey,,9.95,Fantagraphics,1544
+TPB,2006,JULY,77,"Ultimate Spider-Man Vol. 5Publicrutiny",,11.99,Marvel,1522
+TPB,2006,JULY,78,"Ultimate Spider-Man Vol. 9 UltimateSix",,17.99,Marvel,1522
+TPB,2006,JULY,79,Cafe Kichijouji De Vol. 3,,12.95,Digital Manga,1510
+TPB,2006,JULY,80,Fushigi Yugi Genbu Kaiden Vol. 4,,8.99,Viz,1510
+TPB,2006,JULY,81,Watchmen,,19.99,DC,1499
+TPB,2006,JULY,82,Read Or Die Vol. 3,,9.99,Viz,1499
+TPB,2006,JULY,83,Ultimate Galactus Bk 2 Secret,,12.99,Marvel,1476
+TPB,2006,JULY,84,"Le Portrait De Petite Cossette Vol.1",,9.99,Tokyopop,1442
+TPB,2006,JULY,85,Only Ring Finger Knows Vol. 2 Novel,,8.95,Digital Manga,1419
+TPB,2006,JULY,86,Walking Dead Vol. 1 Days Gone Bye,,9.95,Image,1419
+TPB,2006,JULY,88,Y The Last Man Vol. 7 Paper Dolls,,14.99,DC,1397
+TPB,2006,JULY,89,Ultimate Fantastic Four Vol. 2 Doom,,12.99,Marvel,1385
+TPB,2006,JULY,90,Spike,,19.99,IDW,1363
+TPB,2006,JULY,91,Walking Dead Vol. 4 Hearts Desire,,12.99,Image,1317
+TPB,2006,JULY,92,Dears Vol. 7,,9.99,Tokyopop,1317
+TPB,2006,JULY,93,Samurai Deeper Kyo Vol. 19,,9.99,Tokyopop,1317
+TPB,2006,JULY,94,Y The Last Man Vol. 1 Unmanned,,12.99,DC,1306
+TPB,2006,JULY,95,Cobblers Monster,,14.99,Image,1306
+TPB,2006,JULY,96,Left Bank Gang,,12.95,Fantagraphics,1306
+TPB,2006,JULY,97,Is Vol. 8,,7.99,Viz,1306
+TPB,2006,JULY,98,"Walking Dead Vol. 3 Safety BehindBars",,12.95,Image,1294
+TPB,2006,JULY,99,Wallflower Vol. 8,,10.95,Random House,1283
+TPB,2006,JULY,100,Hikaru No Go Vol. 7,,7.95,Viz,1283

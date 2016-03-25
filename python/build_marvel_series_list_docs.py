@@ -1,4 +1,4 @@
-import urllib2, json, time, hashlib, csv, traceback
+import urllib2, json, time, hashlib, csv, traceback
 
 debug_lvl = 3
 
@@ -23,7 +23,7 @@ def getSeriesByLetter(letter,activeYear, order=''):
     debug(2, letter + " total:" + str(seriesDataContainer["count"]) + "/" + str(seriesDataContainer["total"]))
     debug(3, "limit:" + str(seriesDataContainer["limit"]))
     results =  seriesDataContainer["results"]
-    return results
+    return results
 
 def writeSeriesToCsvByLetter(file_path,series):
     with open(file_path, "a") as file:
@@ -41,17 +41,20 @@ def writeSeriesToCsvByLetter(file_path,series):
     
             csv_file.writerow([title['id'], name, title["startYear"],title["endYear"],rating])
         
-    
-
 for i in range(ord('a'), ord('z')+1):
     letter = chr(i)
-    writeSeriesToCsvByLetter('./MarvelSeriesLists/MarvelSeriesList_' + letter + '.csv', getSeriesByLetter(letter,'2014'))
+    writeSeriesToCsvByLetter('../data/MarvelSeriesLists/2001/MarvelSeriesList_' + letter + '.csv', getSeriesByLetter(letter,'2001'))
 
 for i in range(1,9+1):
     letter = str(i)
-    writeSeriesToCsvByLetter('./MarvelSeriesLists/MarvelSeriesList_' + letter + '.csv', getSeriesByLetter(letter,'2014'))
+    writeSeriesToCsvByLetter('../data/MarvelSeriesLists/2001/MarvelSeriesList_' + letter + '.csv', getSeriesByLetter(letter,'2001'))
 
 # Reverse sort Used to overcome Marvel's 100 result limit. will need to de-dep because of overlap
-writeSeriesToCsvByLetter('./MarvelSeriesLists/MarvelSeriesList_st.csv', getSeriesByLetter('st','2014'))
-writeSeriesToCsvByLetter('./MarvelSeriesLists/MarvelSeriesList_st_rev.csv', getSeriesByLetter('st','2014','-'))
-writeSeriesToCsvByLetter('./MarvelSeriesLists/MarvelSeriesList_s_rev.csv', getSeriesByLetter('s','2014','-'))
+writeSeriesToCsvByLetter('../data/MarvelSeriesLists/2001/MarvelSeriesList_st.csv', getSeriesByLetter('st','2001'))
+writeSeriesToCsvByLetter('../data/MarvelSeriesLists/2001/MarvelSeriesList_st_rev.csv', getSeriesByLetter('st','2001','-'))
+writeSeriesToCsvByLetter('../data/MarvelSeriesLists/2001/MarvelSeriesList_s_rev.csv', getSeriesByLetter('s','2001','-'))
+writeSeriesToCsvByLetter('../data/MarvelSeriesLists/2001/MarvelSeriesList_a_rev.csv', getSeriesByLetter('a','2001','-'))
+writeSeriesToCsvByLetter('../data/MarvelSeriesLists/2001/MarvelSeriesList_m_rev.csv', getSeriesByLetter('m','2001','-'))
+writeSeriesToCsvByLetter('../data/MarvelSeriesLists/2001/MarvelSeriesList_t_rev.csv', getSeriesByLetter('t','2001','-'))
+writeSeriesToCsvByLetter('../data/MarvelSeriesLists/2001/MarvelSeriesList_w_rev.csv', getSeriesByLetter('w','2001','-'))
+

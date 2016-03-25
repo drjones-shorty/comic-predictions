@@ -2,57 +2,36 @@
 libs <- c("tm","plyr","data.table","class", "caret")
 lapply(libs, require, character.only = TRUE)
 options(stringsAsFactors = FALSE)
-options(mc.cores=1)
+options(mc.cores=4)
 # FORMAT & CAST: functions to clean upon import
-comicsDf <- read.csv("../data/all_issues.csv",
-                     colClasses = c('character', 'character', 'numeric', 'character',
-                                    'numeric','character','character', 'character',
-                                    'character','character','character'), strip.white = TRUE)
-# Remove commas
-comicsDf$EST_SALES <- gsub("[^[:alnum:]///' ]", "",comicsDf$EST_SALES)
-comicsDf <- transform(comicsDf, EST_SALES = as.numeric(EST_SALES))
+comicsDf <- read.csv("/Users/petertamisin/Github/comic-predictions/data/all_issues_new.csv", encoding = "UTF-8", strip.white = TRUE)
+comicsDf <- unique(comicsDf)
 
-# ENHANCE: Band values into ranges 
-comicsDf$RANK_INDICATOR <- floor(comicsDf$MONTH_RANK/150) #Not using cut to preserve numeric. don't want to flatten factors later
+# Remove commas
+comicsDf$EST_SALES <- gsub("[^[:digit:]///' ]", "",comicsDf$EST_SALES)
+#sum( is.na( comicsDf$EST_SALE ) ) 
+
+
+comicsDf <- transform(comicsDf, MONTH_RANK = as.numeric(MONTH_RANK))
+comicsDf <- transform(comicsDf, EST_SALES = as.numeric(EST_SALES))
+comicsDf <- transform(comicsDf, ISSUENUMBER = as.numeric(ISSUENUMBER))
+
+comicsDf <- subset(comicsDf, !is.null(ISSUENUMBER) &
+                     !is.null(EST_SALES) &
+                     !is.null(MONTH_RANK) &
+                     !is.na(ISSUENUMBER) &
+                     !is.na(EST_SALES) &
+                     !is.na(MONTH_RANK)
+)
+
 comicsDf$ISSUE_RANGE <- cut(comicsDf$ISSUENUMBER, breaks=(0:1000)*10,dig.lab=10)
 # Add pk and concatenated text field
-comicsDf$UID <- paste(comicsDf$ID,comicsDf$EST_SALES)
+comicsDf$UID <- paste(comicsDf$Id,comicsDf$EST_SALES,comicsDf$MONTH_RANK)
 comicsDf$TEXT <- paste(comicsDf$TITLE,comicsDf$REL_EVENTS,comicsDf$CHARACTERS,comicsDf$DESCR)
+comicsDf <- comicsDf[!duplicated(comicsDf[,c('UID')]),]
 
-# RESTRUCTURE:  Create columns for each creator and populate as true if they contributed to the issue
-pr = unlist(strsplit(comicsDf$PRICE_INFO, '\\|'))
-pr = sapply(strsplit(pr, ":"), "[", 2)
-pr = gsub(" ", "",pr)
-pr = paste(unique(pr), collapse = ', ')
-pr = sort(pr)
-pr = unlist(strsplit(pr, split=", "))
-pr = sapply(pr, sort)
-nprices <- max(sapply(pr, length))
-l.prices <- lapply(pr, function(X) c(X, rep(NA, nprices - length(X))))
-augmented.df = data.frame(do.call(cbind, l.prices))
-temp.df = cbind(comicsDf,augmented.df)
-# Warnings: fix syntax
-temp.df[-(1:16)] <- mapply(grepl, pattern=temp.df[-(1:16)], x=list(temp.df$PRICE_INFO))+0
-comicsDf <- temp.df
-
-# RESTRUCTURE:  Create columns for each creator and populate as true if they contributed to the issue
-dr = unlist(strsplit(comicsDf$DATE_INFO, '\\|'))
-dr = sapply(strsplit(dr, ":"), "[", 2)
-dr = gsub(" ", "",dr)
-dr = substr(dr, 1, 7)
-dr = paste(unique(dr), collapse = ', ')
-dr = sort(dr)
-dr = unlist(strsplit(dr, split=", "))
-dr = sapply(dr, sort)
-ndate <- max(sapply(dr, length))
-l.dates <- lapply(dr, function(X) c(X, rep(NA, ndate - length(X))))
-augmented.df = data.frame(do.call(cbind, l.dates))
-temp.df = cbind(comicsDf,augmented.df)
-# Warnings: fix syntax
-temp.df[-(1:(nprices + 16))] <- mapply(grepl, pattern=temp.df[-(1:(nprices + 16))], x=list(temp.df$DATE_INFO))+0
-comicsDf <- temp.df
-
-tcols <- 16 + nprices + ndate
+# number of columns up to this point
+tcols <- 14
 
 # RESTRUCTURE:  Create columns for each creator and populate as true if they contributed to the issue
 cr = unlist(strsplit(comicsDf$CREATORS, '\\|'))
@@ -72,13 +51,12 @@ comicsDf <- temp.df
 textOnly <- subset(comicsDf, !is.null(UID) &
                      !is.null(TEXT) &
                      !is.null(ISSUE_RANGE) &
-                     !is.null(RANK_INDICATOR) &
-                     MONTH_RANK <= 300, select = c(UID,TEXT))
+                     (MONTH_RANK <= 25 | MONTH_RANK > 125), select = c(UID,TEXT))
+
 metaOnly <- subset(comicsDf, !is.null(UID) &
                                 !is.null(TEXT) &
                                 !is.null(ISSUE_RANGE) &
-                                !is.null(RANK_INDICATOR) &
-                                MONTH_RANK <= 300, select = -c(ID,CREATORS,TEXT,DESCR,TITLE,CHARACTERS,EST_SALES,MONTH_RANK,REL_EVENTS, DATE_INFO, PRICE_INFO,NA.))
+                                (MONTH_RANK <= 25 | MONTH_RANK >125), select = -c(Id,CREATORS,TEXT,DESCR,TITLE,CHARACTERS,EST_SALES,REL_EVENTS, DATE_INFO, PRICE_INFO,NA.))
 
 # Create corpus for text data
 textReader <- readTabular(mapping=list(id="UID",content="TEXT"))
@@ -101,7 +79,7 @@ cleanCorpus <- function(c, stoplist) {
   c <- tm_map(c, content_transformer(stripWhitespace))
   return(c)
 }
-textCorpus <- cleanCorpus(textCorpus,  c("will", "can", "hes", "shes", "may","get","issue","take", "come", "dont", "going", "make", "thats", "also", "goes", "many", "seen","see","taken","yet"))
+textCorpus <- cleanCorpus(textCorpus,  c("will", "can", "hes", "shes", "may","get","issue","take", "come", "dont", "going", "make", "thats", "also", "goes", "many", "seen","see","taken","yet","another","anyone","around","artist","away","back","become","band","begins","behind","bring","brings","X.bring.us.","brought","call","called","change","choice","character","comes","comics","coming"))
 # Group Terms
 #dtm.text <- DocumentTermMatrix(textCorpus)
 BigramTokenizer <- function(x) {RWeka::NGramTokenizer(x, RWeka::Weka_control(min = 1, max = 3))}
@@ -128,14 +106,25 @@ combined.df <- data.frame(predict(dmy, newdata = combined.df))
 # Default empties to Zero
 combined.df[is.na(combined.df)] <- 0
 
+
+# ENHANCE: classify 
+highlow <- function(x) {
+  retVal <- 'So-so'
+  if (x <= 25) retVal <- 'Superstar'
+  if (x > 25 & x < 125) retVal <- 'So-so'
+  if (x >= 125 ) retVal <- 'Dud'
+  return(retVal)
+}
+combined.df$RANK_INDICATOR <- sapply(combined.df$MONTH_RANK, highlow)
+count(combined.df, "RANK_INDICATOR")
 # Add prediction column
-combined.df$EST_RANK_INDICATOR <- paste((combined.df$RANK_INDICATOR * 150), (combined.df$RANK_INDICATOR * 150) + 150, sep = "-")
+combined.df$EST_RANK_INDICATOR <-combined.df$RANK_INDICATOR
 
 # Separate data for training and test samples
 train.rows <- sample(nrow(combined.df), ceiling(nrow(combined.df)*.8))
 test.rows <- (1:nrow(combined.df)) [- train.rows]
 # Specificy columns to be evaluted (train) and column to predict(test)
-train.cols <- subset(combined.df, select = -c(EST_RANK_INDICATOR,RANK_INDICATOR))
+train.cols <- subset(combined.df, select = -c(EST_RANK_INDICATOR,MONTH_RANK,RANK_INDICATOR))
 test.cols <- subset(combined.df, select = c(EST_RANK_INDICATOR))
 
 

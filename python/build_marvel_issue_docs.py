@@ -1,4 +1,4 @@
-import sys, urllib, urllib2, json, re, hashlib, traceback, csv, os.path, time
+import sys, urllib, urllib2, json, re, hashlib, traceback, csv, os.path, time, re
 from time import strptime
 from fuzzywuzzy import fuzz, process
 
@@ -25,7 +25,7 @@ def wordSwap(s):
 def mapTitle(title, pub_year):
     
     mtitles = []
-    with open('/Users/petertamisin/demo/marvel_series_list.csv', 'rb') as csvfile:
+    with open('/Users/petertamisin/Github/comic-predictions/data/marvel_series_list.csv', 'rb') as csvfile:
         reader = csv.DictReader( csvfile )
         for line in reader:
             if (int(pub_year) >= int(line[ 'startyear' ]) and int(pub_year) <= int(line[ 'endyear' ])):        
@@ -62,7 +62,8 @@ def getIssueDetails(title, issue, pub_year, pub_month, est_sales, month_rank):
     debug(3,"Params:" + title + "," + issue + "," + str(pub_year) + "," + str(pub_month) + "," + est_sales + "," + month_rank)
     m = hashlib.md5()
     ts = str(time.time())
-    m.update(ts + '0265f278e4edec8cbc24428879b260ee8673c0b0b97081f95e4173711d6d3d0915dfcde9')
+#    m.update(ts + '0265f278e4edec8cbc24428879b260ee8673c0b0b97081f95e4173711d6d3d0915dfcde9')
+    m.update(ts + '2b5f72b91efe4414ab080cd2d3ccd8af760759d1fafdbb031b1c38bae1c8b940ad11a900')
     n = m.hexdigest()
     limit="100"
     issue = str(issue)
@@ -80,7 +81,8 @@ def getIssueDetails(title, issue, pub_year, pub_month, est_sales, month_rank):
         return
     
     uriParams = {}
-    uriParams["apikey"] = 'b97081f95e4173711d6d3d0915dfcde9'
+#    uriParams["apikey"] = 'b97081f95e4173711d6d3d0915dfcde9'
+    uriParams["apikey"] = 'fafdbb031b1c38bae1c8b940ad11a900'
     uriParams["hash"] = n
     uriParams["ts"] = ts
     uriParams["limit"] = limit
@@ -93,8 +95,9 @@ def getIssueDetails(title, issue, pub_year, pub_month, est_sales, month_rank):
     #uriParams["dateRange"] = start_year + '-' + start_month + '-1,' + end_year + '-' + end_month + '-1'    
     baseUri = 'http://gateway.marvel.com/v1/public/comics?'
     issueUri =  baseUri + urllib.urlencode(uriParams)
-
-    file_path = "./comics/" + title.replace(" ","") + "_" + uriParams["issueNumber"] + "_" + str(pub_year) + "_" + str(pub_month) + ".csv"
+    debug(2,title)
+    file_path = "/Users/petertamisin/Github/comic-predictions/data/comics/" + re.sub('[^0-9a-zA-Z]+','',title) + "_" + re.sub('[^0-9a-zA-Z]+','',uriParams["issueNumber"]) + "_" + str(pub_year) + "_" + str(pub_month) + ".csv"
+    debug(2,file_path)
     if os.path.exists(file_path):
         debug(5, "Skipped:" + file_path)
         return
@@ -165,10 +168,11 @@ def getIssueDetails(title, issue, pub_year, pub_month, est_sales, month_rank):
 
 
 
-for i in os.listdir('/Users/petertamisin/demo/month_sales'):
-    if i.endswith(".csv") and (i.find("2014") > -1): 
+for i in os.listdir('/Users/petertamisin/Github/comic-predictions/data/month_sales'):
+#    if i.endswith(".csv") and (i.find("2014") > -1): 
+    if i.endswith(".csv"): 
         debug(2, i)
-        with open('/Users/petertamisin/demo/month_sales/' + i, 'rb') as csvfile:
+        with open('/Users/petertamisin/Github/comic-predictions/data/month_sales/' + i, 'rb') as csvfile:
             reader = csv.DictReader( csvfile )
             for line in reader:
                 if (line[ 'PUBLICATION_FORMAT' ] == 'COMIC' and line[ 'PUBLISHER' ] == 'Marvel'):

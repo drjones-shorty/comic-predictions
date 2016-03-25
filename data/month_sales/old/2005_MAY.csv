@@ -1,0 +1,378 @@
+PUBLICATION_FORMAT,YEAR,MONTH,SALES_RANK,TITLE,ISSUE,PRICE,PUBLISHER,EST_SALES
+COMIC,2005,MAY,1,Green Lantern,1,3.5,DC,168324
+COMIC,2005,MAY,2,Astonishing X-Men,10,2.99,Marvel,134963
+COMIC,2005,MAY,3,Green Lantern Rebirth,6,2.99,DC,114335
+COMIC,2005,MAY,4,Ultimates 2,6,2.99,Marvel,102008
+COMIC,2005,MAY,5,Villains United,1,2.5,DC,96718
+COMIC,2005,MAY,6,Ultimate Iron Man,2,2.99,Marvel,90182
+COMIC,2005,MAY,7,Omac Project,2,2.5,DC,88270
+COMIC,2005,MAY,8,Uncanny X-Men,459,2.25,Marvel,83532
+COMIC,2005,MAY,9,Rann Thanagar War,1,2.5,DC,82873
+COMIC,2005,MAY,10,Ultimate X-Men,59,2.25,Marvel,81307
+COMIC,2005,MAY,11,X-Men,170,2.25,Marvel,81034
+COMIC,2005,MAY,12,Ultimate Spider-Man,77,2.25,Marvel,81020
+COMIC,2005,MAY,13,Wolverine,28,2.25,Marvel,80947
+COMIC,2005,MAY,14,Amazing Spider-Man,520,2.25,Marvel,76130
+COMIC,2005,MAY,15,Ultimate Fantastic Four,18,2.25,Marvel,71466
+COMIC,2005,MAY,16,Superman,216,2.5,DC,70193
+COMIC,2005,MAY,17,Young Avengers,4,2.99,Marvel,69913
+COMIC,2005,MAY,18,Teen Titans,24,2.5,DC,69034
+COMIC,2005,MAY,19,Fantastic Four,527,2.99,Marvel,67421
+COMIC,2005,MAY,20,Batman,640,2.25,DC,66629
+COMIC,2005,MAY,21,Superman,217,2.5,DC,65309
+COMIC,2005,MAY,22,Day of Vengeance,2,2.5,DC,64456
+COMIC,2005,MAY,23,JLA,114,2.25,DC,63923
+COMIC,2005,MAY,24,DC Sp Return of Donna Troy,1,2.99,DC,62697
+COMIC,2005,MAY,25,X-Men End Heroes & Martyrs,3,2.99,Marvel,58860
+COMIC,2005,MAY,26,Marvel Knights Spider-Man,14,2.99,Marvel,57261
+COMIC,2005,MAY,27,Excalibur,13,2.99,Marvel,54609
+COMIC,2005,MAY,28,X-23,6,2.99,Marvel,51684
+COMIC,2005,MAY,29,Excalibur,14,2.99,Marvel,51351
+COMIC,2005,MAY,30,JSA,73,2.5,DC,51317
+COMIC,2005,MAY,31,Outsiders,24,2.5,DC,51304
+COMIC,2005,MAY,32,Green Lantern Secret Files 2005,,4.99,DC,49678
+COMIC,2005,MAY,33,Daredevil,73,2.99,Marvel,48672
+COMIC,2005,MAY,34,Flash,222,2.25,DC,47520
+COMIC,2005,MAY,35,Captain America,6,2.99,Marvel,46360
+COMIC,2005,MAY,36,Secret War From Files of Nick Fury,,3.99,Marvel,46054
+COMIC,2005,MAY,37,JLA Classified,7,2.99,DC,45780
+COMIC,2005,MAY,38,Fantastic Four,526,2.99,Marvel,44928
+COMIC,2005,MAY,39,Action Comics,827,2.5,DC,44002
+COMIC,2005,MAY,40,Incredible Hulk,81,2.99,Marvel,43815
+COMIC,2005,MAY,41,Batman Dark Detective,1,2.99,DC,41610
+COMIC,2005,MAY,42,Legion of Super Heroes,6,2.99,DC,40963
+COMIC,2005,MAY,43,Black Panther,4,2.99,Marvel,40797
+COMIC,2005,MAY,44,Outsiders,23,2.5,DC,40610
+COMIC,2005,MAY,45,Lex Luthor Man of Steel,3,2.99,DC,39777
+COMIC,2005,MAY,46,Detective Comics,806,2.99,DC,38831
+COMIC,2005,MAY,47,Punisher,21,2.99,Marvel,37992
+COMIC,2005,MAY,48,Batman Dark Detective,2,2.99,DC,37785
+COMIC,2005,MAY,49,Excalibur,12,2.99,Marvel,37738
+COMIC,2005,MAY,50,Conan,16,2.99,Dark Horse,37625
+COMIC,2005,MAY,51,Seven Soldiers Shining Knight,2,2.99,DC,37532
+COMIC,2005,MAY,52,Shanna The She Devil,4,3.5,Marvel,37205
+COMIC,2005,MAY,53,Adventures of Superman,640,2.5,DC,37039
+COMIC,2005,MAY,54,Nightwing,108,2.25,DC,37012
+COMIC,2005,MAY,55,Spider-Man Breakout,2,2.99,Marvel,35740
+COMIC,2005,MAY,56,Seven Soldiers Guardian,2,2.99,DC,35580
+COMIC,2005,MAY,57,New X-Men,13,2.99,Marvel,35027
+COMIC,2005,MAY,58,Green Arrow,50,3.5,DC,34880
+COMIC,2005,MAY,59,New X-Men,14,2.99,Marvel,34574
+COMIC,2005,MAY,60,Toxin,2,2.99,Marvel,34087
+COMIC,2005,MAY,61,Exiles,64,2.99,Marvel,34027
+COMIC,2005,MAY,62,New X-Men Hellions,1,2.99,Marvel,33188
+COMIC,2005,MAY,63,Marvel Nemesis Imperfects,1,2.99,Marvel,32595
+COMIC,2005,MAY,64,Punisher Cell One-Shot,,4.99,Marvel,31935
+COMIC,2005,MAY,65,Wonder Woman,216,2.25,DC,31595
+COMIC,2005,MAY,66,Batman Gotham Knights,65,2.5,DC,31242
+COMIC,2005,MAY,67,GLA,2,2.99,Marvel,29990
+COMIC,2005,MAY,68,Robin,138,2.25,DC,29930
+COMIC,2005,MAY,69,Birds of Prey,82,2.5,DC,29850
+COMIC,2005,MAY,70,Conan & Jewels of Gwahlur,2,2.99,Dark Horse,29130
+COMIC,2005,MAY,71,Justice League Elite,11,2.5,DC,29083
+COMIC,2005,MAY,72,Wolverine Soultaker,4,2.99,Marvel,29010
+COMIC,2005,MAY,73,Runaways,4,2.99,Marvel,28963
+COMIC,2005,MAY,74,Omac Project,1,2.5,DC,28757
+COMIC,2005,MAY,75,Marvel Knights 4,18,2.99,Marvel,28644
+COMIC,2005,MAY,76,Batgirl,64,2.5,DC,28044
+COMIC,2005,MAY,77,New Thunderbolts,8,2.99,Marvel,27764
+COMIC,2005,MAY,78,Y The Last Man,33,2.99,DC,26878
+COMIC,2005,MAY,79,Batman Jekyll & Hyde,2,2.99,DC,26332
+COMIC,2005,MAY,80,Batman Legends of the Dark Knight,191,2.5,DC,25932
+COMIC,2005,MAY,81,Cable/Deadpool,15,2.99,Marvel,24832
+COMIC,2005,MAY,82,Year One Batman/Scarecrow,1,5.99,DC,24759
+COMIC,2005,MAY,83,Fables,37,2.5,DC,24473
+COMIC,2005,MAY,84,Marvel Team-Up,8,2.99,Marvel,24266
+COMIC,2005,MAY,85,Adam Strange,8,2.99,DC,23480
+COMIC,2005,MAY,86,Stormbreaker Saga of Beta Ray Bill,5,2.99,Marvel,23253
+COMIC,2005,MAY,88,Ex Machina,11,2.99,DC,21881
+COMIC,2005,MAY,89,Rogue,10,2.99,Marvel,21841
+COMIC,2005,MAY,90,Desolation Jones,1,2.99,DC,21828
+COMIC,2005,MAY,91,Rogue,11,2.99,Marvel,21454
+COMIC,2005,MAY,92,Daredevil Redemption,4,2.99,Marvel,21115
+COMIC,2005,MAY,93,G.I. Joe,43,4.5,Devil's Due,21035
+COMIC,2005,MAY,94,Star Wars Obsession,5,2.99,Dark Horse,20861
+COMIC,2005,MAY,95,Catwoman,43,2.5,DC,20815
+COMIC,2005,MAY,96,Rising Stars Voices of the Dead,1,2.99,Image,20428
+COMIC,2005,MAY,97,Hawkman,40,2.5,DC,19909
+COMIC,2005,MAY,98,Gambit,10,2.99,Marvel,19869
+COMIC,2005,MAY,99,Monster War Magdalena Vs Dracula,1,2.99,Image,19815
+COMIC,2005,MAY,100,Captain America & Falcon,14,2.99,Marvel,19629
+COMIC,2005,MAY,101,Hercules,2,2.99,Marvel,19496
+COMIC,2005,MAY,102,District X,13,2.99,Marvel,19456
+COMIC,2005,MAY,103,Spider-Girl,86,2.99,Marvel,19449
+COMIC,2005,MAY,104,Authority ReVol.ution,8,2.99,DC,19442
+COMIC,2005,MAY,105,City of Heroes,1*,2.99,Image,19236
+COMIC,2005,MAY,106,Firestorm,13,2.5,DC,18896
+COMIC,2005,MAY,107,Arana Heart of the Spider,4,2.99,Marvel,18749
+COMIC,2005,MAY,108,Star Wars Empire,31,2.99,Dark Horse,18669
+COMIC,2005,MAY,109,Aquaman,30,2.5,DC,18603
+COMIC,2005,MAY,110,Blood of the Demon,3,2.5,DC,18130
+COMIC,2005,MAY,111,Amazing Fantasy,8,2.99,Marvel,17770
+COMIC,2005,MAY,112,Friday The 13th Sp,1,3.99,Avatar,17450
+COMIC,2005,MAY,113,Star Wars Tales,23,5.99,Dark Horse,17357
+COMIC,2005,MAY,114,Spider-Man Unltd,9,2.99,Marvel,16950
+COMIC,2005,MAY,115,"G.I. Joe Master &Apprentice Vol. II",4,2.95,Devil's Due,16904
+COMIC,2005,MAY,116,Spider-Man/Human Torch,4,2.99,Marvel,16890
+COMIC,2005,MAY,117,Machine Teen,1,2.99,Marvel,16524
+COMIC,2005,MAY,118,Gotham Central,31,2.5,DC,16377
+COMIC,2005,MAY,119,Witchblade,85,2.99,Image,15978
+COMIC,2005,MAY,120,Majestic,5,2.99,DC,15911
+COMIC,2005,MAY,121,Doom Patrol,12,2.5,DC,15744
+COMIC,2005,MAY,122,Hellblazer,208,2.75,DC,15418
+COMIC,2005,MAY,123,G.I. Joe Reloaded,14,2.95,Devil's Due,15338
+COMIC,2005,MAY,124,100 Bullets,61,2.5,DC,14925
+COMIC,2005,MAY,125,Darkness,20,2.99,Image,14785
+COMIC,2005,MAY,126,Teen Titans Go,19,2.25,DC,14345
+COMIC,2005,MAY,127,Otherworld,3,2.99,DC,14019
+COMIC,2005,MAY,128,Manhunter,10,2.5,DC,13739
+COMIC,2005,MAY,129,Lucifer,62,2.5,DC,13246
+COMIC,2005,MAY,130,Girls,1,2.95,Image,12353
+COMIC,2005,MAY,131,Man W/Screaming Brain,1,2.99,Dark Horse,12333
+COMIC,2005,MAY,132,Books of Magick Life During Wartime,11,2.5,DC,12080
+COMIC,2005,MAY,133,Spellbinders,3,2.99,Marvel,12066
+COMIC,2005,MAY,134,Simpsons Comics,106,2.99,Bongo,11907
+COMIC,2005,MAY,135,Justice League Unltd,9,2.25,DC,11867
+COMIC,2005,MAY,136,City of Tomorrow,2,2.99,DC,11673
+COMIC,2005,MAY,137,Swamp Thing,15,2.99,DC,11540
+COMIC,2005,MAY,138,Power Pack,2,2.99,Marvel,11287
+COMIC,2005,MAY,139,Livewires,4,2.99,Marvel,11087
+COMIC,2005,MAY,140,Intimates,7,2.99,DC,10687
+COMIC,2005,MAY,141,Matador,1,2.99,DC,10527
+COMIC,2005,MAY,142,Tarot Witch of the Black Rose,32,2.95,Broadsword,10441
+COMIC,2005,MAY,143,Batman Strikes,9,2.25,DC,10374
+COMIC,2005,MAY,144,Fallen Angel,20,2.99,DC,10281
+COMIC,2005,MAY,145,Sleeper Season Two,12,2.99,DC,10254
+COMIC,2005,MAY,146,Brian Pulidos Medieval Lady Death,2,3.99,Avatar,10247
+COMIC,2005,MAY,147,Power Pack,3,2.99,Marvel,10141
+COMIC,2005,MAY,148,"Brian Pulidos Lady Death AbandonAll Hope",1/2,2.99,Avatar,10094
+COMIC,2005,MAY,149,Marvel Must Haves Nyx,,4.99,Marvel,10034
+COMIC,2005,MAY,150,Marvel Adventures Fantastic Four,0,1.99,Marvel,9721
+COMIC,2005,MAY,152,Breach,5,2.5,DC,9674
+COMIC,2005,MAY,153,"John Constantine Hellblazer Sp PapaMidnite",4,2.99,DC,9515
+COMIC,2005,MAY,154,Goon,12,2.99,Dark Horse,9441
+COMIC,2005,MAY,155,Shadowhawk,1,2.99,Image,9415
+COMIC,2005,MAY,156,Marvel Adventures Spider-Man,3,2.5,Marvel,9108
+COMIC,2005,MAY,157,Mary Jane Homecoming,3,2.99,Marvel,9015
+COMIC,2005,MAY,158,Concrete Human Dilemma,5,3.5,Dark Horse,8908
+COMIC,2005,MAY,159,Losers,24,2.99,DC,8835
+COMIC,2005,MAY,160,Mnemovore,2,2.99,DC,8768
+COMIC,2005,MAY,161,Plastic Man,16,2.99,DC,8475
+COMIC,2005,MAY,162,X-Men Phoenix Endsong,5,2.99,Marvel,8449
+COMIC,2005,MAY,163,30 Days of Night Bloodsuckers Tales,8,3.99,IDW,8342
+COMIC,2005,MAY,164,Grimjack Killer Instinct,4,3.99,IDW,8262
+COMIC,2005,MAY,165,Sonic The Hedgehog,149,2.19,Archie,8122
+COMIC,2005,MAY,166,Bigfoot,3,3.99,IDW,8029
+COMIC,2005,MAY,167,Deadworld,1,3.5,Image,7642
+COMIC,2005,MAY,168,Legend,4,5.99,DC,7622
+COMIC,2005,MAY,169,Shonen Jump Vol. 3 Jun 2005,6,4.99,Viz,7223
+COMIC,2005,MAY,170,Billy The Kids Old Time Oddities,2,2.99,Dark Horse,6956
+COMIC,2005,MAY,171,Night Club,1,2.95,Image,6630
+COMIC,2005,MAY,173,Usagi Yojimbo,83,2.99,Dark Horse,6463
+COMIC,2005,MAY,174,Tales of the Thing,3,2.5,Marvel,6316
+COMIC,2005,MAY,175,Batman,638 2nd Ptg,2.25,DC,6276
+COMIC,2005,MAY,176,PVP,17,2.95,Image,6256
+COMIC,2005,MAY,177,Desperado Primer,,1.99,Image,6136
+COMIC,2005,MAY,178,Twilight Experiment,4,2.99,DC,6077
+COMIC,2005,MAY,179,Damn Nation,3,2.99,Dark Horse,6003
+COMIC,2005,MAY,180,Common Foe,1,3.5,Image,5977
+COMIC,2005,MAY,181,Marvel Must Haves Ultimates 2,,4.99,Marvel,5817
+COMIC,2005,MAY,182,Casefiles Sam & Twitch,16,2.5,Image,5683
+COMIC,2005,MAY,183,New West,2,4.99,Wizard,5670
+COMIC,2005,MAY,184,Brian Pulidos War Angel,1,3.5,Avatar,5663
+COMIC,2005,MAY,185,Castlevania Belmont Legacy,3,3.99,IDW,5650
+COMIC,2005,MAY,186,The Gift,11,2.99,Image,5097
+COMIC,2005,MAY,187,Uncle Scrooge,342,6.95,Gemstone,5077
+COMIC,2005,MAY,188,10th Muse Vol. 2,1,2.99,Alias,4944
+COMIC,2005,MAY,189,Sea of Red,2,2.95,Image,4891
+COMIC,2005,MAY,190,Powerpuff Girls,61,2.25,DC,4891
+COMIC,2005,MAY,191,Powerpuff Girls,62,2.25,DC,4764
+COMIC,2005,MAY,192,Scooby Doo,96,2.25,DC,4717
+COMIC,2005,MAY,193,CSI Secret Identity,3,3.99,IDW,4644
+COMIC,2005,MAY,194,Blade of the Immortal,101,2.99,Dark Horse,4611
+COMIC,2005,MAY,195,Hero Camp,1,2.95,Image,4577
+COMIC,2005,MAY,196,Donald Duck & Friends,328,2.95,Gemstone,4544
+COMIC,2005,MAY,198,Battle Hymn,2,2.95,Image,4311
+COMIC,2005,MAY,199,Mickey Mouse & Friends,277,2.95,Gemstone,4284
+COMIC,2005,MAY,200,Lions Tigers & Bears,4,2.95,Image,4264
+COMIC,2005,MAY,201,Adventures of Superman,639,2.5,DC,4131
+COMIC,2005,MAY,202,Raymond Feists Wood Boy,1,2.95,Image,4118
+COMIC,2005,MAY,203,Jingle Belle,4,2.99,Dark Horse,4044
+COMIC,2005,MAY,204,"Walt Disneys Comics &Stories",657,6.95,Gemstone,3964
+COMIC,2005,MAY,205,Armor X,3,2.95,Image,3638
+COMIC,2005,MAY,206,Superman,215,2.99,DC,3605
+COMIC,2005,MAY,207,Judo Girl,1,2.99,Alias,3605
+COMIC,2005,MAY,208,New Avengers,5,2.25,Marvel,3585
+COMIC,2005,MAY,209,Action Comics,826,2.5,DC,3525
+COMIC,2005,MAY,210,Superman/Batman,19,2.99,DC,3358
+COMIC,2005,MAY,211,Tales of Tmnt,10,3.25,Mirage,3325
+COMIC,2005,MAY,212,DC Countdown To Infinite Crisis,1 2nd Ptg,1.99,DC,3325
+COMIC,2005,MAY,213,Grimoire,3,2.99,Speakeasy,3305
+COMIC,2005,MAY,214,Mark Waid Hunter Killer Scriptbook,1,4.99,Image,3278
+COMIC,2005,MAY,215,Jade Fire,1,3.5,Kandora,3251
+COMIC,2005,MAY,216,NYC Mech Beta Love,1,2.95,Image,3211
+COMIC,2005,MAY,217,Zorro,1,2.95,NBM,3192
+COMIC,2005,MAY,218,Super Manga Blast,51,5.99,Dark Horse,3165
+COMIC,2005,MAY,219,Desperadoes Banners of Gold,5,3.99,IDW,3158
+COMIC,2005,MAY,220,Seventh Shrine,2,5.95,Image,3092
+COMIC,2005,MAY,221,Freedom Force,4,2.95,Image,2972
+COMIC,2005,MAY,222,Young Avengers,3,2.99,Marvel,2938
+COMIC,2005,MAY,223,Freedom Force,5,2.95,Image,2938
+COMIC,2005,MAY,224,Golden Plates,2,7.99,AAA Milwaukee,2932
+COMIC,2005,MAY,225,Karney,2,3.99,IDW,2858
+COMIC,2005,MAY,226,Looney Tunes,126,2.25,DC,2852
+COMIC,2005,MAY,227,Expatriate,2,2.95,Image,2798
+COMIC,2005,MAY,228,Archie,557,2.19,Archie,2738
+COMIC,2005,MAY,229,Jack Staff,8,3.5,Image,2678
+COMIC,2005,MAY,230,Hunger,1,2.99,Speakeasy,2552
+COMIC,2005,MAY,231,Hunter Killer,2,2.99,Image,2472
+COMIC,2005,MAY,232,Eric Reds Containment,5,3.99,IDW,2385
+COMIC,2005,MAY,233,Nightjar,4,3.5,Avatar,2279
+COMIC,2005,MAY,234,Archie & Friends,91,2.19,Archie,2265
+COMIC,2005,MAY,235,Veronica,161,2.19,Archie,2192
+COMIC,2005,MAY,236,Betty & Veronica Spectacular,70,2.19,Archie,2152
+COMIC,2005,MAY,237,Cartoon Network Block Party,9,2.25,DC,2059
+COMIC,2005,MAY,238,Identity Crisis,1,3.95,DC,2026
+COMIC,2005,MAY,239,Barbarossa & Lost Corsairs,2,3.5,Kandora,2012
+COMIC,2005,MAY,241,"Star Wars Episode III Revenge ofthe Sith",4,2.99,Dark Horse,1919
+COMIC,2005,MAY,242,Teen Titans,23,2.5,DC,1872
+COMIC,2005,MAY,243,"Betty & Veronica DoubleDigest",133,3.59,Archie,1859
+COMIC,2005,MAY,244,"Star Wars Episode III Revenge ofthe Sith",1,2.99,Dark Horse,1852
+COMIC,2005,MAY,245,Jughead,165,2.19,Archie,1819
+COMIC,2005,MAY,246,Identity Crisis,7,3.95,DC,1806
+COMIC,2005,MAY,247,Strange Eggs,1,3.95,Slave Labor,1792
+COMIC,2005,MAY,248,Easy Way,2,3.99,IDW,1739
+COMIC,2005,MAY,249,Identity Crisis,6,3.95,DC,1732
+COMIC,2005,MAY,250,Green Lantern Rebirth,2,2.99,DC,1712
+COMIC,2005,MAY,251,Identity Crisis,5 Final Ptg,3.99,DC,1706
+COMIC,2005,MAY,252,Archie Double Digest,161,3.59,Archie,1699
+COMIC,2005,MAY,253,Gold Digger Swimsuit Sp 2005,1,4.5,Antarctic,1679
+COMIC,2005,MAY,254,Green Lantern Rebirth,5,2.95,DC,1646
+COMIC,2005,MAY,255,Identity Crisis,4 Final Ptg,3.99,DC,1646
+COMIC,2005,MAY,256,Pakkins Land Vol. 2,1,2.99,Alias,1599
+COMIC,2005,MAY,257,Ultimate Secret,2,2.99,Marvel,1586
+COMIC,2005,MAY,258,Archie Digest,216,2.39,Archie,1586
+COMIC,2005,MAY,259,Identity Crisis,2,3.95,DC,1579
+COMIC,2005,MAY,260,Ninja High School,128,2.99,Antarctic,1579
+COMIC,2005,MAY,261,"Star Wars Episode III Revenge ofthe Sith",2,2.99,Dark Horse,1572
+COMIC,2005,MAY,262,Young Avengers,2,2.99,Marvel,1552
+COMIC,2005,MAY,263,Seven Soldiers Zatanna,1,2.99,DC,1539
+COMIC,2005,MAY,264,"Star Wars Episode III Revenge ofthe Sith",3,2.99,Dark Horse,1539
+COMIC,2005,MAY,265,Fade From Grace,5,1.99,Beckett,1532
+COMIC,2005,MAY,266,Ultimates 2,5,2.99,Marvel,1499
+COMIC,2005,MAY,267,Identity Crisis,3,3.95,DC,1466
+COMIC,2005,MAY,268,Wonder Woman,215,2.25,DC,1459
+COMIC,2005,MAY,269,Flare,5,2.99,Heroic,1459
+COMIC,2005,MAY,270,Tales From Riverdale Digest,2,2.39,Archie,1433
+COMIC,2005,MAY,271,Friday The 13th Sp,1 Plat Foil Inc,4.8,Avatar,1433
+COMIC,2005,MAY,272,Ag Super Erotic Anthology,13,4.99,Icarus,1419
+COMIC,2005,MAY,273,Green Lantern Rebirth,4,2.95,DC,1399
+COMIC,2005,MAY,274,Green Lantern Rebirth,3,2.95,DC,1399
+COMIC,2005,MAY,275,Spider-Man Breakout,1,2.99,Marvel,1379
+COMIC,2005,MAY,276,Star Wars General Grievous,2,2.99,Dark Horse,1333
+COMIC,2005,MAY,277,Shaolin Cowboy,1 New Ptg,3.5,Burlyman,1279
+COMIC,2005,MAY,278,Milk,46,3.5,Radio,1253
+COMIC,2005,MAY,279,Seven Soldiers Klarion The Witch Boy,1,2.99,DC,1253
+COMIC,2005,MAY,280,Flare,6,2.99,Heroic,1246
+COMIC,2005,MAY,281,Spunky Knight XXX,1,3.95,Fantagraphics,1233
+COMIC,2005,MAY,282,Flash,221,2.25,DC,1233
+COMIC,2005,MAY,283,Friday The 13th Sp,1,5.99,Avatar,1166
+COMIC,2005,MAY,284,Green Lantern Rebirth,1 4th Ptg,2.95,DC,1166
+COMIC,2005,MAY,285,Sex Warrior Isane XXX,4,3.95,Fantagraphics,1159
+COMIC,2005,MAY,286,Furrlough,147,3.5,Radio,1153
+COMIC,2005,MAY,287,Finder,36,2.95,Lightspeed,1153
+COMIC,2005,MAY,288,Amazing Spider-Man,519,2.25,Marvel,1133
+COMIC,2005,MAY,289,Otherworld,2,2.99,DC,1119
+COMIC,2005,MAY,290,Living with Zombies,2,2.5,Frightworld,1086
+COMIC,2005,MAY,291,Runaways,3,2.99,Marvel,1086
+COMIC,2005,MAY,292,Lullaby Wisdom Seeker,2,2.95,Image,1073
+COMIC,2005,MAY,293,Captain America,5,2.99,Marvel,966
+COMIC,2005,MAY,294,Erika Telekinetika,3,3.95,Fantagraphics,953
+COMIC,2005,MAY,295,Heaven Sent,10,2.99,Antarctic,939
+COMIC,2005,MAY,296,Cat W/Really Big Head,,2.95,Slave Labor,933
+COMIC,2005,MAY,297,Robert Crumbs Zap Comix,15,4.95,Last Gasp,919
+COMIC,2005,MAY,298,I Hunt Monsters Vol. 2,5,2.99,Antarctic,899
+COMIC,2005,MAY,299,Fade From Blue,10,4.95,Second to Some,893
+COMIC,2005,MAY,300,Drawn & Quarterly,8,3.75,Drawn & Quarterly,860
+TPB,2005,MAY,1,"Walking Dead Vol. 3 Safety BehindBars",,12.95,Image,6576
+TPB,2005,MAY,2,Soulfire Collected Ed,,6.99,Aspen,5757
+TPB,2005,MAY,3,Samurai Executioner Vol. 4,,9.95,Dark Horse,5464
+TPB,2005,MAY,4,Dark Horse Book of the Dead HC,,14.95,Dark Horse,5284
+TPB,2005,MAY,5,Fruits Basket Vol. 9,,9.99,Tokyopop,4904
+TPB,2005,MAY,6,Powers Vol. 8 Legends,,17.95,Marvel,4824
+TPB,2005,MAY,7,Essential Defenders Vol. 1,,16.99,Marvel,4797
+TPB,2005,MAY,8,"Teen Titans Beast Boys &Girls",,9.99,DC,4564
+TPB,2005,MAY,9,Fullmetal Alchemist Vol. 1,,9.99,Viz,4371
+TPB,2005,MAY,10,Berserk Vol. 7,,13.95,Dark Horse,4271
+TPB,2005,MAY,11,Superman Wrath of Gog,,14.99,DC,4058
+TPB,2005,MAY,12,Wanted HC,,29.99,Image,4024
+TPB,2005,MAY,13,Trigun Maximum Vol. 5 Break Out,,9.95,Dark Horse,3998
+TPB,2005,MAY,14,Essential Thor Vol. 2,,16.99,Marvel,3938
+TPB,2005,MAY,15,Amazing Spider-Man Vol. 9 Skin Deep,,9.99,Marvel,3918
+TPB,2005,MAY,17,Punisher Max Vol. 3 Mother Russia,,14.99,Marvel,3531
+TPB,2005,MAY,18,Hellblazer Red Sepulchre,,12.99,DC,3478
+TPB,2005,MAY,19,Complete Peanuts Vol. 3 1955-1956 HC,,28.95,Fantagraphics,3458
+TPB,2005,MAY,20,Street Fighter Vol. 2,,13.99,Devil's Due,3258
+TPB,2005,MAY,21,Batman Broken City,,14.99,DC,3145
+TPB,2005,MAY,22,Gotham Central Half A Life,,14.99,DC,3145
+TPB,2005,MAY,23,X-Men Eve of Destruction,,14.99,Marvel,3132
+TPB,2005,MAY,25,Olympus,,14.99,DC,3078
+TPB,2005,MAY,27,Ranma 1/2 Vol. 30,,9.95,Viz,2892
+TPB,2005,MAY,28,Dnangel Vol. 8,,9.99,Tokyopop,2865
+TPB,2005,MAY,30,Giant Size Marvel,,24.99,Marvel,2732
+TPB,2005,MAY,31,Tsubasa Vol. 5,,10.95,Random House,2685
+TPB,2005,MAY,32,Star Wars Ep III Revenge of the Sith,,12.95,Dark Horse,2672
+TPB,2005,MAY,33,Fantastic Four Vol. 6 Rising Storm,,13.99,Marvel,2638
+TPB,2005,MAY,34,"Avengers Kang Time & TimeAgain",,19.99,Marvel,2625
+TPB,2005,MAY,35,Ultra Vol. 1 Seven Days,,17.95,Image,2552
+TPB,2005,MAY,36,Eisner Miller,,19.95,Dark Horse,2545
+TPB,2005,MAY,37,Ai Yori Aoshi Vol. 9,,9.99,Tokyopop,2539
+TPB,2005,MAY,38,D3 G.I. Joe Arashikage Showdown,,10.95,Devil's Due,2525
+TPB,2005,MAY,39,Marvel Team-Up Vol. 1 Golden Child,,14.99,Marvel,2479
+TPB,2005,MAY,40,Nightwing of the Razors Edge,,14.99,DC,2459
+TPB,2005,MAY,41,Wrath of the Spectre,,19.99,DC,2439
+TPB,2005,MAY,43,Losers Trifecta,,14.99,DC,2432
+TPB,2005,MAY,44,Mickey Mouse Adventures Vol. 3,,7.95,Gemstone,2325
+TPB,2005,MAY,45,"New Thunderbolts Vol. 1 One StepForward",,14.99,Marvel,2292
+TPB,2005,MAY,46,JSA Golden Age New Ed,,19.99,DC,2219
+TPB,2005,MAY,48,"Excalibur Vol. 2 Saturday NightFever",,14.99,Marvel,2152
+TPB,2005,MAY,49,"Essential Fantastic Four Vol. 1 NewPtg",,16.99,Marvel,2139
+TPB,2005,MAY,50,"Little Lulu Vol. 3 My Dinner WithLulu",,9.95,Dark Horse,2092
+TPB,2005,MAY,51,Walking Dead Vol. 1 Days Gone Bye,,9.95,Image,2079
+TPB,2005,MAY,52,King of Wolves,,12.95,Dark Horse,2052
+TPB,2005,MAY,54,Nightcrawler Devil Inside,,14.99,Marvel,1986
+TPB,2005,MAY,55,Hawkman Vol. 3 Wings of Fury,,17.99,DC,1966
+TPB,2005,MAY,57,Ojo,,14.95,Oni,1919
+TPB,2005,MAY,58,Batman Strikes Vol. 1 Crime Time,,6.99,DC,1886
+TPB,2005,MAY,59,Legal Drug Vol. 3,,9.99,Tokyopop,1826
+TPB,2005,MAY,60,Ultimate Adventures One Tin Soldier,,12.99,Marvel,1826
+TPB,2005,MAY,61,Saiyuki Vol. 8,,9.99,Tokyopop,1819
+TPB,2005,MAY,62,"Kolchak The Night Stalker Eve ofTerror",,5.95,Moonstone,1772
+TPB,2005,MAY,63,Tokyo Mew Mew Vol. 1 A La Mode,,9.99,Tokyopop,1699
+TPB,2005,MAY,64,Complete Jon Sable Freelance Vol. 1,,24.99,IDW,1679
+TPB,2005,MAY,66,Get Backers Vol. 9,,9.99,Tokyopop,1646
+TPB,2005,MAY,67,Best of the Fantastic Four Vol. 1 HC,,29.99,Marvel,1626
+TPB,2005,MAY,68,Dampyr Vol. 2,,7.99,IDW,1626
+TPB,2005,MAY,70,Samurai Deeper Kyo Vol. 13,,9.99,Tokyopop,1599
+TPB,2005,MAY,71,Emma Frost Vol. 3 Bloom Digest,,7.99,Marvel,1592
+TPB,2005,MAY,72,Initial D Vol. 18,,9.99,Tokyopop,1586
+TPB,2005,MAY,73,Tenjho Tenge Vol. 2,,9.99,DC,1526
+TPB,2005,MAY,74,G.I. Joe Vs Transformers Vol. 2,,14.95,Devil's Due,1446
+TPB,2005,MAY,75,Houdini Man From Beyond,,16.95,Image,1439
+TPB,2005,MAY,76,"Don Bluth Vol. 1 Art of AnimationDrawing",,14.95,Dark Horse,1406
+TPB,2005,MAY,77,Hell House Vol. 3,,6.49,IDW,1379
+TPB,2005,MAY,78,Psychic Academy Vol. 8,,9.99,Tokyopop,1373
+TPB,2005,MAY,79,Mahoromatic Automatic Maiden Vol. 6,,9.99,Tokyopop,1319
+TPB,2005,MAY,80,Preacher Vol. 1 Gone To Texas New Ed,,14.99,DC,1313
+TPB,2005,MAY,83,"Runaways Vol. 1 Pride & JoyDigest",,7.99,Marvel,1279
+TPB,2005,MAY,84,Ceres Celestial Legend Vol. 11,,9.95,Viz,1279
+TPB,2005,MAY,86,Alichino Vol. 2,,9.99,Tokyopop,1259
+TPB,2005,MAY,87,Human Torch Vol. 1 Burn Digest,,7.99,Marvel,1259
+TPB,2005,MAY,89,Bone One Vol. Ed Sc,,39.95,Cartoon,1253
+TPB,2005,MAY,91,Excel Saga Vol. 12,,9.99,Viz,1233
+TPB,2005,MAY,93,Arcana Vol. 1,,9.99,Tokyopop,1213
+TPB,2005,MAY,94,Descendants of Darkness Vol. 5,,9.99,Viz,1213
+TPB,2005,MAY,95,Rex Mundi Vol. 2 River Underground,,14.95,Image,1206
+TPB,2005,MAY,96,Captain Britain New Ptg,,19.99,Marvel,1179
+TPB,2005,MAY,97,Crescent Moon Vol. 6,,9.99,Tokyopop,1179
+TPB,2005,MAY,99,X/1999 Vol. 18 Inversion,,9.95,Viz,1166

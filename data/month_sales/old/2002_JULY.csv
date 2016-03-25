@@ -1,0 +1,347 @@
+PUBLICATION_FORMAT,YEAR,MONTH,SALES_RANK,TITLE,ISSUE,PRICE,PUBLISHER,EST_SALES
+COMIC,2002,JULY,*,Gen 13,0,0.13,DC,115924
+COMIC,2002,JULY,1,Transformers Armada,1,2.95,Dreamwave,145567
+COMIC,2002,JULY,2,Transformers Generation One,4,2.95,Dreamwave,135066
+COMIC,2002,JULY,3,Battle of the Planets,1,2.95,Image,117581
+COMIC,2002,JULY,4,Ultimates,7,2.25,Marvel,109656
+COMIC,2002,JULY,5,Spider-Man/Black Cat Evil Men Do,2,2.99,Marvel,108811
+COMIC,2002,JULY,6,Amazing Spider-Man,43,2.25,Marvel,105998
+COMIC,2002,JULY,7,New X-Men,129,2.25,Marvel,105823
+COMIC,2002,JULY,8,Ultimate X-Men,20,2.25,Marvel,99516
+COMIC,2002,JULY,9,Ultimate Spider-Man,24,2.25,Marvel,99014
+TPB,2002,JULY,10,Uncanny X-Men,408,2.25,Marvel,93248
+TPB,2002,JULY,11,Uncanny X-Men,409,2.25,Marvel,93107
+TPB,2002,JULY,12,Spider-Man Blue,3,3.5,Marvel,75284
+TPB,2002,JULY,13,Wolverine,179,2.25,Marvel,72911
+TPB,2002,JULY,14,Green Arrow,15 (Res),2.5,DC,71755
+TPB,2002,JULY,15,X-Treme X-Men,15,2.99,Marvel,70588
+TPB,2002,JULY,16,X-Treme X-Men,16,2.99,Marvel,70346
+TPB,2002,JULY,17,Captain America,4,2.99,Marvel,70284
+TPB,2002,JULY,18,G.I. Joe,8,2.95,Image,69585
+TPB,2002,JULY,19,JLA,68,2.25,DC,64230
+TPB,2002,JULY,20,Spider-Man Peter Parker,46,2.25,Marvel,62116
+TPB,2002,JULY,21,Batman,605,2.95,DC,56367
+TPB,2002,JULY,22,Avengers,56,2.25,Marvel,55471
+TPB,2002,JULY,23,"League Of Extraordinary GentlemenVol. II",1,3.5,DC,54574
+TPB,2002,JULY,24,Daredevil,35,2.99,Marvel,53594
+TPB,2002,JULY,25,Detective Comics,772,2.5,DC,52111
+TPB,2002,JULY,26,Incredible Hulk,43,2.25,Marvel,51485
+TPB,2002,JULY,27,X-Statix,1,2.99,Marvel,50657
+TPB,2002,JULY,28,Punisher,14,2.99,Marvel,48357
+TPB,2002,JULY,29,JSA,38,2.5,DC,45753
+TPB,2002,JULY,30,Fantastic Four,58,2.25,Marvel,45685
+TPB,2002,JULY,31,Batman Gotham Knights,31,2.5,DC,45477
+TPB,2002,JULY,32,Spawn,124,2.5,Image,43893
+TPB,2002,JULY,33,Hawkman,5,2.5,DC,41999
+TPB,2002,JULY,34,Exiles,15,2.25,Marvel,41717
+TPB,2002,JULY,35,Superman,184,2.25,DC,40832
+TPB,2002,JULY,36,Green Lantern,152,2.25,DC,40173
+TPB,2002,JULY,37,Agent X,1,2.99,Marvel,40071
+TPB,2002,JULY,38,X-Men Unlimited,37,3.5,Marvel,40032
+TPB,2002,JULY,39,Thor,51,2.25,Marvel,39716
+TPB,2002,JULY,40,Soldier X,1,2.99,Marvel,39085
+TPB,2002,JULY,41,Iron Man,57,2.25,Marvel,38544
+TPB,2002,JULY,42,Paradise X,4,2.99,Marvel,38093
+TPB,2002,JULY,43,Batgirl,30,2.5,DC,37636
+TPB,2002,JULY,44,Kiss,1,2.99,Dark Horse,37388
+TPB,2002,JULY,45,Spider-Man Quality Of Life,3,2.99,Marvel,37247
+TPB,2002,JULY,46,Nightwing,71,2.25,DC,37202
+TPB,2002,JULY,47,Action Comics,793,2.25,DC,37134
+TPB,2002,JULY,48,Adventures Of Superman,606,2.25,DC,36700
+TPB,2002,JULY,49,Spider-Man Get Kraven,2,2.25,Marvel,36531
+TPB,2002,JULY,50,Superman Man Of Steel,128,2.25,DC,35641
+TPB,2002,JULY,51,Call Of Duty Precinct,1,2.25,Marvel,35449
+TPB,2002,JULY,52,Infinity Abyss,3,2.99,Marvel,34931
+TPB,2002,JULY,53,Infinity Abyss,4,2.99,Marvel,34519
+TPB,2002,JULY,54,X-Factor,3,2.5,Marvel,33893
+TPB,2002,JULY,55,Sabertooth Mary Shelley Overdrive,2,2.99,Marvel,33786
+TPB,2002,JULY,56,Elektra,12,2.99,Marvel,33685
+TPB,2002,JULY,57,Alias,11,2.99,Marvel,32355
+TPB,2002,JULY,58,Alias,12,2.99,Marvel,32304
+TPB,2002,JULY,59,Call Of Duty Brotherhood,2,2.25,Marvel,32276
+TPB,2002,JULY,60,Cage,5,2.99,Marvel,32078
+TPB,2002,JULY,61,Flash,188,2.95,DC,31797
+TPB,2002,JULY,62,Catwoman,9,2.5,DC,30962
+TPB,2002,JULY,63,"Star Wars Infinities Empire StrikesBack",1,2.99,Dark Horse,30139
+TPB,2002,JULY,64,Thunderbolts,67,2.25,Marvel,30128
+TPB,2002,JULY,65,Thunderbolts,68,2.25,Marvel,30010
+TPB,2002,JULY,66,Pro,,5.95,Image,29931
+TPB,2002,JULY,67,Stormwatch Achilles,1,2.95,DC,29688
+TPB,2002,JULY,68,Batman Legends of the Dark Knight,157,2.25,DC,29649
+TPB,2002,JULY,69,Robin,104,2.25,DC,28899
+TPB,2002,JULY,70,Powers,23,2.95,Image,28781
+TPB,2002,JULY,71,Spider-Man Tangled Web,16,2.99,Marvel,28764
+TPB,2002,JULY,72,Birds Of Prey,45,2.5,DC,28753
+TPB,2002,JULY,73,Deadpool,69,2.25,Marvel,28730
+TPB,2002,JULY,74,Tomb Raider,23,2.99,Image,28702
+TPB,2002,JULY,75,Cable,107,2.25,Marvel,28663
+TPB,2002,JULY,76,Order,6,2.25,Marvel,28381
+TPB,2002,JULY,77,"Battle of the Planets Ross HolofoilCvr",1,5.95,Image,28043
+TPB,2002,JULY,79,Filth,2,2.95,DC,27552
+TPB,2002,JULY,80,Marvel Mangaverse,4,2.25,Marvel,27468
+TPB,2002,JULY,81,Witchblade,57,2.5,Image,27039
+TPB,2002,JULY,82,Spider-Girl,49,2.25,Marvel,26611
+TPB,2002,JULY,83,Wonder Woman,183,2.25,DC,26588
+TPB,2002,JULY,84,Legion,10,2.5,DC,26532
+TPB,2002,JULY,85,Star Wars Jango Fett Open Seasons,3,2.99,Dark Horse,26273
+TPB,2002,JULY,86,Young Justice,47,2.5,DC,25810
+TPB,2002,JULY,87,Sojourn,13,2.95,Crossgen,25782
+TPB,2002,JULY,88,Hellboy Third Wish,1,2.99,Dark Horse,25782
+TPB,2002,JULY,89,Apache Skies,1,2.99,Marvel,25669
+TPB,2002,JULY,90,Captain Marvel,34,2.5,Marvel,24367
+TPB,2002,JULY,91,Titans,43,2.5,DC,24255
+TPB,2002,JULY,92,JLA Destiny,2,5.95,DC,24221
+TPB,2002,JULY,93,Marvel Knights Double Shot,4 (Res),2.99,Marvel,24159
+TPB,2002,JULY,94,Superman Aliens II Godwar,2,2.99,Dark Horse,24136
+TPB,2002,JULY,95,Marvel Knights Vol. 2,5,2.99,Marvel,24046
+TPB,2002,JULY,96,Thing Freakshow,2,2.99,Marvel,23984
+TPB,2002,JULY,97,Blade,5,2.99,Marvel,22958
+TPB,2002,JULY,98,Harley Quinn,22,2.25,DC,22547
+TPB,2002,JULY,99,Hood,3,2.99,Marvel,22085
+TPB,2002,JULY,100,Elektra Glimpse & Echo,1,3.5,Marvel,21600
+TPB,2002,JULY,101,Star Wars,44,2.99,Dark Horse,21369
+TPB,2002,JULY,102,Beautiful Killer,1,2.99,Wizard,21092
+TPB,2002,JULY,103,Muties,6,2.5,Marvel,20918
+TPB,2002,JULY,104,Morlocks,4,2.5,Marvel,20664
+TPB,2002,JULY,105,Black Panther,47,2.5,Marvel,20546
+TPB,2002,JULY,106,Lone Wolf 2100,3,2.99,Dark Horse,20489
+TPB,2002,JULY,107,Supergirl,72,2.25,DC,20478
+TPB,2002,JULY,108,Hellblazer,176,2.5,DC,20348
+TPB,2002,JULY,109,Way of the Rat,3,2.95,Crossgen,20303
+TPB,2002,JULY,110,Warlands Age Of Ice,7,2.95,Dreamwave,20208
+TPB,2002,JULY,111,Fables,3,2.5,DC,19469
+TPB,2002,JULY,112,Power Company,6,2.5,DC,18889
+TPB,2002,JULY,113,Deadline,4,2.99,Marvel,18832
+TPB,2002,JULY,114,100 Bullets,38,2.5,DC,18719
+TPB,2002,JULY,115,Spectre,19,2.5,DC,18641
+TPB,2002,JULY,116,Route 666,2,2.95,Crossgen,18392
+TPB,2002,JULY,117,Doom Patrol,10,2.5,DC,18195
+TPB,2002,JULY,118,Justice League Adventures,9,1.99,DC,18015
+TPB,2002,JULY,119,Transmetropolitan,58,2.5,DC,17925
+TPB,2002,JULY,120,Scion,26,2.95,Crossgen,17632
+TPB,2002,JULY,121,"Buffy the Vampire Slayer Willow& Tara Wilderness",1,2.99,Dark Horse,17530
+TPB,2002,JULY,122,High Roads,4,2.95,DC,17451
+TPB,2002,JULY,123,Buffy the Vampire Slayer,47,2.99,Dark Horse,17417
+TPB,2002,JULY,124,Automatic Kafka,1,2.95,DC,16899
+TPB,2002,JULY,125,Flash Time Flies,,5.95,DC,16617
+TPB,2002,JULY,126,Hip Flask Unnatural Selection,,2.99,Active Images,16566
+TPB,2002,JULY,127,X-Men Evolution,9,2.25,Marvel,16324
+TPB,2002,JULY,128,Azrael Agent of the Bat,92,2.5,DC,16217
+TPB,2002,JULY,129,Shidima,5,2.95,Dreamwave,16200
+TPB,2002,JULY,130,Suicide Squad,11,2.5,DC,15862
+TPB,2002,JULY,131,Crux,16,2.95,Crossgen,15428
+TPB,2002,JULY,132,Simpsons Comics,72,2.5,Bongo,15360
+TPB,2002,JULY,133,Y The Last Man,1,2.95,DC,15287
+TPB,2002,JULY,134,Lucifer,28,2.5,DC,15275
+TPB,2002,JULY,135,Bone,49,2.95,Cartoon,15270
+TPB,2002,JULY,136,Mystic,26,2.95,Crossgen,15072
+TPB,2002,JULY,137,Negation,8,2.95,Crossgen,14988
+TPB,2002,JULY,138,Sigil,26,2.95,Crossgen,14768
+TPB,2002,JULY,139,Impulse,88,2.5,DC,14548
+TPB,2002,JULY,140,First,21,2.95,Crossgen,14537
+TPB,2002,JULY,141,Lady Death Dark Alliance,2,2.99,Chaos,13804
+TPB,2002,JULY,142,Mutant Earth,2,2.95,Image,13410
+TPB,2002,JULY,143,Hunter Age Of Magic,13,2.5,DC,13398
+TPB,2002,JULY,144,Strangers In Paradise Vol. III,52,2.95,Abstract,13201
+TPB,2002,JULY,145,Savage Dragon,101,2.95,Image,13184
+TPB,2002,JULY,146,Batman Gotham Adventures,52,1.99,DC,13167
+TPB,2002,JULY,147,Codename Knockout,15,2.5,DC,13071
+TPB,2002,JULY,148,Lab Rats,4,2.5,DC,13049
+TPB,2002,JULY,149,Tenth Nightwalker,4,2.99,Dark Horse,12919
+TPB,2002,JULY,150,Shazam Family Annual,1,5.95,DC,12840
+TPB,2002,JULY,151,Leave It To Chance,13,4.95,Image,12784
+TPB,2002,JULY,152,Powerpuff Girls Movie Comic,,2.95,DC,12508
+TPB,2002,JULY,153,Darkminds Macropolis,4,2.95,Dreamwave,12344
+TPB,2002,JULY,154,Deadman,8,2.5,DC,11995
+TPB,2002,JULY,155,Vampirella,11 Reg Ed,2.99,Harris,11944
+TPB,2002,JULY,156,Haven Broken City,8,2.5,DC,11820
+TPB,2002,JULY,157,Vampi,21 Reg Ed,2.99,Harris,11814
+TPB,2002,JULY,158,Vertigo Pop Tokyo,1,2.95,DC,11719
+TPB,2002,JULY,159,Samurai Jack Special,1,3.95,DC,11364
+TPB,2002,JULY,160,American Century,17,2.5,DC,11183
+TPB,2002,JULY,161,Establishment,11,2.5,DC,10986
+TPB,2002,JULY,162,Cat W/Really Big Head,,2.95,Slave Labor,10868
+TPB,2002,JULY,163,Guardian Angel,2,2.95,Image,10326
+TPB,2002,JULY,164,Tarot Witch of the Black Rose,15,2.95,Broadsword,10236
+TPB,2002,JULY,165,Static X,1,5.99,Chaos,10084
+TPB,2002,JULY,166,Midnight Mass,4,2.5,DC,10056
+TPB,2002,JULY,167,Fused,3,2.95,Image,9425
+TPB,2002,JULY,168,100 Percent,2,5.95,DC,9363
+TPB,2002,JULY,169,Shi Poisoned Paradise,2,3.5,Avatar,9182
+TPB,2002,JULY,170,Sci Spy,6,2.5,DC,9171
+TPB,2002,JULY,171,Superpatriot Americas Fighting Force,1,2.95,Image,9143
+TPB,2002,JULY,172,Noble Causes,4*,2.95,Image,8962
+TPB,2002,JULY,173,Oh My Goddess! Part XII,1,3.5,Dark Horse,8731
+TPB,2002,JULY,174,Crusades,17,2.5,DC,8703
+TPB,2002,JULY,175,10th Muse Vol. 2,1*,3.5,Avatar,8585
+TPB,2002,JULY,176,Herobear & Decoy Field Trip,1,2.95,Penny Farthing,8562
+TPB,2002,JULY,177,Usagi Yojimbo,59,2.99,Dark Horse,8365
+TPB,2002,JULY,178,Ken Lashleys Legends,1,2.95,DHJ,7858
+TPB,2002,JULY,179,Knights of the Dinner Table,69,2.99,Kenzer,7835
+TPB,2002,JULY,180,Queen & Country,10,2.95,Oni,7683
+TPB,2002,JULY,181,Blade of the Immortal,70,2.99,Dark Horse,7390
+TPB,2002,JULY,182,Stray Bullets,27,3.5,El Capitan,7350
+TPB,2002,JULY,183,Scooby-Doo,62,1.99,DC,7221
+TPB,2002,JULY,184,Dragonball Z Part 5,7,2.95,Viz,7136
+TPB,2002,JULY,185,Cerebus,280,2.25,Aardvark-Vanaheim,7029
+TPB,2002,JULY,186,Oni Press Color Sp 2002,,5.95,Oni,6995
+TPB,2002,JULY,187,Girl Genius,7 (Res),3.95,Studio Foglio,6764
+TPB,2002,JULY,188,Spaceman One-Shot,,2.95,Oni,6764
+TPB,2002,JULY,189,Alone In Dark One-Shot Special,,4.95,Image,6589
+TPB,2002,JULY,190,"Dungeons & Dragons Black& White",1,2.99,Kenzer,6330
+TPB,2002,JULY,191,Shi Illustrated Warrior,2,2.99,Crusade,6307
+TPB,2002,JULY,192,Sonic The Hedgehog,113,1.99,Archie,6172
+TPB,2002,JULY,193,Dragonball Part 5,2,2.95,Viz,6121
+TPB,2002,JULY,194,Dwelling,1,4.99,Chaos,6026
+TPB,2002,JULY,195,Super Manga Blast,24,5.99,Dark Horse,5535
+TPB,2002,JULY,196,Ranma 1/2 Part 11,5,2.95,Viz,5501
+TPB,2002,JULY,197,Terry Moores Paradise Too,8,2.95,Abstract,5389
+TPB,2002,JULY,198,Terry Moores Paradise Too,9,2.95,Abstract,5372
+TPB,2002,JULY,199,Poison Elves,72,2.95,Sirius,5332
+TPB,2002,JULY,200,Creed Utopiate,4,2.95,Image,5220
+TPB,2002,JULY,201,Fort! Prophet of the Unexplained,2,2.99,Dark Horse,5062
+TPB,2002,JULY,202,Black Tide Vol. 2,1,3.5,Avatar,4876
+TPB,2002,JULY,203,Madman Picture Exhibition,4,3.95,AAA Pop,4684
+TPB,2002,JULY,204,Gundam Wing G Unit,1,2.99,Tokyopop,4673
+TPB,2002,JULY,205,Gold Digger,34,2.99,Antarctic,4577
+TPB,2002,JULY,206,Cardcaptor Sakura,30,2.99,Tokyopop,4380
+TPB,2002,JULY,207,All New Tenchi Muyo Part 1,3,2.95,Viz,4352
+TPB,2002,JULY,208,"Knights of the Dinner TableEverknights",1,2.99,Kenzer,4335
+TPB,2002,JULY,209,Eight Legged Freaks,,6.95,DC,4284
+TPB,2002,JULY,210,Robo Dojo,6,2.95,DC,4160
+TPB,2002,JULY,211,Maximum Force Special,1,2.99,Atomeka,4154
+TPB,2002,JULY,212,Castle Waiting,15,2.95,Olio,4081
+TPB,2002,JULY,213,Strange Killings Body Orchard,1,3.5,Avatar,4058
+TPB,2002,JULY,214,Hopeless Savages Ground Zero,2,2.95,Oni,4030
+TPB,2002,JULY,215,DF Battle of the Planets Alt Cvr,1,6.99,Dynamic Forces,3957
+TPB,2002,JULY,216,Gloom Cookie,13,2.95,Slave Labor,3872
+TPB,2002,JULY,217,Looney Tunes,92,1.99,DC,3839
+TPB,2002,JULY,218,Inu Yasha Part 6,15,2.95,Viz,3788
+TPB,2002,JULY,219,Archie,526,1.99,Archie,3698
+TPB,2002,JULY,220,Archie,525,1.99,Archie,3545
+TPB,2002,JULY,221,How To Draw Manga,17,4.95,Antarctic,3472
+TPB,2002,JULY,222,Betty & Veronica,178,1.99,Archie,3433
+TPB,2002,JULY,223,Cavewoman He Said She Said One-Shot,,3.5,Basement,3343
+TPB,2002,JULY,224,Boneyard,7,2.95,NBM,3309
+TPB,2002,JULY,225,Betty,115,1.99,Archie,3297
+TPB,2002,JULY,226,"Betty & Veronica DoubleDigest",108,3.29,Archie,3292
+TPB,2002,JULY,227,Veronica,129,1.99,Archie,3241
+TPB,2002,JULY,228,Archie & Friends,60,1.99,Archie,3185
+TPB,2002,JULY,229,Ceres Celestial Legend Part 3,2,3.5,Viz,3095
+TPB,2002,JULY,230,Veronica,130,1.99,Archie,3083
+TPB,2002,JULY,231,Bastard,8,3.95,Viz,3072
+TPB,2002,JULY,232,Neon Genesis Evangelion Part 7,3,2.95,Viz,3061
+TPB,2002,JULY,233,Archie Double Digest,136,3.29,Archie,3061
+TPB,2002,JULY,234,Ninja High School,97,2.99,Antarctic,3016
+TPB,2002,JULY,235,Sabrina Vol. 2,35,1.99,Archie,2965
+TPB,2002,JULY,236,Marc Hempels Naked Brain,1,2.95,Insight,2954
+TPB,2002,JULY,237,Sidekicks Substitute One-Shot,,2.95,Oni,2948
+TPB,2002,JULY,238,Housewives At Play,9,3.5,Fantagraphics,2903
+TPB,2002,JULY,239,Cartoon Cartoons,12,1.99,DC,2886
+TPB,2002,JULY,240,Nodwick,16,2.99,Dork Storm,2841
+TPB,2002,JULY,241,Big O Part 2,1,3.5,Viz,2779
+TPB,2002,JULY,242,Pals N Gals Double Digest,69,3.29,Archie,2739
+TPB,2002,JULY,243,Archie Digest,191,2.19,Archie,2734
+TPB,2002,JULY,244,Dungeon,1,2.95,NBM,2723
+TPB,2002,JULY,245,Jughead,146,1.99,Archie,2531
+TPB,2002,JULY,246,Weasel,5,4.95,Fantagraphics,2497
+TPB,2002,JULY,247,Sect,1,2.95,Powerhouse,2469
+TPB,2002,JULY,248,Archies Weird Mysteries,23,1.99,Archie,2469
+TPB,2002,JULY,249,Batman/Green Arrow Poison Tomorrow,,5.95,DC,2413
+TPB,2002,JULY,250,"Mutant Texas Tales Of Sheriff IdaRed",2,2.95,Oni,2413
+TPB,2002,JULY,251,Snapdragons,1,2.99,Dork Storm,2379
+TPB,2002,JULY,252,Laugh Digest,177,2.19,Archie,2339
+TPB,2002,JULY,253,S&M University,6,3.5,Fantagraphics,2255
+TPB,2002,JULY,254,Zendra Vol. 2,1,2.95,Penny Farthing,2226
+TPB,2002,JULY,255,Jughead with Archie Digest,177,2.19,Archie,2226
+TPB,2002,JULY,256,"How To Color Comics Gd AdvancedConcepts",,4.95,Antarctic,2170
+TPB,2002,JULY,257,Milk,30,2.99,Radio,2159
+TPB,2002,JULY,258,Amelia Rules,7,2.95,Renaissance,2063
+TPB,2002,JULY,259,Decoy,1,2.95,Penny Farthing,2035
+TPB,2002,JULY,260,"Neon Genesis Evangelion Part 7 CollEd",3,2.95,Viz,1995
+TPB,2002,JULY,261,Battle Girlz,6,2.99,Antarctic,1956
+TPB,2002,JULY,262,Furry Ninja High School,1,4.99,Shanda,1894
+TPB,2002,JULY,263,Halo & Sprocket,2,2.95,Slave Labor,1877
+TPB,2002,JULY,264,Silent Mobius Part 11 Blood,1,2.95,Viz,1826
+TPB,2002,JULY,265,My Monkeys Name Is Jennifer,3,2.95,Slave Labor,1781
+TPB,2002,JULY,266,Tigers Of Luftwaffe,10,5.95,Antarctic,1770
+TPB,2002,JULY,267,Bitch In Heat,15,3.5,Fantagraphics,1747
+TPB,2002,JULY,268,Lori Lovecraft,1,3.0,AV,1736
+TPB,2002,JULY,269,Futabakun Change Vol. 8,6,2.95,Ironcat,1730
+TPB,2002,JULY,270,Pop Gun War,4,2.5,Abstract,1702
+TPB,2002,JULY,271,Blowjob,3,3.5,Fantagraphics,1674
+TPB,2002,JULY,272,Furrlough,115,2.99,Radio,1635
+TPB,2002,JULY,273,Vagabond Part 1,9,4.95,Viz,1618
+TPB,2002,JULY,274,Paper Museum Vol. 1,1,2.95,Jungle Boy,1595
+TPB,2002,JULY,275,"Strange Killings Body OrchardWrprnd Cvr",1,3.95,Avatar,1522
+TPB,2002,JULY,276,Naughty Bits,36,2.95,Fantagraphics,1488
+TPB,2002,JULY,277,Warrior Nun Areala,9,2.99,Antarctic,1482
+TPB,2002,JULY,278,Lost Book Of Faerie Magic Vol. 1,,2.95,Sirius,1471
+TPB,2002,JULY,279,Finder,27,2.95,Lightspeed,1404
+TPB,2002,JULY,280,Ogenki Clinic Vol. 9,4,2.95,Ironcat,1398
+TPB,2002,JULY,281,Zoids,6,5.95,Viz,1387
+TPB,2002,JULY,282,Banzai Girl Ltd Ed Preview Book,,5.0,Sirius,1381
+TPB,2002,JULY,283,Paradigm,3,3.0,Two Irish Guys,1370
+TPB,2002,JULY,284,You & Me Vol. 1,1,2.95,Ironcat,1325
+TPB,2002,JULY,285,Sandwalk Adventures,4,2.95,Active Synapse,1313
+TPB,2002,JULY,286,Simpsons Comics,50,5.95,Bongo,1313
+TPB,2002,JULY,287,Private Beach,6,2.95,Slave Labor,1302
+TPB,2002,JULY,288,Eden Vol. 1,1,3.5,Ironcat,1291
+TPB,2002,JULY,289,Shiver In Dark,1,2.5,Singing Ink,1291
+TPB,2002,JULY,290,Barchetta Vol. 1,1,2.95,Curtis,1263
+TPB,2002,JULY,291,Treasure Chests,8,3.5,Fantagraphics,1263
+TPB,2002,JULY,292,Retro Blast,1,2.95,Basement,1257
+TPB,2002,JULY,293,Tidalwave At Avatar Sampler,,0.99,Avatar,1257
+TPB,2002,JULY,294,Vampire Yui Vol. 4,6,2.95,Ironcat,1234
+TPB,2002,JULY,295,Ken Lashleys Legends,1 Px Cvr,4.95,DHJ,1201
+TPB,2002,JULY,296,Dojin 2061 Cammy Vs Leona,,4.95,Media Market,1167
+TPB,2002,JULY,297,Katmandu,27 (Res),4.99,Shanda,1167
+TPB,2002,JULY,298,Hit The Beach 2002,,3.99,Radio,1161
+TPB,2002,JULY,299,Psi Vol. 1,1,2.95,Curtis,1156
+TPB,2002,JULY,2,Crisis On Multiple Earths,,14.95,DC,9120
+TPB,2002,JULY,3,Ultimates Vol. 1,,12.99,Marvel,7604
+TPB,2002,JULY,4,Liberty Meadows Vol. 1 Eden,,14.95,Image,7288
+TPB,2002,JULY,5,"Authority Earth Inferno &Other Stories",,14.95,DC,7243
+TPB,2002,JULY,6,Amazing Spider-Man Revelations,,8.99,Marvel,7068
+TPB,2002,JULY,7,Catwoman Selinas Bigore HC,,24.95,DC,5648
+TPB,2002,JULY,8,G.I. Joe Vol. 3,,24.99,Marvel,5406
+TPB,2002,JULY,9,Ultimate X-Men Vol. 1 HC,,34.99,Marvel,4605
+TPB,2002,JULY,10,Astro Boy Vol. 6,,9.95,Dark Horse,4453
+TPB,2002,JULY,11,Goddess (Res),,19.95,DC,3957
+TPB,2002,JULY,12,Ruse Vol. 1 Enter Detective,,15.95,Crossgen,3686
+TPB,2002,JULY,13,"Animal Man Vol. 2 Origin of theSpecies",,19.95,DC,3591
+TPB,2002,JULY,14,Ranma 1/2 Vol. 20,,15.95,Viz,3574
+TPB,2002,JULY,15,Road To Perdition New Ed,,13.95,DC,3337
+TPB,2002,JULY,16,Forge #4,,11.95,Crossgen,3320
+TPB,2002,JULY,17,Daredevil Underboss,,14.99,Marvel,3320
+TPB,2002,JULY,18,Oh My Goddess! Leader of the Pack,,13.95,Dark Horse,3235
+TPB,2002,JULY,19,Edge #4,,11.95,Crossgen,3207
+TPB,2002,JULY,20,Cowboy Bebop Vol. 3,,9.99,Tokyopop,3128
+TPB,2002,JULY,21,Out There Vol. 1 Evil Within,,12.95,DC,3072
+TPB,2002,JULY,22,League Of Extraordinary Gentlemen HC,,24.95,DC,2925
+TPB,2002,JULY,23,All Star Comics Archives Vol. 8 HC,,49.95,DC,2858
+TPB,2002,JULY,25,Conan Sketchbook By Markhultz,,5.95,Wandering Star,2644
+TPB,2002,JULY,26,Love Hina Vol. 4,,9.99,Tokyopop,2559
+TPB,2002,JULY,27,Wolverine Best There Is,,12.99,Marvel,2491
+TPB,2002,JULY,28,Quimby The Mouse (Res),,14.95,Fantagraphics,2305
+TPB,2002,JULY,29,Star Wars Darkness,,12.95,Dark Horse,2294
+TPB,2002,JULY,30,"X-Men & Spider-Man SavageLand",,9.95,Marvel,2260
+TPB,2002,JULY,31,Dragonball Z Vol. 9,,12.95,Viz,2243
+TPB,2002,JULY,32,Elektra Lives Again HC New Prtg,,24.99,Marvel,2193
+TPB,2002,JULY,33,Promethea Book Three HC,,24.95,DC,2187
+TPB,2002,JULY,34,Meridian Vol. 3 Taking Skies,,15.95,Crossgen,2159
+TPB,2002,JULY,35,"Tomb Raider Vol. 3 Chasing ShangriLa",,12.95,Image,2136
+TPB,2002,JULY,36,Gundam Origin #2,,7.95,Viz,2119
+TPB,2002,JULY,37,Mad Archives Vol. 1 HC,,49.95,DC,2012
+TPB,2002,JULY,38,Wish Vol. 1,,9.99,Tokyopop,1945
+TPB,2002,JULY,39,Punisher War Zone Vol. 1,,15.99,Marvel,1894
+TPB,2002,JULY,40,X-Men Evolution Vol. 1,,8.99,Marvel,1866
+TPB,2002,JULY,41,Cardcaptor Sakura Vol. 1 Passages,,9.99,Tokyopop,1849
+TPB,2002,JULY,42,Bastard Vol. 1,,14.95,Viz,1725
+TPB,2002,JULY,43,Werewolf Apocalypse Children Of Gaia,,6.95,Moonstone,1691
+TPB,2002,JULY,44,"Transformers Vol. 4 Matrix Quest PxHC",,24.99,Titan,1685
+TPB,2002,JULY,45,Violent Messiahs Vol. 1 Book Of Job,,24.95,Image,1668
+TPB,2002,JULY,46,3 X 3 Eyes Summoning of the Beast,,14.95,Dark Horse,1668
+TPB,2002,JULY,47,"Revolutionary Girl Utena Vol. 2 ToPlant",,15.95,Viz,1646
+TPB,2002,JULY,49,Seraphic Feather Seeds Of Chaos,,17.95,Dark Horse,1623
+TPB,2002,JULY,50,GTO Vol. 5,,9.99,Tokyopop,1601

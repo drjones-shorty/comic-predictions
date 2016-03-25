@@ -1,0 +1,345 @@
+PUBLICATION_FORMAT,YEAR,MONTH,SALES_RANK,TITLE,ISSUE,PRICE,PUBLISHER,EST_SALES
+COMIC,2002,MARCH,1,New X-Men,124,2.25,Marvel,111904
+COMIC,2002,MARCH,2,Ultimates,3,2.25,Marvel,110634
+COMIC,2002,MARCH,3,Ultimate X-Men,16,2.25,Marvel,103321
+COMIC,2002,MARCH,4,Uncanny X-Men,404,2.25,Marvel,102499
+COMIC,2002,MARCH,5,Amazing Spider-Man,41,2.25,Marvel,99824
+COMIC,2002,MARCH,6,Ultimate Spider-Man,20,2.25,Marvel,86520
+COMIC,2002,MARCH,7,G.I. Joe,4,3.5,Image,78344
+COMIC,2002,MARCH,8,X-Treme X-Men,11,2.99,Marvel,78328
+COMIC,2002,MARCH,9,Green Arrow,13 (Res),2.5,DC,78055
+COMIC,2002,MARCH,10,Wolverine,174,2.25,Marvel,74512
+COMIC,2002,MARCH,11,JLA,64,2.25,DC,66486
+COMIC,2002,MARCH,12,Avengers,52,2.25,Marvel,57220
+COMIC,2002,MARCH,13,Wolverine Hulk,2,3.5,Marvel,55655
+COMIC,2002,MARCH,14,Punisher,10,2.99,Marvel,53641
+COMIC,2002,MARCH,15,Hawkman,1,2.5,DC,52298
+COMIC,2002,MARCH,16,Daredevil,31,2.99,Marvel,51900
+COMIC,2002,MARCH,17,Batman,601,2.25,DC,51647
+COMIC,2002,MARCH,18,Peter Parker Spider-Man,41,2.25,Marvel,51286
+COMIC,2002,MARCH,19,Fantastic Four,53,2.25,Marvel,48301
+COMIC,2002,MARCH,20,Paradise X,1,2.99,Marvel,48125
+COMIC,2002,MARCH,21,Spawn,120,2.5,Image,46400
+COMIC,2002,MARCH,22,X-Force,126,2.25,Marvel,46224
+COMIC,2002,MARCH,23,Incredible Hulk,38,2.25,Marvel,45248
+COMIC,2002,MARCH,24,Ultimate Marvel Team Up,14,2.25,Marvel,45016
+COMIC,2002,MARCH,25,X-Men Unlimited,34,3.5,Marvel,44969
+COMIC,2002,MARCH,26,Detective Comics,768,2.5,DC,44355
+COMIC,2002,MARCH,27,JSA,34,2.5,DC,43219
+COMIC,2002,MARCH,28,Superman,180,2.25,DC,42041
+COMIC,2002,MARCH,29,Elektra,9,2.99,Marvel,40569
+COMIC,2002,MARCH,30,Iron Man,52,2.25,Marvel,40306
+COMIC,2002,MARCH,31,Exiles,11,2.25,Marvel,40238
+COMIC,2002,MARCH,32,Thor,47,2.25,Marvel,38338
+COMIC,2002,MARCH,33,Batman Gotham Knights,27,2.5,DC,37780
+COMIC,2002,MARCH,34,Blade,1,2.99,Marvel,37739
+COMIC,2002,MARCH,35,Action Comics,789,2.25,DC,36850
+COMIC,2002,MARCH,36,Cage,2,2.99,Marvel,36768
+COMIC,2002,MARCH,37,Batgirl,26,2.5,DC,36763
+COMIC,2002,MARCH,38,Adventures Of Superman,602,2.25,DC,36148
+COMIC,2002,MARCH,39,Nightwing,67,2.25,DC,36055
+COMIC,2002,MARCH,40,Alias,7,2.99,Marvel,36029
+COMIC,2002,MARCH,41,Green Lantern,148,2.25,DC,35947
+COMIC,2002,MARCH,42,Marvel Knights Vol. 2,1,2.99,Marvel,35848
+COMIC,2002,MARCH,43,Birds Of Prey,41,2.5,DC,35730
+COMIC,2002,MARCH,44,Superman Man Of Steel,124,2.25,DC,35058
+COMIC,2002,MARCH,45,Catwoman,5,2.5,DC,35017
+COMIC,2002,MARCH,46,Muties,2,2.5,Marvel,34511
+COMIC,2002,MARCH,47,Robin,100,3.5,DC,33514
+COMIC,2002,MARCH,48,Mutant X,1 (Res),3.5,Marvel,32657
+COMIC,2002,MARCH,49,Avengers Icons Tigra,1,2.99,Marvel,32553
+COMIC,2002,MARCH,50,Batman Legends of the Dark Knight,153,2.25,DC,31830
+COMIC,2002,MARCH,52,Thunderbolts,62,2.25,Marvel,31102
+COMIC,2002,MARCH,53,Tomb Raider,20,2.5,Image,31040
+COMIC,2002,MARCH,54,Cable,103,2.25,Marvel,31004
+COMIC,2002,MARCH,55,Thing & She-Hulk Long Night,,2.99,Marvel,30513
+COMIC,2002,MARCH,56,Just A Pilgrim Garden Of Eden,1,2.99,Wizard,30090
+COMIC,2002,MARCH,57,Order,2,2.25,Marvel,30064
+COMIC,2002,MARCH,58,Wonder Woman,179 (Res),2.25,DC,29558
+COMIC,2002,MARCH,59,Captain America Dead Man Running,3,2.99,Marvel,29558
+COMIC,2002,MARCH,60,Deadpool,65,2.25,Marvel,29403
+COMIC,2002,MARCH,61,Powers,19,2.95,Image,29134
+COMIC,2002,MARCH,62,Flash,184,2.25,DC,28948
+COMIC,2002,MARCH,63,Avengers Celestial Quest,7,2.5,Marvel,28886
+COMIC,2002,MARCH,64,Spider-Man Tangled Web,12,2.99,Marvel,28788
+COMIC,2002,MARCH,65,Witchblade,54,2.5,Image,28592
+COMIC,2002,MARCH,66,Deadpool Funeral For Freak,4,2.25,Marvel,27962
+COMIC,2002,MARCH,67,Tomb Raider Journeys,3,2.95,Image,27905
+COMIC,2002,MARCH,68,Howard The Duck,3,2.99,Marvel,26562
+COMIC,2002,MARCH,69,Legion,6,2.5,DC,26438
+COMIC,2002,MARCH,70,Young Justice,43,2.5,DC,25927
+COMIC,2002,MARCH,71,Power Company,2,2.5,DC,25643
+COMIC,2002,MARCH,72,Out There,9,2.95,DC,25638
+COMIC,2002,MARCH,73,Titans,39,2.5,DC,25540
+COMIC,2002,MARCH,74,Spider-Girl,45,2.25,Marvel,24786
+COMIC,2002,MARCH,75,Harley Quinn,18,2.25,DC,24651
+COMIC,2002,MARCH,76,Sojourn,9,2.95,Crossgen,24429
+COMIC,2002,MARCH,77,Path,1,2.95,Crossgen,23944
+COMIC,2002,MARCH,78,Joss Whedons Fray,8,2.99,Dark Horse,23887
+COMIC,2002,MARCH,79,Captain Marvel,30,2.5,Marvel,23391
+COMIC,2002,MARCH,80,Star Wars Tales,11*,5.99,Dark Horse,23376
+COMIC,2002,MARCH,81,Tom Strongs Terrific Tales,3,2.95,DC,22312
+COMIC,2002,MARCH,82,Ruse,6,2.95,Crossgen,22214
+COMIC,2002,MARCH,83,Batman Deathblow After Fire,1,5.95,DC,22115
+COMIC,2002,MARCH,84,Taskmaster,2,2.99,Marvel,21816
+COMIC,2002,MARCH,85,Inferno Hellbound,3,2.5,Image,21811
+COMIC,2002,MARCH,86,Star Wars,40 Devarnian Version (1 Of 2),2.99,Dark Horse,21780
+COMIC,2002,MARCH,87,Spectre,15,2.5,DC,21315
+COMIC,2002,MARCH,88,Supergirl,68,2.25,DC,21005
+COMIC,2002,MARCH,89,Doom Patrol,6,2.5,DC,20948
+COMIC,2002,MARCH,90,Black Panther,42,2.5,Marvel,20649
+COMIC,2002,MARCH,91,"Star Wars Qui-Gon & Obi-WanAuroient Express",2,2.99,Dark Horse,20592
+COMIC,2002,MARCH,92,Justice League Adventures,5,1.99,DC,20225
+COMIC,2002,MARCH,93,X-Men Evolution,5,2.25,Marvel,19879
+COMIC,2002,MARCH,94,Hellblazer,172,2.5,DC,19497
+COMIC,2002,MARCH,95,Star Wars Starfighter Crossbones,3,2.99,Dark Horse,19347
+COMIC,2002,MARCH,96,Spyboy Young Justice,2,2.99,Dark Horse,18815
+COMIC,2002,MARCH,97,Wonder Woman Secret Files,3,4.95,DC,18696
+COMIC,2002,MARCH,98,Transmetropolitan,54,2.5,DC,18485
+COMIC,2002,MARCH,99,100 Bullets,34,2.5,DC,18345
+COMIC,2002,MARCH,100,Scion,22,2.95,Crossgen,18252
+COMIC,2002,MARCH,101,Lady Death Gauntlet,1,2.99,Chaos,18201
+COMIC,2002,MARCH,102,Gen 13,75,2.5,DC,17813
+COMIC,2002,MARCH,103,Haven Broken City,4,2.5,DC,17715
+COMIC,2002,MARCH,104,"Citizen V & V BattalionEverlasting",2,2.99,Marvel,17663
+COMIC,2002,MARCH,105,Suicide Squad,7,2.5,DC,17643
+COMIC,2002,MARCH,106,Universe,6,2.5,Image,17591
+COMIC,2002,MARCH,107,Aria Summer Spell,1,2.95,Image,17570
+COMIC,2002,MARCH,108,Buffy the Vampire Slayer,43,2.99,Dark Horse,17354
+COMIC,2002,MARCH,109,Darkminds Macropolis,2,2.95,Image,16506
+COMIC,2002,MARCH,110,Crux,12,2.95,Crossgen,16460
+COMIC,2002,MARCH,111,Negation,4,2.95,Crossgen,16341
+COMIC,2002,MARCH,112,Liberty Meadows,25,2.95,Insight,16202
+COMIC,2002,MARCH,113,Mike Mignolas BPRD Hollow Earth,3,2.99,Dark Horse,16109
+COMIC,2002,MARCH,114,Mystic,22,2.95,Crossgen,16083
+COMIC,2002,MARCH,115,Superboy,98,2.25,DC,15913
+COMIC,2002,MARCH,116,"Buffy the Vampire Slayer Lost& Found",,2.99,Dark Horse,15892
+COMIC,2002,MARCH,117,Buffy the Vampire Slayer Haunted,4,2.99,Dark Horse,15882
+COMIC,2002,MARCH,118,Deadman,4,2.5,DC,15809
+COMIC,2002,MARCH,119,Fused,1,2.95,Image,15690
+COMIC,2002,MARCH,120,First,17,2.95,Crossgen,15659
+COMIC,2002,MARCH,121,Bone,47,2.95,Cartoon,15623
+COMIC,2002,MARCH,122,Sigil,22,2.95,Crossgen,15350
+COMIC,2002,MARCH,123,Meridian,22,2.95,Crossgen,15071
+COMIC,2002,MARCH,124,Azrael Agent of the Bat,88,2.5,DC,14849
+COMIC,2002,MARCH,125,Lady Death Jade,1,2.99,Chaos,14833
+COMIC,2002,MARCH,126,Simpsons Comics,68,2.5,Bongo,14823
+COMIC,2002,MARCH,127,Lucifer,24,2.5,DC,14802
+COMIC,2002,MARCH,128,Felon,4,2.95,Image,14358
+COMIC,2002,MARCH,129,Monarchy,12,2.5,DC,14115
+COMIC,2002,MARCH,130,Hunter Age Of Magic,9,2.5,DC,14089
+COMIC,2002,MARCH,131,Impulse,84,2.5,DC,14043
+COMIC,2002,MARCH,132,Strangers In Paradise Vol. III,48,2.95,Abstract,13991
+COMIC,2002,MARCH,133,Codename Knockout,11,2.5,DC,13635
+COMIC,2002,MARCH,134,Establishment,7,2.5,DC,13537
+COMIC,2002,MARCH,135,Sandman Presents Thessaliad,3,2.5,DC,13279
+COMIC,2002,MARCH,136,Savage Dragon,97,2.95,Image,13191
+COMIC,2002,MARCH,137,Vampirella,7 Reg Ed,2.99,Harris,13134
+COMIC,2002,MARCH,138,Kindred,3,2.5,DC,13108
+COMIC,2002,MARCH,139,Purgatori God Hunter,1,2.99,Chaos,13056
+COMIC,2002,MARCH,140,Scorpion King,1,2.99,Dark Horse,12984
+COMIC,2002,MARCH,141,Blade 2 Bloodhunt,,5.95,Marvel,12979
+COMIC,2002,MARCH,142,Batman Gotham Adventures,48,1.99,DC,12912
+COMIC,2002,MARCH,143,Vampi,17 Reg Ed,2.99,Harris,12731
+COMIC,2002,MARCH,144,Futurama Comics,8,2.5,Bongo,12695
+COMIC,2002,MARCH,145,Orion,24,2.5,DC,12628
+COMIC,2002,MARCH,146,Chastity Crazytown,1,2.99,Chaos,12271
+COMIC,2002,MARCH,147,American Century,13,2.5,DC,12240
+COMIC,2002,MARCH,148,Sci Spy,2,2.5,DC,11739
+COMIC,2002,MARCH,149,Radioactive Man,575,2.5,Bongo,11295
+COMIC,2002,MARCH,150,Haunted,4,2.99,Chaos,10712
+COMIC,2002,MARCH,151,Tarot Witch of the Black Rose,13,2.95,Broadsword,10366
+COMIC,2002,MARCH,152,Powerpuff Girls,25,1.99,DC,10298
+COMIC,2002,MARCH,153,Groo Death & Taxes,4,2.99,Dark Horse,10082
+COMIC,2002,MARCH,154,Ultimate X-Men Coll Ed,1,3.99,Marvel,9798
+COMIC,2002,MARCH,155,Ultimate Spider-Man Coll Ed New Prtg,,3.99,Marvel,9617
+COMIC,2002,MARCH,156,Noble Causes,2,2.95,Image,9617
+COMIC,2002,MARCH,157,Crusades,13,2.5,DC,9596
+COMIC,2002,MARCH,158,Farscape War Torn,2,4.95,DC,9105
+COMIC,2002,MARCH,159,Outlaw Nation,19,2.5,DC,9074
+COMIC,2002,MARCH,160,Oh My Goddess Part XI,7,3.5,Dark Horse,8806
+COMIC,2002,MARCH,161,Oh My Goddess Part XI,8,3.5,Dark Horse,8775
+COMIC,2002,MARCH,162,Usagi Yojimbo,56,2.99,Dark Horse,8486
+COMIC,2002,MARCH,163,Robo Dojo,2,2.95,DC,8026
+COMIC,2002,MARCH,164,Queen & Country,7,2.95,Oni,7980
+COMIC,2002,MARCH,165,Art Of Jay Anacleto,,5.95,Image,7964
+COMIC,2002,MARCH,166,Knights of the Dinner Table,65,2.99,Kenzer,7943
+COMIC,2002,MARCH,167,Grip Strange World Of Men,5,2.5,DC,7933
+COMIC,2002,MARCH,168,Blade of the Immortal,66,2.99,Dark Horse,7804
+COMIC,2002,MARCH,169,Dragonball Z Part 5,3,2.95,Viz,7737
+COMIC,2002,MARCH,170,Black Tide,3,2.95,Image,7726
+COMIC,2002,MARCH,171,Cerebus,276,2.25,Aardvark-Vanaheim,7272
+COMIC,2002,MARCH,172,"Dungeons & Dragons InShadow Of Dragons",7,2.99,Kenzer,7081
+COMIC,2002,MARCH,173,"Dungeons & Dragons TempestsGate",4,2.99,Kenzer,6921
+COMIC,2002,MARCH,174,Creed Utopiate,2,2.95,Image,6874
+COMIC,2002,MARCH,175,Creeps,3,2.95,Image,6688
+COMIC,2002,MARCH,176,Dragonball Part 4,8,2.95,Viz,6554
+COMIC,2002,MARCH,177,Ennis & Mccreas Bigger Dicks,2,4.95,Avatar,6456
+COMIC,2002,MARCH,178,Cowboy Bebop,3,2.99,Tokyopop,6425
+COMIC,2002,MARCH,179,Cowboy Bebop,4,2.99,Tokyopop,6399
+COMIC,2002,MARCH,180,Cannon God Exaxxion,5,2.99,Dark Horse,6384
+COMIC,2002,MARCH,181,Tick Golden Age Comic,1,4.95,New England,6239
+COMIC,2002,MARCH,182,Ranma 1/2 Part 11,1,2.95,Viz,6089
+COMIC,2002,MARCH,183,Super Manga Blast,20,5.99,Dark Horse,5976
+COMIC,2002,MARCH,184,Scooby-Doo,58,1.99,DC,5883
+COMIC,2002,MARCH,185,Gundam Wing Endless Waltz,1,2.99,Tokyopop,5759
+COMIC,2002,MARCH,186,Poison Elves,70,2.95,Sirius,5480
+COMIC,2002,MARCH,187,Sonic The Hedgehog,108,1.99,Archie,5366
+COMIC,2002,MARCH,188,Cardcaptor Sakura,26,2.99,Tokyopop,4834
+COMIC,2002,MARCH,189,Bazooka Jules,4 (Res),3.99,Com X,4757
+COMIC,2002,MARCH,190,Gold Digger,30,2.99,Antarctic,4648
+COMIC,2002,MARCH,191,Metabarons,16,2.95,Humanoids,4586
+COMIC,2002,MARCH,192,Castle Waiting,14 (Res),2.95,Olio,4354
+COMIC,2002,MARCH,193,Warren Ellis Strange Killings,3,3.5,Avatar,4132
+COMIC,2002,MARCH,194,Love Hina,1,2.99,Tokyopop,4039
+COMIC,2002,MARCH,195,Inu Yasha Part 6,11,2.95,Viz,3972
+COMIC,2002,MARCH,196,"Knights of the Dinner TableHackmasters Everknight",12,2.99,Kenzer,3894
+COMIC,2002,MARCH,197,Cavewoman Pangaean Sea,4,3.25,Basement,3884
+COMIC,2002,MARCH,198,"Knights of the Dinner TableHackmasters Everknight",13,2.99,Kenzer,3837
+COMIC,2002,MARCH,199,Love Hina,2,2.99,Tokyopop,3827
+COMIC,2002,MARCH,200,Cartoon Cartoons,10,1.99,DC,3682
+COMIC,2002,MARCH,201,Lubas Comics & Stories,3,3.5,Fantagraphics,3682
+COMIC,2002,MARCH,202,Dork Tower,17 (Res),2.99,Dork Storm,3677
+COMIC,2002,MARCH,203,Cavewoman Raptor,1,3.25,Basement,3610
+COMIC,2002,MARCH,204,Big O Part 1,2,3.5,Viz,3569
+COMIC,2002,MARCH,205,How To Draw Manga,13,4.95,Antarctic,3543
+COMIC,2002,MARCH,206,Marquis Devils Reign Hells Courtesan,2,2.95,Oni,3466
+COMIC,2002,MARCH,207,Looney Tunes,88,1.99,DC,3419
+COMIC,2002,MARCH,208,Zoids,1,5.99,Viz,3383
+COMIC,2002,MARCH,209,Ceres Celestial Legend Part 2,4,2.95,Viz,3367
+COMIC,2002,MARCH,210,Pounded,1,2.95,Oni,3367
+COMIC,2002,MARCH,211,"Courtney Crumrin & NightThings",1,2.95,Oni,3352
+COMIC,2002,MARCH,212,Bastard,4,3.95,Viz,3352
+COMIC,2002,MARCH,213,Archie,521,1.99,Archie,3347
+COMIC,2002,MARCH,214,Zoids,2,5.99,Viz,3140
+COMIC,2002,MARCH,215,Betty & Veronica,173,1.99,Archie,3125
+COMIC,2002,MARCH,216,"Betty & Veronica DoubleDigest",105,3.29,Archie,3094
+COMIC,2002,MARCH,217,Ninja High School,93,2.99,Antarctic,3027
+COMIC,2002,MARCH,218,Sabrina Vol. 2,31,1.99,Archie,2918
+COMIC,2002,MARCH,219,"Archie & Friends StarringJosie & Pussycats",56,1.99,Archie,2913
+COMIC,2002,MARCH,220,Betty,111,1.99,Archie,2903
+COMIC,2002,MARCH,221,Housewives At Play,8,3.5,Fantagraphics,2892
+COMIC,2002,MARCH,222,Kissing Chaos,8,2.5,Oni,2799
+COMIC,2002,MARCH,223,Archie Double Digest,133,3.29,Archie,2799
+COMIC,2002,MARCH,224,Veronica,125,1.99,Archie,2789
+COMIC,2002,MARCH,225,Pals N Gals Double Digest,66,3.29,Archie,2727
+COMIC,2002,MARCH,226,I Dream Of Jeannie,2,2.95,Airwave,2644
+COMIC,2002,MARCH,227,Steven Grants Mortal Souls,1,3.5,Avatar,2577
+COMIC,2002,MARCH,228,10th Muse Demonslayer Preview,,1.99,Avatar,2567
+COMIC,2002,MARCH,229,Archies Weird Mysteries,20,1.99,Archie,2360
+COMIC,2002,MARCH,230,Slow News Day,5,3.5,Slave Labor,2345
+COMIC,2002,MARCH,231,Ragnarok,2,2.99,Tokyopop,2334
+COMIC,2002,MARCH,232,Smile Vol. 4,4,4.99,Tokyopop,2309
+COMIC,2002,MARCH,233,S&M University,4,3.5,Fantagraphics,2309
+COMIC,2002,MARCH,234,Young Witches Vol. 5 The Legacy,2,3.95,Fantagraphics,2288
+COMIC,2002,MARCH,235,Jughead,143,1.99,Archie,2278
+COMIC,2002,MARCH,236,Milk,28,2.99,Radio,2262
+COMIC,2002,MARCH,237,Killer Princesses,3,2.95,Oni,2231
+COMIC,2002,MARCH,238,Classwar,3,2.99,Com X,2226
+COMIC,2002,MARCH,239,Laugh Digest,174,2.19,Archie,2221
+COMIC,2002,MARCH,240,Marmalade Boy,4,2.99,Tokyopop,2133
+COMIC,2002,MARCH,241,Head,1,3.5,Fantagraphics,2102
+COMIC,2002,MARCH,242,Jughead W/Archie Digest,174,2.19,Archie,2087
+COMIC,2002,MARCH,243,Battle Girlz,2,2.99,Antarctic,2081
+COMIC,2002,MARCH,245,My Monkeys Name Is Jennifer,1,2.95,Slave Labor,2040
+COMIC,2002,MARCH,246,Thieves & Kings,38,2.5,I Box,1994
+COMIC,2002,MARCH,247,Kodocha,3,2.99,Tokyopop,1957
+COMIC,2002,MARCH,248,Silent Mobius Turnabout,3,2.95,Viz,1952
+COMIC,2002,MARCH,249,Tigers of the Luftwaffe,6,5.95,Antarctic,1901
+COMIC,2002,MARCH,250,Saint Tail,17,2.99,Tokyopop,1854
+COMIC,2002,MARCH,251,Hedg,2,2.95,Papyrus,1833
+COMIC,2002,MARCH,252,Futabakun Change Vol. 8,2,2.95,Ironcat,1777
+COMIC,2002,MARCH,253,Cool Devices,5,2.95,Ironcat,1730
+COMIC,2002,MARCH,254,Furrlough,111,2.99,Radio,1720
+COMIC,2002,MARCH,255,Dragon Knights,6,2.99,Tokyopop,1684
+COMIC,2002,MARCH,256,Miracle Girls,18,2.99,Tokyopop,1653
+COMIC,2002,MARCH,257,Mad Color Special,5,3.99,DC,1648
+COMIC,2002,MARCH,258,Truth Serum,2,2.95,Slave Labor,1632
+COMIC,2002,MARCH,259,Paradigm,1,3.0,Two Irish Guys,1622
+COMIC,2002,MARCH,260,Vagabond Part 1,5,4.95,Viz,1617
+COMIC,2002,MARCH,261,"Warren Ellis Strange KillingsWraprnd Cvr",3,3.95,Avatar,1601
+COMIC,2002,MARCH,262,Warrior Nun Areala,5,2.99,Antarctic,1555
+COMIC,2002,MARCH,263,Negative Exposure,4,2.95,Humanoids,1539
+COMIC,2002,MARCH,264,Ogenki Clinic Vol. 8,8,2.95,Ironcat,1451
+COMIC,2002,MARCH,265,Blue Eyes Vol. 1,5,3.95,White Lightning,1420
+COMIC,2002,MARCH,266,Finder,26,2.95,Lightspeed,1410
+COMIC,2002,MARCH,267,Vampire Princess Yui Vol. 4,2,2.95,Ironcat,1394
+COMIC,2002,MARCH,268,Private Beach,5,2.95,Slave Labor,1389
+COMIC,2002,MARCH,269,"Steve Grants Mortal Souls WraprndCvr",1,3.95,Avatar,1389
+COMIC,2002,MARCH,270,Fathom,9 Dotcom Variant Cvr Ed,2.99,Mid-West,1379
+COMIC,2002,MARCH,271,Toughened Hide Erotic Art Of Minnarm,1,4.99,Radio,1363
+COMIC,2002,MARCH,272,Infinite Kung Fu,1,3.0,Great Lakes,1358
+COMIC,2002,MARCH,273,Johnny The Homicidal Maniac Curr Ptg,2 (O/A),2.95,Slave Labor,1317
+COMIC,2002,MARCH,274,Galactic Gladiators,3,2.95,Playdigm,1286
+COMIC,2002,MARCH,275,Skull Man,5,2.99,Tokyopop,1276
+COMIC,2002,MARCH,276,Pokemon Adventures Part 6,4,4.95,Viz,1276
+COMIC,2002,MARCH,277,Sojourn Coll Ed,,3.95,Crossgen,1265
+COMIC,2002,MARCH,278,Love Bunny & Mister Hell,1,2.95,Devils Due,1265
+COMIC,2002,MARCH,279,Johnny The Homicidal Maniac,6,2.95,Slave Labor,1250
+COMIC,2002,MARCH,280,Filler Bunny,2,2.25,Slave Labor,1214
+COMIC,2002,MARCH,281,Johnny The Homicidal Maniac,5,2.95,Slave Labor,1178
+COMIC,2002,MARCH,282,Warhammer Monthly,53,3.5,Games Workshop,1172
+COMIC,2002,MARCH,283,Kieron Dwyers Lcd,3,5.95,Fogelcomix,1167
+COMIC,2002,MARCH,284,Laque Noir,,3.95,Fantagraphics,1152
+COMIC,2002,MARCH,285,Digital Webbing Presents,2,2.95,Digital Webbing,1126
+COMIC,2002,MARCH,286,Freak Brothers,1 New Ptg,3.95,Rip Off,1121
+COMIC,2002,MARCH,287,Third Degree,1,2.95,NBM,1095
+COMIC,2002,MARCH,288,Supernatural Law,33,2.5,Exhibit A,1085
+COMIC,2002,MARCH,289,"Df Marvel Heroes Relief BookVersion 2 Sgn",1,19.99,Dynamic Forces,1059
+COMIC,2002,MARCH,290,Elvira,107,2.5,Claypool,1048
+COMIC,2002,MARCH,291,Shi Umadoshi 2002 Tour Book,,4.99,Crusade,997
+COMIC,2002,MARCH,292,Daemonifuge Screaming Cage,1,2.5,Games Workshop,986
+COMIC,2002,MARCH,293,Witchblade,1 Variant Yancy Butler Photo Cvr,3.99,Mid-West,981
+COMIC,2002,MARCH,294,Lady Death Gauntlet Premium Ed,1,9.99,Chaos,976
+COMIC,2002,MARCH,295,Freak Brothers,12 New Ptg,3.95,Rip Off,950
+COMIC,2002,MARCH,296,Magic Whistle,6,2.95,Alternative,950
+COMIC,2002,MARCH,297,Freak Brothers,8 New Ptg,3.95,Rip Off,945
+COMIC,2002,MARCH,298,Cavewoman Meriems Gallery Sp Ed,2,5.6,Basement,919
+COMIC,2002,MARCH,299,"James Kochalkas Sketchbook DiariesVol. 2",,7.95,Top Shelf,883
+COMIC,2002,MARCH,300,Mangazine,31,8.99,Antarctic,868
+TPB,2002,MARCH,1,"Lone Wolf & Cub Vol. 20Taste Of Poison",,9.95,Dark Horse,14430
+TPB,2002,MARCH,2,September 11 Vol. 2,,5.0,DC,9002
+TPB,2002,MARCH,3,September 11 Vol. 1,,5.0,Dark Horse,8672
+TPB,2002,MARCH,4,G.I. Joe Vol. 1,,24.95,Marvel,7613
+TPB,2002,MARCH,5,Green Arrow Quiver HC,,24.95,DC,6998
+TPB,2002,MARCH,6,Ultimate X-Men Vol. 2 Weapon X,,14.95,Marvel,6435
+TPB,2002,MARCH,7,King David,,19.95,DC,5785
+TPB,2002,MARCH,8,Batman Nine Lives HC,,24.95,DC,5335
+TPB,2002,MARCH,9,Astro Boy Vol. 2,,9.95,Dark Horse,5098
+TPB,2002,MARCH,10,Mad About Super-Heroes,,9.95,DC,4937
+TPB,2002,MARCH,11,Dawn Return of the Goddess,,12.95,Image,4695
+TPB,2002,MARCH,12,Best Of Spider-Man Vol. 1 HC,,34.95,Marvel,4292
+TPB,2002,MARCH,13,Swamp Thing Volume 5 Earth To Earth,,17.95,DC,4168
+TPB,2002,MARCH,14,Essential Marvel Team Up,,14.95,Marvel,4111
+TPB,2002,MARCH,15,Transformers Vol. 3 Primalream,,19.99,Titan,4059
+TPB,2002,MARCH,16,Vampires HC,,14.95,Dark Horse,3967
+TPB,2002,MARCH,17,Doom Patrol Archives Vol. 1 HC,,49.95,DC,3109
+TPB,2002,MARCH,18,Batman Huntress Cry For Blood,,12.95,DC,3073
+TPB,2002,MARCH,19,Top Ten Book Two HC,,24.95,DC,2980
+TPB,2002,MARCH,20,Spider-Man Parallel Lives,,5.95,Marvel,2763
+TPB,2002,MARCH,21,Kolchak Night Stalker,,6.5,Moonstone,2753
+TPB,2002,MARCH,22,Art Of Comic Book Inking Vol. 2,,14.95,Dark Horse,2701
+TPB,2002,MARCH,23,Rose,,19.95,Cartoon,2696
+TPB,2002,MARCH,24,Marvel Masterworks Sub Mariner HC,,49.95,Marvel,2608
+TPB,2002,MARCH,25,X-Men Mutant Genesis,,17.95,Marvel,2526
+TPB,2002,MARCH,26,Flash Blood Will Run,,17.95,DC,2500
+TPB,2002,MARCH,28,Dragonball Z Vol. 8,,12.95,Viz,2340
+TPB,2002,MARCH,29,Groo Maiden,,12.95,Dark Horse,2221
+TPB,2002,MARCH,30,Simpsons Unchained,,14.95,Bongo,2159
+TPB,2002,MARCH,31,Scion Vol. 2,,19.95,Crossgen,2138
+TPB,2002,MARCH,32,Spider-Man Tangled Web Vol. 2,,14.95,Marvel,2097
+TPB,2002,MARCH,33,Mystic Vol. 2,,19.95,Crossgen,2066
+TPB,2002,MARCH,34,X-Treme X-Men Savage Land,,12.95,Marvel,2050
+TPB,2002,MARCH,35,Queen & Country Vol. 1,,11.95,Oni,2050
+TPB,2002,MARCH,36,Nowheresville,,14.95,Image,1942
+TPB,2002,MARCH,37,Union Jack,,11.5,Marvel,1906
+TPB,2002,MARCH,38,Cardcaptor Sakura Vol. 6 Pkt,,9.99,Tokyopop,1901
+TPB,2002,MARCH,40,Gen 13 Super-Human Like You,,12.95,DC,1601
+TPB,2002,MARCH,41,Ceres Celestial Legend Vol. 1 Aya,,15.95,Viz,1586
+TPB,2002,MARCH,43,Click Vol. 4,,10.95,NBM,1493
+TPB,2002,MARCH,44,Clover Vol. 4 Pkt,,14.99,Tokyopop,1446
+TPB,2002,MARCH,45,Sorcerer Hunters Vol. 9 Pkt,,12.99,Tokyopop,1415
+TPB,2002,MARCH,46,Dirty Pair Sim Hell 3rd Ed,,14.95,Dark Horse,1379
+TPB,2002,MARCH,48,White Death,,12.95,Astronauts in Trouble,1338
+TPB,2002,MARCH,49,Stray Bullets Vol. 6,,14.95,El Capitan,1317
+TPB,2002,MARCH,50,Skizz,,16.99,Titan,1302

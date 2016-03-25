@@ -1,0 +1,341 @@
+PUBLICATION_FORMAT,YEAR,MONTH,SALES_RANK,TITLE,ISSUE,PRICE,PUBLISHER,EST_SALES
+COMIC,2003,JUNE,1,Batman,616,2.25,DC,141988
+COMIC,2003,JUNE,2,Ultimate X-Men,34,2.25,Marvel,110949
+COMIC,2003,JUNE,3,Ultimate Spider-Man,42,2.25,Marvel,100328
+COMIC,2003,JUNE,4,Wolverine,2,2.25,Marvel,100044
+COMIC,2003,JUNE,5,New X-Men,142,2.25,Marvel,98071
+COMIC,2003,JUNE,6,Uncanny X-Men,425,2.25,Marvel,91710
+COMIC,2003,JUNE,7,Uncanny X-Men,426,2.25,Marvel,89878
+COMIC,2003,JUNE,8,Incredible Hulk,56,2.25,Marvel,68651
+COMIC,2003,JUNE,9,Transformers Generation One Vol. 2,3,2.95,Dreamwave,67331
+COMIC,2003,JUNE,10,Venom,2,2.25,Marvel,67075
+COMIC,2003,JUNE,11,Spider-Man & Wolverine,1,2.99,Marvel,66848
+COMIC,2003,JUNE,12,X-Treme X-Men,27,2.99,Marvel,64036
+COMIC,2003,JUNE,13,Born,1,3.5,Marvel,63667
+COMIC,2003,JUNE,14,Daredevil,48,2.99,Marvel,59976
+COMIC,2003,JUNE,15,JLA,82,2.25,DC,58584
+COMIC,2003,JUNE,16,Avengers,68,2.25,Marvel,57690
+COMIC,2003,JUNE,17,Fantastic Four,70,2.25,Marvel,53160
+COMIC,2003,JUNE,18,Marvel Universe The End,6,2.99,Marvel,50093
+COMIC,2003,JUNE,19,Peter Parker Spider-Man,57,2.25,Marvel,48773
+COMIC,2003,JUNE,20,Outsiders,1,2.5,DC,47750
+COMIC,2003,JUNE,21,Green Arrow,27,2.5,DC,47197
+COMIC,2003,JUNE,22,Captain America,14,2.99,Marvel,45720
+COMIC,2003,JUNE,23,New Mutants,2,2.5,Marvel,45649
+COMIC,2003,JUNE,24,JSA,49,2.5,DC,43817
+COMIC,2003,JUNE,25,G.I. Joe,18,2.95,Image,41219
+COMIC,2003,JUNE,26,Kingpin,1,2.5,Marvel,40850
+COMIC,2003,JUNE,27,Batman/Superman/Wonder Woman Trinity,1,6.95,DC,39941
+COMIC,2003,JUNE,28,Punisher,28,2.99,Marvel,39501
+COMIC,2003,JUNE,29,Exiles,28,2.99,Marvel,39118
+COMIC,2003,JUNE,30,Dark Days,1,3.99,IDW,38819
+COMIC,2003,JUNE,31,Planetary/Batman Night On Earth,,5.95,DC,38734
+COMIC,2003,JUNE,32,JSA All Stars,2,2.5,DC,38195
+COMIC,2003,JUNE,33,Mystique,3,2.99,Marvel,38010
+COMIC,2003,JUNE,34,Wolverine Snikt,2,2.99,Marvel,37698
+COMIC,2003,JUNE,35,Detective Comics,783,2.75,DC,37669
+COMIC,2003,JUNE,36,Hulk Nightmerica,1,2.99,Marvel,37414
+COMIC,2003,JUNE,37,Authority Vol. 2,2,2.95,DC,37158
+COMIC,2003,JUNE,38,Transformers Armada,12,2.95,Dreamwave,36974
+COMIC,2003,JUNE,39,Green Lantern,166,2.25,DC,36036
+COMIC,2003,JUNE,40,Titans/Young Justice Graduation Day,3,2.5,DC,35838
+COMIC,2003,JUNE,41,X-Men Unlimited,48,2.5,Marvel,34375
+COMIC,2003,JUNE,42,Thundercats Dogs of War,1,2.95,DC,34191
+COMIC,2003,JUNE,43,Truth Red White Black,6,3.5,Marvel,33935
+COMIC,2003,JUNE,44,Thundercats Return,5,2.95,DC,33722
+COMIC,2003,JUNE,45,Superman,194,2.25,DC,33623
+COMIC,2003,JUNE,46,Thor,65,2.99,Marvel,33509
+COMIC,2003,JUNE,47,Astro City Local Heroes,3,2.95,DC,33239
+COMIC,2003,JUNE,48,Superman Red Son,2,5.95,DC,32757
+COMIC,2003,JUNE,49,Flash,199,2.25,DC,32515
+COMIC,2003,JUNE,50,"Teenage Mutant Ninja TurtlesAnimated",1,2.95,Dreamwave,32331
+COMIC,2003,JUNE,51,Iron Man,69,2.99,Marvel,32032
+COMIC,2003,JUNE,52,Hulk Movie Adaptation,,3.5,Marvel,31947
+COMIC,2003,JUNE,53,Action Comics,804,2.25,DC,31550
+COMIC,2003,JUNE,54,Aquaman,7,2.5,DC,30669
+COMIC,2003,JUNE,55,Batgirl Year One,7,2.95,DC,30343
+COMIC,2003,JUNE,56,Batgirl,41,2.5,DC,29746
+COMIC,2003,JUNE,57,Nightwing,82,2.25,DC,29604
+COMIC,2003,JUNE,58,Hawkman,16,2.5,DC,29533
+COMIC,2003,JUNE,59,Batman Gotham Knights,42,2.75,DC,29462
+COMIC,2003,JUNE,60,Adventures of Superman,617,2.25,DC,29235
+COMIC,2003,JUNE,61,Inhumans,2,2.5,Marvel,28696
+COMIC,2003,JUNE,62,Namor,3,2.25,Marvel,28554
+COMIC,2003,JUNE,63,Captain Marvel,11,2.99,Marvel,28071
+COMIC,2003,JUNE,64,Arkham Asylum Living Hell,2,2.5,DC,27901
+COMIC,2003,JUNE,65,Paradise X,11,2.99,Marvel,27688
+COMIC,2003,JUNE,66,Alias,23,2.99,Marvel,27475
+COMIC,2003,JUNE,67,Wolverine Doop,2,2.99,Marvel,27446
+COMIC,2003,JUNE,68,Lobo Unbound,1,2.95,DC,27375
+COMIC,2003,JUNE,69,X-Men Ronin,5,2.99,Marvel,26907
+COMIC,2003,JUNE,70,JLA Scary Monsters,4,2.5,DC,26878
+COMIC,2003,JUNE,71,Magdalena Vampirella*,,2.99,Image,26878
+COMIC,2003,JUNE,72,Birds of Prey,56,2.5,DC,26850
+COMIC,2003,JUNE,73,Powers,32,2.95,Image,26821
+COMIC,2003,JUNE,74,"Superman & BatmanGenerations III",6,2.95,DC,26651
+COMIC,2003,JUNE,75,Darkness Vol. 2,4,2.99,Image,26608
+COMIC,2003,JUNE,76,Elektra,24,2.99,Marvel,26069
+COMIC,2003,JUNE,77,Batman Legends of the Dark Knight,168,2.5,DC,26055
+COMIC,2003,JUNE,78,Y The Last Man,12,2.95,DC,26012
+COMIC,2003,JUNE,79,Agent X,11,2.99,Marvel,25870
+COMIC,2003,JUNE,80,Wonder Woman,193,2.25,DC,25643
+COMIC,2003,JUNE,81,Human Torch,3,2.5,Marvel,25331
+COMIC,2003,JUNE,82,Domino,2,2.5,Marvel,25316
+COMIC,2003,JUNE,83,Fables,14,2.5,DC,25274
+COMIC,2003,JUNE,84,Eternal,1,2.99,Marvel,25217
+COMIC,2003,JUNE,85,Agent X,12,2.99,Marvel,24393
+COMIC,2003,JUNE,86,Terra Obscura,1,2.95,DC,23485
+COMIC,2003,JUNE,87,Spider-Girl,61,2.99,Marvel,23471
+COMIC,2003,JUNE,88,Catwoman,20,2.5,DC,23272
+COMIC,2003,JUNE,89,Sentinel,3,2.5,Marvel,23215
+COMIC,2003,JUNE,90,Voltron Defender of the Universe,2,2.95,Image,23016
+COMIC,2003,JUNE,91,War Machine 2.0,1,2.99,Marvel,22988
+COMIC,2003,JUNE,92,Legion,21,2.5,DC,22789
+COMIC,2003,JUNE,93,Robotech Love & War,1,2.95,DC,22746
+COMIC,2003,JUNE,94,Sojourn,24,2.95,Crossgen,22718
+COMIC,2003,JUNE,95,Robin,115,2.25,DC,22093
+COMIC,2003,JUNE,96,Witchblade,65,2.99,Image,21980
+COMIC,2003,JUNE,97,Crew,2,2.5,Marvel,21653
+COMIC,2003,JUNE,98,War Machine 2.0,2,2.99,Marvel,21440
+COMIC,2003,JUNE,99,Tomb Raider,31,2.99,Image,21355
+COMIC,2003,JUNE,100,Witchblade,66,2.99,Image,20872
+COMIC,2003,JUNE,101,Runaways,3,2.5,Marvel,20815
+COMIC,2003,JUNE,102,Star Wars Republic,54,2.99,Dark Horse,20503
+COMIC,2003,JUNE,103,JLA Welcome To Working Week,,6.95,DC,19963
+COMIC,2003,JUNE,104,Hellboy Weird Tales,3,2.99,Dark Horse,19935
+COMIC,2003,JUNE,105,Hero,5,2.5,DC,19921
+COMIC,2003,JUNE,106,Losers,1,2.95,DC,19850
+COMIC,2003,JUNE,107,"Startling Stories Thing Night FallsOn Yancy St",1,3.5,Marvel,19750
+COMIC,2003,JUNE,108,"Criminal Macabre Cal McdonaldMystery",2,2.99,Dark Horse,19537
+COMIC,2003,JUNE,109,Batman Nevermore,3,2.5,DC,19523
+COMIC,2003,JUNE,110,Filth,11,2.95,DC,19481
+COMIC,2003,JUNE,111,"Transformers More Than Meets EyeOfficial Guide",3,5.25,Dreamwave,19097
+COMIC,2003,JUNE,112,Star Wars Tales,16,5.99,Dark Horse,19069
+COMIC,2003,JUNE,113,Motu Vol. 2 Santalucia Cvr,4,2.95,Image,19041
+COMIC,2003,JUNE,114,Brian Pulido Lady Death,5,2.95,Crossgen,18998
+COMIC,2003,JUNE,115,Thunderbolts,80,2.25,Marvel,18799
+COMIC,2003,JUNE,116,Tokyo Storm Warning,1,2.95,DC,18373
+COMIC,2003,JUNE,117,Red Star Vol. 2,2,2.95,Archie,17834
+COMIC,2003,JUNE,118,Soldier X,12,2.99,Marvel,17578
+COMIC,2003,JUNE,119,Gotham Central,8,2.5,DC,17422
+COMIC,2003,JUNE,120,100 Bullets,45,2.5,DC,17237
+COMIC,2003,JUNE,121,Promethea,26,2.95,DC,16925
+COMIC,2003,JUNE,122,Solus,4,2.95,Crossgen,16925
+COMIC,2003,JUNE,123,Motu Icons of Evil Beast Man,1,4.95,Image,16655
+COMIC,2003,JUNE,124,Birds of Prey Secret Files 2003,,4.95,DC,16598
+COMIC,2003,JUNE,125,Hellblazer,185,2.75,DC,16584
+COMIC,2003,JUNE,126,"Startling Stories Thing Night FallsOn Yancy St",2,3.5,Marvel,16442
+COMIC,2003,JUNE,127,Botp Jason One-Shot,,4.99,Image,16400
+COMIC,2003,JUNE,128,Superman Metropolis,5,2.95,DC,16229
+COMIC,2003,JUNE,129,Victory Cvr,1,2.95,Image,16187
+COMIC,2003,JUNE,130,Black Panther,60,2.99,Marvel,16144
+COMIC,2003,JUNE,131,Wildcats Version 3.0,10,2.95,DC,16101
+COMIC,2003,JUNE,132,Harley Quinn,33,2.5,DC,16059
+COMIC,2003,JUNE,133,Gen 13,10,2.95,DC,15888
+COMIC,2003,JUNE,134,Black Panther,61,2.99,Marvel,15732
+COMIC,2003,JUNE,135,Batman Adventures,3,2.25,DC,15562
+COMIC,2003,JUNE,136,Wildcats Version 3.0,11,2.95,DC,15462
+COMIC,2003,JUNE,137,Out There,18,2.95,DC,15008
+COMIC,2003,JUNE,138,Way of the Rat,14,2.95,Crossgen,14980
+COMIC,2003,JUNE,139,Buffy the Vampire Slayer,58,2.99,Dark Horse,14724
+COMIC,2003,JUNE,140,Warlands Vol. 3,6,2.95,Dreamwave,14611
+COMIC,2003,JUNE,141,Blood & Water,4,2.95,DC,14568
+COMIC,2003,JUNE,143,Chimera,4,2.95,Crossgen,14256
+COMIC,2003,JUNE,144,Justice League Adventures,20,2.25,DC,14085
+COMIC,2003,JUNE,145,Simpsons Comics,83,2.5,Bongo,14057
+COMIC,2003,JUNE,146,Empire,0,4.95,DC,14057
+COMIC,2003,JUNE,147,Brath,5,2.95,Crossgen,14014
+COMIC,2003,JUNE,148,Lucifer,39,2.5,DC,13716
+COMIC,2003,JUNE,149,Stormwatch Team Achilles,12,2.95,DC,13531
+COMIC,2003,JUNE,150,Casefiles Sam & Twitch,1,2.5,Image,13446
+COMIC,2003,JUNE,151,Scion,37,2.95,Crossgen,13418
+COMIC,2003,JUNE,152,Beware The Creeper,3,2.95,DC,13361
+COMIC,2003,JUNE,153,Micronauts,8,2.95,Image,13020
+COMIC,2003,JUNE,154,Power Company,17,2.75,DC,12878
+COMIC,2003,JUNE,155,Silken Ghost,2,2.95,Crossgen,12821
+COMIC,2003,JUNE,156,Humans Defense Corps,2,2.5,DC,12481
+COMIC,2003,JUNE,157,Doom Patrol,21,2.5,DC,12353
+COMIC,2003,JUNE,158,Negation,19,2.95,Crossgen,12069
+COMIC,2003,JUNE,159,Mystic,37,2.95,Crossgen,11799
+COMIC,2003,JUNE,160,Crux,27,2.95,Crossgen,11558
+COMIC,2003,JUNE,161,Strangers In Paradise Vol. III,58,2.95,Abstract,11416
+COMIC,2003,JUNE,162,Sigil,37,2.95,Crossgen,11387
+COMIC,2003,JUNE,163,Hunter Age of Magic,24,2.75,DC,11231
+COMIC,2003,JUNE,164,Ruse,21,2.95,Crossgen,11231
+COMIC,2003,JUNE,165,Mark Of Charon,4,2.95,Crossgen,11189
+COMIC,2003,JUNE,166,Route 666,13,2.95,Crossgen,11174
+COMIC,2003,JUNE,167,Meridian,37,2.95,Crossgen,11103
+COMIC,2003,JUNE,168,First,32,2.95,Crossgen,11061
+COMIC,2003,JUNE,169,Judge Dredd Vs Aliens Incubus,4,2.99,Dark Horse,10976
+COMIC,2003,JUNE,170,Call,3,2.25,Marvel,10819
+COMIC,2003,JUNE,171,Motu Vol. 2 Vallejo Bell Cvr,4,5.95,Image,10095
+COMIC,2003,JUNE,172,Xin Journey of the Monkey King,2,2.99,Harris,9684
+COMIC,2003,JUNE,173,Even More Secret Origins 80-Pg Giant,,6.95,DC,9613
+COMIC,2003,JUNE,174,Sandscape,4,2.95,Dreamwave,9584
+COMIC,2003,JUNE,175,Goon,1,2.99,Dark Horse,9584
+COMIC,2003,JUNE,176,Sleeper,6,2.95,DC,9456
+COMIC,2003,JUNE,177,Path,16,2.95,Crossgen,9385
+COMIC,2003,JUNE,178,Spyboy 13.2 Manga Affair,2,2.99,Dark Horse,9172
+COMIC,2003,JUNE,179,Crossovers,6,2.95,Crossgen,8974
+COMIC,2003,JUNE,180,Shonen Jump Vol. 1,,4.95,Viz,8959
+COMIC,2003,JUNE,181,American Century,25,2.75,DC,8959
+COMIC,2003,JUNE,182,Motu Vol. 2 Edwards Holofoil Cvr,,5.95,Image,8888
+COMIC,2003,JUNE,183,Vampirella,21 Reg Ed,2.99,Harris,8732
+COMIC,2003,JUNE,184,R A Salvatore Demon Wars Vol. 2,2,2.95,Crossgen,8533
+COMIC,2003,JUNE,185,Top Cow Book of Revelations 2003,,3.99,Image,8462
+COMIC,2003,JUNE,186,Vertigo Pop Bangkok,2,2.95,DC,7966
+COMIC,2003,JUNE,187,Soul of Samurai,1,5.95,Image,7937
+COMIC,2003,JUNE,188,21 Down,10,2.95,DC,7866
+COMIC,2003,JUNE,189,Powerpuff Girls,39,2.25,DC,7824
+COMIC,2003,JUNE,190,Usagi Yojimbo,66,2.99,Dark Horse,7497
+COMIC,2003,JUNE,191,Sweatshop,3,2.95,DC,7355
+COMIC,2003,JUNE,192,Teenage Mutant Ninja Turtles,10,3.95,Mirage,7085
+COMIC,2003,JUNE,193,Uncle Scrooge,319,6.95,Gemstone,7085
+COMIC,2003,JUNE,194,Queen & Country,16,2.99,Oni,7071
+COMIC,2003,JUNE,195,Grendel God & Devil,5,3.5,Dark Horse,7043
+COMIC,2003,JUNE,196,Terminator 3 Before The Rise,1,5.95,Beckett,7028
+COMIC,2003,JUNE,197,Kore,2,2.95,Image,7000
+COMIC,2003,JUNE,198,Rex Mundi,4,2.95,Image,6986
+COMIC,2003,JUNE,199,Batman,615,2.25,DC,6886
+COMIC,2003,JUNE,200,Oh My Goddess,98,2.99,Dark Horse,6858
+COMIC,2003,JUNE,201,Knights of the Dinner Table,80,3.99,Kenzer,6787
+COMIC,2003,JUNE,202,"Noble Causes Extended FamilyOne-Shot",,6.95,Image,6716
+COMIC,2003,JUNE,203,Clockmaker,4,2.5,Image,6659
+COMIC,2003,JUNE,204,Mythstalkers,3,2.95,Image,6503
+COMIC,2003,JUNE,205,"Knights of the Dinner TableMini-Series Px Sp Vol. 1",3,2.99,Kenzer,6460
+COMIC,2003,JUNE,206,Blade of the Immortal,79,2.99,Dark Horse,6148
+COMIC,2003,JUNE,207,Cerebus,289,4.5,Aardvark-Vanaheim,6091
+COMIC,2003,JUNE,208,Sonic The Hedgehog,124,2.19,Archie,6063
+COMIC,2003,JUNE,209,Scooby Doo,73,2.25,DC,5935
+COMIC,2003,JUNE,210,Grrl Scouts Work Sucks,4,2.95,Image,5523
+COMIC,2003,JUNE,211,Heirs of Eternity,2,2.95,Image,5424
+COMIC,2003,JUNE,212,Blackburne Covenant,3,2.99,Dark Horse,5183
+COMIC,2003,JUNE,213,Super Manga Blast,32,5.99,Dark Horse,4955
+COMIC,2003,JUNE,214,Cvo Covert Vampiric Operations,,5.99,IDW,4856
+COMIC,2003,JUNE,215,Bear,1,2.95,Slave Labor,4842
+COMIC,2003,JUNE,216,Cannon God Exaxxion,14,3.5,Dark Horse,4572
+COMIC,2003,JUNE,217,"Walt Disneys Comics &Stories",634,6.95,Gemstone,4572
+COMIC,2003,JUNE,218,Love Fights,1,2.99,Oni,4061
+COMIC,2003,JUNE,219,Planetary Reader,,5.95,DC,4047
+COMIC,2003,JUNE,220,Motu Vol. 2,1,2.95,Image,4018
+COMIC,2003,JUNE,221,Too Much Hopeless Savages,1,2.99,Oni,3677
+COMIC,2003,JUNE,222,Looney Tunes,103,2.25,DC,3550
+COMIC,2003,JUNE,223,Warren Ellis Scars,6,3.5,Avatar,3507
+COMIC,2003,JUNE,224,Zeet,1,2.95,Slave Labor,3422
+COMIC,2003,JUNE,225,Archie,537,2.19,Archie,3422
+COMIC,2003,JUNE,226,Artesia Afire,1,3.95,Archie,3308
+COMIC,2003,JUNE,227,Gloom Cookie,16,2.95,Slave Labor,3294
+COMIC,2003,JUNE,228,Deathmask,2,2.99,Future,3223
+COMIC,2003,JUNE,229,Zen,1,2.95,Zen,3209
+COMIC,2003,JUNE,230,Betty & Veronica,189,2.19,Archie,3095
+COMIC,2003,JUNE,231,"Knights of the Dinner TableIllustrated",23,2.99,Kenzer,2982
+COMIC,2003,JUNE,232,Nightmares & Fairy Tales,5,2.95,Slave Labor,2953
+COMIC,2003,JUNE,233,Betty,127,2.19,Archie,2925
+COMIC,2003,JUNE,234,Veronica,141,2.19,Archie,2868
+COMIC,2003,JUNE,235,Sabrina Vol. 2,46,2.19,Archie,2840
+COMIC,2003,JUNE,236,Mucha Lucha,3,2.25,DC,2826
+COMIC,2003,JUNE,237,Popbot,4,7.99,IDW,2726
+COMIC,2003,JUNE,238,Uncanny X-Men,424,2.25,Marvel,2712
+COMIC,2003,JUNE,239,"Betty & Veronica DoubleDigest",116,3.59,Archie,2655
+COMIC,2003,JUNE,240,Cartoon Cartoons,19,2.25,DC,2598
+COMIC,2003,JUNE,241,Archie & Friends,72,2.19,Archie,2598
+COMIC,2003,JUNE,242,"Sidekicks Super Summer Fun SpOne-Shot",,2.99,Oni,2556
+COMIC,2003,JUNE,243,"Ghost in the Shell 2 Man/MachineInterface",2 New Prtg,3.5,Dark Horse,2542
+COMIC,2003,JUNE,244,Metallix,5,3.5,Future,2542
+COMIC,2003,JUNE,245,Alice In Sexland Extreme,2,3.5,Fantagraphics,2456
+COMIC,2003,JUNE,246,Ninja High School,106,3.5,Antarctic,2442
+COMIC,2003,JUNE,247,Archie Pals N Gals Double Digest,76,3.59,Archie,2371
+COMIC,2003,JUNE,248,Akiko,50,3.5,Sirius,2357
+COMIC,2003,JUNE,249,Betty & Veronica Digest,139,2.39,Archie,2357
+COMIC,2003,JUNE,250,New X-Men,141,2.25,Marvel,2300
+COMIC,2003,JUNE,251,Archie Digest,199,2.39,Archie,2286
+COMIC,2003,JUNE,252,Jugheads Double Digest,95,3.59,Archie,2258
+COMIC,2003,JUNE,253,Hot Moms,1,3.95,Fantagraphics,2229
+COMIC,2003,JUNE,254,Wolverine,1,2.25,Marvel,2215
+COMIC,2003,JUNE,255,Jughead,151,2.19,Archie,2172
+COMIC,2003,JUNE,256,Black Tide,6*,2.95,Angel Gate,2059
+COMIC,2003,JUNE,257,Titans/Young Justice Graduation Day,2,2.5,DC,2059
+COMIC,2003,JUNE,258,Genus,59,3.5,Radio,2016
+COMIC,2003,JUNE,260,Archie Mysteries,28,2.19,Archie,1988
+COMIC,2003,JUNE,261,Ultimate X-Men,33,2.25,Marvel,1974
+COMIC,2003,JUNE,262,Flash,198,2.25,DC,1945
+COMIC,2003,JUNE,263,Lurid,3,2.99,IDW,1903
+COMIC,2003,JUNE,264,"Mike Hoffmans Lost Worlds ofFantasy & Sci-Fi",1,2.95,Basement,1888
+COMIC,2003,JUNE,265,"Criminal Macabre Cal McdonaldMystery",1,2.99,Dark Horse,1874
+COMIC,2003,JUNE,266,Jughead W/Archie Digest,184,2.39,Archie,1874
+COMIC,2003,JUNE,267,Raijin Comics,25,4.95,Gutsoon,1860
+COMIC,2003,JUNE,268,Raijin Comics,26,4.95,Gutsoon,1860
+COMIC,2003,JUNE,269,Raijin Comics,27,4.95,Gutsoon,1846
+COMIC,2003,JUNE,270,Raijin Comics,28,4.95,Gutsoon,1817
+COMIC,2003,JUNE,271,Alraune,6,3.5,Fantagraphics,1803
+COMIC,2003,JUNE,272,Halo & Sprocket,4,2.95,Slave Labor,1718
+COMIC,2003,JUNE,273,Vampi Omega,1 Prototype Ed,4.95,Harris,1690
+COMIC,2003,JUNE,274,Superman,193,2.25,DC,1675
+COMIC,2003,JUNE,275,Batman,614,2.25,DC,1675
+COMIC,2003,JUNE,276,PS238,2,2.99,Dork Storm,1647
+COMIC,2003,JUNE,277,Neotopia,5,3.95,Antarctic,1647
+COMIC,2003,JUNE,278,Ultimates,10,2.25,Marvel,1604
+COMIC,2003,JUNE,279,Counter Ops,2,3.95,Antarctic,1562
+COMIC,2003,JUNE,280,Little Scrowlie,2,2.95,Slave Labor,1533
+COMIC,2003,JUNE,281,Luftwaffe 1946,10,5.95,Antarctic,1420
+COMIC,2003,JUNE,282,Warren Ellis Scars Wrap Cvr,6,3.95,Avatar,1391
+COMIC,2003,JUNE,283,"Ghost in the Shell 2 Man/MachineInterface",4,3.5,Dark Horse,1377
+COMIC,2003,JUNE,284,Finder,31,2.95,Lightspeed,1363
+COMIC,2003,JUNE,285,Incredible Hulk Ace Ed,1,13.99,Wizard,1363
+COMIC,2003,JUNE,286,Big O Part 4,4,3.5,Viz,1335
+COMIC,2003,JUNE,287,Transformers Generation One Vol. 2,1,2.95,Dreamwave,1320
+COMIC,2003,JUNE,288,Hero Double Feature,,4.95,DC,1320
+COMIC,2003,JUNE,289,Shoujo,1,5.95,Antarctic,1292
+COMIC,2003,JUNE,290,Snapdragons,3,2.99,Dork Storm,1278
+COMIC,2003,JUNE,291,Arkham Asylum Living Hell,1,2.5,DC,1278
+COMIC,2003,JUNE,292,Bipolar,4,2.95,Alternative,1264
+COMIC,2003,JUNE,293,Fade From Blue,7,1.5,Second to Some,1264
+COMIC,2003,JUNE,294,Soul Assassin One-Shot,,3.5,Aerosol,1249
+COMIC,2003,JUNE,295,Spirit of the Amazon,2 (Res),2.95,NW Studios,1249
+COMIC,2003,JUNE,296,Monster Club,6,3.5,APC,1122
+COMIC,2003,JUNE,297,Petey,1,2.95,Baboon,1122
+COMIC,2003,JUNE,298,Rehd,0,2.5,Antarctic,1108
+COMIC,2003,JUNE,299,Amazing Spider-Man,53,2.25,Marvel,1108
+COMIC,2003,JUNE,300,Classic Illus Jr,519,3.99,Jack Lake,1108
+TPB,2003,JUNE,1,Ultimate Spider-Man Vol. 6 Venom,,15.99,Marvel,8278
+TPB,2003,JUNE,3,Alan Moores Another Suburban Romance,,7.95,Avatar,4813
+TPB,2003,JUNE,5,Love Hina Vol. 11,,9.99,Tokyopop,4203
+TPB,2003,JUNE,6,Chobits Vol. 6,,9.99,Tokyopop,3990
+TPB,2003,JUNE,7,Intron Depot Vol. 3 Ballistics,,49.95,Dark Horse,3677
+TPB,2003,JUNE,9,New Teen Titans Terror of Trigon,,17.95,DC,3450
+TPB,2003,JUNE,12,Exiles Vol. 4 Legacy,,12.99,Marvel,3024
+TPB,2003,JUNE,14,Alias Vol. 3 Underneath,,16.99,Marvel,2939
+TPB,2003,JUNE,15,Superman President Lex,,17.95,DC,2868
+TPB,2003,JUNE,16,Undercover Genie,,14.95,DC,2740
+TPB,2003,JUNE,17,Cowboy Bebop Shooting Stars Vol. 2,,9.99,Tokyopop,2712
+TPB,2003,JUNE,18,Rawhide Kid,,12.99,Marvel,2613
+TPB,2003,JUNE,19,Green Lantern Brothers Keeper,,12.95,DC,2598
+TPB,2003,JUNE,20,Proposition Player,,14.95,DC,2499
+TPB,2003,JUNE,21,Thundercats Reclaiming Thundera,,12.95,DC,2385
+TPB,2003,JUNE,22,GTO Vol. 12,,9.99,Tokyopop,2385
+TPB,2003,JUNE,23,Green Lantern Road Back,,14.95,DC,2343
+TPB,2003,JUNE,24,Astro Boy Vol. 16,,9.95,Dark Horse,2300
+TPB,2003,JUNE,25,Superman Archives Vol. 6 HC,,49.95,DC,2286
+TPB,2003,JUNE,27,Captain America Vol. 2 Extremists,,13.99,Marvel,2187
+TPB,2003,JUNE,28,Marmalade Boy Vol. 7,,9.99,Tokyopop,2045
+TPB,2003,JUNE,29,Groo Odyssey,,12.95,Dark Horse,2030
+TPB,2003,JUNE,30,Warlands Vol. 3 Age of Ice,,15.95,Dreamwave,2016
+TPB,2003,JUNE,31,Mars Vol. 11,,9.99,Tokyopop,2016
+TPB,2003,JUNE,32,X-Treme X-Men Vol. 4 Mekanix,,16.99,Marvel,2016
+TPB,2003,JUNE,33,Origin,,14.99,Marvel,2016
+TPB,2003,JUNE,34,Transformers Space Pirates,,19.95,Titan,1903
+TPB,2003,JUNE,35,Stormwatch Team Achilles Vol. 1,,14.95,DC,1888
+TPB,2003,JUNE,36,"Elektra Vol. 2 Everything Old IsNew Again",,16.99,Marvel,1846
+TPB,2003,JUNE,37,Ultimate X-Men Vol. 5 Ultimate War,,10.99,Marvel,1789
+TPB,2003,JUNE,38,Top Shelf Asks Big Question,,24.95,Top Shelp,1732
+TPB,2003,JUNE,39,Lupin III Vol. 4,,9.99,Tokyopop,1704
+TPB,2003,JUNE,40,Punisher Vol. 2 HC,,29.99,Marvel,1690
+TPB,2003,JUNE,41,Pop Gun War,,13.95,Dark Horse,1675
+TPB,2003,JUNE,42,Initial D Vol. 6,,9.99,Tokyopop,1675
+TPB,2003,JUNE,43,"Simpsons Big Bad Book of BartSimpson",,12.95,Bongo,1633
+TPB,2003,JUNE,44,Samurai Deeper Kyo Vol. 1,,9.99,Tokyopop,1576
+TPB,2003,JUNE,45,Fables Vol. 1 Legends In Exile,,9.95,DC,1576
+TPB,2003,JUNE,46,Castle in the Sky Vol. 1,,9.95,Viz,1562
+TPB,2003,JUNE,48,Bunker,,9.95,Image,1505
+TPB,2003,JUNE,49,Vic & Blood,,17.95,IBO,1505
+TPB,2003,JUNE,50,Brain Powered Vol. 1,,9.99,Tokyopop,1462

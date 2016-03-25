@@ -1,0 +1,384 @@
+PUBLICATION_FORMAT,YEAR,MONTH,SALES_RANK,TITLE,ISSUE,PRICE,PUBLISHER,EST_SALES
+COMIC,2008,MAY,1,Secret Invasion,2,3.99,Marvel,182390
+COMIC,2008,MAY,2,Final Crisis,1,3.99,DC,144784
+COMIC,2008,MAY,3,New Avengers,41,2.99,Marvel,109153
+COMIC,2008,MAY,4,Avengers Invaders,1,2.99,Marvel,108104
+COMIC,2008,MAY,5,Invincible Iron Man,1,2.99,Marvel,105833
+COMIC,2008,MAY,6,Giant Size Astonishing X-Men,1,4.99,Marvel,105477
+COMIC,2008,MAY,7,Batman,676,2.99,DC,105008
+COMIC,2008,MAY,8,Mighty Avengers,13,2.99,Marvel,96862
+COMIC,2008,MAY,9,Batman,677,2.99,DC,96088
+COMIC,2008,MAY,10,Mighty Avengers,14,2.99,Marvel,95253
+COMIC,2008,MAY,11,Justice League of America,21,2.99,DC,90009
+COMIC,2008,MAY,12,Dark Tower Long Road Home,3,3.99,Marvel,87605
+COMIC,2008,MAY,13,Thor,9,2.99,Marvel,87076
+COMIC,2008,MAY,14,Uncanny X-Men,498,2.99,Marvel,82066
+COMIC,2008,MAY,15,Buffy Vampire Slayer,14,2.99,Dark Horse,82045
+COMIC,2008,MAY,16,X-Force,4,2.99,Marvel,80151
+COMIC,2008,MAY,17,X-Men Legacy,211,2.99,Marvel,79795
+COMIC,2008,MAY,18,Captain America,38,2.99,Marvel,79327
+COMIC,2008,MAY,19,Justice Society of America,15,2.99,DC,78288
+COMIC,2008,MAY,20,Amazing Spider-Man,558,2.99,Marvel,76944
+COMIC,2008,MAY,21,Amazing Spider-Man,559,2.99,Marvel,74184
+COMIC,2008,MAY,22,X-Men Legacy,212,2.99,Marvel,74011
+COMIC,2008,MAY,23,Amazing Spider-Man,560,2.99,Marvel,73991
+COMIC,2008,MAY,24,All Star Superman,11,2.99,DC,70335
+COMIC,2008,MAY,25,Green Lantern,31,2.99,DC,65854
+COMIC,2008,MAY,26,Fantastic Four,557,2.99,Marvel,62718
+COMIC,2008,MAY,27,Wolverine,65,2.99,Marvel,62433
+COMIC,2008,MAY,28,Secret Invasion Fantastic Four,1,2.99,Marvel,60671
+COMIC,2008,MAY,29,King Size Hulk,1,4.99,Marvel,57463
+COMIC,2008,MAY,30,Titans,2,2.99,DC,57341
+COMIC,2008,MAY,31,Avengers Initiative,13,2.99,Marvel,56801
+COMIC,2008,MAY,32,X-Men Divided We Stand,2,3.99,Marvel,56547
+COMIC,2008,MAY,33,Ultimate Spider-Man,122,2.99,Marvel,55742
+COMIC,2008,MAY,34,Marvel 1985,1,3.99,Marvel,55121
+COMIC,2008,MAY,35,Cable,3,2.99,Marvel,54744
+COMIC,2008,MAY,36,Logan,3,3.99,Marvel,54612
+COMIC,2008,MAY,37,Action Comics Annual,11,4.99,DC,54307
+COMIC,2008,MAY,38,Incredible Hercules,117,2.99,Marvel,52993
+COMIC,2008,MAY,39,Wolverine Origins,25,3.99,Marvel,52891
+COMIC,2008,MAY,40,Superman Batman,48,2.99,DC,52830
+COMIC,2008,MAY,41,Serenity Better Days,3,2.99,Dark Horse,52413
+COMIC,2008,MAY,42,Young X-Men,2,2.99,Marvel,51252
+COMIC,2008,MAY,43,Ultimate X-Men,94,2.99,Marvel,49765
+COMIC,2008,MAY,44,Detective Comics,844,2.99,DC,48380
+COMIC,2008,MAY,45,X-Factor,31,2.99,Marvel,48217
+COMIC,2008,MAY,46,Green Lantern Corps,24,2.99,DC,46934
+COMIC,2008,MAY,47,Action Comics,865,2.99,DC,46751
+COMIC,2008,MAY,48,Teen Titans,59,2.99,DC,46292
+COMIC,2008,MAY,49,Superman,676,2.99,DC,45631
+COMIC,2008,MAY,50,Angel After The Fall,7,3.99,IDW,45417
+COMIC,2008,MAY,51,Captain Britain & M.I. 13,1,2.99,Marvel,43268
+COMIC,2008,MAY,52,Ms. Marvel,27,2.99,Marvel,41119
+COMIC,2008,MAY,53,Daredevil,107,2.99,Marvel,40407
+COMIC,2008,MAY,54,Thunderbolts,120,2.99,Marvel,38319
+COMIC,2008,MAY,55,Wonder Woman,20,2.99,DC,38105
+COMIC,2008,MAY,56,Ultimate Fantastic Four,54,2.99,Marvel,37545
+COMIC,2008,MAY,57,Rann Thanagar Holy War,1,3.5,DC,37168
+COMIC,2008,MAY,58,X-Factor Quick & Dead,,2.99,Marvel,37087
+COMIC,2008,MAY,59,Project Superpowers,3,2.99,Dynamic,36873
+COMIC,2008,MAY,60,Iron Man Director of Shield,29,2.99,Marvel,36405
+COMIC,2008,MAY,61,Guardians of Galaxy,1,2.99,Marvel,36282
+COMIC,2008,MAY,62,Giant Size Incredible Hulk,1,3.99,Marvel,36201
+COMIC,2008,MAY,63,Brave & Bold,13,2.99,DC,35804
+COMIC,2008,MAY,64,Iron Man Viva Las Vegas,1,3.99,Marvel,35142
+COMIC,2008,MAY,65,Batman & Outsiders,7,2.99,DC,35060
+COMIC,2008,MAY,66,Booster Gold,9,2.99,DC,35020
+COMIC,2008,MAY,67,Genext,1,3.99,Marvel,33676
+COMIC,2008,MAY,69,Flash,240,2.99,DC,31934
+COMIC,2008,MAY,70,Green Arrow Black Canary,8,2.99,DC,30855
+COMIC,2008,MAY,71,Punisher,57,2.99,Marvel,30519
+COMIC,2008,MAY,72,Star Wars Legacy,23,2.99,Dark Horse,30346
+COMIC,2008,MAY,73,Immortal Iron Fist,15,2.99,Marvel,30325
+COMIC,2008,MAY,74,Supergirl,29,2.99,DC,30183
+COMIC,2008,MAY,75,Punisher War Journal,19,2.99,Marvel,29898
+COMIC,2008,MAY,76,Twelve,5,2.99,Marvel,29867
+COMIC,2008,MAY,77,Star Wars Legacy,24,2.99,Dark Horse,29592
+COMIC,2008,MAY,78,Batman Gotham After Midnite,1,2.99,DC,29562
+COMIC,2008,MAY,79,Nightwing,144,2.99,DC,29358
+COMIC,2008,MAY,80,Newuniversal Shockfront,1,2.99,Marvel,28879
+COMIC,2008,MAY,81,Young Avengers Presents,5,2.99,Marvel,28788
+COMIC,2008,MAY,82,Nova,13,2.99,Marvel,28136
+COMIC,2008,MAY,83,Boys,18,2.99,Dynamic,27942
+COMIC,2008,MAY,84,Legion of Super Heroes,42,2.99,DC,27932
+COMIC,2008,MAY,85,Thunderbolts Reason In Madness,,2.99,Marvel,27627
+COMIC,2008,MAY,86,New Exiles,6,2.99,Marvel,27525
+COMIC,2008,MAY,87,House of Mystery,1,2.99,DC,27484
+COMIC,2008,MAY,88,X-Men Origin Colossus,,3.99,Marvel,26751
+COMIC,2008,MAY,89,Moon Knight,18,2.99,Marvel,26619
+COMIC,2008,MAY,90,Robin,174,2.99,DC,26201
+COMIC,2008,MAY,91,Star Wars Knights of Old Republic,28,2.99,Dark Horse,25101
+COMIC,2008,MAY,92,Ghost Rider,23,2.99,Marvel,25091
+COMIC,2008,MAY,93,Batman Confidential,17,2.99,DC,25010
+COMIC,2008,MAY,94,DC Wildstorm Dreamwar,2,2.99,DC,24725
+COMIC,2008,MAY,95,World of Warcraft,7,2.99,DC,24582
+COMIC,2008,MAY,96,Star Wars Dark Times,11,2.99,Dark Horse,24480
+COMIC,2008,MAY,97,Final Crisis Sketchbook,,2.99,DC,23798
+COMIC,2008,MAY,98,Fables,73,2.99,DC,23778
+COMIC,2008,MAY,99,Last Defenders,3,2.99,Marvel,23380
+COMIC,2008,MAY,100,Iron Man Legacy of Doom,2,2.99,Marvel,23370
+COMIC,2008,MAY,101,Walking Dead,49,2.99,Image,23095
+COMIC,2008,MAY,102,Gotham Underground,8,2.99,DC,22953
+COMIC,2008,MAY,103,Tangent Supermans Reign,3,2.99,DC,22851
+COMIC,2008,MAY,104,Conan,50,4.99,Dark Horse,22535
+COMIC,2008,MAY,105,Wolverine First Class,3,2.99,Marvel,22423
+COMIC,2008,MAY,106,Angel Revelations,1,3.99,Marvel,22321
+COMIC,2008,MAY,107,Star Wars Knights of Old Republic,29,2.99,Dark Horse,22036
+COMIC,2008,MAY,108,Birds of Prey,118,2.99,DC,21934
+COMIC,2008,MAY,109,New Warriors,12,2.99,Marvel,21802
+COMIC,2008,MAY,110,Huntress Year One,1,2.99,DC,21273
+COMIC,2008,MAY,111,Black Panther,36,2.99,Marvel,20835
+COMIC,2008,MAY,112,She-Hulk 2,29,2.99,Marvel,20672
+COMIC,2008,MAY,113,Countdown To Mystery,7,3.99,DC,20631
+COMIC,2008,MAY,114,"Anita Blake Vampire Hunter GuiltyPleasures",11,2.99,Marvel,20621
+COMIC,2008,MAY,115,Countdown To Mystery,8,3.99,DC,20193
+COMIC,2008,MAY,116,Spawn,178,2.95,Image,20040
+COMIC,2008,MAY,117,Huntress Year One,2,2.99,DC,19083
+COMIC,2008,MAY,118,DC Special Cyborg,1,2.99,DC,18778
+COMIC,2008,MAY,119,All New Iron Manual,,4.99,Marvel,18289
+COMIC,2008,MAY,120,War That Time Forgot,1,2.99,DC,18238
+COMIC,2008,MAY,121,Catwoman,79,2.99,DC,17994
+COMIC,2008,MAY,122,G.I. Joe Americas Elite,35,3.5,Devil's Due,16293
+COMIC,2008,MAY,123,Man With No Name,1,3.5,Dynamic,16191
+COMIC,2008,MAY,124,Red Sonja,33,2.99,Dynamic,16110
+COMIC,2008,MAY,125,"Transformers Movie Sequel Reign ofStarscream",1,3.99,IDW,16038
+COMIC,2008,MAY,126,BPRD 1946,5,2.99,Dark Horse,15937
+COMIC,2008,MAY,127,Batman Death Mask,2,2.99,DC,15896
+COMIC,2008,MAY,128,Fathom,0,2.5,Aspen,15672
+COMIC,2008,MAY,129,Amazing Spider-Girl,20,2.99,Marvel,15641
+COMIC,2008,MAY,130,JSA Classified,38,2.99,DC,15336
+COMIC,2008,MAY,131,American Dream,1,2.99,Marvel,15254
+COMIC,2008,MAY,132,Checkmate,26,2.99,DC,15163
+COMIC,2008,MAY,133,Tor,1,2.99,DC,15142
+COMIC,2008,MAY,134,Abe Sapien Drowning,4,2.99,Dark Horse,15051
+COMIC,2008,MAY,135,X-Men First Class Vol. 2,12,2.99,Marvel,14562
+COMIC,2008,MAY,136,DC Special Raven,3,2.99,DC,14399
+COMIC,2008,MAY,137,"Indiana Jones & Kingdom ofthe Crystal Skull",1,5.99,Dark Horse,14256
+COMIC,2008,MAY,138,Terry Moores Echo,3,3.5,Abstract,14205
+COMIC,2008,MAY,139,Shadowpact,25,2.99,DC,14114
+COMIC,2008,MAY,140,Spirit,17,2.99,DC,14053
+COMIC,2008,MAY,141,Madame Mirage,6,2.99,Image,13920
+COMIC,2008,MAY,142,Metal Men,8,2.99,DC,13859
+COMIC,2008,MAY,143,Blue Beetle,27,2.99,DC,13798
+COMIC,2008,MAY,144,Marvel Comics Presents,9,3.99,Marvel,13666
+COMIC,2008,MAY,145,Doctor Who,4,3.99,IDW,13269
+COMIC,2008,MAY,146,Simon Dark,8,2.99,DC,13218
+COMIC,2008,MAY,147,American Dream,2,2.99,Marvel,13146
+COMIC,2008,MAY,148,Jonah Hex,31,2.99,DC,13136
+COMIC,2008,MAY,149,"Indiana Jones & Kingdom ofthe Crystal Skull",2,5.99,Dark Horse,13126
+COMIC,2008,MAY,150,Zorro,3,3.5,Dynamic,13126
+COMIC,2008,MAY,151,Soleil Sky Doll,1,5.99,Marvel,12973
+COMIC,2008,MAY,152,"War Is Hell First Flight PhantomEagle Max",3,3.99,Marvel,12485
+COMIC,2008,MAY,153,Clandestine,4,2.99,Marvel,12220
+COMIC,2008,MAY,154,All New Atom,23,2.99,DC,12067
+COMIC,2008,MAY,155,Northlanders,6,2.99,DC,12006
+COMIC,2008,MAY,156,Lost Boys Reign of Frogs,1,3.5,DC,11996
+COMIC,2008,MAY,157,Supernatural Rising Son,2,2.99,DC,11843
+COMIC,2008,MAY,158,Hellblazer,244,2.99,DC,11823
+COMIC,2008,MAY,159,Gen 13,20,2.99,DC,11425
+COMIC,2008,MAY,160,End League,3,2.99,Dark Horse,11364
+COMIC,2008,MAY,162,Dark Ivory,2,2.99,Image,11089
+COMIC,2008,MAY,163,100 Bullets,91,2.99,DC,10733
+COMIC,2008,MAY,164,Grendel Behold The Devil,7,3.5,Dark Horse,10733
+COMIC,2008,MAY,165,Jenna Jamesons Shadow Hunter,3,2.99,Virgin,10428
+COMIC,2008,MAY,166,Tiny Titans,4,2.25,DC,10366
+COMIC,2008,MAY,167,Star Trek Assignment Earth,1,3.99,IDW,10356
+COMIC,2008,MAY,168,Midnighter,19,2.99,DC,10122
+COMIC,2008,MAY,169,Army of Darkness,9,3.5,Dynamic,10081
+COMIC,2008,MAY,170,Tarot Witch of Black Rose,50,2.95,Broadsword,10071
+COMIC,2008,MAY,171,Infinity Inc,9,2.99,DC,9990
+COMIC,2008,MAY,172,Goon,24,2.99,Dark Horse,9949
+COMIC,2008,MAY,173,DMZ,31,2.99,DC,9908
+COMIC,2008,MAY,174,Army of Darkness Xena Why Not,3,3.5,Dynamic,9745
+COMIC,2008,MAY,175,Foolkiller,5,3.99,Marvel,9694
+COMIC,2008,MAY,176,Walking Dead Special Edition,1,3.99,Image,9409
+COMIC,2008,MAY,177,New Battlestar Galactica Season Zero,8,2.99,Dynamic,9399
+COMIC,2008,MAY,178,Sword,8,2.99,Image,9226
+COMIC,2008,MAY,179,Astounding Wolf-Man,6,2.99,Image,9083
+COMIC,2008,MAY,180,Simpsons Comics,142,2.99,Bongo,9043
+COMIC,2008,MAY,181,Madman Atomic Comics,8,2.99,Image,9022
+COMIC,2008,MAY,182,DC Universe Zero 2nd Ptg,,1.0,DC,8982
+COMIC,2008,MAY,183,Young Liars,3,2.99,DC,8951
+COMIC,2008,MAY,184,Kick Ass,2,2.99,Marvel,8931
+COMIC,2008,MAY,185,Savage Tales,7,4.99,Dynamic,8880
+COMIC,2008,MAY,186,Judenhass,,4.0,Aardvark-Vanaheim,8727
+COMIC,2008,MAY,187,Darkness Vs Eva,3,3.5,Dynamic,8696
+COMIC,2008,MAY,188,Locke & Key,4,3.99,IDW,8544
+COMIC,2008,MAY,189,Avengers Classic,12,3.99,Marvel,8513
+COMIC,2008,MAY,190,Dead of Night Featuring Man Thing,4,3.99,Marvel,8503
+COMIC,2008,MAY,191,Dean Koontz's Frankenstein Vol. 1,1,2.99,Dabel,8452
+COMIC,2008,MAY,192,Battlestar Galactica Origins,5,3.5,Dynamic,8391
+COMIC,2008,MAY,193,Dead She Said,1,3.99,IDW,8228
+COMIC,2008,MAY,194,Bat Lash,6,2.99,DC,8197
+COMIC,2008,MAY,195,Justice League Unltd,45,2.25,DC,8136
+COMIC,2008,MAY,196,Super Friends,3,2.25,DC,8034
+COMIC,2008,MAY,197,Secret History Authority Hawksmoor,3,2.99,DC,7994
+COMIC,2008,MAY,198,Number of Beast,3,2.99,DC,7953
+COMIC,2008,MAY,199,Omega Unknown,8,2.99,Marvel,7892
+COMIC,2008,MAY,200,Brothers In Arms,1,3.99,Dynamic,7810
+COMIC,2008,MAY,201,Hulk,3 2nd Ptg,2.99,Marvel,7678
+COMIC,2008,MAY,202,Marvel Spotlight Hulk Movie,,2.99,Marvel,7678
+COMIC,2008,MAY,203,Number of Beast,4,2.99,DC,7556
+COMIC,2008,MAY,204,Futurama Comics,37,2.99,Bongo,7485
+COMIC,2008,MAY,205,Teen Titans Go,55,2.25,DC,7383
+COMIC,2008,MAY,206,Halloween Nightdance,4,3.5,Devil's Due,7332
+COMIC,2008,MAY,207,Texas Chainsaw Massacre Raising Cain,1,3.5,DC,7240
+COMIC,2008,MAY,208,Sonic Hedgehog,188,2.25,Archie,7098
+COMIC,2008,MAY,209,X-Force Legacy of Vengeance One Shot,,4.99,Marvel,7006
+COMIC,2008,MAY,210,Scalped,17,2.99,DC,6925
+COMIC,2008,MAY,211,Loveless,24,2.99,DC,6843
+COMIC,2008,MAY,212,Hercules,2,2.99,Radical,6762
+COMIC,2008,MAY,213,"Franklin Richards Not So SecretInvasion",,2.99,Marvel,6762
+COMIC,2008,MAY,214,Tank Girl Visions of Booga,1,3.99,IDW,6711
+COMIC,2008,MAY,215,Batman Strikes,45,2.25,DC,6609
+COMIC,2008,MAY,216,Warhammer Condemned By Fire,1,3.99,Boom,6568
+COMIC,2008,MAY,217,Doctor Who Classics,6,3.99,IDW,6558
+COMIC,2008,MAY,218,1001 Arabian Nights Advs ofnbad,1,2.99,Zenescope,6507
+COMIC,2008,MAY,219,Dan Dare,6,2.99,Virgin,6436
+COMIC,2008,MAY,220,Exterminators,29,2.99,DC,6395
+COMIC,2008,MAY,221,Casey Blue Beyond Tomorrow,1,2.99,DC,6263
+COMIC,2008,MAY,222,"Legion of Super Heroes In 31stCentury",14,2.25,DC,6202
+COMIC,2008,MAY,223,American Splendor Season Two,2,2.99,DC,6140
+COMIC,2008,MAY,224,Angel After The Fall Directors Cut,1,5.99,IDW,6039
+COMIC,2008,MAY,225,Simpsons Summer Shindig,2,4.99,Bongo,5988
+COMIC,2008,MAY,226,Ghost Whisperer,3,3.99,IDW,5977
+COMIC,2008,MAY,227,Scud Disposable Assassin,24,3.5,Image,5977
+COMIC,2008,MAY,228,Jim Butchers Dresden Files,2,3.99,Dabel,5967
+COMIC,2008,MAY,229,Pilot Season Twilight Guardian,,3.99,Image,5957
+COMIC,2008,MAY,230,"Captain Marvel Ms. MarvelInfiltration",,4.99,Marvel,5855
+COMIC,2008,MAY,231,Forgotten Realms Legacy,2,5.5,Devil's Due,5835
+COMIC,2008,MAY,232,"Mummy Movie Prequel Rise &Fall of Xangos Ax",1,3.99,IDW,5825
+COMIC,2008,MAY,233,Marvel Adventures Spider-Man,39,2.99,Marvel,5815
+COMIC,2008,MAY,234,Programme,11,2.99,DC,5580
+COMIC,2008,MAY,235,Vinyl Underground,8,2.99,DC,5570
+COMIC,2008,MAY,236,Lords of Avalon Sod,4,2.99,Marvel,5550
+COMIC,2008,MAY,237,Usagi Yojimbo,112,2.99,Dark Horse,5499
+COMIC,2008,MAY,238,Caliber,2,2.99,Radical,5377
+COMIC,2008,MAY,239,Dynamo 5,13,3.5,Image,5367
+COMIC,2008,MAY,240,Marvel Adventures Avengers,24,2.99,Marvel,5356
+COMIC,2008,MAY,241,Dynamo 5 Annual,1,5.99,Image,5336
+COMIC,2008,MAY,242,Zombies Hunters,1,3.99,IDW,5316
+COMIC,2008,MAY,243,George R.R. Martin's Wild Cards,2,2.99,Dabel,5285
+COMIC,2008,MAY,244,Caliber,1,1.0,Radical,5204
+COMIC,2008,MAY,245,Marvel Illustrated Iliad,6,2.99,Marvel,5193
+COMIC,2008,MAY,246,New Dynamix,3,2.99,DC,5163
+COMIC,2008,MAY,247,Firebreather Ser,1,2.99,Image,5163
+COMIC,2008,MAY,248,Bomb Queen V,1,3.5,Image,5153
+COMIC,2008,MAY,249,Hercules,1,1.0,Radical,5142
+COMIC,2008,MAY,250,Civil War Chronicles,11,4.99,Marvel,5051
+COMIC,2008,MAY,251,Crossing Midnight,18,2.99,DC,5030
+COMIC,2008,MAY,252,Pigeons From Hell,2,2.99,Dark Horse,5000
+COMIC,2008,MAY,253,Zombie Tales,1,3.99,Boom,4918
+COMIC,2008,MAY,254,Dead Space,3,2.99,Image,4918
+COMIC,2008,MAY,255,Invincible Universe Primer,1,5.99,Image,4918
+COMIC,2008,MAY,256,Marvel Adventures Iron Man,13,2.99,Marvel,4908
+COMIC,2008,MAY,257,Dragonlance Chronicles Vol. 3,11,3.5,Devil's Due,4908
+COMIC,2008,MAY,258,Sonic X,33,2.25,Archie,4725
+COMIC,2008,MAY,259,Power Pack Day One,3,2.99,Marvel,4694
+COMIC,2008,MAY,260,Marvel Adventures Hulk,11,2.99,Marvel,4684
+COMIC,2008,MAY,261,"Star Trek Year Four EnterpriseExperiment",2,3.99,IDW,4582
+COMIC,2008,MAY,262,Casanova,14,1.99,Image,4481
+COMIC,2008,MAY,263,Uncle Scrooge,375,7.99,Gemstone,4328
+COMIC,2008,MAY,264,Iron Man Legacy of Doom,1,1.5,Marvel,4318
+COMIC,2008,MAY,265,Scooby Doo,132,2.25,DC,4307
+COMIC,2008,MAY,266,Vampirella Quarterly Spring 2008,,4.99,Harris,4297
+COMIC,2008,MAY,267,Doktor Sleepless Manual,1,3.99,Avatar,4277
+COMIC,2008,MAY,268,Un-Men,10,2.99,DC,4226
+COMIC,2008,MAY,269,Secret Invasion,1,3.99,Marvel,4185
+COMIC,2008,MAY,270,Knights of Dinner Table,139,4.99,Kenzer,4185
+COMIC,2008,MAY,271,"Transformers Best of Uk SpacePirates",3,3.99,IDW,4185
+COMIC,2008,MAY,272,Marvel Adventures Fantastic Four,36,2.99,Marvel,4053
+COMIC,2008,MAY,273,Mack Bolan Executioner Devils Tools,2,3.99,IDW,4043
+COMIC,2008,MAY,274,Shonen Jump June 08,,4.99,Viz,4022
+COMIC,2008,MAY,275,FX,3,3.99,IDW,3982
+COMIC,2008,MAY,276,"Walt Disneys Comics &Stories",690,7.99,Gemstone,3941
+COMIC,2008,MAY,277,Cthulhu Tales,2,3.99,Boom,3890
+COMIC,2008,MAY,278,"Marvel Illustrated Picture DorianGray",6,2.99,Marvel,3788
+COMIC,2008,MAY,279,Gemini,1,3.5,Image,3737
+COMIC,2008,MAY,280,Transhuman,2,3.5,Image,3707
+COMIC,2008,MAY,281,Igor Movie Prequel,1,3.99,IDW,3676
+COMIC,2008,MAY,282,Gargoyles Bad Guys,3,3.5,Slave Labor,3656
+COMIC,2008,MAY,283,Marvel Illustrated Moby Dick,4,2.99,Marvel,3595
+COMIC,2008,MAY,284,Star Trek TNG Intelligence Gathering,5,3.99,IDW,3584
+COMIC,2008,MAY,285,Silent Hillnners Reward,3,3.99,IDW,3544
+COMIC,2008,MAY,286,Fall of Cthulhu,12,3.99,Boom,3534
+COMIC,2008,MAY,287,"Emily the Strange II: Be All YouCan Be",3,3.5,Dark Horse,3503
+COMIC,2008,MAY,288,Speak of the Devil,6,3.5,Dark Horse,3411
+COMIC,2008,MAY,289,Everybodys Dead,3,3.99,IDW,3228
+COMIC,2008,MAY,290,Bloodrayne Tokyo Rogue,1,3.99,Digital Webbing,3218
+COMIC,2008,MAY,291,Return of the Gremlins,3,2.99,Dark Horse,3085
+COMIC,2008,MAY,292,Perhapanauts,2,3.5,Image,3004
+COMIC,2008,MAY,293,Pretty Baby Machine,1,3.5,Image,2994
+COMIC,2008,MAY,294,Godland,23,2.99,Image,2984
+COMIC,2008,MAY,295,Tales From Crypt,6,3.95,NBM,2963
+COMIC,2008,MAY,296,Phantom,23,3.99,Moonstone,2943
+COMIC,2008,MAY,297,Death Grub (One Shot),,2.99,Image,2902
+COMIC,2008,MAY,298,Proof,8,2.99,Image,2902
+COMIC,2008,MAY,299,My Inner Bimbo,4,2.99,Oni,2902
+COMIC,2008,MAY,300,Gold Digger,96,2.99,Antarctic,2780
+TPB,2008,MAY,2,Hulk World War Hulk,,24.99,Marvel,9430
+TPB,2008,MAY,4,Hellboy Vol. 8 Darkness Calls,,19.95,Dark Horse,6232
+TPB,2008,MAY,5,Heroes,,19.99,DC,5937
+TPB,2008,MAY,6,Naruto Vol. 29,,7.95,Viz,5743
+TPB,2008,MAY,8,Countdown To Final Crisis Vol. 1,,19.99,DC,5519
+TPB,2008,MAY,9,New Avengers Illuminati,,14.99,Marvel,5438
+TPB,2008,MAY,10,Savage Sword of Conan Vol. 3,,19.95,Dark Horse,5183
+TPB,2008,MAY,11,Justice Vol. 1,,14.99,DC,5092
+TPB,2008,MAY,12,"Batman Resurrection of Ras Al GhulHC",,29.99,DC,4969
+TPB,2008,MAY,13,Vertigo First Cut,,4.99,DC,4582
+TPB,2008,MAY,14,Batman Jokers Last Laugh,,17.99,DC,4572
+TPB,2008,MAY,15,Hulk World War Hulk X-Men,,24.99,Marvel,4521
+TPB,2008,MAY,16,Hellboy Companion,,14.95,Dark Horse,4409
+TPB,2008,MAY,17,Kingdom Hearts II Vol. 2,,9.99,Tokyopop,4124
+TPB,2008,MAY,18,Berserk Vol. 23,,13.95,Dark Horse,3819
+TPB,2008,MAY,19,Hulk World War Hulk Incredible Herc,,14.99,Marvel,3554
+TPB,2008,MAY,20,JLA Presents Aztek The Ultimate Man,,19.99,DC,3544
+TPB,2008,MAY,21,Batman Killing Joke Sp Ed HC,,17.99,DC,3330
+TPB,2008,MAY,22,Starman Omnibus HC Vol. 1,,49.99,DC,3279
+TPB,2008,MAY,23,Green Lantern No Fear,,12.99,DC,3279
+TPB,2008,MAY,24,Oh My Goddess Vol. 29,,10.95,Dark Horse,3218
+TPB,2008,MAY,25,Black Adam Dark Age,,17.99,DC,3167
+TPB,2008,MAY,26,"Showcase Presents Green LanternVol. 3",,16.99,DC,3126
+TPB,2008,MAY,30,Essential Rampaging Hulk Vol. 1,,16.99,Marvel,2831
+TPB,2008,MAY,31,X-Men Vol. 2 Comp Onslaught Epic,,29.99,Marvel,2821
+TPB,2008,MAY,32,Batman Vs Two Face,,19.99,DC,2739
+TPB,2008,MAY,33,Wolverine Origins Vol. 4 Our War,,14.99,Marvel,2688
+TPB,2008,MAY,34,X-Men HC Messiah Complex,,39.99,Marvel,2668
+TPB,2008,MAY,35,Hulk World War Hulk Gamma Corps,,10.99,Marvel,2637
+TPB,2008,MAY,36,"Jack Kirbys Omac One Man Army CorpsHC",,24.99,DC,2637
+TPB,2008,MAY,38,52 Aftermath Four Horsemen,,19.99,DC,2607
+TPB,2008,MAY,40,Hulk World War Hulk Front Line,,16.99,Marvel,2485
+TPB,2008,MAY,41,Booster Gold HC Vol. 1 52 Pick Up,,24.99,DC,2403
+TPB,2008,MAY,42,Tsubasa Vol. 17,,10.95,Random House,2393
+TPB,2008,MAY,43,Watchmen,,19.99,DC,2383
+TPB,2008,MAY,44,Iron Man Enter The Mandarin,,14.99,Marvel,2362
+TPB,2008,MAY,46,Incredible Hulk Omnibus HC Vol. 1,,99.99,Marvel,2312
+TPB,2008,MAY,47,Star Wars Clone Wars Photo Comic,,9.95,Dark Horse,2250
+TPB,2008,MAY,48,"Superman Escape From Bizarro WorldHC",,24.99,DC,2159
+TPB,2008,MAY,50,Fantastic Four New Fantastic Four,,15.99,Marvel,2118
+TPB,2008,MAY,51,Question Vol. 2 Poisoned Ground,,19.99,DC,2077
+TPB,2008,MAY,52,Iron Man War Machine,,29.99,Marvel,2077
+TPB,2008,MAY,53,Grimm Fairy Tales Vol. 3,,15.99,Zenescope,2067
+TPB,2008,MAY,54,Color of Rage Vol. 1,,14.95,Dark Horse,1986
+TPB,2008,MAY,55,Spawn Coll Vol. 5,,29.99,Image,1976
+TPB,2008,MAY,56,Civil War,,24.99,Marvel,1955
+TPB,2008,MAY,57,Y The Last Man Vol. 1 Unmanned,,12.99,DC,1955
+TPB,2008,MAY,58,Checkmate Vol. 3 Fall of Wall,,14.99,DC,1864
+TPB,2008,MAY,59,Boys Vol. 1,,16.99,Dynamic,1853
+TPB,2008,MAY,60,Chibi Vampire Vol. 8,,9.99,Tokyopop,1853
+TPB,2008,MAY,62,Boys Vol. 2 Get Some,,19.99,Dynamic,1802
+TPB,2008,MAY,63,Hulk Visionaries John Byrne Vol. 1,,24.99,Marvel,1802
+TPB,2008,MAY,64,Superman World of Krypton,,14.99,DC,1792
+TPB,2008,MAY,65,Grendel HC Devil Quest,,14.95,Dark Horse,1751
+TPB,2008,MAY,67,Battle Club Vol. 6,,9.99,Tokyopop,1650
+TPB,2008,MAY,68,Supernatural Origins,,14.99,DC,1629
+TPB,2008,MAY,69,Blood Plus Vol. 2,,10.95,Dark Horse,1609
+TPB,2008,MAY,70,Suburban Glamour Vol. 1,,9.99,Image,1578
+TPB,2008,MAY,71,Transformers Devastation,,19.99,IDW,1548
+TPB,2008,MAY,72,"Preacher Vol. 1 Gone To Texas NewEdition",,14.99,DC,1538
+TPB,2008,MAY,73,Big Brilliant Book of Bartmpson,,14.95,Bongo,1517
+TPB,2008,MAY,74,Welcome To Tranquility Vol. 2,,19.99,DC,1507
+TPB,2008,MAY,75,Grendel Devil Child HC,,14.95,Dark Horse,1497
+TPB,2008,MAY,77,"All New Atom Vol. 3 Hunt For RayPalmer",,14.99,DC,1446
+TPB,2008,MAY,78,Bomb Queen Vol. 4 Suicide Bomber,,14.99,Image,1426
+TPB,2008,MAY,79,Trinity Blood Vol. 6,,9.99,Tokyopop,1415
+TPB,2008,MAY,80,Absolute Boyfriend Vol. 6,,8.99,Viz,1405
+TPB,2008,MAY,82,Nana Vol. 10,,8.99,Viz,1334
+TPB,2008,MAY,83,D Gray Man Vol. 9,,7.99,Viz,1334
+TPB,2008,MAY,84,Walking Dead Vol. 1 Days Gone Bye,,9.99,Image,1324
+TPB,2008,MAY,86,Return To Wonderland HC,,24.99,Zenescope,1303
+TPB,2008,MAY,87,GTO Early Years Vol. 7,,12.99,Tokyopop,1283
+TPB,2008,MAY,88,Y The Last Man Vol. 8 Kimono Dragons,,14.99,DC,1273
+TPB,2008,MAY,89,She-Hulk Prem HC Jaded,,19.99,Marvel,1253
+TPB,2008,MAY,90,Samurai Deeper Kyo Vol. 28,,9.99,Tokyopop,1253
+TPB,2008,MAY,91,Essential X-Men Vol. 1,,16.99,Marvel,1222
+TPB,2008,MAY,92,Street Fighter II Manga Vol. 2,,12.95,Udon,1202
+TPB,2008,MAY,93,"Amazing Spider-Girl Vol. 3 MindGames",,13.99,Marvel,1191
+TPB,2008,MAY,94,Star Trek Alien Spotlight,,19.99,IDW,1171
+TPB,2008,MAY,95,Fables Vol. 1 Legends In Exile,,9.99,DC,1141
+TPB,2008,MAY,96,"Iron Man & Power PackArmored Digest",,7.99,Marvel,1130
+TPB,2008,MAY,97,Kashimashi Manga Vol. 5,,10.99,Seven Seas,1120
+TPB,2008,MAY,98,Hikaru No Go Vol. 12,,7.95,Viz,1120
+TPB,2008,MAY,99,Black Cat Vol. 14,,7.99,Viz,1120
+TPB,2008,MAY,100,Shaman King Vol. 16,,7.95,Viz,1120

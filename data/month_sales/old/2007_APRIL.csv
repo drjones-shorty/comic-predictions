@@ -1,0 +1,391 @@
+PUBLICATION_FORMAT,YEAR,MONTH,SALES_RANK,TITLE,ISSUE,PRICE,PUBLISHER,EST_SALES
+COMIC,2007,APRIL,2,Justice League of America,7,3.5,DC,154826
+COMIC,2007,APRIL,4,Dark Tower Gunslinger Born,3,3.99,Marvel,132346
+COMIC,2007,APRIL,5,Justice League of America,8,2.99,DC,130232
+COMIC,2007,APRIL,6,Avengers Initiative,1,2.99,Marvel,127668
+COMIC,2007,APRIL,7,New Avengers,29,2.99,Marvel,125251
+COMIC,2007,APRIL,8,Mighty Avengers,2,2.99,Marvel,121242
+COMIC,2007,APRIL,9,Wolverine,53,2.99,Marvel,98340
+COMIC,2007,APRIL,10,Justice Society of America,5,2.99,DC,97969
+COMIC,2007,APRIL,11,52,50,2.5,DC,96974
+COMIC,2007,APRIL,12,Buffy The Vampire Slayer,2 New Ptg,2.99,Dark Horse,96311
+COMIC,2007,APRIL,13,World War III: Part One Call To Arms,,2.5,DC,95355
+COMIC,2007,APRIL,14,World War III: Part Two Valiant,,2.5,DC,95102
+COMIC,2007,APRIL,15,"World War III: Part Four United WeStand",,2.5,DC,95074
+COMIC,2007,APRIL,16,52,51,2.5,DC,94838
+COMIC,2007,APRIL,18,52,48,2.5,DC,94618
+COMIC,2007,APRIL,19,52,49,2.5,DC,94585
+COMIC,2007,APRIL,20,Justice,11,3.5,DC,93904
+COMIC,2007,APRIL,21,All Star Superman,7,2.99,DC,92201
+COMIC,2007,APRIL,22,Uncanny X-Men,485,2.99,Marvel,81681
+COMIC,2007,APRIL,23,X-Men,198,2.99,Marvel,74765
+COMIC,2007,APRIL,24,Superman Batman,33,2.99,DC,74731
+COMIC,2007,APRIL,25,Fantastic Four,545,2.99,Marvel,74624
+COMIC,2007,APRIL,26,Ultimate Spider-Man,108,2.99,Marvel,72639
+COMIC,2007,APRIL,27,Superman Batman,34,2.99,DC,71205
+COMIC,2007,APRIL,28,Wolverine Origins,13,2.99,Marvel,70891
+COMIC,2007,APRIL,29,Marvel Zombies: Army of Darkness,2,2.99,Marvel,69361
+COMIC,2007,APRIL,30,Moon Knight,9,2.99,Marvel,69125
+COMIC,2007,APRIL,31,Thunderbolts,113,2.99,Marvel,65026
+COMIC,2007,APRIL,32,Ultimate X-Men,81,2.99,Marvel,62861
+COMIC,2007,APRIL,33,Action Comics,848,2.99,DC,62153
+COMIC,2007,APRIL,34,Teen Titans,45,2.99,DC,60989
+COMIC,2007,APRIL,35,Wonder Woman,7,2.99,DC,60106
+COMIC,2007,APRIL,36,Iron Man,16,2.99,Marvel,59409
+COMIC,2007,APRIL,37,Brave & Bold,3,2.99,DC,59150
+COMIC,2007,APRIL,38,Wonder Woman,8,2.99,DC,58712
+COMIC,2007,APRIL,39,Omega Flight,1,2.99,Marvel,58093
+COMIC,2007,APRIL,40,Sensational Spider-Man,37,2.99,Marvel,57469
+COMIC,2007,APRIL,41,Detective Comics,831,2.99,DC,56227
+COMIC,2007,APRIL,42,Runaways,25,2.99,Marvel,56193
+COMIC,2007,APRIL,43,Superman,661,2.99,DC,55681
+COMIC,2007,APRIL,44,Amazons Attack,1,2.99,DC,55389
+COMIC,2007,APRIL,45,Punisher War Journal,6,2.99,Marvel,53443
+COMIC,2007,APRIL,46,Incredible Hulk,105,2.99,Marvel,53202
+COMIC,2007,APRIL,47,Supergirl,16,2.99,DC,51588
+COMIC,2007,APRIL,48,Friendly Neighborhood Spider-Man,19,2.99,Marvel,50255
+COMIC,2007,APRIL,49,Flash Fastest Man Alive,11,2.99,DC,46916
+COMIC,2007,APRIL,50,Painkiller Jane,0,0.25,Dynamic,46201
+COMIC,2007,APRIL,51,Daredevil,96,2.99,Marvel,46151
+COMIC,2007,APRIL,52,Ghost Rider,10,2.99,Marvel,43941
+COMIC,2007,APRIL,53,Nova,1,2.99,Marvel,42873
+COMIC,2007,APRIL,54,Ms Marvel,14,2.99,Marvel,42833
+COMIC,2007,APRIL,55,X-23 Target X,5,2.99,Marvel,41658
+COMIC,2007,APRIL,56,New X-Men,37,2.99,Marvel,37897
+COMIC,2007,APRIL,57,X-Factor,18,2.99,Marvel,37812
+COMIC,2007,APRIL,58,Ghost Rider Trail of Tears,3,2.99,Marvel,37233
+COMIC,2007,APRIL,59,Immortal Iron Fist,4,2.99,Marvel,37121
+COMIC,2007,APRIL,60,Batman Confidential,5,2.99,DC,36182
+COMIC,2007,APRIL,61,Silent War,4,2.99,Marvel,36126
+COMIC,2007,APRIL,62,Nightwing Annual,2,3.99,DC,35310
+COMIC,2007,APRIL,64,Green Lantern Corps,11,2.99,DC,33472
+COMIC,2007,APRIL,65,Punisher,46,2.99,Marvel,33393
+COMIC,2007,APRIL,66,Newuniversal,5,2.99,Marvel,33196
+COMIC,2007,APRIL,67,Spider-Man Fantastic Four,1,2.99,Marvel,32876
+COMIC,2007,APRIL,68,Trials of Shazam,6,2.99,DC,32842
+COMIC,2007,APRIL,69,Frank Frazetta's Death Dealer,1,3.99,Image,32319
+COMIC,2007,APRIL,70,Nightwing,131,2.99,DC,31498
+COMIC,2007,APRIL,71,"Supergirl & Legion of SuperHeroes",28,2.99,DC,31493
+COMIC,2007,APRIL,72,"Supergirl & Legion of SuperHeroes",29,2.99,DC,30874
+COMIC,2007,APRIL,73,"Anita Blake Vampire Hunter GuiltyPleasures",6,2.99,Marvel,30728
+COMIC,2007,APRIL,74,Outsiders Annual,1,3.99,DC,30711
+COMIC,2007,APRIL,75,Exiles,93,2.99,Marvel,30666
+COMIC,2007,APRIL,76,Green Arrow,73,2.99,DC,30621
+COMIC,2007,APRIL,77,New Excalibur,18,2.99,Marvel,29586
+COMIC,2007,APRIL,78,New Excalibur,19,2.99,Marvel,28985
+COMIC,2007,APRIL,79,Birds of Prey,105,2.99,DC,28299
+COMIC,2007,APRIL,80,She-Hulk 2,17,2.99,Marvel,27641
+COMIC,2007,APRIL,81,Robin,161,2.99,DC,27152
+COMIC,2007,APRIL,82,Cable Deadpool,39,2.99,Marvel,26084
+COMIC,2007,APRIL,83,Fables,60,2.99,DC,26022
+COMIC,2007,APRIL,84,"Squadron Supreme Hyperion VsNighthawk",4,2.99,Marvel,25926
+COMIC,2007,APRIL,85,Conan,39,2.99,Dark Horse,25077
+COMIC,2007,APRIL,86,Loners,1,2.99,Marvel,24352
+COMIC,2007,APRIL,87,Spirit,5,2.99,DC,23863
+COMIC,2007,APRIL,88,Star Wars Knights of Old Republic,15,2.99,Dark Horse,23536
+COMIC,2007,APRIL,89,Spider-Man Back in Black Handbook,3.99,3.99,Marvel,23486
+COMIC,2007,APRIL,90,X-Men First Class,8,2.99,Marvel,23396
+COMIC,2007,APRIL,91,Astro City Dark Age Book Two,3,2.99,DC,22704
+COMIC,2007,APRIL,92,JLA Classified,37,2.99,DC,22328
+COMIC,2007,APRIL,93,JSA Classified,25,2.99,DC,22030
+COMIC,2007,APRIL,94,Walking Dead,37,2.99,Image,21715
+COMIC,2007,APRIL,95,Heroes For Hire,9,2.99,Marvel,21422
+COMIC,2007,APRIL,96,Powers,24,2.95,Marvel,20939
+COMIC,2007,APRIL,97,Shadowpact,12,2.99,DC,20725
+COMIC,2007,APRIL,98,Captain America,25 2nd Ptg Epting Var,3.99,Marvel,20680
+COMIC,2007,APRIL,99,Red Sonja,21,2.99,Dynamic,20669
+COMIC,2007,APRIL,100,Spider-Man Family,2,4.99,Marvel,20658
+COMIC,2007,APRIL,101,Midnighter,6,2.99,DC,20540
+COMIC,2007,APRIL,102,Gen 13,7,2.99,DC,20534
+COMIC,2007,APRIL,103,Fell,8 (Res),1.99,Image,20287
+COMIC,2007,APRIL,104,Jack of Fables,9,2.99,DC,20253
+COMIC,2007,APRIL,105,Punisher Presents Barracuda Max,3,3.99,Marvel,20129
+COMIC,2007,APRIL,106,Amazing Spider-Girl,7,2.99,Marvel,20073
+COMIC,2007,APRIL,107,Catwoman,66,2.99,DC,19876
+COMIC,2007,APRIL,108,"New Avengers Illuminati SecretHistory",,3.99,Marvel,19584
+COMIC,2007,APRIL,109,Avengers Earths Mightiest Heroes Ii,8,3.99,Marvel,19483
+COMIC,2007,APRIL,110,Iron Man Hypervelocity,4,2.99,Marvel,18836
+COMIC,2007,APRIL,111,Conan & Midnight God,3,2.99,Dark Horse,18797
+COMIC,2007,APRIL,112,Ex Machina,27,2.99,DC,18223
+COMIC,2007,APRIL,113,Dark Tower Gunslinger Born,1,3.99,Marvel,18049
+COMIC,2007,APRIL,114,"Transformers Prime Directive MoviePrequel",3,3.99,IDW,17981
+COMIC,2007,APRIL,115,"Thunderbolts Presents Zemo BornBetter",3,2.99,Marvel,17942
+COMIC,2007,APRIL,116,Legion of Monsters Man-Thing,1,2.99,Marvel,17897
+COMIC,2007,APRIL,117,Blade,8,2.99,Marvel,17638
+COMIC,2007,APRIL,118,Aquaman Sword of Atlantis,51,2.99,DC,17481
+COMIC,2007,APRIL,119,Tales of Unexpected,7,3.99,DC,17385
+COMIC,2007,APRIL,120,Blue Beetle,14,2.99,DC,17149
+COMIC,2007,APRIL,121,Battlestar Galactica,8,2.99,Dynamic,17138
+COMIC,2007,APRIL,122,Danger Girl Body Shots,1,2.99,DC,17104
+COMIC,2007,APRIL,123,Jonah Hex,18,2.99,DC,16862
+COMIC,2007,APRIL,124,Savage Tales,1,4.99,Dynamic,16862
+COMIC,2007,APRIL,125,Buffy The Vampire Slayer,1,2.99,Dark Horse,16857
+COMIC,2007,APRIL,126,All New Atom,10,2.99,DC,16722
+COMIC,2007,APRIL,127,Grifter Midnighter,2,2.99,DC,16514
+COMIC,2007,APRIL,128,Manhunter,30,2.99,DC,16356
+COMIC,2007,APRIL,129,BPRD Garden of Souls,2,2.99,Dark Horse,16160
+COMIC,2007,APRIL,130,Civil War Confession,,2.99,Marvel,16008
+COMIC,2007,APRIL,131,Irredeemable Ant-Man,7,2.99,Marvel,15721
+COMIC,2007,APRIL,132,G. I. Joe Americas Elite,22,3.5,Devil's Due,15316
+COMIC,2007,APRIL,133,Mighty Avengers,1,3.99,Marvel,15097
+COMIC,2007,APRIL,134,Amazing Spider-Man,539,2.99,Marvel,14878
+COMIC,2007,APRIL,135,Marvel Illustrated Jungle Book,2.99,2.99,Marvel,14450
+COMIC,2007,APRIL,136,Firestorm The Nuclear Man,35,2.99,DC,14259
+COMIC,2007,APRIL,137,Wetworks,8,2.99,DC,14175
+COMIC,2007,APRIL,138,White Tiger,5,2.99,Marvel,13607
+COMIC,2007,APRIL,139,"Legion of Super Heroes in the 31stCentury",1,2.25,DC,13506
+COMIC,2007,APRIL,140,Invincible,40,2.99,Image,13230
+COMIC,2007,APRIL,141,Marvel Spotlight Spider-Man,2.99,2.99,Marvel,13196
+COMIC,2007,APRIL,142,Madman Atomic Comics,1,2.99,Image,13140
+COMIC,2007,APRIL,143,Connor Hawke Dragons Blood,6,2.99,DC,13135
+COMIC,2007,APRIL,144,Hellblazer,231,2.99,DC,13129
+COMIC,2007,APRIL,145,DMZ,18,2.99,DC,13106
+COMIC,2007,APRIL,146,Stormwatch Ph.D,6,2.99,DC,13095
+COMIC,2007,APRIL,147,"Battlestar Galactica CylonApocalypse",2,3.5,Dynamic,12477
+COMIC,2007,APRIL,148,Raise The Dead,1,3.5,Dynamic,12465
+COMIC,2007,APRIL,149,Star Trek Klingons Blood Will Tell,1,3.99,IDW,12134
+COMIC,2007,APRIL,150,Transformers Spotlight KUP,,3.99,IDW,12117
+COMIC,2007,APRIL,151,Transformers Spotlight Target 2006,1,3.99,IDW,11425
+COMIC,2007,APRIL,152,Battlestar Galactica Zarek,4,3.5,Dynamic,11341
+COMIC,2007,APRIL,153,Army @ Love,2,2.99,DC,11183
+COMIC,2007,APRIL,154,Highlander,6,2.99,Dynamic,10807
+COMIC,2007,APRIL,155,Wisdom,5,3.99,Marvel,10762
+COMIC,2007,APRIL,156,"Star Trek: The Next GenerationSpace Between",3,3.99,IDW,10509
+COMIC,2007,APRIL,157,Welcome To Tranquility,5,2.99,DC,10396
+COMIC,2007,APRIL,158,Loveless,17,2.99,DC,10323
+COMIC,2007,APRIL,159,Sensational Spider-Man,35,2.99,Marvel,10110
+COMIC,2007,APRIL,160,"Sandman Mystery Theatre Sleep ofReason",5,2.99,DC,10025
+COMIC,2007,APRIL,161,Iron Man,15,2.99,Marvel,9975
+COMIC,2007,APRIL,162,Girls,24,2.99,Image,9699
+COMIC,2007,APRIL,163,"Star Trek: The Next GenerationSpace Between",4,3.99,IDW,9637
+COMIC,2007,APRIL,164,Friendly Neighborhood Spider-Man,17 2nd Ptg Var,2.99,Marvel,9474
+COMIC,2007,APRIL,165,Justice League Unltd,32,2.25,DC,9317
+COMIC,2007,APRIL,166,Simpsons Comics,129,2.99,Bongo,9187
+COMIC,2007,APRIL,167,Scalped,4,2.99,DC,9154
+COMIC,2007,APRIL,168,Teen Titans Go,42,2.25,DC,9041
+COMIC,2007,APRIL,169,American Virgin,13,2.99,DC,8951
+COMIC,2007,APRIL,170,Exterminators,16,2.99,DC,8749
+COMIC,2007,APRIL,171,Friday The 13th,5,2.99,DC,8715
+COMIC,2007,APRIL,172,Justice League of America,1,3.99,DC,8530
+COMIC,2007,APRIL,173,Nightmare of Elm Street,7,2.99,DC,7855
+COMIC,2007,APRIL,174,Red Menace,6,2.99,DC,7692
+COMIC,2007,APRIL,175,Forgotten Realms Streams,2 Cvr A,5.5,Devil's Due,7636
+COMIC,2007,APRIL,176,"Ghost in the Shell 1.5 Human ErrorProcessor",7,2.99,Dark Horse,7557
+COMIC,2007,APRIL,177,Batman Strikes,32,2.25,DC,7287
+COMIC,2007,APRIL,178,Testament,17,2.99,DC,7186
+COMIC,2007,APRIL,179,Texas Chainsaw Massacre,6,2.99,DC,7163
+COMIC,2007,APRIL,180,Marvel Adventures: Avengers,12,2.99,Marvel,7085
+COMIC,2007,APRIL,181,Crossing Midnight,6,2.99,DC,7028
+COMIC,2007,APRIL,182,Bart Simpson Comics,35,2.99,Bongo,6983
+COMIC,2007,APRIL,183,Sonic The Hedgehog,174,2.25,Archie,6955
+COMIC,2007,APRIL,184,Fallen Angel,14,3.99,IDW,6781
+COMIC,2007,APRIL,185,Fallen Angel,15,3.99,IDW,6595
+COMIC,2007,APRIL,186,Wolfskin,3,3.99,Avatar,6517
+COMIC,2007,APRIL,187,30 Days of Night Spreading Disease,5,3.99,IDW,6500
+COMIC,2007,APRIL,188,Marvel Adventures: Spider-Man,26,2.99,Marvel,6472
+COMIC,2007,APRIL,189,Spider-Man Loves Mary Jane,17,2.99,Marvel,6326
+COMIC,2007,APRIL,190,Lady Death Blacklands,4,3.99,Avatar,6140
+COMIC,2007,APRIL,191,Drain,3,2.99,Image,6005
+COMIC,2007,APRIL,192,Usagi Yojimbo,102,2.99,Dark Horse,5943
+COMIC,2007,APRIL,193,Hulk & Power Pack,2,2.99,Marvel,5938
+COMIC,2007,APRIL,194,Rush City,6,2.99,DC,5853
+COMIC,2007,APRIL,195,Optic Nerve,11,3.95,Drawn & Quarterly,5825
+COMIC,2007,APRIL,196,Spider-Man Poster Book,5.99,5.99,Marvel,5690
+COMIC,2007,APRIL,197,Fall of Cthulhu,1,3.99,Boom,5634
+COMIC,2007,APRIL,198,Ninja Scroll,8,2.99,DC,5623
+COMIC,2007,APRIL,199,Spider-Man Family,1,4.99,Marvel,5285
+COMIC,2007,APRIL,200,Sonic X,18,2.25,Archie,5240
+COMIC,2007,APRIL,201,Dark Tower Gunslinger Born,2,3.99,Marvel,5223
+COMIC,2007,APRIL,202,Tmnt Movie Adaptation,1,4.99,Mirage,5201
+COMIC,2007,APRIL,203,Vampirella Quarterly Spr 07 Reg Cvrs,1,4.95,Harris,5184
+COMIC,2007,APRIL,204,Night of Living Dead Just Girl,2.99,2.99,Avatar,5122
+COMIC,2007,APRIL,205,Dynamo 5,2,3.5,Image,4942
+COMIC,2007,APRIL,206,Orson Scott Cards Wyrms,3,2.99,Marvel,4897
+COMIC,2007,APRIL,207,After The Cape,2,2.99,Image,4897
+COMIC,2007,APRIL,208,Wormwood Gentleman Corpse,7,3.99,IDW,4852
+COMIC,2007,APRIL,209,Knights of Dinner Table,125,4.99,Kenzer,4796
+COMIC,2007,APRIL,210,Bomb Queen III,2,3.5,Image,4774
+COMIC,2007,APRIL,211,Tmnt Movie Prequel 3 Donatello,3.25,3.25,Mirage,4656
+COMIC,2007,APRIL,212,Spider-Man Magazine,5.99,5.99,Marvel,4644
+COMIC,2007,APRIL,213,Tmnt Movie Prequel 5 Leonardo,3.25,3.25,Mirage,4605
+COMIC,2007,APRIL,214,Medieval Lady Death War of Winds,6,3.99,Avatar,4605
+COMIC,2007,APRIL,215,Marvel Adventures: Fantastic Four,23,2.99,Marvel,4599
+COMIC,2007,APRIL,216,Knights of Dinner Table,126,4.99,Kenzer,4599
+COMIC,2007,APRIL,217,TMNT Movie Prequel 4 April,3.25,3.25,Mirage,4582
+COMIC,2007,APRIL,218,Rex Mundi,5,2.99,Dark Horse,4498
+COMIC,2007,APRIL,219,Se7en Lust,4,3.99,Zenescope,4476
+COMIC,2007,APRIL,220,"Clive Barkers Great &Secret Show",11,3.99,IDW,4408
+COMIC,2007,APRIL,221,Uncle Scrooge,365,7.5,Gemstone,4408
+COMIC,2007,APRIL,222,Scooby Doo,119,2.25,DC,4369
+COMIC,2007,APRIL,223,Xombie,1,3.5,Devil's Due,4178
+COMIC,2007,APRIL,224,Devi,10,2.99,Virgin,4093
+COMIC,2007,APRIL,225,Nightly News,5,2.99,Image,4054
+COMIC,2007,APRIL,226,Demonwars Demon Awakens,2 Cvr A,5.5,Devil's Due,4048
+COMIC,2007,APRIL,227,Bloodrayne Plague of Dreams,3,3.99,Digital Manga,4037
+COMIC,2007,APRIL,228,Bloodrayne Tibetan Heights,3.99,3.99,Digital Manga,4020
+COMIC,2007,APRIL,229,Secret,3,2.99,Dark Horse,4015
+COMIC,2007,APRIL,230,Love & Rockets Vol. 2,19,4.5,Fantagraphics,3981
+COMIC,2007,APRIL,231,War of Undead,3,3.99,IDW,3930
+COMIC,2007,APRIL,232,Ptolus City By Spire,6,2.99,Marvel,3908
+COMIC,2007,APRIL,233,Star Trek Klingons Blood Tell,1 Klingon Lang Var Ed,4.99,IDW,3874
+COMIC,2007,APRIL,234,Civil War Initiative,4.99,4.99,Marvel,3655
+COMIC,2007,APRIL,235,"Walt Disneys Comics &Stories",680,7.5,Gemstone,3632
+COMIC,2007,APRIL,236,Wasteland,8 (Note Price),3.5,Oni,3604
+COMIC,2007,APRIL,237,Ramayan 3392 Ad,8,2.99,Virgin,3486
+COMIC,2007,APRIL,238,Blade of Immortal,124,2.99,Dark Horse,3390
+COMIC,2007,APRIL,239,Snakewoman,10,2.99,Virgin,3345
+COMIC,2007,APRIL,240,Hunters Moon,1,3.99,Boom,3323
+COMIC,2007,APRIL,241,Transformers Cybertron Balancing Act,9.99,9.99,IDW,3250
+COMIC,2007,APRIL,242,Sadhu,7 (Res),2.99,Virgin,2969
+COMIC,2007,APRIL,243,Fantastic Four,544,2.99,Marvel,2828
+COMIC,2007,APRIL,244,Brave & Bold,2,2.99,DC,2783
+COMIC,2007,APRIL,245,Blood Nation,3,2.99,Image,2744
+COMIC,2007,APRIL,246,Hero By Night,2,2.99,Image,2727
+COMIC,2007,APRIL,247,Castle Waiting Vol. II,6,3.95,Fantagraphics,2705
+COMIC,2007,APRIL,248,Unique,2,2.99,Image,2693
+COMIC,2007,APRIL,249,Archie,574,2.25,Archie,2682
+COMIC,2007,APRIL,250,Black Panther,26,2.99,Marvel,2665
+COMIC,2007,APRIL,251,Looney Tunes,149,2.25,DC,2637
+COMIC,2007,APRIL,252,Starship Troopers Damaged Justice,2,3.5,Markosia,2609
+COMIC,2007,APRIL,253,Tales of the TMNT,32,3.25,Mirage,2553
+COMIC,2007,APRIL,254,Dork Tower,36,3.49,Dork Storm,2519
+COMIC,2007,APRIL,255,Sensational Spider-Man,36,2.99,Marvel,2418
+COMIC,2007,APRIL,256,Mr Stuffins,1,3.99,Boom,2418
+COMIC,2007,APRIL,257,Pirates Vs. Ninjas,4,3.5,Antarctic,2395
+COMIC,2007,APRIL,258,Simpsons Classics,12,3.99,Bongo,2350
+COMIC,2007,APRIL,259,Desperadoes Buffalo Dreams,3,3.99,IDW,2339
+COMIC,2007,APRIL,260,Ride Savannah (One Shot),4.99,4.99,Image,2328
+COMIC,2007,APRIL,261,Betty & Veronica,226,2.25,Archie,2317
+COMIC,2007,APRIL,262,PS238,22,2.99,Dork Storm,2125
+COMIC,2007,APRIL,263,Sabrina Vol. 2,84,2.25,Archie,2120
+COMIC,2007,APRIL,264,Betty,164,2.25,Archie,2075
+COMIC,2007,APRIL,265,Justice Society of America,4,2.99,DC,2024
+COMIC,2007,APRIL,266,Jungle Fantasy Annual,1,4.99,Avatar,2019
+COMIC,2007,APRIL,267,Planetary Brigade Origins,3,3.99,Boom,1996
+COMIC,2007,APRIL,268,Breathe,1,2.99,Markosia,1917
+COMIC,2007,APRIL,269,Nightmares & Fairy Tales,19,2.95,Slave Labor,1906
+COMIC,2007,APRIL,270,Wolverine,52,2.99,Marvel,1833
+COMIC,2007,APRIL,271,Cartoon Network Block Party,32,2.25,DC,1822
+COMIC,2007,APRIL,272,Civil War,7,2.99,Marvel,1788
+COMIC,2007,APRIL,273,Shojo Beat May 07 Vol. 3,5,5.99,Viz,1766
+COMIC,2007,APRIL,274,Brave & Bold,1,2.99,DC,1754
+COMIC,2007,APRIL,275,Cartoon Network Action Pack,12,2.25,DC,1732
+COMIC,2007,APRIL,276,Dynamo 5,1 New Ptg,3.5,Image,1692
+COMIC,2007,APRIL,277,Walk-In,5,2.99,Virgin,1676
+COMIC,2007,APRIL,278,Justice League of America,6,3.5,DC,1653
+COMIC,2007,APRIL,279,Two Guns,1,3.99,Boom,1642
+COMIC,2007,APRIL,280,Tag Cursed,3,3.99,Boom,1619
+COMIC,2007,APRIL,281,Batman,664,2.99,DC,1608
+COMIC,2007,APRIL,282,Archie Double Digest,178,3.69,Archie,1597
+COMIC,2007,APRIL,283,Jughead,180,2.25,Archie,1586
+COMIC,2007,APRIL,284,Ninja High School,148,2.99,Antarctic,1563
+COMIC,2007,APRIL,285,A G Super Erotic Anthology,55,4.99,Icarus,1546
+COMIC,2007,APRIL,286,A G Super Erotic Anthology,56,4.99,Icarus,1524
+COMIC,2007,APRIL,287,Maintenance,3,3.5,Oni,1512
+COMIC,2007,APRIL,288,Super F---ers,4,5.0,Top Shelf,1507
+COMIC,2007,APRIL,289,Betty & Veronica Digest,174,2.49,Archie,1501
+COMIC,2007,APRIL,290,Pandora Annual,1,4.99,Avatar,1490
+COMIC,2007,APRIL,291,52,47,2.5,DC,1473
+COMIC,2007,APRIL,292,Marvel Zombies,2,2.99,Marvel,1468
+COMIC,2007,APRIL,293,Archie Pals N Gals Double Digest,111,3.69,Archie,1462
+COMIC,2007,APRIL,294,New Avengers,10 Sal Buscema Var,2.5,Marvel,1445
+COMIC,2007,APRIL,295,Civil War,3,2.99,Marvel,1434
+COMIC,2007,APRIL,296,Captain America,22,2.99,Marvel,1400
+COMIC,2007,APRIL,297,Lost Squad,6,2.99,Devil's Due,1400
+COMIC,2007,APRIL,298,Marvel Zombies,1,2.99,Marvel,1394
+COMIC,2007,APRIL,299,Negative Burn,10,5.99,Image,1372
+COMIC,2007,APRIL,300,Genus,82,3.5,Radio,1355
+TPB,2007,APRIL,1,Civil War,,24.99,Marvel,19196
+TPB,2007,APRIL,2,Civil War Amazing Spider-Man,,17.99,Marvel,9424
+TPB,2007,APRIL,3,Civil War Front Line Book 1,,14.99,Marvel,7574
+TPB,2007,APRIL,4,Civil War Fantastic Four,,17.99,Marvel,6820
+TPB,2007,APRIL,5,All Star Superman Vol. 1 HC,,19.99,DC,6668
+TPB,2007,APRIL,6,Fruits Basket Vol. 16,,9.99,Tokyopop,6573
+TPB,2007,APRIL,7,Civil War X-Men,,11.99,Marvel,6191
+TPB,2007,APRIL,8,Civil War Thunderbolts,,13.99,Marvel,5836
+TPB,2007,APRIL,9,Runaways Vol. 7 Live Fast Digest,,7.99,Marvel,5415
+TPB,2007,APRIL,10,Spider-Man Reign Premiere HC,,19.99,Marvel,5274
+TPB,2007,APRIL,12,Batman Detective,,14.99,DC,4712
+TPB,2007,APRIL,13,Heroes For Hire Vol. 1 Civil War,,13.99,Marvel,4639
+TPB,2007,APRIL,14,"Wolverine Origins Vol. 1 Born InBlood",,13.99,Marvel,4543
+TPB,2007,APRIL,15,Death Note Vol. 11,,7.99,Viz,4498
+TPB,2007,APRIL,16,Showcase Presents Superman Vol. 3,,16.99,DC,4419
+TPB,2007,APRIL,17,"Daredevil Devil Inside &Out Vol. 2",,14.99,Marvel,4335
+TPB,2007,APRIL,18,God Save The Queen HC,,19.99,DC,4239
+TPB,2007,APRIL,19,Essential Spider-Man Vol. 8,,16.99,Marvel,4189
+TPB,2007,APRIL,20,Bleach Vol. 18,,7.95,Viz,4166
+TPB,2007,APRIL,21,300 HC,,30.0,Dark Horse,4071
+TPB,2007,APRIL,22,Punisher Max Vol. 7 Man of Stone,,15.99,Marvel,4015
+TPB,2007,APRIL,23,Fullmetal Alchemist Vol. 13,,9.99,Viz,3823
+TPB,2007,APRIL,24,Batman & Mad Monk,,14.99,DC,3750
+TPB,2007,APRIL,25,Young Avengers Vol. 2 Family Matters,,17.99,Marvel,3700
+TPB,2007,APRIL,26,Hellblazer Reasons To Be Cheerful,,14.99,DC,3419
+TPB,2007,APRIL,28,"Wonder Woman Greatest Stories EverTold",,19.99,DC,3160
+TPB,2007,APRIL,29,"Ultimate Spider-Man Clone Saga PremHC",,29.99,Marvel,3137
+TPB,2007,APRIL,30,"Spider-Man Black Cat Evil That MenDo",,14.99,Marvel,3104
+TPB,2007,APRIL,31,Absolute Batman Long Halloween HC,,75.0,DC,3070
+TPB,2007,APRIL,32,Oh My Goddess Vol. 26,,10.95,Dark Horse,3047
+TPB,2007,APRIL,33,Sensational Spider-Man Feral,,13.99,Marvel,3036
+TPB,2007,APRIL,34,Sgt Rock Prophecy,,17.99,DC,2862
+TPB,2007,APRIL,35,Path of the Assassin Vol. 6,,9.95,Dark Horse,2845
+TPB,2007,APRIL,36,Amazing Spider-Man Omnibus Vol. 1 HC,,99.99,Marvel,2806
+TPB,2007,APRIL,38,Jonah Hex Vol. 2 Guns of Vengeance,,12.99,DC,2727
+TPB,2007,APRIL,39,"Supergirl & Legion ofSuper-Heroes Vol. 4",,14.99,DC,2699
+TPB,2007,APRIL,40,Annihilation Book 2 HC,,29.99,Marvel,2682
+TPB,2007,APRIL,41,Battle Vixens Vol. 11,,9.99,Tokyopop,2603
+TPB,2007,APRIL,43,Walking Dead Vol. 6 Sorrowful Life,,12.99,Image,2508
+TPB,2007,APRIL,44,Crisis Aftermath Spectre,,12.99,DC,2328
+TPB,2007,APRIL,45,Inu Yasha Vol. 29,,8.95,Viz,2328
+TPB,2007,APRIL,46,Spawn Coll Vol. 3,,29.95,Image,2311
+TPB,2007,APRIL,47,Alpha Flight Classic Vol. 1,,24.99,Marvel,2204
+TPB,2007,APRIL,48,"Sandman Mystery Theatre Vol. 5 DrDeath",,19.99,DC,2176
+TPB,2007,APRIL,49,"Complete Peanuts Vol. 7 1963-1964HC",,28.95,Fantagraphics,2165
+TPB,2007,APRIL,50,Watchmen,,19.99,DC,2159
+TPB,2007,APRIL,51,Fullmetal Alchemist Vol. 12,,9.99,Viz,2103
+TPB,2007,APRIL,52,Neon Genesis Evangelion Vol. 10,,9.99,Viz,2097
+TPB,2007,APRIL,53,Civil War Road To Civil War,,14.99,Marvel,1957
+TPB,2007,APRIL,54,American Splendor Another Day,,14.99,DC,1917
+TPB,2007,APRIL,55,"Will Eisners Spirit Archives Vol.21 HC",,49.99,DC,1906
+TPB,2007,APRIL,56,One Piece Vol. 14,,7.95,Viz,1805
+TPB,2007,APRIL,57,Chibi Vampire Vol. 4,,9.99,Tokyopop,1788
+TPB,2007,APRIL,58,Agents of Atlas Prem HC,,24.99,Marvel,1737
+TPB,2007,APRIL,59,Ec Archives Weird Science Vol. 2 HC,,49.95,Gemstone,1676
+TPB,2007,APRIL,60,Doomed Presents Ashley Wood,,7.99,IDW,1642
+TPB,2007,APRIL,61,Saiyuki Reload Vol. 7,,9.99,Tokyopop,1619
+TPB,2007,APRIL,62,Hawkgirl Maw,,17.99,DC,1614
+TPB,2007,APRIL,63,Genshiken Vol. 8,,10.95,Random House,1608
+TPB,2007,APRIL,64,Prey Origin of thehe Species,,10.99,Marvel,1552
+TPB,2007,APRIL,65,Walking Dead Vol. 1 Days Gone Bye,,9.99,Image,1524
+TPB,2007,APRIL,66,Wasteland Book 1 Cities in Dust,,11.95,Oni,1501
+TPB,2007,APRIL,67,Spider-Girl Vol. 8 Duty Calls Digest,,7.99,Marvel,1501
+TPB,2007,APRIL,69,Battle Pope Vol. 3 Pillow Talk,,12.99,Image,1462
+TPB,2007,APRIL,70,Star Wars Legacy Vol. 1 Broken,,17.95,Dark Horse,1439
+TPB,2007,APRIL,71,Tenjho Tenge Vol. 13,,9.99,DC,1411
+TPB,2007,APRIL,72,Loveholic Vol. 1,,12.95,Digital Manga,1394
+TPB,2007,APRIL,73,Cross Bronx Vol. 1,,14.99,Image,1366
+TPB,2007,APRIL,74,Vampire Knight Vol. 2,,8.99,Viz,1366
+TPB,2007,APRIL,75,Rozen Maiden Vol. 4,,9.99,Tokyopop,1355
+TPB,2007,APRIL,76,Little Lulu Vol. 15 Explorers,,9.95,Dark Horse,1338
+TPB,2007,APRIL,77,Fables Vol. 1 Legends in Exile,,9.99,DC,1321
+TPB,2007,APRIL,79,G. I. Joe Declassified,,18.99,Devil's Due,1276
+TPB,2007,APRIL,80,Walking Dead Vol. 5 Best Defense,,12.99,Image,1248
+TPB,2007,APRIL,81,Hikaru No Go Vol. 9,,7.95,Viz,1248
+TPB,2007,APRIL,82,Black Cat Vol. 8,,7.99,Viz,1237
+TPB,2007,APRIL,83,Fake Fur Vol. 1,,12.95,Digital Manga,1231
+TPB,2007,APRIL,84,Millennium Snow Vol. 1,,8.99,Viz,1226
+TPB,2007,APRIL,85,Rin Vol. 3,,12.95,Digital Manga,1220
+TPB,2007,APRIL,86,Fafhrd And The Gray Mouser,,19.95,Dark Horse,1209
+TPB,2007,APRIL,87,Rg Veda Vol. 9,,9.99,Tokyopop,1209
+TPB,2007,APRIL,88,Hana Kimi Vol. 17,,9.99,Viz,1198
+TPB,2007,APRIL,89,Old Boy Vol. 5,,12.95,Dark Horse,1192
+TPB,2007,APRIL,90,D Gray Man Vol. 5,,7.99,Viz,1181
+TPB,2007,APRIL,91,Shaman King Vol. 12,,7.95,Viz,1181
+TPB,2007,APRIL,92,Wallflower Vol. 11,,10.95,Random House,1158
+TPB,2007,APRIL,93,Is Vol. 13,,7.99,Viz,1113
+TPB,2007,APRIL,94,Hack Slash Vol. 2 Death By Sequel,,18.99,Devil's Due,1113
+TPB,2007,APRIL,95,Fables Vol. 8 Wolves,,17.99,DC,1113
+TPB,2007,APRIL,96,Walking Dead Vol. 2 Miles Behind Us,,12.99,Image,1102
+TPB,2007,APRIL,97,Spider-Man Birth of Venom,,29.99,Marvel,1085
+TPB,2007,APRIL,98,School Rumble Vol. 5,,10.95,Random House,1085
+TPB,2007,APRIL,99,Astonishing X-Men Vol. 3 Torn,,14.99,Marvel,1080
+TPB,2007,APRIL,100,Yubisaki Milk Tea Vol. 4,,9.99,Tokyopop,1080

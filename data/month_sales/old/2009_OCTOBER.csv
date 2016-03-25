@@ -1,0 +1,598 @@
+PUBLICATION_FORMAT,YEAR,MONTH,SALES_RANK,TITLE,ISSUE,PRICE,PUBLISHER,EST_SALES
+COMIC,2009,OCTOBER,1,Blackest Night,4,3.99,DC,137086
+COMIC,2009,OCTOBER,2,Batman And Robin,5,2.99,DC,101546
+COMIC,2009,OCTOBER,3,Green Lantern,47,2.99,DC,101288
+COMIC,2009,OCTOBER,4,Blackest Night Batman,3,2.99,DC,86708
+COMIC,2009,OCTOBER,5,Green Lantern Corps,41,2.99,DC,81328
+COMIC,2009,OCTOBER,6,Blackest Night Superman,3,2.99,DC,78218
+COMIC,2009,OCTOBER,7,New Avengers,58,3.99,Marvel,76610
+COMIC,2009,OCTOBER,8,Dark Avengers,10,3.99,Marvel,75572
+COMIC,2009,OCTOBER,9,Uncanny X-Men,516,2.99,Marvel,73871
+COMIC,2009,OCTOBER,10,Amazing Spider-Man,608,2.99,Marvel,71992
+COMIC,2009,OCTOBER,11,Batman,691,2.99,DC,71388
+COMIC,2009,OCTOBER,12,Batman,692,2.99,DC,70280
+COMIC,2009,OCTOBER,13,Astonishing X-Men,31,2.99,Marvel,67024
+COMIC,2009,OCTOBER,14,Blackest Night Titans,3,2.99,DC,63632
+COMIC,2009,OCTOBER,15,Ultimate Comics Avengers,3,3.99,Marvel,62678
+COMIC,2009,OCTOBER,16,Amazing Spider-Man,609,2.99,Marvel,61139
+COMIC,2009,OCTOBER,17,Justice League of America,38,2.99,DC,60975
+COMIC,2009,OCTOBER,18,Dark Wolverine,79,2.99,Marvel,60040
+COMIC,2009,OCTOBER,19,Detective Comics,858,3.99,DC,58564
+COMIC,2009,OCTOBER,20,Web of Spider-Man,1,3.99,Marvel,58377
+COMIC,2009,OCTOBER,21,Hulk,16,3.99,Marvel,56777
+COMIC,2009,OCTOBER,22,Justice League Cry For Justice,4,3.99,DC,54353
+COMIC,2009,OCTOBER,23,X-Men Legacy,228,2.99,Marvel,52823
+COMIC,2009,OCTOBER,24,Ultimate Comics Spider-Man,3,3.99,Marvel,52781
+COMIC,2009,OCTOBER,25,Mighty Avengers,30,2.99,Marvel,52676
+COMIC,2009,OCTOBER,26,Batman Annual,27,4.99,DC,51411
+COMIC,2009,OCTOBER,27,Deadpool,900,4.99,Marvel,51306
+COMIC,2009,OCTOBER,28,Buffy The Vampire Slayer,29,2.99,Dark Horse,50206
+COMIC,2009,OCTOBER,29,Haunt,1,2.99,Image,50048
+COMIC,2009,OCTOBER,30,Incredible Hulk,603,3.99,Marvel,49096
+COMIC,2009,OCTOBER,31,X-Force,20,2.99,Marvel,48891
+COMIC,2009,OCTOBER,32,X Necrosha,,3.99,Marvel,47865
+COMIC,2009,OCTOBER,33,Invincible Iron Man,19,3.99,Marvel,47150
+COMIC,2009,OCTOBER,34,Superman Secret Origin,2,3.99,DC,46812
+COMIC,2009,OCTOBER,35,Deadpool,16,2.99,Marvel,46260
+COMIC,2009,OCTOBER,36,Dark Reign List Wolverine One Shot,,3.99,Marvel,45931
+COMIC,2009,OCTOBER,37,Daredevil,501,2.99,Marvel,45154
+COMIC,2009,OCTOBER,38,Justice Society of America,32,2.99,DC,44858
+COMIC,2009,OCTOBER,39,Red Robin,5,2.99,DC,44749
+COMIC,2009,OCTOBER,40,Adventure Comics,3,3.99,DC,44404
+COMIC,2009,OCTOBER,41,Detective Comics Annual,11,4.99,DC,44164
+COMIC,2009,OCTOBER,42,Fantastic Four,572,2.99,Marvel,41914
+COMIC,2009,OCTOBER,43,Dark Reign List Hulk One Shot,,3.99,Marvel,41670
+COMIC,2009,OCTOBER,44,Deadpool Merc With A Mouth,4,2.99,Marvel,40130
+COMIC,2009,OCTOBER,45,Wolverine Origins,41,2.99,Marvel,39429
+COMIC,2009,OCTOBER,46,Marvels Project,3,3.99,Marvel,39289
+COMIC,2009,OCTOBER,47,Wolverine Weapon X,6,3.99,Marvel,38423
+COMIC,2009,OCTOBER,48,"Dark Reign List Secret Warriors OneShot",,3.99,Marvel,37867
+COMIC,2009,OCTOBER,49,Spider-Woman,2 (Res),2.99,Marvel,37233
+COMIC,2009,OCTOBER,50,Worlds Finest,1,2.99,DC,37015
+COMIC,2009,OCTOBER,51,Batgirl,3,2.99,DC,36989
+COMIC,2009,OCTOBER,52,Dark Reign List Punisher One Shot,,3.99,Marvel,36769
+COMIC,2009,OCTOBER,53,Superman World of New Krypton,8,2.99,DC,36650
+COMIC,2009,OCTOBER,54,Secret Warriors,9,2.99,Marvel,36363
+COMIC,2009,OCTOBER,55,Superman,693,2.99,DC,35374
+COMIC,2009,OCTOBER,56,Azrael,1,2.99,DC,35290
+COMIC,2009,OCTOBER,57,New Mutants,6,2.99,Marvel,34946
+COMIC,2009,OCTOBER,58,Action Comics,882,3.99,DC,34733
+COMIC,2009,OCTOBER,59,Superman Batman,65,2.99,DC,34564
+COMIC,2009,OCTOBER,60,Batman Streets of Gotham,5,3.99,DC,34512
+COMIC,2009,OCTOBER,61,Gotham City Sirens,5,2.99,DC,32995
+COMIC,2009,OCTOBER,62,X-Men Vs Agents of Atlas,1,3.99,Marvel,32723
+COMIC,2009,OCTOBER,63,Thunderbolts,137,3.99,Marvel,32389
+COMIC,2009,OCTOBER,64,Planetary,27,3.99,DC,31672
+COMIC,2009,OCTOBER,65,Arkham Reborn,1,2.99,DC,31500
+COMIC,2009,OCTOBER,66,Avengers Initiative,29,2.99,Marvel,31393
+COMIC,2009,OCTOBER,67,Cable,19,2.99,Marvel,30990
+COMIC,2009,OCTOBER,68,Supergirl,46,2.99,DC,30359
+COMIC,2009,OCTOBER,69,X-Factor,50,3.99,Marvel,30120
+COMIC,2009,OCTOBER,70,Teen Titans,76,3.99,DC,29148
+COMIC,2009,OCTOBER,71,Titans,18,2.99,DC,28198
+COMIC,2009,OCTOBER,72,Archie,602,2.5,Archie,28194
+COMIC,2009,OCTOBER,73,Stand Soul Survivors,1,3.99,Marvel,27708
+COMIC,2009,OCTOBER,74,Punisher,10,2.99,Marvel,27151
+COMIC,2009,OCTOBER,75,Ultimate Comics Armor Wars,2,3.99,Marvel,27071
+COMIC,2009,OCTOBER,76,Power Girl,6,2.99,DC,27044
+COMIC,2009,OCTOBER,77,Wonder Woman,37,2.99,DC,26956
+COMIC,2009,OCTOBER,78,Vengeance of Moon Knight,2,2.99,Marvel,26477
+COMIC,2009,OCTOBER,79,Incredible Hercules,136,2.99,Marvel,26431
+COMIC,2009,OCTOBER,80,Dark Avengers Ares,1,3.99,Marvel,25979
+COMIC,2009,OCTOBER,81,Ms Marvel,46,2.99,Marvel,25701
+COMIC,2009,OCTOBER,82,Walking Dead,66,2.99,Image,24929
+COMIC,2009,OCTOBER,83,Batman The Unseen,1,2.99,DC,24872
+COMIC,2009,OCTOBER,84,Boys,35,2.99,Dynamic Forces,24826
+COMIC,2009,OCTOBER,85,"Amazing Spider-Man Presents AntiVenom",2,3.99,Marvel,23856
+COMIC,2009,OCTOBER,86,Guardians of Galaxy,19,2.99,Marvel,23583
+COMIC,2009,OCTOBER,87,Incredible Hercules,137,2.99,Marvel,23449
+COMIC,2009,OCTOBER,88,Secret Six,14,2.99,DC,23331
+COMIC,2009,OCTOBER,89,"Doctor Voodoo Avenger ofSupernatural",1,3.99,Marvel,23314
+COMIC,2009,OCTOBER,90,Brave And The Bold,28,2.99,DC,23162
+COMIC,2009,OCTOBER,91,Angel,26,3.99,IDW,22872
+COMIC,2009,OCTOBER,92,Nova,30,2.99,Marvel,22831
+COMIC,2009,OCTOBER,93,Batman The Unseen,2,2.99,DC,22639
+COMIC,2009,OCTOBER,94,X-Men Forever,10,3.99,Marvel,22274
+COMIC,2009,OCTOBER,95,Punisher Frank Castle Max,75,4.99,Marvel,22197
+COMIC,2009,OCTOBER,96,Star Wars Legacy,41 Rogues End,2.99,Dark Horse,22096
+COMIC,2009,OCTOBER,97,X-Men Forever,9,3.99,Marvel,21913
+COMIC,2009,OCTOBER,98,Booster Gold,25,3.99,DC,21584
+COMIC,2009,OCTOBER,99,Spider-Man Clone Saga,2,3.99,Marvel,21460
+COMIC,2009,OCTOBER,100,Outsiders,23,2.99,DC,21400
+COMIC,2009,OCTOBER,101,Dark Reign Young Avengers,5,3.99,Marvel,21272
+COMIC,2009,OCTOBER,102,Fables,89,2.99,DC,21105
+COMIC,2009,OCTOBER,103,Witchblade,131 Sejic Cvr A,2.99,Image,20986
+COMIC,2009,OCTOBER,104,Criminal Sinners,1,3.5,Marvel,20568
+COMIC,2009,OCTOBER,105,Son of Hulk,16,2.99,Marvel,20492
+COMIC,2009,OCTOBER,106,Black Panther 2,9,2.99,Marvel,20334
+COMIC,2009,OCTOBER,107,War Machine,10,2.99,Marvel,20195
+COMIC,2009,OCTOBER,108,Doom Patrol,3,3.99,DC,20024
+COMIC,2009,OCTOBER,109,Jsa Vs Kobra,5,2.99,DC,19816
+COMIC,2009,OCTOBER,110,Star Wars Invasion,0,3.5,Dark Horse,19702
+COMIC,2009,OCTOBER,111,Hellboy Wild Hunt,7,2.99,Dark Horse,19402
+COMIC,2009,OCTOBER,112,Sugarshock One Shot,,3.5,Dark Horse,19359
+COMIC,2009,OCTOBER,113,Star Wars Invasion,4,2.99,Dark Horse,19126
+COMIC,2009,OCTOBER,114,Spawn,195,2.95,Image,18464
+COMIC,2009,OCTOBER,115,X-Babies,1,3.99,Marvel,18372
+COMIC,2009,OCTOBER,116,Spider-Man 1602,1,3.99,Marvel,18262
+COMIC,2009,OCTOBER,117,Torch,2,3.99,Marvel,18104
+COMIC,2009,OCTOBER,118,Green Arrow Black Canary,25,3.99,DC,18002
+COMIC,2009,OCTOBER,119,Batman Confidential,34,2.99,DC,17087
+COMIC,2009,OCTOBER,120,Ghost Riders Heavens on Fire,3,3.99,Marvel,16869
+COMIC,2009,OCTOBER,121,Batman Confidential,35,2.99,DC,16714
+COMIC,2009,OCTOBER,122,"Star Wars Knights of the OldRepublic",46,2.99,Dark Horse,16492
+COMIC,2009,OCTOBER,123,G.I. Joe,10,3.99,IDW,16254
+COMIC,2009,OCTOBER,124,Magog,2,2.99,DC,16183
+COMIC,2009,OCTOBER,125,Strange Tales,2,4.99,Marvel,16008
+COMIC,2009,OCTOBER,126,Invincible,67,2.99,Image,15821
+COMIC,2009,OCTOBER,127,Unwritten,6,2.99,DC,15305
+COMIC,2009,OCTOBER,128,Dcu Halloween Special 2009,1,5.99,DC,15242
+COMIC,2009,OCTOBER,129,Abe Sapien One Shot,,3.5,Dark Horse,15184
+COMIC,2009,OCTOBER,130,G.I. Joe Origins,8,3.99,IDW,14952
+COMIC,2009,OCTOBER,131,Iron Man Iron Protocols One-Shot,,3.99,Marvel,14845
+COMIC,2009,OCTOBER,132,B.P.R.D. 1947,4,2.99,Dark Horse,14496
+COMIC,2009,OCTOBER,133,Red Tornado,2,2.99,DC,14374
+COMIC,2009,OCTOBER,134,Irredeemable,7,3.99,Boom,14273
+COMIC,2009,OCTOBER,135,Crossed,7,3.99,Avatar,14229
+COMIC,2009,OCTOBER,137,War Heroes,3 (Res),2.99,Image,13910
+COMIC,2009,OCTOBER,138,Queen Sonja,1,2.99,Dynamic Forces,13841
+COMIC,2009,OCTOBER,139,Astro City Astra Special,2,3.99,DC,13839
+COMIC,2009,OCTOBER,140,Dark Reign Zodiac,3,3.99,Marvel,13624
+COMIC,2009,OCTOBER,141,Punisher Noir,3,3.99,Marvel,13601
+COMIC,2009,OCTOBER,142,Chew,5,2.99,Image,13490
+COMIC,2009,OCTOBER,143,Talisman Road of Trials,0,1.0,Random House,13402
+COMIC,2009,OCTOBER,144,Jack of Fables,39,2.99,DC,13153
+COMIC,2009,OCTOBER,145,Vampirella Second Coming,2 Suydam Cvr,1.99,Harris,13012
+COMIC,2009,OCTOBER,146,"Project Superpowers Meet The BadGuys",2,2.99,Dynamic Forces,12863
+COMIC,2009,OCTOBER,147,Ex Machina,46,2.99,DC,12530
+COMIC,2009,OCTOBER,148,Angel Only Human,3,3.99,IDW,12478
+COMIC,2009,OCTOBER,149,Iron Man Armor Wars,3,2.99,Marvel,12415
+COMIC,2009,OCTOBER,150,G.I. Joe Movie Snake Eyes,1,3.99,IDW,12229
+COMIC,2009,OCTOBER,151,Angel Vs Frankenstein,,3.99,IDW,12018
+COMIC,2009,OCTOBER,152,House of M Masters of Evil,3,3.99,Marvel,11562
+COMIC,2009,OCTOBER,153,Red Sonja,49,2.99,Dynamic Forces,11480
+COMIC,2009,OCTOBER,154,Sweet Tooth,2,2.99,DC,11308
+COMIC,2009,OCTOBER,155,Final Crisis Aftermath Run,6,2.99,DC,11297
+COMIC,2009,OCTOBER,156,Predator,3,3.5,Dark Horse,11286
+COMIC,2009,OCTOBER,157,Rebels,9,2.99,DC,11277
+COMIC,2009,OCTOBER,158,Transformers All Hail Megatron,16,3.99,IDW,11274
+COMIC,2009,OCTOBER,159,Jonah Hex,48,2.99,DC,11274
+COMIC,2009,OCTOBER,160,Last Days of Animal Man,6,2.99,DC,11264
+COMIC,2009,OCTOBER,161,Uncanny X-Men First Class,4,2.99,Marvel,11253
+COMIC,2009,OCTOBER,162,Witchfinder In The Service of Angels,4,2.99,Dark Horse,11216
+COMIC,2009,OCTOBER,163,Anita Blake LC Executioner,1,3.99,Marvel,11198
+COMIC,2009,OCTOBER,164,House of Mystery Halloween Annual,1,4.99,DC,11127
+COMIC,2009,OCTOBER,165,House of Mystery,18,2.99,DC,10915
+COMIC,2009,OCTOBER,166,Marvel Divas,4,3.99,Marvel,10820
+COMIC,2009,OCTOBER,167,Halo Helljumper,4,3.99,Marvel,10777
+COMIC,2009,OCTOBER,168,Rebels Annual Starro The Conqueror,1,4.99,DC,10766
+COMIC,2009,OCTOBER,169,Hellblazer,260,2.99,DC,10761
+COMIC,2009,OCTOBER,170,Ignition City,5,3.99,Avatar,10659
+COMIC,2009,OCTOBER,171,Freddy Jason Ash Nightmare Warriors,5,3.99,DC,10597
+COMIC,2009,OCTOBER,172,Final Crisis Aftermath Escape,6,2.99,DC,10513
+COMIC,2009,OCTOBER,173,World of Warcraft,24,2.99,DC,10436
+COMIC,2009,OCTOBER,174,Shield,2,3.99,DC,10395
+COMIC,2009,OCTOBER,175,Genext United,5,3.99,Marvel,10351
+COMIC,2009,OCTOBER,176,Models Inc,2 (Res),3.99,Marvel,10315
+COMIC,2009,OCTOBER,177,Nomad Girl Without A World,2,3.99,Marvel,10290
+COMIC,2009,OCTOBER,178,Wolverine First Class,20,2.99,Marvel,10202
+COMIC,2009,OCTOBER,179,Escape From Wonderland,2,2.99,Zenescope,10102
+COMIC,2009,OCTOBER,180,Luke Cage Noir,3,3.99,Marvel,10078
+COMIC,2009,OCTOBER,181,"Invincible Presents Atom Eve& Rex Splode",1,2.99,Image,10068
+COMIC,2009,OCTOBER,182,Ambush Bug Year None,7,2.99,DC,9994
+COMIC,2009,OCTOBER,183,Models Inc,3,3.99,Marvel,9991
+COMIC,2009,OCTOBER,184,Final Crisis Aftermath Dance,6,2.99,DC,9989
+COMIC,2009,OCTOBER,185,Warlord,7,2.99,DC,9886
+COMIC,2009,OCTOBER,186,Liberty Comics A CBLDF Benefit Book,2,4.99,Image,9860
+COMIC,2009,OCTOBER,187,Strange Adventures,8,3.99,DC,9766
+COMIC,2009,OCTOBER,188,Final Crisis Aftermath Ink,6,2.99,DC,9714
+COMIC,2009,OCTOBER,189,Skrull Kill Krew,5,3.99,Marvel,9575
+COMIC,2009,OCTOBER,190,Incredibles,1,2.99,Boom,9465
+COMIC,2009,OCTOBER,191,Web,2,3.99,DC,9415
+COMIC,2009,OCTOBER,192,Madame Xanadu,16,2.99,DC,9277
+COMIC,2009,OCTOBER,193,Greek Street,4,2.99,DC,9240
+COMIC,2009,OCTOBER,194,Groo Hogs of Horder,1,3.99,Dark Horse,9182
+COMIC,2009,OCTOBER,195,Batman The Killing Joke New Ptg,,5.99,DC,9125
+COMIC,2009,OCTOBER,196,Grimm Fairy Tales,42,2.99,Zenescope,9065
+COMIC,2009,OCTOBER,198,Buck Rogers,5,3.5,Dynamic Forces,8859
+COMIC,2009,OCTOBER,199,"Thor Tales of Asgard By Lee& Kirby",6,3.99,Marvel,8826
+COMIC,2009,OCTOBER,200,Soulfire Volume Two,1 To Cvr,2.99,Aspen,8634
+COMIC,2009,OCTOBER,201,Tribute Michael Jackson King of Pop,,3.99,Bluewater,8546
+COMIC,2009,OCTOBER,202,Chronicles of Wormwood Last Battle,1,3.99,Avatar,8521
+COMIC,2009,OCTOBER,203,Enders Game Command School,2,3.99,Marvel,8423
+COMIC,2009,OCTOBER,204,Cowboy Ninja Viking,1,3.5,Image,8375
+COMIC,2009,OCTOBER,205,Northlanders,21,2.99,DC,8355
+COMIC,2009,OCTOBER,206,Doctor Who Ongoing,4,3.99,IDW,8349
+COMIC,2009,OCTOBER,207,Tales From Wonderland Mad Hatter,2 Cvr A Ebas,4.99,Zenescope,8347
+COMIC,2009,OCTOBER,208,Sonic The Hedgehog,205,2.5,Archie,8258
+COMIC,2009,OCTOBER,209,Tiny Titans,21,2.5,DC,8254
+COMIC,2009,OCTOBER,210,Authority,15,2.99,DC,8169
+COMIC,2009,OCTOBER,211,Anna Mercury 2,2,3.99,Avatar,8133
+COMIC,2009,OCTOBER,212,Boys,1 Dynamite Ed,1.0,Dynamic Forces,8034
+COMIC,2009,OCTOBER,213,Transformers Tales of the Fallen,3,3.99,IDW,7972
+COMIC,2009,OCTOBER,214,Wolverine Art Appreciation One-Shot,,3.99,Marvel,7959
+COMIC,2009,OCTOBER,215,Sherlock Holmes,5,3.5,Dynamic Forces,7958
+COMIC,2009,OCTOBER,216,Lone Ranger & Tonto,3,4.99,Dynamic Forces,7900
+COMIC,2009,OCTOBER,217,Pilot Season Declassified,,1.0,Image,7667
+COMIC,2009,OCTOBER,218,Simpsons Comics,159,2.99,Bongo,7640
+COMIC,2009,OCTOBER,219,Star Trek Nero,3,3.99,IDW,7615
+COMIC,2009,OCTOBER,220,Enders Shadow Command School,2,3.99,Marvel,7542
+COMIC,2009,OCTOBER,221,Do Androids Dream of Electric Sheep,5,3.99,Boom,7469
+COMIC,2009,OCTOBER,222,Star Trek Spock Reflections,4,3.99,IDW,7456
+COMIC,2009,OCTOBER,223,DMZ,46,2.99,DC,7395
+COMIC,2009,OCTOBER,224,Marvel Spotlight Deadpool,,2.99,Marvel,7280
+COMIC,2009,OCTOBER,225,Astounding Wolf-Man,19,2.99,Image,7267
+COMIC,2009,OCTOBER,226,Bart Simpson Comics,50,2.99,Bongo,7203
+COMIC,2009,OCTOBER,227,Ghostbusters Displaced Aggression,2,3.99,IDW,7109
+COMIC,2009,OCTOBER,228,Sonic Universe,9,2.5,Archie,7079
+COMIC,2009,OCTOBER,229,Star Trek Romulans Schism,2,3.99,IDW,7057
+COMIC,2009,OCTOBER,230,Marvel Holiday Spectacular,,9.99,Marvel,7056
+COMIC,2009,OCTOBER,231,Vigilante,11,2.99,DC,6967
+COMIC,2009,OCTOBER,232,Scalped,32,2.99,DC,6901
+COMIC,2009,OCTOBER,233,Wildcats,16,2.99,DC,6879
+COMIC,2009,OCTOBER,234,"Walt Disneys Comics &Stories",699,2.99,Boom,6675
+COMIC,2009,OCTOBER,235,Batman The Brave And The Bold,10,2.5,DC,6642
+COMIC,2009,OCTOBER,236,Unknown Soldier,13,2.99,DC,6632
+COMIC,2009,OCTOBER,237,Savage Dragon,153,3.5,Image,6567
+COMIC,2009,OCTOBER,238,Starr The Slayer,2,3.99,Marvel,6531
+COMIC,2009,OCTOBER,239,Beasts of Burden,2,2.99,Dark Horse,6411
+COMIC,2009,OCTOBER,240,Absolution,2,3.99,Avatar,6295
+COMIC,2009,OCTOBER,241,Kill Audio,1,3.99,Boom,6266
+COMIC,2009,OCTOBER,242,Air,14,2.99,DC,6152
+COMIC,2009,OCTOBER,243,North 40,4,2.99,DC,6064
+COMIC,2009,OCTOBER,244,Gen 13,32,2.99,DC,6040
+COMIC,2009,OCTOBER,245,Hack Slash Series,27 A Cvr Seeley,3.5,Devil's Due,6001
+COMIC,2009,OCTOBER,246,Farscape Gone & Back,4,3.99,Boom,5988
+COMIC,2009,OCTOBER,247,Dominic Fortune,3,3.99,Marvel,5976
+COMIC,2009,OCTOBER,248,Mighty,9,2.99,DC,5928
+COMIC,2009,OCTOBER,249,28 Days Later,3,3.99,Boom,5919
+COMIC,2009,OCTOBER,250,Die Hard Year One,2,3.99,Boom,5880
+COMIC,2009,OCTOBER,251,Uncle Scrooge,384,2.99,Boom,5831
+COMIC,2009,OCTOBER,252,Anchor,1,3.99,Boom,5652
+COMIC,2009,OCTOBER,253,Jennifer Love Hewitts Music Box,1,3.99,IDW,5618
+COMIC,2009,OCTOBER,254,Gravel,14,3.99,Avatar,5604
+COMIC,2009,OCTOBER,255,Farscape Dargos Trial,3,3.99,Boom,5601
+COMIC,2009,OCTOBER,256,FVZA,1 A Cvr Bolton,4.99,Radical,5579
+COMIC,2009,OCTOBER,257,Clive Barkers Seduth 3-D,1,5.99,IDW,5571
+COMIC,2009,OCTOBER,258,Aspen Showcase Kiani,,2.99,Aspen,5563
+COMIC,2009,OCTOBER,259,Billy Batson And The Magic of Shazam,9,2.5,DC,5380
+COMIC,2009,OCTOBER,260,Mice Templar Destiny,4,2.99,Image,5280
+COMIC,2009,OCTOBER,261,Salems Daughter,2,2.99,Zenescope,5263
+COMIC,2009,OCTOBER,262,The Good The Bad & The Ugly,4,3.5,Dynamic Forces,5198
+COMIC,2009,OCTOBER,263,Muppet Peter Pan,2,2.99,Boom,5196
+COMIC,2009,OCTOBER,264,Fallen Angel Reborn,4,3.99,IDW,5127
+COMIC,2009,OCTOBER,265,Galactica 1980,2,3.5,Dynamic Forces,5037
+COMIC,2009,OCTOBER,266,Super Friends,20,2.5,DC,5023
+COMIC,2009,OCTOBER,267,Cars Radiator Springs,2,2.99,Boom,4883
+COMIC,2009,OCTOBER,268,Blackbeard Legend of The Pyrate King,1,3.5,Dynamic Forces,4696
+COMIC,2009,OCTOBER,269,Marvel Adventures Spider-Man,56,2.99,Marvel,4576
+COMIC,2009,OCTOBER,270,Marvel Super Hero Squad,2,2.99,Marvel,4493
+COMIC,2009,OCTOBER,271,Blackest Night Batman,1 3rd Ptg,2.99,DC,4468
+COMIC,2009,OCTOBER,272,Starcraft,5,2.99,DC,4419
+COMIC,2009,OCTOBER,273,Female Force,7 Oprah Winfrey,3.99,Bluewater,4338
+COMIC,2009,OCTOBER,274,Scooby Doo,149,2.5,DC,4003
+COMIC,2009,OCTOBER,275,Official Index To Marvel Universe,10,3.99,Marvel,3978
+COMIC,2009,OCTOBER,276,Starstruck,2,3.99,IDW,3929
+COMIC,2009,OCTOBER,277,Blackest Night Batman,2,2.99,DC,3802
+COMIC,2009,OCTOBER,278,Red Herring,3,2.99,DC,3795
+COMIC,2009,OCTOBER,279,Blackest Night,1 3rd Ptg,3.99,DC,3790
+COMIC,2009,OCTOBER,280,Doctor Who Classics Series 2,11,3.99,IDW,3724
+COMIC,2009,OCTOBER,282,Stuff of Legend,2,4.99,Third World,3709
+COMIC,2009,OCTOBER,283,Puppy Power Bo Obama,,3.99,Bluewater,3603
+COMIC,2009,OCTOBER,284,Dynamo 5,25,4.99,Image,3556
+COMIC,2009,OCTOBER,285,Deadpool Poster Book,,5.99,Marvel,3499
+COMIC,2009,OCTOBER,286,Elephantmen,22,3.5,Image,3476
+COMIC,2009,OCTOBER,287,Jon Sable Freelance Ashes of Eden,1,3.99,IDW,3432
+COMIC,2009,OCTOBER,288,Dark Reign List Daredevil One Shot,,3.99,Marvel,3356
+COMIC,2009,OCTOBER,289,Vengeance of Moon Knight,1,3.99,Marvel,3307
+COMIC,2009,OCTOBER,290,Marvel Adventures Super Heroes,16,2.99,Marvel,3248
+COMIC,2009,OCTOBER,291,Days Missing,2 Dale Keown Cvr,2.99,Archie,3001
+COMIC,2009,OCTOBER,292,Days Missing,3,2.99,Archie,2957
+COMIC,2009,OCTOBER,293,Underground,2,3.5,Image,2945
+COMIC,2009,OCTOBER,294,Last Resort,3,3.99,IDW,2944
+COMIC,2009,OCTOBER,295,Riftwar,5,3.99,Marvel,2906
+COMIC,2009,OCTOBER,296,Grimjack Manx Cat,3,3.99,IDW,2834
+COMIC,2009,OCTOBER,297,Shonen Jump November 09,,4.99,Viz,2781
+COMIC,2009,OCTOBER,298,Spin Angels,3,5.99,Marvel,2772
+COMIC,2009,OCTOBER,299,Citizen Rex,4,3.5,Dark Horse,2750
+COMIC,2009,OCTOBER,300,Transformers Best of the U.K. Prey,3,3.99,IDW,2711
+TPB,2009,OCTOBER,1,Wolverine HC Old Man Logan,,34.99,Marvel,7343
+TPB,2009,OCTOBER,2,"Jack of Fables Vol. 6 The Big Bookof War",,14.99,DC,5265
+TPB,2009,OCTOBER,3,Naruto Vol. 46,,9.99,Viz,4732
+TPB,2009,OCTOBER,4,"Final Crisis Legion of Three WorldsHC",,19.99,DC,4059
+TPB,2009,OCTOBER,5,Noir Vol. 1,,12.95,Dark Horse,3990
+TPB,2009,OCTOBER,6,B.P.R.D. Vol. 11 Black Goddess,,17.95,Dark Horse,3895
+TPB,2009,OCTOBER,7,Scalped Vol. 5 High Lonesome,,14.99,DC,3717
+TPB,2009,OCTOBER,8,Daredevil Return of King,,17.99,Marvel,3644
+TPB,2009,OCTOBER,9,Ultimate Wolverine Vs Hulk Prem HC,,24.99,Marvel,3473
+TPB,2009,OCTOBER,10,Sandman The Dream Hunters HC,,24.99,DC,3321
+TPB,2009,OCTOBER,11,"Zombie Survival Guide RecordedAttacks",,17.0,Random House,3223
+TPB,2009,OCTOBER,12,Marvel Zombies 4 HC,,19.99,Marvel,3125
+TPB,2009,OCTOBER,13,New Avengers Vol. 10 Power,,15.99,Marvel,3088
+TPB,2009,OCTOBER,14,"Star Wars Knights of the OldRepublic Vol. 7",,18.95,Dark Horse,2946
+TPB,2009,OCTOBER,15,Uncanny X-Men Manifest Destiny,,24.99,Marvel,2869
+TPB,2009,OCTOBER,16,Freakangels Vol. 3,,19.99,Avatar,2820
+TPB,2009,OCTOBER,17,Air Vol. 2 Flying Machine,,12.99,DC,2814
+TPB,2009,OCTOBER,18,"Invincible Iron Man Vol. 2 WorldsMost Wanted",,14.99,Marvel,2774
+TPB,2009,OCTOBER,19,X-Men Forever Vol. 1,,16.99,Marvel,2763
+TPB,2009,OCTOBER,20,"Bloom County Complete Library HCVol. 1",,39.99,IDW,2431
+TPB,2009,OCTOBER,21,Absolute Death HC,,99.99,DC,2418
+TPB,2009,OCTOBER,22,Trinity Vol. 3,,29.99,DC,2412
+TPB,2009,OCTOBER,23,Batman Chronicles Vol. 8,,14.99,DC,2394
+TPB,2009,OCTOBER,24,"Captain America Road To Reborn PremHC",,24.99,Marvel,2252
+TPB,2009,OCTOBER,25,Terry Moores Echo Vol. 3 Desert Run,,15.95,Abstract,2248
+TPB,2009,OCTOBER,26,"Showcase Presents House of SecretsVol. 2",,17.99,DC,2208
+TPB,2009,OCTOBER,27,Legend of Zelda Vol. 7,,7.99,Viz,2208
+TPB,2009,OCTOBER,28,X-Men Noir,,14.99,Marvel,2198
+TPB,2009,OCTOBER,29,Sword Vol. 3 Earth,,14.99,Image,2195
+TPB,2009,OCTOBER,30,Runaways Vol. 9 Dead Wrong Digest,,9.99,Marvel,2177
+TPB,2009,OCTOBER,31,Dark Reign Fantastic Four,,16.99,Marvel,2132
+TPB,2009,OCTOBER,32,Spider-Man Death & Dating,,19.99,Marvel,2113
+TPB,2009,OCTOBER,33,"Transmetropolitan Vol. 4 The NewScum",,12.99,DC,2042
+TPB,2009,OCTOBER,34,Uncle Sam Deluxe HC,,19.99,DC,1961
+TPB,2009,OCTOBER,35,Thunderbolts Burning Down The House,,14.99,Marvel,1950
+TPB,2009,OCTOBER,36,Gantz Vol. 7,,12.95,Dark Horse,1936
+TPB,2009,OCTOBER,37,Lenore Noogies HC Color Ed,,17.95,Titan,1929
+TPB,2009,OCTOBER,38,"Justice League of America WhenWorlds Collide HC",,24.99,DC,1874
+TPB,2009,OCTOBER,39,"Battle Angel Alita Last Order Vol.12",,9.99,Viz,1864
+TPB,2009,OCTOBER,40,Runaways Rock Zombies,,14.99,Marvel,1823
+TPB,2009,OCTOBER,41,Hulk Prem HC Vol. 3 Hulk No More,,19.99,Marvel,1775
+TPB,2009,OCTOBER,42,Batman Monsters,,19.99,DC,1766
+TPB,2009,OCTOBER,43,Spider-Man HC Newspaper Strips,,39.99,Marvel,1754
+TPB,2009,OCTOBER,44,Kull Vol. 1 Shadow Kingdom,,18.95,Dark Horse,1744
+TPB,2009,OCTOBER,45,Gears of War HC Book 1,,19.99,DC,1743
+TPB,2009,OCTOBER,46,Jonah Hex Lead Poisoning,,14.99,DC,1738
+TPB,2009,OCTOBER,47,"Marvel Masterworks Inhumans HC Vol.1",,54.99,Marvel,1726
+TPB,2009,OCTOBER,48,Grandville HC,,17.95,Dark Horse,1726
+TPB,2009,OCTOBER,49,Pinocchio Vampire Slayer,,10.95,Slave Labor,1709
+TPB,2009,OCTOBER,50,Spider-Man American Son Prem HC,,19.99,Marvel,1684
+TPB,2009,OCTOBER,51,Essential Ghost Rider Vol. 3,,19.99,Marvel,1653
+TPB,2009,OCTOBER,52,Pride & Prejudice Prem HC,,19.99,Marvel,1570
+TPB,2009,OCTOBER,53,Blood And Water,,14.99,DC,1537
+TPB,2009,OCTOBER,54,"Superman Adventures of Flamebird& Nightwing",,19.99,DC,1529
+TPB,2009,OCTOBER,55,"Wolverine Dark Wolverine Prem HCVol. 1 Prince",,24.99,Marvel,1520
+TPB,2009,OCTOBER,56,"Marvel Masterworks Atlas Era MenaceHC Vol. 1",,59.99,Marvel,1505
+TPB,2009,OCTOBER,57,War Machine Vol. 1 Iron Heart,,15.99,Marvel,1505
+TPB,2009,OCTOBER,58,Walking Dead Vol. 10 What We Become,,14.99,Image,1496
+TPB,2009,OCTOBER,59,"Transformers All Hail Megatron Vol.3",,19.99,IDW,1452
+TPB,2009,OCTOBER,60,Walking Dead Vol. 1 Days Gone Bye,,9.99,Image,1429
+TPB,2009,OCTOBER,61,Anita Blake Vh Lc Book 1 Animator,,16.99,Marvel,1428
+TPB,2009,OCTOBER,62,Rosario Vampire Vol. 9,,9.99,Viz,1401
+TPB,2009,OCTOBER,63,Beta Ray Bill Godhunter,,14.99,Marvel,1377
+TPB,2009,OCTOBER,64,"E.C. Archives Frontline Combat HCVol. 1",,49.95,Gemstone,1374
+TPB,2009,OCTOBER,65,Runaways Teenage Wasteland,,14.99,Marvel,1365
+TPB,2009,OCTOBER,66,Yu Gi Oh R Vol. 1,,9.99,Viz,1364
+TPB,2009,OCTOBER,67,"Marvel Masterworks AmazingSpider-Man Vol. 3",,24.99,Marvel,1349
+TPB,2009,OCTOBER,68,Akira Kodansha Ed Vol. 1,,24.99,Random House,1321
+TPB,2009,OCTOBER,69,Inu Yasha Vol. 41,,9.99,Viz,1316
+TPB,2009,OCTOBER,70,Umbrella Academy Vol. 2 Dallas,,17.95,Dark Horse,1311
+TPB,2009,OCTOBER,71,"Hatter M The Looking Glass WarsVol. 2 Mad With Wonder",,14.95,Automatic Pictures,1305
+TPB,2009,OCTOBER,72,Moon Knight Vol. 5 Down South,,15.99,Marvel,1295
+TPB,2009,OCTOBER,73,Muppet Robin Hood,,9.99,Boom,1294
+TPB,2009,OCTOBER,74,"Hack Slash Vol. 6 In Revenge& In Love",,18.99,Devil's Due,1262
+TPB,2009,OCTOBER,75,Wolverine Noir Prem HC,,19.99,Marvel,1261
+TPB,2009,OCTOBER,76,Wolfskin Vol. 1,,17.99,Avatar,1256
+TPB,2009,OCTOBER,77,Legion of Super Heroes Enemy Rising,,14.99,DC,1248
+TPB,2009,OCTOBER,78,Question Vol. 5 Riddles,,19.99,DC,1239
+TPB,2009,OCTOBER,79,Spike Omnibus,,24.99,IDW,1227
+TPB,2009,OCTOBER,80,Star Trek Countdown HC,,21.99,IDW,1216
+TPB,2009,OCTOBER,81,One Piece Vol. 22,,7.95,Viz,1185
+TPB,2009,OCTOBER,82,G.I. Joe Cobra,,19.99,IDW,1174
+TPB,2009,OCTOBER,83,Mephisto Vs Prem HC,,19.99,Marvel,1155
+TPB,2009,OCTOBER,84,Negima Vol. 24,,10.99,Random House,1152
+TPB,2009,OCTOBER,85,Richard Starks Parker The Hunter HC,,24.99,IDW,1147
+TPB,2009,OCTOBER,86,"Code Geass Lelouch of The RebellionVol. 5",,10.99,Bandai,1147
+TPB,2009,OCTOBER,87,Angel Not Fade Away,,19.99,IDW,1125
+TPB,2009,OCTOBER,88,Five Fists of Science,,12.99,Image,1105
+TPB,2009,OCTOBER,89,Groom Lake,,19.99,IDW,1093
+TPB,2009,OCTOBER,90,"Anita Blake Vh Guilty PleasuresComplete Ed HC",,34.99,Marvel,1092
+TPB,2009,OCTOBER,91,"Naoki Urasawa 20Th Century BoysVol. 5",,12.99,Viz,1062
+TPB,2009,OCTOBER,92,Tsubasa Vol. 23,,10.99,Random House,1051
+TPB,2009,OCTOBER,93,Black Lagoon Vol. 8,,12.99,Viz,1046
+TPB,2009,OCTOBER,94,"Pokemon Diamond & PearlAdventure Vol. 5",,7.99,Viz,1038
+TPB,2009,OCTOBER,95,Storming Paradise,,19.99,DC,1034
+TPB,2009,OCTOBER,96,"Superman In Worlds Finest ArchivesHC Vol. 2",,59.99,DC,1024
+TPB,2009,OCTOBER,97,Kabuki Alchemy,,24.99,Marvel,1024
+TPB,2009,OCTOBER,98,Soul Eater Vol. 1,,10.99,Hachette,1024
+TPB,2009,OCTOBER,99,Ghost In Shell Kodansha Ed Vol. 1,,26.99,Random House,975
+TPB,2009,OCTOBER,100,Heavy Liquid,,24.99,DC,970
+TPB,2009,OCTOBER,101,Star Trek Crew,,19.99,IDW,970
+TPB,2009,OCTOBER,102,Green Lantern Rebirth,,14.99,DC,968
+TPB,2009,OCTOBER,103,Star Trek Missions End,,19.99,IDW,953
+TPB,2009,OCTOBER,104,Deadpool Vol. 1 Secret Invasion,,14.99,Marvel,950
+TPB,2009,OCTOBER,105,"Marvel Adventures Avengers Vol. 10Digest",,9.99,Marvel,949
+TPB,2009,OCTOBER,106,Xxxholic Vol. 14,,10.99,Random House,935
+TPB,2009,OCTOBER,107,Fables Vol. 12 The Dark Ages,,17.99,DC,907
+TPB,2009,OCTOBER,108,Masquerade Vol. 1,,14.99,Dynamic Forces,907
+TPB,2009,OCTOBER,109,Garth Ennis Battlefields HC Vol. 1,,29.99,Dynamic Forces,904
+TPB,2009,OCTOBER,110,"Marvel 1602 Prem HC New WorldFantastick Four",,24.99,Marvel,900
+TPB,2009,OCTOBER,111,Fables Vol. 1 Legends In Exile,,9.99,DC,891
+TPB,2009,OCTOBER,112,Walking Dead Vol. 2 Miles Behind Us,,14.99,Image,882
+TPB,2009,OCTOBER,113,Act I Vate Primer HC,,24.99,IDW,878
+TPB,2009,OCTOBER,114,Gentlemens Alliance Vol. 10,,9.99,Viz,873
+TPB,2009,OCTOBER,115,Masterpiece Comics HC,,19.95,Drawn & Quarterly,862
+TPB,2009,OCTOBER,116,Rin-Ne Vol. 1,,9.99,Viz,855
+TPB,2009,OCTOBER,117,Pet Shop of Horrors Tokyo Vol. 6,,10.99,Tokyopop,831
+TPB,2009,OCTOBER,118,Tsubasa Vol. 3 Those With Wings,,14.99,Tokyopop,828
+TPB,2009,OCTOBER,119,"Tank Girl Remastered Ed Vol. 4Odyssey",,14.95,Titan,821
+TPB,2009,OCTOBER,120,Civil War,,24.99,Marvel,819
+TPB,2009,OCTOBER,121,Walking Dead Vol. 9 Here We Remain,,14.99,Image,817
+TPB,2009,OCTOBER,122,Fat Freddys Cat Omnibus,,29.99,Knockabout,812
+TPB,2009,OCTOBER,123,Mister X Condemned,,14.95,Dark Horse,805
+TPB,2009,OCTOBER,124,"Umbrella Academy Vol. 1 ApocalypseSuite",,17.95,Dark Horse,801
+TPB,2009,OCTOBER,125,Savage Tales of Red Sonja,,19.99,Dynamic Forces,788
+TPB,2009,OCTOBER,126,Shaman Warrior Vol. 8,,12.95,Dark Horse,769
+TPB,2009,OCTOBER,127,Arkham Asylum Anniversary Ed Sc,,17.99,DC,766
+TPB,2009,OCTOBER,128,Y The Last Man Vol. 1 Unmanned,,12.99,DC,748
+TPB,2009,OCTOBER,129,Arkham Asylum Living Hell,,14.99,DC,744
+TPB,2009,OCTOBER,130,Stormwatch Phd Worlds End,,17.99,DC,740
+TPB,2009,OCTOBER,131,"Batman The Killing Joke Special EdHC",,17.99,DC,735
+TPB,2009,OCTOBER,132,Top Cow Bible,,19.99,Image,731
+TPB,2009,OCTOBER,133,Boys Vol. 4 We Gotta Go Now,,19.99,Dynamic Forces,728
+TPB,2009,OCTOBER,134,Mikansei No 1 Vol. 1,,10.99,Tokyopop,722
+TPB,2009,OCTOBER,135,Strawberry 100 % Vol. 10,,9.99,Viz,721
+TPB,2009,OCTOBER,136,Batman Hush Complete,,24.99,DC,717
+TPB,2009,OCTOBER,137,"Knights of the Dinner Table Bundleof Trouble Vol. 27",,12.99,Kenzer,714
+TPB,2009,OCTOBER,138,Gen 13 Worlds End,,17.99,DC,710
+TPB,2009,OCTOBER,139,Pokemon Adventures Vol. 3 2Nd Ed,,7.99,Viz,703
+TPB,2009,OCTOBER,140,Barack Obama Comic Book Biography HC,,14.99,IDW,698
+TPB,2009,OCTOBER,141,Invincible Vol. 1 Family Matters,,12.99,Image,696
+TPB,2009,OCTOBER,142,Batman Dark Knight Returns,,14.99,DC,691
+TPB,2009,OCTOBER,143,Melancholy of Haruhi Suzumiya Vol. 4,,10.99,Hachette,689
+TPB,2009,OCTOBER,144,"Sandman Vol. 1 Preludes &Nocturnes",,19.99,DC,683
+TPB,2009,OCTOBER,145,Batman The Long Halloween,,19.99,DC,678
+TPB,2009,OCTOBER,146,Nexus Space Opera,,14.95,Rude,677
+TPB,2009,OCTOBER,147,Walking Dead Vol. 4 Hearts Desire,,12.99,Image,677
+TPB,2009,OCTOBER,148,"Immortal Iron Fist Vol. 2 Cities ofHeaven",,17.99,Marvel,671
+TPB,2009,OCTOBER,149,Planetary Vol. 2 The Fourth Man,,14.99,DC,671
+TPB,2009,OCTOBER,150,"Xena Army of Darkness Vol. 2 WhatAgain",,16.99,Dynamic Forces,668
+TPB,2009,OCTOBER,151,Skip Beat Vol. 19,,9.99,Viz,666
+TPB,2009,OCTOBER,152,Aria Vol. 5,,10.99,Tokyopop,653
+TPB,2009,OCTOBER,153,Looking For Group Vol. 2,,14.95,Blind Ferret,647
+TPB,2009,OCTOBER,154,Collected Voyages of Shebuccaneer,,19.99,Great Big,642
+TPB,2009,OCTOBER,155,Mome Vol. 16 Fall 09,,14.99,Fantagraphics,638
+TPB,2009,OCTOBER,156,"Preacher Vol. 1 Gone To Texas NewEdition",,14.99,DC,637
+TPB,2009,OCTOBER,157,Bloody Kiss Vol. 2,,10.99,Tokyopop,636
+TPB,2009,OCTOBER,158,Lockjaw And The Pet Avengers HC,,24.99,Marvel,625
+TPB,2009,OCTOBER,159,"Transmetropolitan Vol. 1 Back OnThe Street",,14.99,DC,622
+TPB,2009,OCTOBER,160,Exurbia,,9.95,Dark Horse,612
+TPB,2009,OCTOBER,161,Walking Dead Vol. 6 Sorrowful Life,,12.99,Image,608
+TPB,2009,OCTOBER,162,Walking Dead Vol. 5 Best Defense,,14.99,Image,599
+TPB,2009,OCTOBER,163,V For Vendetta New Edition,,19.99,DC,596
+TPB,2009,OCTOBER,164,Walking Dead Vol. 8 Made To Suffer,,14.99,Image,596
+TPB,2009,OCTOBER,165,Wild Ones Vol. 8,,9.99,Viz,594
+TPB,2009,OCTOBER,166,"Hellboy Library Ed HC Vol. 3Conqueror Worm &Strange Places",,49.95,Dark Horse,593
+TPB,2009,OCTOBER,167,Waiting Place,,29.99,IDW,592
+TPB,2009,OCTOBER,168,Mercy Sparx Vol. 1,,18.99,Devil's Due,592
+TPB,2009,OCTOBER,169,Fables Vol. 2 Animal Farm,,12.99,DC,586
+TPB,2009,OCTOBER,170,"Green Lantern Sinestro Corps WarVol. 1",,14.99,DC,583
+TPB,2009,OCTOBER,171,"Maneating Cow & ChainsawVigilante Complete Works",,29.95,New England,581
+TPB,2009,OCTOBER,172,"Farscape HC Vol. 2 StrangeDetractors",,24.99,Boom,580
+TPB,2009,OCTOBER,173,Amelia Rules Very Ninja Christmas,,7.99,Atheneum,575
+TPB,2009,OCTOBER,174,"Wizard Alex Ross Updated MillenniumHC Spider-Man Spiderwoman C",,39.99,Wizard,568
+TPB,2009,OCTOBER,175,Y The Last Man Vol. 2 Cycles,,12.99,DC,563
+TPB,2009,OCTOBER,176,Walking Dead Vol. 7 The Calm Before,,12.99,Image,557
+TPB,2009,OCTOBER,177,"100 Bullets Vol. 1 First Shot LastCall",,9.99,DC,552
+TPB,2009,OCTOBER,178,30 Days of Night Collectors Set,,39.99,IDW,551
+TPB,2009,OCTOBER,179,Red Sonja HC Vol. 7 Born Again,,24.99,Dynamic Forces,550
+TPB,2009,OCTOBER,180,Batman Rip Deluxe Edition HC,,24.99,DC,549
+TPB,2009,OCTOBER,181,Eyeshield 21 Vol. 28,,9.99,Viz,548
+TPB,2009,OCTOBER,182,Final Crisis HC,,29.99,DC,547
+TPB,2009,OCTOBER,183,Fairy Idol Kanon Vol. 2,,7.99,Udon,544
+TPB,2009,OCTOBER,184,Watchmen,,19.99,DC,542
+TPB,2009,OCTOBER,185,"Green Lantern Sinestro Corps WarVol. 2",,14.99,DC,541
+TPB,2009,OCTOBER,186,"Buffy the Vampire Slayer Season 8Vol. 5 Predator & Prey",,15.95,Dark Horse,539
+TPB,2009,OCTOBER,187,"Epic Chronicles of Hagar TheHorrible HC 1973-74",,19.95,Titan,536
+TPB,2009,OCTOBER,188,Female Force Vol. 1,,15.99,Bluewater,533
+TPB,2009,OCTOBER,189,Artemis Fowl Vol. 2 Arctic Incident,,9.99,Harris,533
+TPB,2009,OCTOBER,190,Red Snow HC,,24.95,Drawn & Quarterly,532
+TPB,2009,OCTOBER,191,You Are There HC,,26.99,Fantagraphics,529
+TPB,2009,OCTOBER,192,Vagabond Vizbig Ed Vol. 5,,19.99,Viz,527
+TPB,2009,OCTOBER,193,Y The Last Man Vol. 3 One Small Step,,12.99,DC,517
+TPB,2009,OCTOBER,194,Invu Vol. 5,,10.99,Tokyopop,511
+TPB,2009,OCTOBER,195,Yu Yu Hakusho Vol. 18,,9.99,Viz,509
+TPB,2009,OCTOBER,196,Planetary Crossing Worlds,,14.99,DC,508
+TPB,2009,OCTOBER,197,Dragonball Z Vizbig Ed Vol. 5 (Res),,17.99,Viz,507
+TPB,2009,OCTOBER,198,Boys Vol. 1 Name of The Game,,16.99,Dynamic Forces,507
+TPB,2009,OCTOBER,199,Wonderful Wizard Oz HC,,29.99,Marvel,506
+TPB,2009,OCTOBER,200,Dead At 17 Ultimate Ed,,24.99,Image,504
+TPB,2009,OCTOBER,201,How Obelix Fell Into Magic Potion HC,,12.95,Orion,504
+TPB,2009,OCTOBER,202,Sandman Vol. 2 The Dolls House,,19.99,DC,503
+TPB,2009,OCTOBER,203,Joker HC,,19.99,DC,503
+TPB,2009,OCTOBER,204,Serenity Those Left Behind,,9.95,Dark Horse,501
+TPB,2009,OCTOBER,205,"Runaways Vol. 2 Teenage WastelandDigest",,7.99,Marvel,500
+TPB,2009,OCTOBER,206,Superman Red Son,,17.99,DC,497
+TPB,2009,OCTOBER,207,"Fantastic Four Visionaries JohnByrne Vol. 1",,24.99,Marvel,495
+TPB,2009,OCTOBER,208,Boys Love,,12.95,Digital Manga,492
+TPB,2009,OCTOBER,209,Phantom Dream Vol. 4,,10.99,Tokyopop,492
+TPB,2009,OCTOBER,210,Diary of A Wimpy Kid HC Vol. 4,,13.95,Amulet Books,491
+TPB,2009,OCTOBER,211,Air Gear Vol. 14,,10.99,Random House,490
+TPB,2009,OCTOBER,212,Nemi HC Vol. 3,,14.95,Titan,488
+TPB,2009,OCTOBER,213,Deadpool Classic Vol. 1,,29.99,Marvel,485
+TPB,2009,OCTOBER,214,Supreme Power Prem HC Nighthawk,,24.99,Marvel,483
+TPB,2009,OCTOBER,215,Walking Dead HC Vol. 1,,29.99,Image,479
+TPB,2009,OCTOBER,216,Serpent Wars,,17.95,Markosia,478
+TPB,2009,OCTOBER,217,Batman Year One Deluxe SC,,14.99,DC,475
+TPB,2009,OCTOBER,218,Spider-Man Short Halloween Prem HC,,19.99,Marvel,473
+TPB,2009,OCTOBER,219,Y The Last Man Vol. 6 Girl On Girl,,12.99,DC,473
+TPB,2009,OCTOBER,220,Negima Neo Vol. 3,,10.99,Random House,471
+TPB,2009,OCTOBER,221,Weird Fishes,,9.95,Slave Labor,471
+TPB,2009,OCTOBER,222,Bob Dylan Revisited Illustrated,,24.95,W.W. Norton,468
+TPB,2009,OCTOBER,223,"Ctrl+Alt+Del Vol. 2 Darwin Would BeProud",,12.95,Blind Ferret,468
+TPB,2009,OCTOBER,224,Boys Vol. 2 Get Some,,19.99,Dynamic Forces,464
+TPB,2009,OCTOBER,225,Happy Boys Vol. 1,,12.95,Digital Manga,464
+TPB,2009,OCTOBER,226,Y The Last Man Vol. 5 Ring of Truth,,14.99,DC,464
+TPB,2009,OCTOBER,227,Garth Ennis 303,,19.99,Avatar,463
+TPB,2009,OCTOBER,228,Liberty Liberty,,12.99,Tokyopop,462
+TPB,2009,OCTOBER,229,"Preacher Vol. 2 Until The End ofThe World",,14.99,DC,461
+TPB,2009,OCTOBER,230,Ultimatum Prem HC,,24.99,Marvel,459
+TPB,2009,OCTOBER,231,"Buffy the Vampire Slayer Season 8Vol. 1 Long Way Home",,15.95,Dark Horse,458
+TPB,2009,OCTOBER,232,Togainu No Chi Vol. 4,,10.99,Tokyopop,458
+TPB,2009,OCTOBER,233,What A Wonderful World Vol. 1,,12.99,Viz,456
+TPB,2009,OCTOBER,234,"Preacher Vol. 3 Proud Americans NewEdition",,14.99,DC,451
+TPB,2009,OCTOBER,235,Y The Last Man Vol. 4 Safeword,,12.99,DC,451
+TPB,2009,OCTOBER,236,Harlequin Valentine HC,,12.95,Dark Horse,450
+TPB,2009,OCTOBER,237,Street Fighter Tribute,,39.99,Udon,448
+TPB,2009,OCTOBER,238,Zone 00 Vol. 2,,10.99,Tokyopop,447
+TPB,2009,OCTOBER,239,"Green Lantern Rage of The RedLanterns HC",,24.99,DC,443
+TPB,2009,OCTOBER,240,Reborn Vol. 13,,9.99,Viz,440
+TPB,2009,OCTOBER,241,Fairy Tail Vol. 8,,10.99,Random House,436
+TPB,2009,OCTOBER,242,Boys Vol. 3 Good For The Soul,,19.99,Dynamic Forces,435
+TPB,2009,OCTOBER,243,Red River Vol. 27,,9.99,Viz,435
+TPB,2009,OCTOBER,244,Boys Over Flowers Jewelry Box,,9.99,Viz,434
+TPB,2009,OCTOBER,245,100 Bullets Vol. 4 Foregone Tomorrow,,19.99,DC,432
+TPB,2009,OCTOBER,246,Fables 1001 Nights of Snowfall Sc,,14.99,DC,431
+TPB,2009,OCTOBER,247,"Buffy the Vampire Slayer Season 8Vol. 4 Time of Your Life",,15.95,Dark Horse,429
+TPB,2009,OCTOBER,248,"Batman Whatever Happened To TheCaped Crusader HC",,24.99,DC,428
+TPB,2009,OCTOBER,249,What A Wonderful World Vol. 2,,12.99,Viz,423
+TPB,2009,OCTOBER,250,Bone One Vol. Ed Sc,,39.95,Cartoon,422
+TPB,2009,OCTOBER,251,Fables Vol. 3 Storybook Love,,14.99,DC,421
+TPB,2009,OCTOBER,252,Y The Last Man Vol. 7 Paper Dolls,,14.99,DC,420
+TPB,2009,OCTOBER,253,"Hammer of the Gods Vol. 1 MortalEnemy",,19.99,IDW,419
+TPB,2009,OCTOBER,254,Kyo Kara Maoh Vol. 4,,10.99,Tokyopop,419
+TPB,2009,OCTOBER,255,Gestalt Vol. 3,,9.99,Viz,413
+TPB,2009,OCTOBER,256,Fullmetal Alchemist Vol. 20,,9.99,Viz,412
+TPB,2009,OCTOBER,257,Shinobi Life Vol. 3,,10.99,Tokyopop,408
+TPB,2009,OCTOBER,258,"Y The Last Man Vol. 10 Whys AndWherefores",,14.99,DC,407
+TPB,2009,OCTOBER,259,Invincible Vol. 11 Happy Days,,16.99,Image,404
+TPB,2009,OCTOBER,260,"Nora Last Chronicle of DevildomVol. 7",,9.99,Viz,403
+TPB,2009,OCTOBER,261,"Cartoon History Modern World Vol. 2Bastille To Baghdad",,18.99,Harris,402
+TPB,2009,OCTOBER,262,"Buffy the Vampire Slayer Season 8Vol. 3 Wolves At The Gate",,15.95,Dark Horse,401
+TPB,2009,OCTOBER,263,"Book About Moomin Mymble &Little My HC",,16.95,Drawn & Quarterly,400
+TPB,2009,OCTOBER,264,"Ultimates 2 Vol. 2 Grand TheftAmerica",,19.99,Marvel,400
+TPB,2009,OCTOBER,265,DMZ Vol. 1 On The Ground,,9.99,DC,399
+TPB,2009,OCTOBER,266,"Air Vol. 1 Letters From LostCountries",,9.99,DC,398
+TPB,2009,OCTOBER,267,Ballad of A Shinigami Vol. 2,,9.99,DC,397
+TPB,2009,OCTOBER,268,Sandman Vol. 3 Dream Country,,14.99,DC,396
+TPB,2009,OCTOBER,269,Hulk Planet Hulk,,34.99,Marvel,393
+TPB,2009,OCTOBER,270,Deadpool Classic Vol. 2,,29.99,Marvel,392
+TPB,2009,OCTOBER,271,Mouse Guard HC Vol. 2 Winter 1152,,24.95,Archie,390
+TPB,2009,OCTOBER,272,Freakangels HC Vol. 3,,27.99,Avatar,388
+TPB,2009,OCTOBER,273,"League of Extraordinary GentlemenIII Century #1 1910",,7.95,Top Shelf,388
+TPB,2009,OCTOBER,274,Deadpool Vs Marvel Universe,,24.99,Marvel,387
+TPB,2009,OCTOBER,275,"Discworld Vol. 1 Colour of Magic& Light Fantastic",,16.99,Harris,386
+TPB,2009,OCTOBER,276,Y The Last Man Vol. 8 Kimono Dragons,,14.99,DC,384
+TPB,2009,OCTOBER,277,Kimi Ni Todoke Vol. 2 From Me To You,,9.99,Viz,383
+TPB,2009,OCTOBER,278,Fell Vol. 1 Feral City,,14.99,Image,382
+TPB,2009,OCTOBER,279,"Preacher Vol. 4 Ancient History NewEdition",,14.99,DC,378
+TPB,2009,OCTOBER,280,"Planetary Vol. 1 All Over The WorldAnd Other Stories",,14.99,DC,378
+TPB,2009,OCTOBER,281,Loeg Vol. One,,14.99,DC,376
+TPB,2009,OCTOBER,282,"Buffy the Vampire Slayer Season 8Vol. 2 No Future For You",,15.95,Dark Horse,374
+TPB,2009,OCTOBER,283,Y The Last Man Vol. 9 Motherland,,14.99,DC,374
+TPB,2009,OCTOBER,284,"Fables Vol. 4 March of The WoodenSoldiers",,17.99,DC,373
+TPB,2009,OCTOBER,285,"Superman Batman Vol. 1 PublicEnemies",,12.99,DC,373
+TPB,2009,OCTOBER,286,"PS238 Vol. 7 Daughters Sons& Shrink-Ray Guns",,15.99,Do Gooder,369
+TPB,2009,OCTOBER,287,Kingdom Come New Edition,,17.99,DC,369
+TPB,2009,OCTOBER,288,Sumomomo Momomo Vol. 2,,10.99,Hachette,369
+TPB,2009,OCTOBER,289,Detectives Inc HC,,24.99,IDW,368
+TPB,2009,OCTOBER,290,100 Bullets Vol. 13 Wilt,,19.99,DC,366
+TPB,2009,OCTOBER,291,Dilbert 14 Years Loyal Service,,12.99,Andrews McMeel,364
+TPB,2009,OCTOBER,292,"100 Bullets Vol. 2 Split SecondChance",,14.99,DC,363
+TPB,2009,OCTOBER,293,"Northlanders Vol. 1 Sven TheReturned",,9.99,DC,363
+TPB,2009,OCTOBER,294,Applegeeks Vol. 2 Weird Science,,14.95,Dark Horse,361
+TPB,2009,OCTOBER,295,La Corda Doro Vol. 11,,9.99,Viz,361
+TPB,2009,OCTOBER,296,Warren Ellis Frankensteins Womb,,6.99,Avatar,361
+TPB,2009,OCTOBER,297,Fables Vol. 11 War And Pieces,,17.99,DC,359
+TPB,2009,OCTOBER,298,Walking Dead HC Vol. 2,,29.99,Image,356
+TPB,2009,OCTOBER,299,Lobo Portrait of A Bastich,,19.99,DC,355
+TPB,2009,OCTOBER,300,"Pop Wonderland HC Vol. 2 Little RedRiding Hood",,16.95,Dark Horse,355
